@@ -1,0 +1,497 @@
+[
+  {
+    "k": "20g46pp17x7",
+    "en": "{0}, living with you, looked after {1}.",
+    "fa": "{0} که با شما زندگی می‌کند از {1} مراقبت کرد."
+  },
+  {
+    "k": "14yyx6cbaw3",
+    "en": "{0}, living with you, looked after {1}.",
+    "fa": "{0} که با شما زندگی می‌کند از {1} مراقبت کرد."
+  },
+  {
+    "k": "t0l6uu7nnr",
+    "en": "Your spouse's parents looked after {0}.",
+    "fa": "والدین همسرتان از {0} مراقبت کردند."
+  },
+  {
+    "k": "4ok49xmwic",
+    "en": "{0} looked after {1}. You picked your child up on your way home from work every day.",
+    "fa": "{0} از {1} مراقبت کرد. هر روز در راه برگشت از کار فرزند را می‌بردید."
+  },
+  {
+    "k": "1ttxrdqulrh",
+    "en": "{0} looked after {1}. You picked your child up on your way home from work every day.",
+    "fa": "{0} از {1} مراقبت کرد. هر روز در راه برگشت از کار فرزند را می‌بردید."
+  },
+  {
+    "k": "vntltal9z1",
+    "en": "{0} looked after {1}. Every evening after work you went to pick the baby up.",
+    "fa": "{0} از {1} مراقبت کرد. هر شب بعد از کار می‌رفتید نوزاد را ببرید."
+  },
+  {
+    "k": "9jvm05qd9r",
+    "en": "You left {0} at daycare and went back to work.",
+    "fa": "{0} را در مهدکودک گذاشتید و به کار برگشتید."
+  },
+  {
+    "k": "10lz3up9u28",
+    "en": "You went to work with {0} tied to your back.",
+    "fa": "با {0} بسته به پشت به کار رفتید."
+  },
+  {
+    "k": "cyz9pvcbsp",
+    "en": "Keep working after the birth?",
+    "fa": "پس از تولد به کار ادامه دهید؟"
+  },
+  {
+    "k": "gibgz5d9va",
+    "en": "The baby is still very young. To keep working as a {0}, you need childcare and help from your family.",
+    "fa": "نوزاد هنوز خیلی کوچک است. برای ادامهٔ کار به‌عنوان {0} به مراقبت کودک و کمک خانواده نیاز دارید."
+  },
+  {
+    "k": "27ql7mwxoyd",
+    "en": "Keep working",
+    "fa": "به کار ادامه دهید"
+  },
+  {
+    "k": "24oeiga6qv1",
+    "en": "Keep income and career · Hard on body and mind",
+    "fa": "درآمد و مسیر شغلی · سخت بر بدن و ذهن"
+  },
+  {
+    "k": "17lbm2qdu59",
+    "en": "Quit and care for the baby",
+    "fa": "رها کنید و از نوزاد مراقبت کنید"
+  },
+  {
+    "k": "19a6tap3hr4",
+    "en": "No income · Time with your child",
+    "fa": "بدون درآمد · وقت با فرزند"
+  },
+  {
+    "k": "1k133rjlm4q",
+    "en": "You put the baby in daycare and went back to work.",
+    "fa": "نوزاد را در مهدکودک گذاشتید و به کار برگشتید."
+  },
+  {
+    "k": "27klnkvddce",
+    "en": "Grandma looked after the baby, so you kept working.",
+    "fa": "مادربزرگ از نوزاد مراقبت کرد و شما کار را ادامه دادید."
+  },
+  {
+    "k": "1uq8qrwttgf",
+    "en": "You decided to quit your job and care for your child.",
+    "fa": "تصمیم گرفتید شغل را رها کنید و از فرزند مراقبت کنید."
+  },
+  {
+    "k": "172y90ov7by",
+    "en": "Your scores cleared the line for medical school.",
+    "fa": "نمره‌هایتان خط پزشکی را رد کرد."
+  },
+  {
+    "k": "1qq7v3w173c",
+    "en": "Your scores fell just short of the line for medical school.",
+    "fa": "نمره‌هایتان کمی پایین‌تر از خط پزشکی بود."
+  },
+  {
+    "k": "8i4q4mdb64",
+    "en": "There is also a field that follows the hobby you have kept for years ({0}).",
+    "fa": "رشته‌ای هم هست که سرگرمی سال‌ها ({0}) را دنبال می‌کند."
+  },
+  {
+    "k": "1tih8n5fy8h",
+    "en": "There is also a field that builds on the gift for {0} you showed as a child.",
+    "fa": "رشته‌ای هم هست که بر استعداد {0} دوران کودکی بنا شده."
+  },
+  {
+    "k": "bhsz8tdme9",
+    "en": "Music and dance admit by audition.",
+    "fa": "موسیقی و رقص با آزمون عملی پذیرش می‌کنند."
+  },
+  {
+    "k": "18qrzp50fts",
+    "en": "Music admits by audition.",
+    "fa": "موسیقی با آزمون عملی پذیرش می‌کند."
+  },
+  {
+    "k": "1y96sxyxb6k",
+    "en": "Dance admits by audition.",
+    "fa": "رقص با آزمون عملی پذیرش می‌کند."
+  },
+  {
+    "k": "1uyl0e4rh6c",
+    "en": "What will you study?",
+    "fa": "چه می‌خوانید؟"
+  },
+  {
+    "k": "7kau3ej5",
+    "en": "You are entering university, and it's time to choose the department you'll study in. It will largely shape your first job.",
+    "fa": "وارد دانشگاه می‌شوید و وقت انتخاب رشته است. تا حد زیادی اولین شغل را شکل می‌دهد."
+  },
+  {
+    "k": "107iwz4c3j9",
+    "en": "It's time to choose your field of study at {0}. What you study will largely shape your first job.",
+    "fa": "وقت انتخاب رشته در {0} است. آنچه می‌خوانید تا حد زیادی اولین شغل را شکل می‌دهد."
+  },
+  {
+    "k": "1uik186nxcb",
+    "en": "university",
+    "fa": "دانشگاه"
+  },
+  {
+    "k": "1h3wz3r1he6",
+    "en": "Music schools and dance departments mostly admit by audition, from students who have had lessons since childhood. Of about two million US bachelor's degrees in 2021-22, 14,420 were in music and fewer than 3,000 in dance (NEA 2024)",
+    "fa": "مدارس موسیقی و رشتهٔ رقص بیشتر با آزمون عملی از کسانی که از کودکی درس گرفته‌اند می‌پذیرند. از حدود دو میلیون مدرک لیسانس آمریکا در ۲۰۲۱–۲۲، ۱۴٬۴۲۰ موسیقی و کمتر از ۳٬۰۰۰ رقص بود (NEA 2024)"
+  },
+  {
+    "k": "1wug3rx6ans",
+    "en": "Medicine is the hardest course to get into in every country. In the US, of about 2 million new bachelor's graduates each year, a little over 22,000 start medical school (AAMC 2024)",
+    "fa": "پزشکی سخت‌ترین رشته برای پذیرش در هر کشور است. در آمریکا از حدود ۲ میلیون فارغ‌التحصیل لیسانس سالانه، کمی بیش از ۲۲٬۰۰۰ وارد پزشکی می‌شوند (AAMC 2024)"
+  },
+  {
+    "k": "wchnhw1bsy",
+    "en": "Gross higher-education enrollment in {0}: {1}% (UNESCO)",
+    "fa": "نرخ ناخالص ثبت‌نام آموزش عالی در {0}: {1}٪ (UNESCO)"
+  },
+  {
+    "k": "1wb8mpiqf2q",
+    "en": "{0} · audition, chance of passing: {1}",
+    "fa": "{0} · آزمون عملی، احتمال قبولی: {1}"
+  },
+  {
+    "k": "1y730d4mryu",
+    "en": "{0} · competitive, chance of a place: {1}",
+    "fa": "{0} · رقابتی، احتمال جا: {1}"
+  },
+  {
+    "k": "12hefla0lyr",
+    "en": "You did not pass the audition for {0}. You ended up majoring in {1}.",
+    "fa": "در آزمون عملی {0} قبول نشدید. در نهایت در {1} تحصیل کردید."
+  },
+  {
+    "k": "pc0f2y8wce",
+    "en": "You passed the audition and will major in {0}.",
+    "fa": "در آزمون عملی قبول شدید و در {0} تحصیل خواهید کرد."
+  },
+  {
+    "k": "14s6edcva5k",
+    "en": "Too many applied for {0}, and you did not get a place. You ended up majoring in {1}.",
+    "fa": "برای {0} متقاضی زیاد بود و جا نگرفتید. در نهایت در {1} تحصیل کردید."
+  },
+  {
+    "k": "18nh7cbnkl1",
+    "en": "You decided to major in {0}.",
+    "fa": "تصمیم گرفتید در {0} تحصیل کنید."
+  },
+  {
+    "k": "10zaleg2ige",
+    "en": "Move closer to work?",
+    "fa": "نزدیک‌تر به محل کار بروید؟"
+  },
+  {
+    "k": "1mp65mgat5m",
+    "en": "Your commute in {0} takes {1} a day. To move near work you would sell your home and buy one there. Homes there cost a little more and selling and buying has its costs, but you would get that much time back every day.",
+    "fa": "رفت‌وآمد شما در {0} روزی {1} طول می‌کشد. برای نزدیک کار رفتن باید خانه را بفروشید و آنجا بخرید. خانه‌ها کمی گران‌تر و فروش و خرید هزینه دارد، اما هر روز آن وقت را پس می‌گیرید."
+  },
+  {
+    "k": "le8dxfl27u",
+    "en": "Your commute in {0} takes {1} a day. Moving near work means higher rent, but you would get that much time back every day.",
+    "fa": "رفت‌وآمد شما در {0} روزی {1} طول می‌کشد. نزدیک کار یعنی اجارهٔ بیشتر، اما هر روز آن وقت را پس می‌گیرید."
+  },
+  {
+    "k": "2efks4vd0i5",
+    "en": "Over a year, that's about {0} hours of commuting alone, or {1} eight-hour workdays",
+    "fa": "در یک سال، حدود {0} ساعت فقط رفت‌وآمد، یا {1} روز کاری هشت‌ساعته"
+  },
+  {
+    "k": "1syegh6xlek",
+    "en": "Sell your home and buy one near work",
+    "fa": "خانه را بفروشید و نزد کار بخرید"
+  },
+  {
+    "k": "1v3fm2xzhlx",
+    "en": "About {0} in selling and buying costs and the price difference",
+    "fa": "حدود {0} هزینهٔ فروش و خرید و اختلاف قیمت"
+  },
+  {
+    "k": "dctnjn670y",
+    "en": "Move near work",
+    "fa": "نزد کار بروید"
+  },
+  {
+    "k": "1o5qsxzy0sx",
+    "en": "Moving costs about {0} · Housing costs ↑ every year",
+    "fa": "هزینهٔ جابه‌جایی حدود {0} · هزینهٔ مسکن ↑ هر سال"
+  },
+  {
+    "k": "1vrucjljle1",
+    "en": "Keep commuting from where you live",
+    "fa": "از همان جا که هستید رفت‌وآمد کنید"
+  },
+  {
+    "k": "1yz5zzft9t7",
+    "en": "You sold your home and moved into one near work. Your evenings are your own again.",
+    "fa": "خانه را فروختید و نزد کار اسکان گرفتید. عصرها دوباره مال خودتان شد."
+  },
+  {
+    "k": "vgykp6262t",
+    "en": "You moved to a neighborhood near work. Now you have your evenings.",
+    "fa": "به محله‌ای نزد کار رفتید. اکنون عصرها دارید."
+  },
+  {
+    "k": "ev6sc3es7o",
+    "en": "severe diarrhea",
+    "fa": "اسهال شدید"
+  },
+  {
+    "k": "155r28sr914",
+    "en": "a persistent high fever",
+    "fa": "تب مداوم بالا"
+  },
+  {
+    "k": "1dr8j9uf8o8",
+    "en": "{1}, {0} years old, is doubled up with a stomach ache and can hardly move.",
+    "fa": "{1}، {0} ساله، از درد شکم دولا شده و به سختی حرکت می‌کند."
+  },
+  {
+    "k": "69ov8cjnod",
+    "en": "{1}, {0} years old, has a bad cough and is struggling to breathe.",
+    "fa": "{1}، {0} ساله، سرفهٔ شدید دارد و نفس کشیدن برایش سخت است."
+  },
+  {
+    "k": "23p80lfvgxe",
+    "en": "{1}, {0} years old, has a fever that comes and goes and is shaking with chills.",
+    "fa": "{1}، {0} ساله، تب نوسانی دارد و از لرز می‌لرزد."
+  },
+  {
+    "k": "kg4cejoe5q",
+    "en": "{1}, {0} years old, has had diarrhea for days and has no strength left.",
+    "fa": "{1}، {0} ساله، چند روز است اسهال دارد و نیرویش تمام شده."
+  },
+  {
+    "k": "c5tqc8xozw",
+    "en": "{1}, {0} years old, has a high fever and says everything aches.",
+    "fa": "{1}، {0} ساله، تب بالا دارد و می‌گوید همه‌جا درد می‌کند."
+  },
+  {
+    "k": "xuoh9ceyi2",
+    "en": "{1}, {0} years old, has had a fever for days and a stomach ache.",
+    "fa": "{1}، {0} ساله، چند روز است تب و درد شکم دارد."
+  },
+  {
+    "k": "1kwjprb4kb1",
+    "en": "{1}, {0} years old, has had a fever for days that won't come down.",
+    "fa": "{1}، {0} ساله، چند روز است تبش پایین نمی‌آید."
+  },
+  {
+    "k": "scqmp7xqlk",
+    "en": "{0} is seriously ill",
+    "fa": "{0} به‌شدت بیمار است"
+  },
+  {
+    "k": "j2eyl4e50d",
+    "en": "Your spouse called from back home.",
+    "fa": "همسرتان از وطن تماس گرفت."
+  },
+  {
+    "k": "1bi2nhp1859",
+    "en": "A call came from {0} back home.",
+    "fa": "تماسی از {0} در وطن آمد."
+  },
+  {
+    "k": "iysjdjjj5i",
+    "en": "Care at a big hospital costs almost nothing; your own share, for medicines and the like, is about {0} (in US terms).",
+    "fa": "مراقبت در بیمارستان بزرگ تقریباً رایگان است؛ سهم شما برای دارو و مانند آن حدود {0} (به US)."
+  },
+  {
+    "k": "ltvvtjlkk1",
+    "en": "A big hospital would cost about {0} out of pocket (in US terms).",
+    "fa": "بیمارستان بزرگ حدود {0} از جیب هزینه دارد (به US)."
+  },
+  {
+    "k": "kmyawnrtxk",
+    "en": "Many deaths of children under 5 come from treatable diseases such as pneumonia, diarrhea and malaria (WHO)",
+    "fa": "بسیاری از مرگ کودکان زیر ۵ سال از بیماری‌های قابل درمان مانند ذات‌الریه، اسهال و مالاریا است (WHO)"
+  },
+  {
+    "k": "u4r0yjvjxq",
+    "en": "Send money for a big hospital",
+    "fa": "پول برای بیمارستان بزرگ بفرستید"
+  },
+  {
+    "k": "20nwa8uh51",
+    "en": "Send money for a big hospital, even if it means borrowing",
+    "fa": "پول برای بیمارستان بزرگ بفرستید، حتی اگر قرض لازم باشد"
+  },
+  {
+    "k": "26wtr6irh3b",
+    "en": "Ask your spouse to nurse the child at home",
+    "fa": "از همسرتان بخواهید در خانه از کودک مراقبت کند"
+  },
+  {
+    "k": "1svoxc8a8br",
+    "en": "Ask {0} to nurse the child at home",
+    "fa": "از {0} بخواهید در خانه از کودک مراقبت کند"
+  },
+  {
+    "k": "tsq8n3o8ta",
+    "en": "Go to a big hospital",
+    "fa": "به بیمارستان بزرگ بروید"
+  },
+  {
+    "k": "1y2cahmroqs",
+    "en": "Go to a big hospital, even if it means borrowing",
+    "fa": "به بیمارستان بزرگ بروید، حتی اگر قرض لازم باشد"
+  },
+  {
+    "k": "kpmjzmzr2p",
+    "en": "Care for the child at home and wait and see",
+    "fa": "در خانه مراقبت کنید و ببینید چه می‌شود"
+  },
+  {
+    "k": "297qyphwk3e",
+    "en": "At the hospital, the diagnosis was {0}.",
+    "fa": "در بیمارستان تشخیص {0} داده شد."
+  },
+  {
+    "k": "f1bem2qxy7",
+    "en": "With the money you sent, {0} was treated at a big hospital and got better. You could not sleep all night, waiting for news.",
+    "fa": "با پولی که فرستادید، {0} در بیمارستان بزرگ درمان شد و بهبود یافت. تمام شب منتظر خبر نخوابیدید."
+  },
+  {
+    "k": "1f7m6nh6skz",
+    "en": "{0} was treated and got better. You stayed by the bedside all night.",
+    "fa": "{0} درمان شد و بهبود یافت. تمام شب کنار تخت ماندید."
+  },
+  {
+    "k": "26g5vs7e5mn",
+    "en": "Your child {0} died of {1}. You can't stop thinking: if only you had sent the money for the hospital.",
+    "fa": "فرزندتان {0} بر اثر {1} مرد. مدام فکر می‌کنید: ای کاش پول بیمارستان را فرستاده بودید."
+  },
+  {
+    "k": "27i317qbc41",
+    "en": "Your child {0} died of {1}. You can't stop thinking: if only you had taken {0} to the hospital.",
+    "fa": "فرزندتان {0} بر اثر {1} مرد. مدام فکر می‌کنید: ای کاش {0} را به بیمارستان برده بودید."
+  },
+  {
+    "k": "23wga4yoixh",
+    "en": "After several days of illness, {0} thankfully pulled through.",
+    "fa": "پس از چند روز بیماری، {0} خوشبختانه بهبود یافت."
+  },
+  {
+    "k": "s3ii017m0o",
+    "en": "{0} got into university",
+    "fa": "{0} وارد دانشگاه شد"
+  },
+  {
+    "k": "mw72p4tn18",
+    "en": "With the support for children of North Korean defectors, tuition costs almost nothing, but four years of living costs come to about {0}. Your savings: {1}.",
+    "fa": "با حمایت فرزندان پناهندگان شمال کره، شهریه تقریباً رایگان است، اما چهار سال هزینهٔ زندگی حدود {0}. پس‌انداز شما: {1}."
+  },
+  {
+    "k": "9ezkz2zg1b",
+    "en": "There is no tuition, but four years of living costs come to about {0}. Your savings: {1}.",
+    "fa": "شهریه نیست، اما چهار سال هزینهٔ زندگی حدود {0}. پس‌انداز شما: {1}."
+  },
+  {
+    "k": "10pms6usmir",
+    "en": "Tuition and living costs for the degree will come to about {0} (in US terms). You have {1} saved.",
+    "fa": "شهریه و هزینهٔ زندگی تا مدرک حدود {0} (به US). {1} پس‌انداز دارید."
+  },
+  {
+    "k": "n9eq93eofv",
+    "en": "North Korean defectors pay no tuition at national universities; at private ones the Korea Hana Foundation pays half and the university often waives the rest. Since 2025 children born in China or elsewhere on the way who came with them are covered too (South Korea's Ministry of Unification)",
+    "fa": "پناهندگان شمال کره در دانشگاه‌های ملی شهریه نمی‌پردازند؛ در خصوصی Korea Hana Foundation نصف و دانشگاه اغلب بقیه را بخشید. از ۲۰۲۵ فرزندان متولد چین یا در راه که با آنان آمده‌اند هم مشمول‌اند (South Korea's Ministry of Unification)"
+  },
+  {
+    "k": "1mlwduginqi",
+    "en": "Public universities in {0} charge their own students no tuition or very little (OECD Education at a Glance 2024)",
+    "fa": "دانشگاه‌های دولتی {0} به دانشجویان خود شهریه نمی‌گیرند یا بسیار کم (OECD Education at a Glance 2024)"
+  },
+  {
+    "k": "1viifjkyxj3",
+    "en": "University enrollment in {0} (gross enrollment ratio): {1}% (UNESCO)",
+    "fa": "ثبت‌نام دانشگاه در {0} (نرخ ناخالص): {1}٪ (UNESCO)"
+  },
+  {
+    "k": "exmsnjdi4u",
+    "en": "Pay for all of it",
+    "fa": "همه را بپردازید"
+  },
+  {
+    "k": "ca03ljhenv",
+    "en": "Pay half; a student loan covers the rest",
+    "fa": "نیمی بپردازید؛ بقیه وام دانشجویی"
+  },
+  {
+    "k": "13pxunxi8bv",
+    "en": "Let them get by on scholarships and part-time work",
+    "fa": "بگذارید با بورسیه و کار پاره‌وقت بگذراند"
+  },
+  {
+    "k": "wf0s5ihj15",
+    "en": "Costs you nothing, but hard on your child",
+    "fa": "برای شما هزینه ندارد، اما سخت بر فرزند"
+  },
+  {
+    "k": "k2yg1fgvs5",
+    "en": "You paid {0}'s tuition. On the first day of university, you waved goodbye for a long time.",
+    "fa": "شهریهٔ {0} را پرداخت کردید. روز اول دانشگاه، مدتی دست تکان دادید."
+  },
+  {
+    "k": "28lj1wyi2gv",
+    "en": "You and {0} agreed to split the tuition.",
+    "fa": "شما و {0} توافق کردید شهریه را نصف کنید."
+  },
+  {
+    "k": "27wvhoxiw43",
+    "en": "{0} ran short of the fees and asked for help, so you paid the rest.",
+    "fa": "{0} برای شهریه کم آورد و کمک خواست، پس بقیه را پرداخت کردید."
+  },
+  {
+    "k": "1db9ilm3oh2",
+    "en": "{0} couldn't afford the fees and dropped out after one semester.",
+    "fa": "{0} شهریه را نتوانست بپردازد و پس از یک ترم انصراف داد."
+  },
+  {
+    "k": "2cpm86kgh1y",
+    "en": "{0} worked part-time to pay for school.",
+    "fa": "{0} برای مدرسه پاره‌وقت کار کرد."
+  },
+  {
+    "k": "1x7ucgp7ukb",
+    "en": "Your spouse wants to open a shop",
+    "fa": "همسرتان می‌خواهد مغازه باز کند"
+  },
+  {
+    "k": "20k64anvcpf",
+    "en": "Your spouse {0} wants to open the shop they have long dreamed of. It would take about {1} of your savings.",
+    "fa": "همسرتان {0} می‌خواهد مغازهٔ رؤیایی‌اش را باز کند. حدود {1} از پس‌انداز شما می‌خواهد."
+  },
+  {
+    "k": "1f7mqk1250v",
+    "en": "About half of new small businesses close within five years (US Bureau of Labor Statistics)",
+    "fa": "حدود نیمی از کسب‌وکارهای کوچک تازه در پنج سال می‌بندند (US Bureau of Labor Statistics)"
+  },
+  {
+    "k": "18hrg47k8rr",
+    "en": "Say let's do it together",
+    "fa": "بگویید با هم انجام دهیم"
+  },
+  {
+    "k": "be7lp9cylh",
+    "en": "Income↑ if it works · debt if not",
+    "fa": "درآمد↑ اگر جواب دهد · بدهی اگر نه"
+  },
+  {
+    "k": "322ylpbh9s",
+    "en": "Say now is not the time",
+    "fa": "بگویید الان وقتش نیست"
+  },
+  {
+    "k": "10c0a9txauz",
+    "en": "Relationships↓",
+    "fa": "روابط↓"
+  }
+]

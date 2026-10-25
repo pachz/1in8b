@@ -1,0 +1,502 @@
+[
+  {
+    "k": "28fv8ws57fp",
+    "en": "Clinic treatment about {0} · one of you gives birth",
+    "fa": "درمان کلینیک حدود {0} · یکی از شما زایمان می‌کند"
+  },
+  {
+    "k": "10xeouwt99g",
+    "en": "Have a child through a surrogate",
+    "fa": "از طریق رحم اجاره‌ای فرزند داشته باشید"
+  },
+  {
+    "k": "27oojq2u7rq",
+    "en": "The procedure this country's law sets out · about {0}",
+    "fa": "روشی که قانون این کشور تعیین کرده · حدود {0}"
+  },
+  {
+    "k": "wsei380suc",
+    "en": "Contact an adoption agency",
+    "fa": "با آژانس فرزندخواندگی تماس بگیرید"
+  },
+  {
+    "k": "59lblyieaf",
+    "en": "Home study and training · about a year",
+    "fa": "ارزیابی منزل و آموزش · حدود یک سال"
+  },
+  {
+    "k": "xhapkog71l",
+    "en": "Your children are enough",
+    "fa": "فرزندانتان کافی‌اند"
+  },
+  {
+    "k": "uqpw1igzed",
+    "en": "Stay just the two of you for now",
+    "fa": "فعلاً همان دو نفر بمانید"
+  },
+  {
+    "k": "1xhn1gk1uji",
+    "en": "Welcome another child?",
+    "fa": "فرزند دیگری بپذیرید؟"
+  },
+  {
+    "k": "w9j3odqhba",
+    "en": "Welcome a child into the family?",
+    "fa": "فرزندی به خانواده بپذیرید؟"
+  },
+  {
+    "k": "271a0s2v9uk",
+    "en": "You and {0} talked about having a child.",
+    "fa": "شما و {0} دربارهٔ داشتن فرزند گفت‌وگو کردید."
+  },
+  {
+    "k": "1b2fpr81c0i",
+    "en": "In the US about 15% of same-sex married couples raise children under 18, against about 38% of other married couples (US Census Bureau 2019)",
+    "fa": "در آمریکا حدود ۱۵٪ زوج‌های هم‌جنس متأهل فرزند زیر ۱۸ سال دارند، در برابر حدود ۳۸٪ سایر زوج‌های متأهل (US Census Bureau 2019)"
+  },
+  {
+    "k": "1u6vdtmj0fx",
+    "en": "You went through surrogacy treatment, but no child came this time. (−{0})",
+    "fa": "درمان رحم اجاره‌ای را طی کردید، اما این بار فرزندی نیامد. (−{0})"
+  },
+  {
+    "k": "hd6s52relz",
+    "en": "The surrogate gave birth to your child. (−{0})",
+    "fa": "رحم اجاره‌ای فرزند شما را به دنیا آورد. (−{0})"
+  },
+  {
+    "k": "gixverlede",
+    "en": "Even after several rounds of treatment, no pregnancy came this time. (−{0})",
+    "fa": "حتی پس از چند دور درمان، این بار بارداری نیامد. (−{0})"
+  },
+  {
+    "k": "23bhq5frvqj",
+    "en": "After the treatment you became pregnant.",
+    "fa": "پس از درمان باردار شدید."
+  },
+  {
+    "k": "1l450mvy4s5",
+    "en": "After the treatment {0} became pregnant.",
+    "fa": "پس از درمان {0} باردار شد."
+  },
+  {
+    "k": "po1z47r7bs",
+    "en": "Take in a child to raise?",
+    "fa": "فرزندی برای پرورش بپذیرید؟"
+  },
+  {
+    "k": "27226ldp5gv",
+    "en": "Look into adoption?",
+    "fa": "فرزندخواندگی را بررسی کنید؟"
+  },
+  {
+    "k": "2mp1rc3ui7",
+    "en": "You have gone {0} years without children. {1}",
+    "fa": "{0} سال است فرزندی ندارید. {1}"
+  },
+  {
+    "k": "1xm93w9v94e",
+    "en": "You heard that a couple nearby took in a child under kafala (guardianship).",
+    "fa": "شنیدید زوجی نزدیک شما تحت کفالت (kafala) فرزندی پذیرفت."
+  },
+  {
+    "k": "xz96oj1rc",
+    "en": "You heard about a family that grew through adoption.",
+    "fa": "از خانواده‌ای شنیدید که با فرزندخواندگی بزرگ شده است."
+  },
+  {
+    "k": "21ndios1xjj",
+    "en": "About 260,000 children are adopted around the world each year (UN DESA 2009)",
+    "fa": "حدود ۲۶۰٬۰۰۰ کودک در سال در جهان فرزندخوانده می‌شوند (UN DESA 2009)"
+  },
+  {
+    "k": "1sh7w5k8eyw",
+    "en": "Look into it",
+    "fa": "بررسی کنید"
+  },
+  {
+    "k": "1oupoaggukd",
+    "en": "{0}, a baby of a few months,",
+    "fa": "{0}، نوزادی چند ماهه،"
+  },
+  {
+    "k": "6tdi3wivmz",
+    "en": "{1}, age {0},",
+    "fa": "{1}، سن {0}،"
+  },
+  {
+    "k": "24sjojtwicf",
+    "en": "A child to meet",
+    "fa": "کودکی برای دیدار"
+  },
+  {
+    "k": "1it60uf0ovy",
+    "en": "The agency called. {0} is waiting for a new family and will keep the name they were born with. Under Islamic law, children are raised through kafala (guardianship) rather than adoption.",
+    "fa": "آژانس تماس گرفت. {0} منتظر خانوادهٔ جدید است و نام زادگی‌اش را نگه می‌دارد. در حقوق اسلامی، کودکان با کفالت پرورش می‌یابند نه فرزندخواندگی."
+  },
+  {
+    "k": "d0qypnizod",
+    "en": "The agency called. {0} is waiting for a new family.",
+    "fa": "آژانس تماس گرفت. {0} منتظر خانوادهٔ جدید است."
+  },
+  {
+    "k": "1ofy625gs8s",
+    "en": "Welcome them into the family",
+    "fa": "به خانواده بپذیریدشان"
+  },
+  {
+    "k": "sr81me2ihz",
+    "en": "Happiness↑ Childcare costs↑",
+    "fa": "شادی↑ هزینهٔ نگهداری↑"
+  },
+  {
+    "k": "28iqjb3hm7v",
+    "en": "{0} became part of the family.",
+    "fa": "{0} بخشی از خانواده شد."
+  },
+  {
+    "k": "17pw2a9itvr",
+    "en": "The baby wasn't planned. Here, it is hard to get contraception or advice.",
+    "fa": "نوزاد برنامه‌ریزی نشده بود. اینجا گرفتن وسایل پیشگیری یا مشاوره سخت است."
+  },
+  {
+    "k": "26y909dm5rc",
+    "en": "About half of all pregnancies worldwide are unintended (UNFPA State of World Population 2022)",
+    "fa": "حدود نیمی از بارداری‌های جهان ناخواسته‌اند (UNFPA State of World Population 2022)"
+  },
+  {
+    "k": "1eoc81zcbu",
+    "en": "Have a child together?",
+    "fa": "با هم فرزند داشته باشید؟"
+  },
+  {
+    "k": "cq19jvrx6u",
+    "en": "Have child number {0}?",
+    "fa": "فرزند شمارهٔ {0}؟"
+  },
+  {
+    "k": "1g5kg34jtbd",
+    "en": "Have a child?",
+    "fa": "فرزند داشته باشید؟"
+  },
+  {
+    "k": "2b72taj91e1",
+    "en": "You have {0} children now.",
+    "fa": "اکنون {0} فرزند دارید."
+  },
+  {
+    "k": "whu5fncr16",
+    "en": "On leave back in {0}, you and your spouse talked about having a child.",
+    "fa": "در مرخصی در {0}، شما و همسرتان دربارهٔ داشتن فرزند گفت‌وگو کردید."
+  },
+  {
+    "k": "mqy88uq09p",
+    "en": "You and your spouse are talking about having a child together.",
+    "fa": "شما و همسرتان دربارهٔ داشتن فرزند با هم گفت‌وگو می‌کنید."
+  },
+  {
+    "k": "1zo6z0qt0rp",
+    "en": "You and your spouse are talking about having children.",
+    "fa": "شما و همسرتان دربارهٔ داشتن فرزندان گفت‌وگو می‌کنید."
+  },
+  {
+    "k": "10via61oqdu",
+    "en": "Fertility rate in {0}: {1} children per woman (UN WPP 2024){2}",
+    "fa": "نرخ باروری در {0}: {1} فرزند به ازای هر زن (UN WPP 2024){2}"
+  },
+  {
+    "k": "m5kp9n6wt9",
+    "en": " · Maternal mortality ratio: {0} per 100,000 live births (WHO 2020)",
+    "fa": " · نسبت مرگ مادران: {0} به ازای هر ۱۰۰٬۰۰۰ زایمان زنده (WHO 2020)"
+  },
+  {
+    "k": "1ae75yu413r",
+    "en": "Have a child",
+    "fa": "فرزند داشته باشید"
+  },
+  {
+    "k": "2g1tuq13bz1",
+    "en": "Over the limit: a social maintenance fee of about {0}{1}",
+    "fa": "فراتر از حد مجاز: جریمهٔ نگهداری اجتماعی حدود {0}{1}"
+  },
+  {
+    "k": "jtvh7y6sl0",
+    "en": " · a state job may be lost",
+    "fa": " · ممکن است شغل دولتی از دست برود"
+  },
+  {
+    "k": "lyaovotoqu",
+    "en": "No more children",
+    "fa": "دیگر فرزند نمی‌خواهیم"
+  },
+  {
+    "k": "ycmbutcyer",
+    "en": "Decide not to have a child together",
+    "fa": "تصمیم بگیرید با هم فرزند نداشته باشید"
+  },
+  {
+    "k": "1oa6u6juv9r",
+    "en": "Decide to live without children",
+    "fa": "تصمیم بگیرید بدون فرزند زندگی کنید"
+  },
+  {
+    "k": "o2ufcnu32q",
+    "en": "We won't ask again",
+    "fa": "دیگر نمی‌پرسیم"
+  },
+  {
+    "k": "l6d3n7zdza",
+    "en": "The two of you decided that {0} children are enough.",
+    "fa": "شما دو نفر تصمیم گرفتید {0} فرزند کافی است."
+  },
+  {
+    "k": "tr97pawb3p",
+    "en": "The two of you decided not to have a child together.",
+    "fa": "شما دو نفر تصمیم گرفتید با هم فرزند نداشته باشید."
+  },
+  {
+    "k": "nafjt87kzj",
+    "en": "The two of you decided to live without children.",
+    "fa": "شما دو نفر تصمیم گرفتید بدون فرزند زندگی کنید."
+  },
+  {
+    "k": "p3td8zluxc",
+    "en": "You hoped for a baby, but none came this year.",
+    "fa": "امید به نوزاد داشتید، اما امسال نیامد."
+  },
+  {
+    "k": "14a0npjxxci",
+    "en": "The chance of a pregnancy within a year of trying is about 85% before 35, about 60% at 35-39 and about 35% after 40 (ACOG)",
+    "fa": "احتمال بارداری در یک سال تلاش حدود ۸۵٪ پیش از ۳۵ سال، حدود ۶۰٪ در ۳۵–۳۹ و حدود ۳۵٪ پس از ۴۰ است (ACOG)"
+  },
+  {
+    "k": "pc2m0lm6bb",
+    "en": "Get fertility treatment",
+    "fa": "درمان ناباروری بگیرید"
+  },
+  {
+    "k": "1szlggdu7st",
+    "en": "About {0} a year · up to 3 years",
+    "fa": "حدود {0} در سال · تا ۳ سال"
+  },
+  {
+    "k": "1mjpld1l2oc",
+    "en": "Look into raising a child in your care",
+    "fa": "پرورش فرزند تحت سرپرستی را بررسی کنید"
+  },
+  {
+    "k": "10wijrtx8qx",
+    "en": "Look into adoption",
+    "fa": "فرزندخواندگی را بررسی کنید"
+  },
+  {
+    "k": "1omejttrnzv",
+    "en": "Home study and training · an answer in about a year",
+    "fa": "ارزیابی منزل و آموزش · پاسخ حدود یک سال"
+  },
+  {
+    "k": "1xpewdmcsxq",
+    "en": "Wait a little longer",
+    "fa": "کمی بیشتر صبر کنید"
+  },
+  {
+    "k": "i10y5eety6",
+    "en": "Be the family you already are",
+    "fa": "همان خانواده‌ای باشید که هستید"
+  },
+  {
+    "k": "21a90w8w6yd",
+    "en": "Make a life as the two of you",
+    "fa": "زندگی را دو نفره بسازید"
+  },
+  {
+    "k": "fqutiyxsm7",
+    "en": "{0} years of hoping for a child",
+    "fa": "{0} سال امید به فرزند"
+  },
+  {
+    "k": "glij18879e",
+    "en": "You tried fertility treatment too, but no child came. Now the two of you talk about what comes next.",
+    "fa": "درمان ناباروری را هم امتحان کردید، اما فرزندی نیامد. اکنون دربارهٔ قدم بعدی گفت‌وگو می‌کنید."
+  },
+  {
+    "k": "11s8irrf6tc",
+    "en": "The clinic says you can have tests and start fertility treatment. The waiting is slowly wearing you both down.",
+    "fa": "کلینیک می‌گوید می‌توانید آزمایش دهید و درمان ناباروری را شروع کنید. انتظار هر دو را کم‌کم فرسوده می‌کند."
+  },
+  {
+    "k": "1g9m8wppzfh",
+    "en": "There is no fertility clinic anywhere near. The waiting is slowly wearing you both down.",
+    "fa": "کلینیک ناباروری نزدیک نیست. انتظار هر دو را کم‌کم فرسوده می‌کند."
+  },
+  {
+    "k": "24d0qq9spvu",
+    "en": "One adult in six meets infertility at some point in life (WHO 2023) · One round of IVF leads to a birth about 44% of the time under 35, about 20% at 38-40 and about 3% after 43 (US CDC 2021)",
+    "fa": "یک بزرگسال از هر شش نفر در زندگی با ناباروری روبه‌رو می‌شود (WHO 2023) · یک دور IVF زیر ۳۵ سال حدود ۴۴٪ به تولد می‌انجامد، ۳۸–۴۰ حدود ۲۰٪ و پس از ۴۳ حدود ۳٪ (US CDC 2021)"
+  },
+  {
+    "k": "1d33cp04bw5",
+    "en": "Together you decided not to try for another child, and to cherish the family you have.",
+    "fa": "با هم تصمیم گرفتید برای فرزند دیگر تلاش نکنید و خانواده‌ای که دارید را گرامی بدارید."
+  },
+  {
+    "k": "22biieyrrd4",
+    "en": "Together you decided to make a life without children, leaning on each other.",
+    "fa": "با هم تصمیم گرفتید بدون فرزند زندگی کنید و به یکدیگر تکیه کنید."
+  },
+  {
+    "k": "40g0qr53dm",
+    "en": "You've been drinking more",
+    "fa": "بیشتر می‌نوشید"
+  },
+  {
+    "k": "csjg126z5g",
+    "en": "More nights out drinking",
+    "fa": "شب‌های بیشتر بیرون و نوشیدن"
+  },
+  {
+    "k": "iy3b5q6r5z",
+    "en": "Nothing seems to help you forget the hard things like a drink does. One glass before bed has somehow become three or four.",
+    "fa": "هیچ‌چیز مثل یک جام برای فراموش کردن سختی‌ها به نظر نمی‌رسد. یک لیوان قبل از خواب، ناگهان سه یا چهار لیوان شده."
+  },
+  {
+    "k": "10fyiz71iv5",
+    "en": "Almost every day after work, there's another round of drinks. Skip it, and it feels like you'll be the one who doesn't fit in.",
+    "fa": "تقریباً هر روز بعد از کار دور دیگری نوشیدنی است. اگر نروید، حس می‌کنید کسی هست که جا نمی‌افتد."
+  },
+  {
+    "k": "1zef46ais34",
+    "en": "Almost every day after class, there's another round of drinks. Skip it, and it feels like you'll be the one who doesn't fit in.",
+    "fa": "تقریباً هر روز بعد از کلاس دور دیگری نوشیدنی است. اگر نروید، حس می‌کنید کسی هست که جا نمی‌افتد."
+  },
+  {
+    "k": "20pritfn96a",
+    "en": "Almost every day there's another round of drinks with the neighbours. Skip it, and it feels like you'll be the one who doesn't fit in.",
+    "fa": "تقریباً هر روز با همسایگان دور دیگری نوشیدنی است. اگر نروید، حس می‌کنید کسی هست که جا نمی‌افتد."
+  },
+  {
+    "k": "ml0gcpya6f",
+    "en": "About 7% of adults worldwide have an alcohol use disorder, and 3.7% have alcohol dependence (WHO 2024)",
+    "fa": "حدود ۷٪ بزرگسالان جهان اختلال مصرف الکل دارند و ۳.۷٪ وابستگی (WHO 2024)"
+  },
+  {
+    "k": "2ch1cf8jz9r",
+    "en": "Cut back and find other ways to cope",
+    "fa": "مصرف را کم کنید و راه‌های دیگر برای کنار آمدن پیدا کنید"
+  },
+  {
+    "k": "7eax44b7hr",
+    "en": "Walking · people · help",
+    "fa": "پیاده‌روی · مردم · کمک"
+  },
+  {
+    "k": "7uav4o7sfj",
+    "en": "Lean on alcohol",
+    "fa": "به الکل تکیه کنید"
+  },
+  {
+    "k": "v1zj3h2lm1",
+    "en": "Easier for now · can lead to dependence",
+    "fa": "فعلاً آسان‌تر · می‌تواند به وابستگی منجر شود"
+  },
+  {
+    "k": "1pnb70c2lvo",
+    "en": "The drinking nearly crept up again, but once more you put the glass down.",
+    "fa": "نوشیدن دوباره کم‌کم بالا می‌رفت، اما باز جام را زمین گذاشتید."
+  },
+  {
+    "k": "1k77nnyvy7",
+    "en": "After that too, whenever the drinking crept up, you put the glass down yourself.",
+    "fa": "بعد از آن هم هر بار نوشیدن بالا می‌رفت، خودتان جام را زمین می‌گذاشتید."
+  },
+  {
+    "k": "1r4nw8aha1a",
+    "en": "You put the glass down and started going out for an evening stroll.",
+    "fa": "جام را زمین گذاشتید و عادت کردید غروب بیرون بروید."
+  },
+  {
+    "k": "lcfr00iya6",
+    "en": "You put down the glass and started walking every evening.",
+    "fa": "جام را زمین گذاشتید و هر شب پیاده‌روی کردید."
+  },
+  {
+    "k": "1ni0qkjwdwh",
+    "en": "You told a friend things had been hard lately. You felt a little lighter.",
+    "fa": "به دوستی گفتید اوقات سختی بوده. کمی سبک‌تر شدید."
+  },
+  {
+    "k": "1paqvbtffqu",
+    "en": "There were more and more nights when you couldn't sleep without a drink.",
+    "fa": "شب‌های بیشتری بود که بدون نوشیدن نمی‌توانستید بخوابید."
+  },
+  {
+    "k": "1o13n5uh3ot",
+    "en": "For a while you drank more, then you cut back on your own.",
+    "fa": "مدتی بیشتر نوشیدید، بعد خودتان کم کردید."
+  },
+  {
+    "k": "2amjy65hzek",
+    "en": "Quit drinking?",
+    "fa": "ترک نوشیدن؟"
+  },
+  {
+    "k": "dalv515vf9",
+    "en": "{0} years of drinking. One by one, you are starting to see what it has cost you.",
+    "fa": "{0} سال نوشیدن. یکی‌یکی می‌بینید چه هزینه‌ای داشته است."
+  },
+  {
+    "k": "1m83mytfisu",
+    "en": "About a third of people treated for alcohol dependence had no symptoms a year later (NIAAA) · Help: {@a}",
+    "fa": "حدود یک سوم کسانی که برای وابستگی به الکل درمان شدند یک سال بعد بدون علامت بودند (NIAAA) · کمک: {@a}"
+  },
+  {
+    "k": "253dlqkpq4j",
+    "en": "Get help",
+    "fa": "کمک بگیرید"
+  },
+  {
+    "k": "15wnh3vtoxq",
+    "en": "Treatment and support groups · costs about {0}",
+    "fa": "درمان و گروه‌های حمایتی · هزینه حدود {0}"
+  },
+  {
+    "k": "196m18r1osy",
+    "en": "Still fine for now",
+    "fa": "فعلاً هنوز خوب است"
+  },
+  {
+    "k": "8ot13wap3x",
+    "en": "You kept going to treatment and meetings, and you stopped drinking. Your family began to smile again.",
+    "fa": "به درمان و جلسات ادامه دادید و نوشیدن را ترک کردید. خانواده دوباره لبخند زد."
+  },
+  {
+    "k": "17u2kefziwk",
+    "en": "You kept going to treatment and meetings, and you stopped drinking. For the first time in a long while, you woke with a clear head.",
+    "fa": "به درمان و جلسات ادامه دادید و نوشیدن را ترک کردید. برای اولین بار مدتی، با سر روشن بیدار شدید."
+  },
+  {
+    "k": "17d2x8xr4s0",
+    "en": "You started treatment, but a few months later you were drinking again.",
+    "fa": "درمان را شروع کردید، اما چند ماه بعد دوباره می‌نوشید."
+  },
+  {
+    "k": "121tlfrrwxn",
+    "en": "Buy a lottery ticket?",
+    "fa": "بلیط بخت‌آزمایی بخرید؟"
+  },
+  {
+    "k": "1bcbq0vrowt",
+    "en": "People at work buy Lotto together every week and ask you to join in. The odds of the jackpot are 1 in 8.14 million a game.",
+    "fa": "در محل کار هر هفته با هم لاتاری می‌خرند و از شما هم می‌خواهند. احتمال جک‌پات ۱ از ۸.۱۴ میلیون در هر بازی است."
+  },
+  {
+    "k": "1dxgowy59u",
+    "en": "A banner outside the local lottery shop says 'Lucky store: jackpot sold here'. The odds of the jackpot are 1 in 8.14 million a game.",
+    "fa": "تابلو بیرون مغازهٔ بخت‌آزمایی می‌گوید «مغازهٔ خوش‌شانس: جک‌پات اینجا فروخته شد». احتمال جک‌پات ۱ از ۸.۱۴ میلیون در هر بازی است."
+  },
+  {
+    "k": "25kghdk5mg3",
+    "en": "Lottery tickets are sold next to the till. People say this week's jackpot has grown huge.",
+    "fa": "بلیط بخت‌آزمایی کنار صندوق فروخته می‌شود. می‌گویند جک‌پات این هفته خیلی بزرگ شده."
+  }
+]

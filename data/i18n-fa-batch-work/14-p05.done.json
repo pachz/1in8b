@@ -1,0 +1,502 @@
+[
+  {
+    "k": "2bquewhj7xl",
+    "en": "Your father died this year.",
+    "fa": "امسال پدرتان درگذشت."
+  },
+  {
+    "k": "1ft73d9lhzy",
+    "en": "Your stepfather died this year.",
+    "fa": "امسال ناپدریتان درگذشت."
+  },
+  {
+    "k": "1wqln1kycxs",
+    "en": "'Next decision' has stopped so you can see it.",
+    "fa": "«تصمیم بعدی» متوقف شد تا ببینید."
+  },
+  {
+    "k": "1bqu3o71h1l",
+    "en": "Your business closed this year.",
+    "fa": "امسال کسب‌وکار شما بسته شد."
+  },
+  {
+    "k": "84j95anhon",
+    "en": "Your work came to an end this year.",
+    "fa": "امسال کار شما به پایان رسید."
+  },
+  {
+    "k": "1z29kik8i1z",
+    "en": "Income is lower while you look for new work.",
+    "fa": "تا کار تازه پیدا کنید درآمد کمتر است."
+  },
+  {
+    "k": "2fn43mgzbnz",
+    "en": "You were diagnosed with a serious illness this year. 'Next decision' has stopped so you can see it.",
+    "fa": "امسال بیماری جدی تشخیص داده شد. «تصمیم بعدی» متوقف شد تا ببینید."
+  },
+  {
+    "k": "1toj9f6mja3",
+    "en": "Expand",
+    "fa": "باز کردن"
+  },
+  {
+    "k": "16bqwmygxt3",
+    "en": "Fold",
+    "fa": "جمع کردن"
+  },
+  {
+    "k": "1kyh6llu89m",
+    "en": "Link copied. Paste it into the address bar where the lives should go.",
+    "fa": "پیوند کپی شد. در نوار آدرس جایی که زندگی‌ها بایند بروند بچسبانید."
+  },
+  {
+    "k": "1njoxu6vy24",
+    "en": "Copied. Please send it to us as a comment or DM on Threads.",
+    "fa": "کپی شد. لطفاً در Threads به‌صورت نظر یا پیام خصوصی برایمان بفرستید."
+  },
+  {
+    "k": "1sp9q8vk9qr",
+    "en": "You went back to eating the way the people around you do.",
+    "fa": "دوباره مثل مردم اطراف غذا خوردید."
+  },
+  {
+    "k": "25umutrr74j",
+    "en": "You decided to eat less salt and make room for vegetables and whole grains.",
+    "fa": "تصمیم گرفتید نمک کمتر و جا برای سبزی و غلات کامل بگذارید."
+  },
+  {
+    "k": "1hjmq37ck7x",
+    "en": "With so many busy days, more meals came from eating out and delivery.",
+    "fa": "با روزهای شلوغ، وعده‌های بیشتری بیرون خوردن و پیک شد."
+  },
+  {
+    "k": "15vgxg5wkj1",
+    "en": "It is only sent once you press Submit (“제출”) in the Google Form that just opened.",
+    "fa": "فقط وقتی در Google Form بازشده «Submit» («제출») را بزنید فرستاده می‌شود."
+  },
+  {
+    "k": "1ws9i7qxi6i",
+    "en": "Age {0} ({1}){2}",
+    "fa": "سن {0} ({1}){2}"
+  },
+  {
+    "k": "15gqrqs0bxt",
+    "en": " · life expectancy",
+    "fa": " · امید زندگی"
+  },
+  {
+    "k": "1i6wsai080e",
+    "en": "<b>Age {0} · {1}</b><br>Happiness {2} · Health {3}{4}{5}{6}",
+    "fa": "<b>سن {0} · {1}</b><br>شادی {2} · سلامت {3}{4}{5}{6}"
+  },
+  {
+    "k": "1zfrqtmnsiz",
+    "en": " · net worth {0}",
+    "fa": " · ارزش خالص {0}"
+  },
+  {
+    "k": "1rxiu4qunjj",
+    "en": "Bank deposit",
+    "fa": "سپردهٔ بانکی"
+  },
+  {
+    "k": "1w8jy3nmj8i",
+    "en": "Real estate",
+    "fa": "املاک"
+  },
+  {
+    "k": "3z6g1k2jka",
+    "en": "home (worth {0})",
+    "fa": "خانه (ارزش {0})"
+  },
+  {
+    "k": "1384xizyopm",
+    "en": "Homes let: {0} (worth {1})",
+    "fa": "خانه‌های اجاره: {0} (ارزش {1})"
+  },
+  {
+    "k": "1h77v69geaf",
+    "en": "the {0} you run (about {1})",
+    "fa": "{0} که اداره می‌کنید (حدود {1})"
+  },
+  {
+    "k": "1okeggpwpbp",
+    "en": "savings {0} ({1})",
+    "fa": "پس‌انداز {0} ({1})"
+  },
+  {
+    "k": "8xbe6cp1ah",
+    "en": "Tap again to really bring it up",
+    "fa": "دوباره بزنید تا واقعاً بیاورید"
+  },
+  {
+    "k": "s9fr15l2jj",
+    "en": "Tap again to sell",
+    "fa": "دوباره بزنید تا بفروشید"
+  },
+  {
+    "k": "2gcnqooqn4p",
+    "en": "Tap again to buy",
+    "fa": "دوباره بزنید تا بخرید"
+  },
+  {
+    "k": "1q0033wrxpo",
+    "en": "Tap again to move",
+    "fa": "دوباره بزنید تا منتقل کنید"
+  },
+  {
+    "k": "ouh1r2faxg",
+    "en": "Tap again to set retirement aside",
+    "fa": "دوباره بزنید تا برای بازنشستگی کنار بگذارید"
+  },
+  {
+    "k": "1erkyb7ybel",
+    "en": "Moving now would cost about {0} in fees and about {1} in tax on the gains.",
+    "fa": "انتقال الان حدود {0} کارمزد و حدود {1} مالیات بر سود می‌خورد."
+  },
+  {
+    "k": "14wsc8cx8ty",
+    "en": "Moving now would cost about {0} in fees.",
+    "fa": "انتقال الان حدود {0} کارمزد می‌خورد."
+  },
+  {
+    "k": "elw1xnwik",
+    "en": "; your yearly income is {0}",
+    "fa": "؛ درآمد سالانهٔ شما {0} است"
+  },
+  {
+    "k": "135exmdu55v",
+    "en": "Savings · 1-1.5% a year after inflation",
+    "fa": "پس‌انداز · ۱–۱٫۵٪ در سال پس از تورم"
+  },
+  {
+    "k": "1i64s4o0bcg",
+    "en": "Bonds · about 2% on average, small swings",
+    "fa": "اوراق · حدود ۲٪ در میانگین، نوسان کم"
+  },
+  {
+    "k": "2cskhlfkr5",
+    "en": "Balanced stock-and-bond fund · about 3.5% on average, medium swings",
+    "fa": "صندوق متعادل سهام و اوراق · حدود ۳٫۵٪ در میانگین، نوسان متوسط"
+  },
+  {
+    "k": "10p05dfxx5c",
+    "en": "Stocks (an index) · about 5% on average, big swings",
+    "fa": "سهام (شاخص) · حدود ۵٪ در میانگین، نوسان زیاد"
+  },
+  {
+    "k": "2d02xkihvie",
+    "en": "World index (global stocks) · about 5% on average, swings with the exchange rate too",
+    "fa": "شاخص جهانی · حدود ۵٪ در میانگین، با نرخ ارز هم نوسان"
+  },
+  {
+    "k": "1n22efjhpci",
+    "en": "about {0}% a year more in fees",
+    "fa": "حدود {0}٪ در سال کارمزد بیشتر"
+  },
+  {
+    "k": "hfvkmabl60",
+    "en": "Property fund · about 3.5% on average",
+    "fa": "صندوق املاک · حدود ۳٫۵٪ در میانگین"
+  },
+  {
+    "k": "sf7d2g01im",
+    "en": "Pick and trade shares yourself · most earn less than the index",
+    "fa": "انتخاب و معاملهٔ سهام خودتان · بیشتر کمتر از شاخص"
+  },
+  {
+    "k": "1iw49n16xgk",
+    "en": "Your savings are now in {0}. Tapping another option sells them and moves them. Selling costs fees and, depending on the country, tax on the gains.",
+    "fa": "پس‌انداز شما اکنون در {0} است. گزینهٔ دیگر را بزنید می‌فروشد و منتقل می‌کند. فروش کارمزد و بسته به کشور مالیات بر سود دارد."
+  },
+  {
+    "k": "dz0eqj0h0z",
+    "en": "This is where you choose where to keep your savings. If you don't choose, they stay in the bank. All returns are after inflation. A property fund is separate from your own home; you buy your home under 'Buy a home' and homes to let under 'Homes to let'.",
+    "fa": "اینجا انتخاب می‌کنید پس‌انداز کجا بماند. اگر انتخاب نکنید در بانک می‌ماند. همهٔ بازده پس از تورم است. صندوق املاک جدا از خانهٔ خودتان است؛ خانه را زیر «خرید خانه» و اجاره را زیر «خانه برای اجاره» بخرید."
+  },
+  {
+    "k": "1tuuqiwh7qp",
+    "en": "Picking shares and trading often, most people earn less than the index because of fees, taxes and late decisions. A few earn a lot (Barber & Odean 2000).",
+    "fa": "انتخاب سهام و معاملهٔ زیاد؛ بیشتر مردم به‌خاطر کارمزد، مالیات و تأخیر کمتر از شاخص می‌برند. عده‌ای زیاد (Barber & Odean 2000)."
+  },
+  {
+    "k": "1gyz10xaw34",
+    "en": "On credit",
+    "fa": "اعتباری"
+  },
+  {
+    "k": "1hzv2xx2b7a",
+    "en": "in US terms",
+    "fa": "به معیار آمریکا"
+  },
+  {
+    "k": "6rr95b5gco",
+    "en": "Worth doing now",
+    "fa": "الان ارزش دارد"
+  },
+  {
+    "k": "qh7ppqtuab",
+    "en": "More ({0})",
+    "fa": "بیشتر ({0})"
+  },
+  {
+    "k": "1ebulb42dfv",
+    "en": "Give generously",
+    "fa": "سخاوتمندانه"
+  },
+  {
+    "k": "1mzla4e4r3g",
+    "en": "Half, within means",
+    "fa": "نیمه، در توان"
+  },
+  {
+    "k": "7xnptl4gpb",
+    "en": "Just show up",
+    "fa": "فقط حضور"
+  },
+  {
+    "k": "10zddmjkcui",
+    "en": "What you give at friends' weddings and relatives' funerals. Giving less saves money, but ties may grow a little less close.",
+    "fa": "آنچه در عروسی دوستان و مراسم خویشاوندان می‌دهید. کمتر دادن پول می‌ماند، اما پیوند کمی سست‌تر می‌شود."
+  },
+  {
+    "k": "my0bv5om45",
+    "en": "Children's family name",
+    "fa": "نام خانوادگی فرزندان"
+  },
+  {
+    "k": "nfs3s5l6gq",
+    "en": "Father's family name",
+    "fa": "نام خانوادگی پدر"
+  },
+  {
+    "k": "1qk6asbsief",
+    "en": "Mother's family name",
+    "fa": "نام خانوادگی مادر"
+  },
+  {
+    "k": "143qyj5gti6",
+    "en": "Your other children follow the name chosen for the first.",
+    "fa": "فرزندان دیگر همان نامی را می‌گیرند که برای اولین انتخاب شد."
+  },
+  {
+    "k": "jk677t703r",
+    "en": "If the couple agree when registering the marriage, children can take the mother's family name. It cannot be changed after the first child is born.",
+    "fa": "اگر هنگام ثبت ازدواج توافق کنند، فرزندان می‌توانند نام خانوادگی مادر را بگیرند. پس از تولد اولین فرزند عوض نمی‌شود."
+  },
+  {
+    "k": "9ruhsu4b3q",
+    "en": "This is where you choose whose family name children born from now on will take. If you don't choose, they take the father's.",
+    "fa": "اینجا انتخاب می‌کنید فرزندان از این پس کدام نام خانوادگی را بگیرند. اگر انتخاب نکنید، نام پدر."
+  },
+  {
+    "k": "udl60wxis1",
+    "en": "Insurance",
+    "fa": "بیمه"
+  },
+  {
+    "k": "2g06n9823pi",
+    "en": "Basic cover only",
+    "fa": "فقط پوشش پایه"
+  },
+  {
+    "k": "827y1ou2ms",
+    "en": "Take out fuller insurance",
+    "fa": "بیمهٔ کامل‌تر"
+  },
+  {
+    "k": "4oa59xerdw",
+    "en": "Fuller insurance costs premiums every year, but cuts what you pay for hospital care a lot, and pays your family if you die before 70. Usually the premiums come to more than what is paid back.",
+    "fa": "بیمهٔ کامل‌تر هر سال حق بیمه می‌خورد، اما هزینهٔ بیمارستان را زیاد کم می‌کند و اگر قبل از ۷۰ بمیرید به خانواده می‌پردازد. معمولاً حق بیمه بیشتر از بازگشت است."
+  },
+  {
+    "k": "1gz94snmd84",
+    "en": "Eating",
+    "fa": "خوراک"
+  },
+  {
+    "k": "ll1ojboimr",
+    "en": "Eat like the people around you",
+    "fa": "مثل مردم اطراف بخور"
+  },
+  {
+    "k": "8bwt0gexfq",
+    "en": "Less salt, more vegetables and whole grains",
+    "fa": "نمک کمتر، سبزی و غلات کامل بیشتر"
+  },
+  {
+    "k": "1rzmq8mpalr",
+    "en": "Often eat out or order in",
+    "fa": "اغلب بیرون یا پیک"
+  },
+  {
+    "k": "s314nkbw1o",
+    "en": "Eating with care costs a little more at the shops, but conditions like high blood pressure and diabetes come less often. Eating out and ordering in is easy, but it costs more and they come a little more often.",
+    "fa": "خوراک با دقت کمی گران‌تر است، اما فشار خون و دیابت کمتر می‌آید. بیرون خوردن راحت است، اما گران‌تر و بیماری کمی بیشتر."
+  },
+  {
+    "k": "1995hg7hyf9",
+    "en": "generous",
+    "fa": "سخاوتمندانه"
+  },
+  {
+    "k": "2c5pknlq5ut",
+    "en": "half",
+    "fa": "نیمه"
+  },
+  {
+    "k": "11vbdnq59vu",
+    "en": "just showing up",
+    "fa": "فقط حضور"
+  },
+  {
+    "k": "32ewx3bnu4",
+    "en": "like those around you",
+    "fa": "مثل اطراف"
+  },
+  {
+    "k": "1qmahwtt0d2",
+    "en": "eating with care",
+    "fa": "خوراک با دقت"
+  },
+  {
+    "k": "1ry7ln77zmg",
+    "en": "On its own",
+    "fa": "خودکار"
+  },
+  {
+    "k": "1yvpyvczwtx",
+    "en": "When on, each happens by itself when its time comes; anything that costs money only when your savings are over three times the cost. Press again to turn it off.",
+    "fa": "وقتی روشن است، هر کدام در وقتش خودش انجام می‌شود؛ آنچه پول می‌خواهد فقط وقتی پس‌انداز سه برابر هزینه است. دوباره بزنید تا خاموش شود."
+  },
+  {
+    "k": "12y35wdn0fk",
+    "en": "Money for parents, dating, dinners, trips, lessons and giving only go ahead when a typical year's pay is still left afterwards, and the more you turn on, the less you save.",
+    "fa": "پول والدین، آشنایی، شام، سفر، درس و هدیه فقط وقتی پیش می‌رود که بعدش یک سال معمولی حقوق بماند؛ هرچه بیشتر روشن کنید، کمتر پس‌انداز می‌کنید."
+  },
+  {
+    "k": "i3nyb4gnrl",
+    "en": "Trips go with whoever you last chose yourself.",
+    "fa": "سفر با آخرین کسی که خودتان انتخاب کردید."
+  },
+  {
+    "k": "kkqoj5ak2i",
+    "en": "Lessons go to the hobby you chose last yourself.",
+    "fa": "درس به آخرین سرگرمی که خودتان انتخاب کردید."
+  },
+  {
+    "k": "luklhxh2x0",
+    "en": "With 'Decide for each child' on, university fees and wedding costs are asked again for each child instead of going the way you first decided.",
+    "fa": "با «برای هر فرزند تصمیم بگیر» روشن، شهریه و عروسی برای هر فرزند دوباره پرسیده می‌شود نه همان اولین تصمیم."
+  },
+  {
+    "k": "bpl5j3zn1a",
+    "en": "Money held in: {0} · Wedding and funeral gifts: {1} · Eating: {2}",
+    "fa": "پول در: {0} · هدیهٔ عروسی و تشییع: {1} · خوراک: {2}"
+  },
+  {
+    "k": "288k37wo48p",
+    "en": "Money held in: {0}",
+    "fa": "پول در: {0}"
+  },
+  {
+    "k": "1eu9vvnrtw8",
+    "en": "Insurance: fuller",
+    "fa": "بیمه: کامل‌تر"
+  },
+  {
+    "k": "lfdsxjq03b",
+    "en": "on its own: {0} things",
+    "fa": "خودکار: {0} مورد"
+  },
+  {
+    "k": "10tavfr685x",
+    "en": "on its own: {0}",
+    "fa": "خودکار: {0}"
+  },
+  {
+    "k": "dvq9zhncex",
+    "en": "Ways of living",
+    "fa": "شیوه‌های زندگی"
+  },
+  {
+    "k": "1m62a6lm4p",
+    "en": "How to invest",
+    "fa": "چگونه سرمایه‌گذاری کنید"
+  },
+  {
+    "k": "hu6k2t9oo3",
+    "en": "How to invest",
+    "fa": "چگونه سرمایه‌گذاری کنید"
+  },
+  {
+    "k": "1nx99azq4mq",
+    "en": "This is the money you can spend or invest, not counting your home or your business share. Your net worth of {0} also includes your home, worth {1}, and your business share, worth {2}.",
+    "fa": "این پولی است که می‌توانید خرج یا سرمایه‌گذاری کنید، بدون خانه یا سهم کسب‌وکار. ارزش خالص {0} شامل خانه به ارزش {1} و سهم کسب‌وکار {2} هم هست."
+  },
+  {
+    "k": "1ii6sfpezjf",
+    "en": "(Including homes let worth {0})",
+    "fa": "(شامل خانه‌های اجاره به ارزش {0})"
+  },
+  {
+    "k": "1xsgiqx70fl",
+    "en": "This is the money you can spend or invest, not counting your business share. Your net worth of {0} also includes your business share, worth {1}.",
+    "fa": "این پولی است که می‌توانید خرج یا سرمایه‌گذاری کنید، بدون سهم کسب‌وکار. ارزش خالص {0} شامل سهم کسب‌وکار {1} هم هست."
+  },
+  {
+    "k": "1ldaoass4k0",
+    "en": "This is the money you can spend or invest, not counting your home. Your net worth of {0} includes homes worth {1}. (Including homes let worth {2})",
+    "fa": "این پولی است که می‌توانید خرج یا سرمایه‌گذاری کنید، بدون خانه. ارزش خالص {0} شامل خانه به ارزش {1}. (شامل اجاره {2})"
+  },
+  {
+    "k": "1soo8zvpjat",
+    "en": "This is the money you can spend or invest, not counting your home. Your net worth of {0} includes your home's value of {1}.",
+    "fa": "این پولی است که می‌توانید خرج یا سرمایه‌گذاری کنید، بدون خانه. ارزش خالص {0} شامل ارزش خانه {1}."
+  },
+  {
+    "k": "1xraxhz0cpu",
+    "en": "The home loan is paid on its schedule, and what you save beyond the payment is kept apart in {0}.",
+    "fa": "وام خانه طبق برنامه پرداخت می‌شود و آنچه فراتر از قسط پس‌انداز می‌کنید در {0} جدا نگه داشته می‌شود."
+  },
+  {
+    "k": "f5ikjgzm9e",
+    "en": "Choose 'Bank deposit' under 'How to invest' in 'Ways of living', and that money pays the loan ahead at once.",
+    "fa": "«سپردهٔ بانکی» را زیر «چگونه سرمایه‌گذاری کنید» در «شیوه‌های زندگی» انتخاب کنید؛ آن پول یک‌جا وام را جلو می‌اندازد."
+  },
+  {
+    "k": "1sfd65oe9fx",
+    "en": "<h2>{0}</h2><p>Amounts are shown in US terms{1}. How you spend shapes your happiness, relationships, health and future. Time stands still while you choose.</p>",
+    "fa": "<h2>{0}</h2><p>مبالغ به معیار آمریکا{1} نشان داده می‌شوند. خرج شما شادی، روابط، سلامت و آینده را شکل می‌دهد. هنگام انتخاب زمان می‌ایستد.</p>"
+  },
+  {
+    "k": "1h95fw0jbob",
+    "en": "Savings {0} · Debt {1}",
+    "fa": "پس‌انداز {0} · بدهی {1}"
+  },
+  {
+    "k": "1smecmfdndh",
+    "en": "Debt: {0}",
+    "fa": "بدهی: {0}"
+  },
+  {
+    "k": "1f0vvz6i5hq",
+    "en": "Money saved: {0}",
+    "fa": "پول پس‌انداز شده: {0}"
+  },
+  {
+    "k": "13fav2ljqe2",
+    "en": "If you hear nothing, turn off your phone's silent mode.",
+    "fa": "اگر صدا نمی‌شنوید، حالت سکوت گوشی را خاموش کنید."
+  },
+  {
+    "k": "j5c1m6wl75",
+    "en": "Music can't play in this browser.",
+    "fa": "موسیقی در این مرورگر پخش نمی‌شود."
+  },
+  {
+    "k": "h3x44jb5p8",
+    "en": "<div class=\"dec\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"sheetT\"><div class=\"hd\"><span id=\"sheetT\">{0}</span><button class=\"sheet-x\" id=\"sheetClose\">Close</button></div><div class=\"bd\">{1}</div></div>",
+    "fa": "<div class=\"dec\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"sheetT\"><div class=\"hd\"><span id=\"sheetT\">{0}</span><button class=\"sheet-x\" id=\"sheetClose\">بستن</button></div><div class=\"bd\">{1}</div></div>"
+  }
+]

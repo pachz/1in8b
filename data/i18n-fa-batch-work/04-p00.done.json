@@ -1,0 +1,502 @@
+[
+  {
+    "k": "d7v3ytrk31",
+    "en": "You cut staff and scaled the business down. You earn less, but it looks as if you will get through the hard patch.",
+    "fa": "پرسنل را کم کردید و کار را کوچک‌تر کردید. درآمدتان کمتر شده، اما به نظر می‌رسد از این دورهٔ سخت عبور خواهید کرد."
+  },
+  {
+    "k": "2g9kc4o8h51",
+    "en": "You cut your opening hours and the stock you keep. You earn less, but it looks as if you will get through the hard patch.",
+    "fa": "ساعات کاری و موجودی انبار را کم کردید. درآمدتان کمتر شده، اما به نظر می‌رسد از این دورهٔ سخت عبور خواهید کرد."
+  },
+  {
+    "k": "28ut1o84lcj",
+    "en": "You cut staff and scaled the business down.",
+    "fa": "پرسنل را کم کردید و کار را کوچک‌تر کردید."
+  },
+  {
+    "k": "252mhk5fxcu",
+    "en": "You cut back on advertising and on the stock you keep.",
+    "fa": "هزینهٔ تبلیغات و موجودی انبار را کم کردید."
+  },
+  {
+    "k": "pm6mc36gk7",
+    "en": "You took on less work and cut your costs.",
+    "fa": "کار را کمتر پذیرفتید و هزینه‌ها را بریدید."
+  },
+  {
+    "k": "gv419lvr7p",
+    "en": "You earn less, but it looks as if you will get through the hard patch.",
+    "fa": "درآمدتان کمتر شده، اما به نظر می‌رسد از این دورهٔ سخت عبور خواهید کرد."
+  },
+  {
+    "k": "vcxxlz086b",
+    "en": "Your savings got you through the rough patch.",
+    "fa": "پس‌اندازهایتان شما را از این دورهٔ دشوار رهانید."
+  },
+  {
+    "k": "2fr981unn67",
+    "en": "The borrowed money got you through the rough patch.",
+    "fa": "پول قرض‌گرفته‌شده شما را از این دورهٔ دشوار رهانید."
+  },
+  {
+    "k": "5ngrngrl09",
+    "en": "You held on with your savings, but things did not get better. (−{0})",
+    "fa": "با پس‌اندازهایتان دوام آوردید، اما اوضاع بهتر نشد. (−{0})"
+  },
+  {
+    "k": "1ttkto5grqc",
+    "en": "You held on with borrowed money, but things did not get better. (−{0})",
+    "fa": "با پول قرض دوام آوردید، اما اوضاع بهتر نشد. (−{0})"
+  },
+  {
+    "k": "22b7jwrw28",
+    "en": "Selling off the machines and stock kept you out of debt.",
+    "fa": "فروش ماشین‌آلات و موجودی انبار شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "10e28rujf6u",
+    "en": "Selling the vehicles and equipment kept you out of debt.",
+    "fa": "فروش وسایل نقلیه و تجهیزات شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "29nly0kl9z7",
+    "en": "Selling the tools and leftover materials kept you out of debt.",
+    "fa": "فروش ابزار و مواد باقی‌مانده شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "1jrinvoc8ec",
+    "en": "Selling off the furniture and equipment kept you out of debt.",
+    "fa": "فروش مبلمان و تجهیزات شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "a7t8unzwoj",
+    "en": "Selling off the stock kept you out of debt.",
+    "fa": "فروش موجودی انبار شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "1oh4fec6acz",
+    "en": "You closed the shop before it was too late. Selling off the stock kept you out of debt.",
+    "fa": "پیش از آنکه دیر شود مغازه را بستید. فروش موجودی انبار شما را از بدهکاری دور نگه داشت."
+  },
+  {
+    "k": "q2cix86u3t",
+    "en": "You closed the {0} before it was too late.",
+    "fa": "پیش از آنکه دیر شود {0} را بستید."
+  },
+  {
+    "k": "1jo1s0bsz9r",
+    "en": "Talk of an early marriage",
+    "fa": "سخن از ازدواج زودهنگام"
+  },
+  {
+    "k": "256lsgjwp2o",
+    "en": "You are {1}, and {0} would like to see you married soon. Talk of a dowry is going back and forth with the other family.",
+    "fa": "شما {1} سال دارید و {0} می‌خواهد به‌زودی شما را ازدواج‌دهد. سخن از مهریه میان دو خانواده رد و بدل می‌شود."
+  },
+  {
+    "k": "1y183wyv2op",
+    "en": "You are {1}, and {0} would like to see you married soon. The other family is talking about a bride price.",
+    "fa": "شما {1} سال دارید و {0} می‌خواهد به‌زودی شما را ازدواج‌دهد. خانوادهٔ طرف مقابل از مهریه سخن می‌گوید."
+  },
+  {
+    "k": "2bzmdwv1v7h",
+    "en": "You are {1}, and {0} would like to see you married soon. The two families are talking about a match.",
+    "fa": "شما {1} سال دارید و {0} می‌خواهد به‌زودی شما را ازدواج‌دهد. دو خانواده دربارهٔ یک پیوند ازدواج گفت‌وگو می‌کنند."
+  },
+  {
+    "k": "nx2o8eq5vb",
+    "en": "In {0}, about {1}% of women aged 20–24 had married or begun living with a partner before age 18 (UNICEF)",
+    "fa": "در {0}، حدود {1}٪ زنان ۲۰ تا ۲۴ ساله پیش از ۱۸ سالگی ازدواج کرده یا زندگی مشترک را آغاز کرده‌اند (UNICEF)"
+  },
+  {
+    "k": "urrnrscrrl",
+    "en": "In {0}, about {1}% of women aged 20–24 were married before age 18 (UNICEF)",
+    "fa": "در {0}، حدود {1}٪ زنان ۲۰ تا ۲۴ ساله پیش از ۱۸ سالگی ازدواج کرده‌اند (UNICEF)"
+  },
+  {
+    "k": "rh4dlhfgzh",
+    "en": "Ask them to wait so you can keep studying",
+    "fa": "از آنان بخواهید صبر کنند تا بتوانید به تحصیل ادامه دهید"
+  },
+  {
+    "k": "d3pox3dbt1",
+    "en": "Ask them to wait, saying you are still too young",
+    "fa": "از آنان بخواهید صبر کنند و بگویید هنوز خیلی جوانید"
+  },
+  {
+    "k": "hyrkef71gs",
+    "en": "Whether it works depends on your family's situation and your relationship",
+    "fa": "نتیجه به وضع خانواده و رابطهٔ شما بستگی دارد"
+  },
+  {
+    "k": "1v7of0rdk2e",
+    "en": "Go along with {0}",
+    "fa": "با {0} همراه شوید"
+  },
+  {
+    "k": "1nlpoe6u6j1",
+    "en": "Live together without a legal marriage; most girls leave school",
+    "fa": "بدون ازدواج رسمی زندگی مشترک؛ بیشتر دختران مدرسه را ترک می‌کنند"
+  },
+  {
+    "k": "23kuk2qits5",
+    "en": "Live together without a legal marriage",
+    "fa": "بدون ازدواج رسمی زندگی مشترک"
+  },
+  {
+    "k": "155huoj7dkx",
+    "en": "Marry; most girls leave school",
+    "fa": "ازدواج؛ بیشتر دختران مدرسه را ترک می‌کنند"
+  },
+  {
+    "k": "1j9k140z1z3",
+    "en": "Marry",
+    "fa": "ازدواج"
+  },
+  {
+    "k": "w2yqd9f3ta",
+    "en": "You talked {0} into waiting. The marriage was put off.",
+    "fa": "توانستید {0} را قانع کنید صبر کند. ازدواج به تأخیر افتاد."
+  },
+  {
+    "k": "1qjpfz4o6eq",
+    "en": "You couldn't persuade them, and you began living with him without a legal marriage.",
+    "fa": "نمی‌توانستید آنان را قانع کنید و بدون ازدواج رسمی زندگی مشترک با او را آغاز کردید."
+  },
+  {
+    "k": "1nzzebl4xc0",
+    "en": "You began living with him without a legal marriage.",
+    "fa": "بدون ازدواج رسمی زندگی مشترک با او را آغاز کردید."
+  },
+  {
+    "k": "olb0exkhnz",
+    "en": "With his family's permission, you kept going to school.",
+    "fa": "با اجازهٔ خانوادهٔ او به مدرسه رفتن ادامه دادید."
+  },
+  {
+    "k": "oh7rptjy22",
+    "en": "You left school.",
+    "fa": "مدرسه را ترک کردید."
+  },
+  {
+    "k": "25lyq9fv9jf",
+    "en": "Since its 1988 Family Code, the Philippines has not recognised the marriage of anyone under 18, and since 2022 the law has prohibited marrying or living with a child.",
+    "fa": "از زمان قانون خانوادهٔ ۱۹۸۸، فیلیپین ازدواج کسانی زیر ۱۸ سال را به رسمیت نمی‌شناسد و از ۲۰۲۲ قانون ازدواج یا زندگی مشترک با کودک را ممنوع کرده است."
+  },
+  {
+    "k": "15q7ev6bun4",
+    "en": "Marrying or living together before 18 violates a child's rights (Republic Act 11596, UN Sustainable Development Goal 5.3, UNICEF)",
+    "fa": "ازدواج یا زندگی مشترک پیش از ۱۸ سالگی حقوق کودک را نقض می‌کند (Republic Act 11596، هدف توسعه پایدار ۵.۳ سازمان ملل، UNICEF)"
+  },
+  {
+    "k": "1osiua0gpfi",
+    "en": "Since its 1988 Family Code, the Philippines has not recognised the marriage of anyone under 18.",
+    "fa": "از زمان قانون خانوادهٔ ۱۹۸۸، فیلیپین ازدواج کسانی زیر ۱۸ سال را به رسمیت نمی‌شناسد."
+  },
+  {
+    "k": "5i32289nmm",
+    "en": "Marrying or living together before 18 violates a child's rights (UN Sustainable Development Goal 5.3, UNICEF)",
+    "fa": "ازدواج یا زندگی مشترک پیش از ۱۸ سالگی حقوق کودک را نقض می‌کند (هدف توسعه پایدار ۵.۳ سازمان ملل، UNICEF)"
+  },
+  {
+    "k": "1zn9wz0fi5e",
+    "en": "You couldn't change their minds, and the wedding went ahead.",
+    "fa": "نمی‌توانستید نظرشان را عوض کنید و عروسی برگزار شد."
+  },
+  {
+    "k": "16dx0w26mun",
+    "en": "The wedding went ahead.",
+    "fa": "عروسی برگزار شد."
+  },
+  {
+    "k": "20tdzxymuig",
+    "en": "With your husband's family's permission, you kept going to school.",
+    "fa": "با اجازهٔ خانوادهٔ شوهرتان به مدرسه رفتن ادامه دادید."
+  },
+  {
+    "k": "27n5yoia3ur",
+    "en": "The wedding went ahead. You left school.",
+    "fa": "عروسی برگزار شد. مدرسه را ترک کردید."
+  },
+  {
+    "k": "1hiu5bbqnl6",
+    "en": "Marriage before 18 violates a child's rights. The world has pledged to end child marriage by 2030 (UN Sustainable Development Goal 5.3, UNICEF)",
+    "fa": "ازدواج پیش از ۱۸ سالگی حقوق کودک را نقض می‌کند. جهان تا ۲۰۳۰ پایان ازدواج کودکان را تعهد کرده است (هدف توسعه پایدار ۵.۳ سازمان ملل، UNICEF)"
+  },
+  {
+    "k": "25pal3ypjdn",
+    "en": "Your last love was a man; this time your heart goes to a woman.",
+    "fa": "آخرین عشقتان مردی بود؛ این بار دلتان به سوی زنی می‌رود."
+  },
+  {
+    "k": "m93gqyd5fg",
+    "en": "Your last love was a woman; this time your heart goes to a man.",
+    "fa": "آخرین عشقتان زنی بود؛ این بار دلتان به سوی مردی می‌رود."
+  },
+  {
+    "k": "1vqy1vvl2pp",
+    "en": "They have {0} grown children (aged {1}).",
+    "fa": "آن‌ها {0} فرزند بالغ (سن {1}) دارند."
+  },
+  {
+    "k": "1nri1vrhy77",
+    "en": "They have {0} children (aged {1}).",
+    "fa": "آن‌ها {0} فرزند (سن {1}) دارند."
+  },
+  {
+    "k": "16gwyntoo6d",
+    "en": "They have a grown child aged {0}.",
+    "fa": "آن‌ها یک فرزند بالغ {0} ساله دارند."
+  },
+  {
+    "k": "40ojlf5o2v",
+    "en": "They have a child aged {0}.",
+    "fa": "آن‌ها یک فرزند {0} ساله دارند."
+  },
+  {
+    "k": "1q01e2psyr0",
+    "en": "Work: retired (formerly {0}).",
+    "fa": "کار: بازنشسته (قبلاً {0})."
+  },
+  {
+    "k": "urr5vybcvm",
+    "en": "Work: {0}.",
+    "fa": "کار: {0}."
+  },
+  {
+    "k": "35h1qe8ou",
+    "en": "kind",
+    "fa": "مهربان"
+  },
+  {
+    "k": "23o5dmffeyc",
+    "en": "hard-working",
+    "fa": "سخت‌کوش"
+  },
+  {
+    "k": "xa75pxsc9n",
+    "en": "funny",
+    "fa": "بامزه"
+  },
+  {
+    "k": "g8bd8f4xj5",
+    "en": "capable",
+    "fa": "توانا"
+  },
+  {
+    "k": "a028v5n8xh",
+    "en": "quiet",
+    "fa": "آرام"
+  },
+  {
+    "k": "1kjeto71gvk",
+    "en": "outgoing",
+    "fa": "برون‌گرا"
+  },
+  {
+    "k": "1r2yzz1vrp0",
+    "en": "Introduced by the family elders",
+    "fa": "معرفی‌شده توسط بزرگان خانواده"
+  },
+  {
+    "k": "2c07sdr15sz",
+    "en": "Introduced by your children",
+    "fa": "معرفی‌شده توسط فرزندانتان"
+  },
+  {
+    "k": "b0zig0tcor",
+    "en": "Introduced by your child",
+    "fa": "معرفی‌شده توسط فرزندتان"
+  },
+  {
+    "k": "220m87o6vq6",
+    "en": "Introduced by a relative",
+    "fa": "معرفی‌شده توسط یک خویشاوند"
+  },
+  {
+    "k": "vzwofx02o2",
+    "en": "An introduction abroad",
+    "fa": "معرفی از خارج از کشور"
+  },
+  {
+    "k": "2e0zsq1jp7z",
+    "en": "A match for remarriage",
+    "fa": "پیوند برای ازدواج مجدد"
+  },
+  {
+    "k": "1ghsfr42qd",
+    "en": "Love again",
+    "fa": "عشق دوباره"
+  },
+  {
+    "k": "1igtasuupmu",
+    "en": "A proposed match",
+    "fa": "پیشنهاد پیوند"
+  },
+  {
+    "k": "13zcfwno8aw",
+    "en": "Love came along",
+    "fa": "عشق پیدا شد"
+  },
+  {
+    "k": "1vdjcidvskj",
+    "en": "{0}: {4}{5} ({3}, age {1}, {2}).",
+    "fa": "{0}: {4}{5} ({3}، سن {1}، {2})."
+  },
+  {
+    "k": "uyiq6vimsm",
+    "en": "introduced by an international marriage agency:",
+    "fa": "معرفی‌شده توسط آژانس ازدواج بین‌المللی:"
+  },
+  {
+    "k": "lxbfihln64",
+    "en": "The marriage agency's next introduction",
+    "fa": "معرفی بعدی آژانس ازدواج"
+  },
+  {
+    "k": "t83f8hjt4e",
+    "en": "The matchmaker's next introduction",
+    "fa": "معرفی بعدی واسط"
+  },
+  {
+    "k": "2eroz6ozp4y",
+    "en": "Introduced by a marriage agency",
+    "fa": "معرفی‌شده توسط آژانس ازدواج"
+  },
+  {
+    "k": "3oxem081zs",
+    "en": "Introduced by a matchmaker",
+    "fa": "معرفی‌شده توسط واسط"
+  },
+  {
+    "k": "bs5ctjyj5c",
+    "en": "Someone you met at a gathering",
+    "fa": "کسی که در یک گردهمایی دیدید"
+  },
+  {
+    "k": "uw244xsyvv",
+    "en": "Someone you've known for a while",
+    "fa": "کسی که مدتی است می‌شناسید"
+  },
+  {
+    "k": "tgyxbipxgk",
+    "en": "The two of you are from different castes, and the elders on both sides are against the marriage.",
+    "fa": "شما دو نفر از طبقات مختلفید و بزرگان هر دو طرف با این ازدواج مخالفند."
+  },
+  {
+    "k": "s3kfkb4f8g",
+    "en": "Their family is against marrying a foreigner.",
+    "fa": "خانوادهٔ آنان با ازدواج با خارجی مخالف است."
+  },
+  {
+    "k": "25i9wxp9y4l",
+    "en": "They come from a family of another caste.",
+    "fa": "آن‌ها از خانواده‌ای از طبقهٔ دیگرند."
+  },
+  {
+    "k": "myt7nl8p30",
+    "en": "He already has a wife and {0} children.",
+    "fa": "او از پیش همسر و {0} فرزند دارد."
+  },
+  {
+    "k": "u5to8t3bi0",
+    "en": "He already has a wife and a child.",
+    "fa": "او از پیش همسر و یک فرزند دارد."
+  },
+  {
+    "k": "1cuvdbr401a",
+    "en": "He already has a wife.",
+    "fa": "او از پیش همسر دارد."
+  },
+  {
+    "k": "1bdjv74gmb0",
+    "en": "This is the last of the introductions you were promised.",
+    "fa": "این آخرین معرفی‌ای است که به شما وعده داده شده بود."
+  },
+  {
+    "k": "198432l6j40",
+    "en": "About 16% of US children live in a blended family with a stepparent or step-siblings (Pew Research Center 2015)",
+    "fa": "حدود ۱۶٪ کودکان آمریکا در خانوادهٔ ترکیبی با ناپدری یا ناخواهر و برادر زندگی می‌کنند (Pew Research Center 2015)"
+  },
+  {
+    "k": "1hh7hnmksua",
+    "en": "20% of Americans remarrying take a wife at least 10 years younger, and 13% of women a husband at least 10 years older; at first marriages it is 5% and 7% (Pew Research Center 2014)",
+    "fa": "۲۰٪ آمریکایی‌هایی که دوباره ازدواج می‌کنند همسری حداقل ۱۰ سال جوان‌تر می‌گیرند و ۱۳٪ زنان شوهری حداقل ۱۰ سال مسن‌تر؛ در ازدواج اول این نسبت ۵٪ و ۷٪ است (Pew Research Center 2014)"
+  },
+  {
+    "k": "1qojjmee1ag",
+    "en": "In {0} husbands are on average about {1} years older than their wives; a gap like this is not unusual (UN World Marriage Data, DHS)",
+    "fa": "در {0} شوهران به‌طور میانگین حدود {1} سال از همسرانشان مسن‌ترند؛ چنین فاصله‌ای عادی نیست (UN World Marriage Data، DHS)"
+  },
+  {
+    "k": "1k0gihj1015",
+    "en": "In {0} the average age gap in a couple is about {1} years; a gap this wide is not common (UN World Marriage Data)",
+    "fa": "در {0} میانگین فاصلهٔ سنی زوج حدود {1} سال است؛ فاصلهٔ به این گستردگی رایج نیست (UN World Marriage Data)"
+  },
+  {
+    "k": "2blra2ivi7p",
+    "en": "Marriage agencies grade their members by work, schooling and family means and match people of the same grade. Few introductions end in marriage",
+    "fa": "آژانس‌های ازدواج اعضا را بر اساس کار، تحصیل و وضع مالی رتبه‌بندی می‌کنند و افراد هم‌رتبه را به هم معرفی می‌کنند. اندکی از معرفی‌ها به ازدواج می‌انجامد"
+  },
+  {
+    "k": "65n0tpp0r1",
+    "en": "Matchmakers and marriage bureaus mostly match people of similar family, schooling and means",
+    "fa": "واسطان و دفاتر ازدواج بیشتر افراد با خانواده، تحصیل و وضع مالی مشابه را به هم می‌رسانند"
+  },
+  {
+    "k": "znibz6l55l",
+    "en": "In the US, four in ten new marriages include at least one partner who has been married before (Pew Research Center 2014)",
+    "fa": "در آمریکا چهار از هر ده ازدواج تازه حداقل یکی از طرفین پیش‌تر ازدواج کرده است (Pew Research Center 2014)"
+  },
+  {
+    "k": "2clezb90h2j",
+    "en": "The average age at first marriage for men in {0} is estimated at about {1}",
+    "fa": "میانگین سن ازدواج اول برای مردان در {0} حدود {1} برآورد می‌شود"
+  },
+  {
+    "k": "l0k2ndm3rs",
+    "en": "The average age at first marriage for women in {0} is estimated at about {1}",
+    "fa": "میانگین سن ازدواج اول برای زنان در {0} حدود {1} برآورد می‌شود"
+  },
+  {
+    "k": "x7fcz7mbv8",
+    "en": "See where it goes",
+    "fa": "ببینید به کجا می‌رسد"
+  },
+  {
+    "k": "50lzk13qhp",
+    "en": "Time to get to know each other · marriage can wait",
+    "fa": "وقت شناخت یکدیگر · ازدواج می‌تواند صبر کند"
+  },
+  {
+    "k": "2abr8uy7kh5",
+    "en": "Your heart isn't in it",
+    "fa": "دلتان با آن نیست"
+  },
+  {
+    "k": "1e7nfk1d8ij",
+    "en": "Against their family's wishes",
+    "fa": "خلاف میل خانوادهٔ آنان"
+  },
+  {
+    "k": "25kuvovio50",
+    "en": "Get to know them better first",
+    "fa": "اول بیشتر بشناسیدشان"
+  },
+  {
+    "k": "9ndarer7hc",
+    "en": "Just date for now",
+    "fa": "فعلاً فقط قرار بگذارید"
+  },
+  {
+    "k": "29w2zfad1uv",
+    "en": "Put off the decision",
+    "fa": "تصمیم را به تأخیر بیندازید"
+  },
+  {
+    "k": "6g7cdx3gpe",
+    "en": "Say no",
+    "fa": "نه بگویید"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "k": "11diz07iyft",
+    "en": "Finding work in a new country",
+    "fa": "کار پیدا کردن در کشور جدید"
+  },
+  {
+    "k": "1okl2fpdiz4",
+    "en": "Choose a new job",
+    "fa": "کار جدید انتخاب کنید"
+  },
+  {
+    "k": "jqv1lz9csf",
+    "en": "In {0}, about {1} of workers are estimated to be in informal employment (ILO-based estimate) · {2}% work in agriculture",
+    "fa": "در {0}، حدود {1} از کارگران برآورد می‌شود در اشتغال غیررسمی باشند (برآورد مبتنی بر ILO) · {2}٪ در کشاورزی کار می‌کنند"
+  },
+  {
+    "k": "1kl11lllve3",
+    "en": "You decided to wait a little longer.",
+    "fa": "تصمیم گرفتید کمی بیشتر صبر کنید."
+  },
+  {
+    "k": "1fjd30nqgav",
+    "en": "You took on the housework and childcare.",
+    "fa": "کارهای خانه و نگهداری از بچه را بر عهده گرفتید."
+  },
+  {
+    "k": "qvv6o756pz",
+    "en": "You decided to stay home and help with the housework.",
+    "fa": "تصمیم گرفتید در خانه بمانید و در کارهای خانه کمک کنید."
+  },
+  {
+    "k": "1ahxiteg62l",
+    "en": "The state assigned you to work as a {0}.",
+    "fa": "دولت شما را برای کار به عنوان {0} واگذار کرد."
+  },
+  {
+    "k": "1riztprwgcw",
+    "en": "The state assigned you your first post, as a {0}.",
+    "fa": "دولت اولین پست شما را به عنوان {0} واگذار کرد."
+  },
+  {
+    "k": "guqx3kf2nu",
+    "en": "University graduates had to work where they were assigned for three years.",
+    "fa": "فارغ‌التحصیلان دانشگاه باید سه سال آنجا که واگذار شده بودند کار کنند."
+  },
+  {
+    "k": "1kmn3884x6e",
+    "en": "In China at that time the state assigned most university graduates their jobs ('unified allocation')",
+    "fa": "در آن زمان در چین دولت بیشتر فارغ‌التحصیلان دانشگاه را به کار واگذار می‌کرد («تخصیص یکپارچه»)"
+  },
+  {
+    "k": "1fi6csmzbuc",
+    "en": "You started working as a {0}.",
+    "fa": "به عنوان {0} کار را شروع کردید."
+  },
+  {
+    "k": "15dsr13v6wd",
+    "en": "For the first few weeks a job coach was beside you as you learned the work.",
+    "fa": "چند هفته اول مربی شغلی کنار شما بود و کار را یاد می‌گرفتید."
+  },
+  {
+    "k": "llz02ebsgc",
+    "en": "You looked for another job, but found nothing better than the one you have.",
+    "fa": "به دنبال کار دیگری گشتید، اما چیزی بهتر از کار فعلی پیدا نکردید."
+  },
+  {
+    "k": "1hi2f6oiq0r",
+    "en": "Your job search has brought offers. You've been working as a {0} for {1} years.",
+    "fa": "جستجوی کار پیشنهادهایی آورد. {1} سال است به عنوان {0} کار می‌کنید."
+  },
+  {
+    "k": "1cqdkuhre4c",
+    "en": "Someone saw the coding you taught yourself night after night and offered you a developer job. Right now you work as a {0}.",
+    "fa": "کسی کدنویسی خودآموزی شبانه‌تان را دید و شغل توسعه‌دهنده پیشنهاد داد. الان به عنوان {0} کار می‌کنید."
+  },
+  {
+    "k": "di5w5pfmdt",
+    "en": "Now that you have a bachelor's degree, a new job offer has come in. Right now you work as a {0}.",
+    "fa": "حالا که مدرک کارشناسی دارید، پیشنهاد شغل تازه‌ای آمده. الان به عنوان {0} کار می‌کنید."
+  },
+  {
+    "k": "1cgon2p43s1",
+    "en": "You've been working as a {0} for {1} years here, and in this line of work for {2} years in all. Another job offer has come in.",
+    "fa": "{1} سال است اینجا به عنوان {0} کار می‌کنید و در این رشته در مجموع {2} سال. پیشنهاد شغل دیگری آمده."
+  },
+  {
+    "k": "1e14zsn9ei2",
+    "en": "You've been working as a {0} for {1} years. Another job offer has come in.",
+    "fa": "{1} سال است به عنوان {0} کار می‌کنید. پیشنهاد شغل دیگری آمده."
+  },
+  {
+    "k": "116waz19vlh",
+    "en": "Moving on means leaving the company to a new chief executive.",
+    "fa": "رفتن یعنی ترک شرکت برای مدیرعامل جدید."
+  },
+  {
+    "k": "zojux4473e",
+    "en": "Moving on means selling or closing the {0} you run.",
+    "fa": "رفتن یعنی فروختن یا بستن {0}ای که اداره می‌کنید."
+  },
+  {
+    "k": "oktxjzmy2y",
+    "en": "Job offers",
+    "fa": "پیشنهادهای شغلی"
+  },
+  {
+    "k": "18kitcadgb5",
+    "en": "A door self-study opened",
+    "fa": "دری که خودآموزی باز کرد"
+  },
+  {
+    "k": "ww88i0894o",
+    "en": "A door your degree opened",
+    "fa": "دری که مدرکتان باز کرد"
+  },
+  {
+    "k": "1gc4bkgz3xb",
+    "en": "A new offer",
+    "fa": "پیشنهاد تازه"
+  },
+  {
+    "k": "59hdst2seh",
+    "en": "Current income: {0} a year · {1} a month in US terms",
+    "fa": "درآمد فعلی: {0} در سال · {1} در ماه به معیار آمریکا"
+  },
+  {
+    "k": "123e04x3jkj",
+    "en": "Same work, a new employer",
+    "fa": "همان کار، کارفرمای جدید"
+  },
+  {
+    "k": "1g55aqaj12q",
+    "en": "{0} · {1} · {2}% more than now",
+    "fa": "{0} · {1} · {2}٪ بیشتر از الان"
+  },
+  {
+    "k": "6ielx9m8af",
+    "en": "Work as a {0} instead",
+    "fa": "به جای آن به عنوان {0} کار کنید"
+  },
+  {
+    "k": "1vhnttfvbhm",
+    "en": "Stay in your current job",
+    "fa": "در کار فعلی بمانید"
+  },
+  {
+    "k": "1ozwnmr5y2q",
+    "en": "Keep building experience",
+    "fa": "به جمع‌آوری تجربه ادامه دهید"
+  },
+  {
+    "k": "1qdqeaoq57m",
+    "en": "You moved to a new employer on better terms. You still work as a {0}.",
+    "fa": "با شرایط بهتر به کارفرمای جدید رفتید. هنوز به عنوان {0} کار می‌کنید."
+  },
+  {
+    "k": "2a2cv3p7336",
+    "en": "You changed jobs and now work as a {0}.",
+    "fa": "شغل عوض کردید و حالا به عنوان {0} کار می‌کنید."
+  },
+  {
+    "k": "16080mvds5t",
+    "en": "Parole hearing",
+    "fa": "جلسه آزادی مشروط"
+  },
+  {
+    "k": "102kro56ays",
+    "en": "You have served half your sentence, with about {0} years left. You can go before the parole board.",
+    "fa": "نیمی از حکم را گذرانده‌اید، حدود {0} سال مانده. می‌توانید جلوی هیئت آزادی مشروط بروید."
+  },
+  {
+    "k": "1uclovnnjqb",
+    "en": "People released from US state prisons in 2018 had served 44% of their sentence on average (US Bureau of Justice Statistics 2021)",
+    "fa": "افراد آزادشده از زندان‌های ایالتی آمریکا در ۲۰۱۸ به طور میانگین ۴۴٪ حکم خود را گذرانده بودند (US Bureau of Justice Statistics 2021)"
+  },
+  {
+    "k": "c4x8qdfi8m",
+    "en": "Write a statement and face the board",
+    "fa": "بیانیه بنویسید و جلوی هیئت بروید"
+  },
+  {
+    "k": "sz7313s4dm",
+    "en": "Depends on your record inside and your family's support",
+    "fa": "به سوابق داخل زندان و حمایت خانواده بستگی دارد"
+  },
+  {
+    "k": "12sbwcvbbq7",
+    "en": "Serve the full sentence",
+    "fa": "تمام حکم را بگذرانید"
+  },
+  {
+    "k": "1dzfd4jcvn1",
+    "en": "Parole was denied. You must serve the rest of your sentence.",
+    "fa": "آزادی مشروط رد شد. باید بقیه حکم را بگذرانید."
+  },
+  {
+    "k": "1oewu9a8lkl",
+    "en": "Parole was granted. After {0} years, you walked out of the prison gate.",
+    "fa": "آزادی مشروط داده شد. پس از {0} سال، از دروازه زندان بیرون آمدید."
+  },
+  {
+    "k": "1immo69neri",
+    "en": "Back to school?",
+    "fa": "برگشت به مدرسه؟"
+  },
+  {
+    "k": "1grk68pjn53",
+    "en": "You never went to school. While working, you could learn to read, write and count at night school, then sit the primary school exam.",
+    "fa": "هرگز به مدرسه نرفتید. حین کار می‌توانستید شب‌مدرسه خواندن، نوشتن و حساب یاد بگیرید، بعد در آزمون ابتدایی شرکت کنید."
+  },
+  {
+    "k": "2ewkvrf7t64",
+    "en": "You never finished {0}. While working, you could go to night school or prepare for an equivalency exam and earn the diploma.",
+    "fa": "{0} را تمام نکردید. حین کار می‌توانستید شب‌مدرسه بروید یا برای آزمون معادل آماده شوید و دیپلم بگیرید."
+  },
+  {
+    "k": "2ccrm4mk9ee",
+    "en": "Korea's equivalency exam (geomjeong gosi) is held twice a year and certifies primary, middle or high school completion (Ministry of Education)",
+    "fa": "آزمون معادل کره (geomjeong gosi) سالی دو بار برگزار می‌شود و اتمام ابتدایی، راهنمایی یا دبیرستان را تأیید می‌کند (وزارت آموزش)"
+  },
+  {
+    "k": "102ihehrkrb",
+    "en": "In the US and Canada, passing the GED counts the same as finishing high school",
+    "fa": "در ایالات متحده و کانادا، قبولی GED مانند تمام کردن دبیرستان است"
+  },
+  {
+    "k": "2a5uh9850qc",
+    "en": "In India, the National Institute of Open Schooling (NIOS) lets working people finish secondary school",
+    "fa": "در هند، موسسه ملی آموزش باز (NIOS) به افراد شاغل امکان تمام کردن دوره متوسطه را می‌دهد"
+  },
+  {
+    "k": "n28kssl1u3",
+    "en": "Many countries have night schools and equivalency exams for people who work (UNESCO Global Report on Adult Learning and Education)",
+    "fa": "بسیاری از کشورها شب‌مدرسه و آزمون معادل برای افراد شاغل دارند (UNESCO Global Report on Adult Learning and Education)"
+  },
+  {
+    "k": "17wobtkg5ik",
+    "en": "Try night school",
+    "fa": "شب‌مدرسه را امتحان کنید"
+  },
+  {
+    "k": "1yypxr3pppa",
+    "en": "1 year · about {0} · tiring",
+    "fa": "۱ سال · حدود {0} · خسته‌کننده"
+  },
+  {
+    "k": "2aiylmucw6y",
+    "en": "Focus on work for now",
+    "fa": "فعلاً روی کار تمرکز کنید"
+  },
+  {
+    "k": "wbzkljwoll",
+    "en": "The debt is not going down",
+    "fa": "بدهی کم نمی‌شود"
+  },
+  {
+    "k": "8j3q2ka8k0",
+    "en": "{0}'s pay alone cannot pay off the {1} you owe. Will you look for whatever work you can, trading or day labor?",
+    "fa": "حقوق {0} به تنهایی نمی‌تواند {1} بدهی را بپردازد. هر کاری که بتوانید، معامله یا کار روزمزد، جستجو می‌کنید؟"
+  },
+  {
+    "k": "279n36sr2b9",
+    "en": "About half of the world's women work or are looking for work. It varies widely: in South Asia and the Middle East, a little over one in four (ILO 2024)",
+    "fa": "حدود نیمی از زنان جهان کار می‌کنند یا دنبال کارند. تفاوت زیاد است: در جنوب آسیا و خاورمیانه، کمی بیش از یک چهارم (ILO 2024)"
+  },
+  {
+    "k": "ewkjnwrv01",
+    "en": "Look for work",
+    "fa": "کار پیدا کنید"
+  },
+  {
+    "k": "2a7s3v9qvbp",
+    "en": "Income ↑ · share the housework",
+    "fa": "درآمد ↑ · کارهای خانه را تقسیم کنید"
+  },
+  {
+    "k": "pbty0yb5gb",
+    "en": "Keep living as you are",
+    "fa": "همان‌طور زندگی کنید"
+  },
+  {
+    "k": "1hdxje7olok",
+    "en": "The debt stays",
+    "fa": "بدهی می‌ماند"
+  },
+  {
+    "k": "g6j9974zim",
+    "en": "Since your spouse {0} stopped working, no money comes in.",
+    "fa": "از وقتی همسرتان {0} کار را متوقف کرد، پولی نمی‌آید."
+  },
+  {
+    "k": "p2krv91vjf",
+    "en": "With your spouse {0} off work for treatment, no money comes in.",
+    "fa": "با توقف کار همسرتان {0} برای درمان، پولی نمی‌آید."
+  },
+  {
+    "k": "1oltfqg93bz",
+    "en": "With your spouse {0} off work to look after the children, no money comes in.",
+    "fa": "با توقف کار همسرتان {0} برای نگهداری از بچه‌ها، پولی نمی‌آید."
+  },
+  {
+    "k": "1xdv4uzceji",
+    "en": "Your spouse {0} has not found work here yet, and no money comes in.",
+    "fa": "همسرتان {0} هنوز اینجا کار پیدا نکرده و پولی نمی‌آید."
+  },
+  {
+    "k": "1i0stoou6j7",
+    "en": "Since your spouse {0} lost their job, no money comes in.",
+    "fa": "از وقتی همسرتان {0} شغلش را از دست داد، پولی نمی‌آید."
+  },
+  {
+    "k": "7gupa9v59g",
+    "en": "The household has no income",
+    "fa": "خانه درآمدی ندارد"
+  },
+  {
+    "k": "jwhsefa7gm",
+    "en": "Keeping house alone won't pay the bills.",
+    "fa": "خانه‌داری تنها قبض‌ها را نمی‌پردازد."
+  },
+  {
+    "k": "1emeyakq0xt",
+    "en": "When husbands lose their jobs, more wives start working, and more so in poorer countries (Bhalotra & Umaña-Aponte 2010)",
+    "fa": "وقتی شوهران شغلشان را از دست می‌دهند، زنان بیشتری کار می‌کنند، و در کشورهای فقیرتر بیشتر (Bhalotra & Umaña-Aponte 2010)"
+  },
+  {
+    "k": "1yjq7d3vox5",
+    "en": "Look for work again",
+    "fa": "دوباره کار پیدا کنید"
+  },
+  {
+    "k": "slt8irl65r",
+    "en": "Hold on a little longer",
+    "fa": "کمی بیشتر صبر کنید"
+  },
+  {
+    "k": "bzsrzwzuy9",
+    "en": "On savings and debt",
+    "fa": "با پس‌انداز و بدهی"
+  },
+  {
+    "k": "1zd4ki2zqp6",
+    "en": "You started looking for work to pay off the debt.",
+    "fa": "برای پرداخت بدهی به دنبال کار گشتید."
+  },
+  {
+    "k": "1gy5wiu68xv",
+    "en": "In {0}, about {1} of households are estimated to keep a dog or a cat (a rough figure based on APPA, FEDIAF, KB and GfK surveys)",
+    "fa": "در {0}، حدود {1} از خانوارها برآورد می‌شود سگ یا گربه نگه دارند (عدد تقریبی بر اساس نظرسنجی APPA، FEDIAF، KB و GfK)"
+  },
+  {
+    "k": "14ws6pwvixh",
+    "en": "I want a kitten",
+    "fa": "بچه‌گربه می‌خواهم"
+  },
+  {
+    "k": "vs0d2a0hm3",
+    "en": "I want a puppy",
+    "fa": "توله‌سگ می‌خواهم"
+  },
+  {
+    "k": "1n8jegqyjng",
+    "en": "Ever since you met a friend's kitten, you have been begging {0}.",
+    "fa": "از وقتی بچه‌گربه دوستتان را دیدید، مدام از {0} التماس می‌کنید."
+  },
+  {
+    "k": "bov48cyp7q",
+    "en": "Ever since you met a friend's puppy, you have been begging {0}.",
+    "fa": "از وقتی توله‌سگ دوستتان را دیدید، مدام از {0} التماس می‌کنید."
+  },
+  {
+    "k": "1b200eq60ve",
+    "en": "Keep begging",
+    "fa": "ادامه التماس"
+  },
+  {
+    "k": "ichtgle0dd",
+    "en": "Whether they say yes depends on what the family can afford",
+    "fa": "بله گفتن به آنچه خانواده می‌تواند بپردازد بستگی دارد"
+  },
+  {
+    "k": "2d20za952ak",
+    "en": "Let it go",
+    "fa": "رها کنید"
+  },
+  {
+    "k": "2002gfwqxsa",
+    "en": "Take in a pet?",
+    "fa": "حیوان خانگی بگیرید؟"
+  },
+  {
+    "k": "1nxlnhgohba",
+    "en": "For days now, {0} has been begging for a kitten.",
+    "fa": "چند روز است {0} برای بچه‌گربه التماس می‌کند."
+  },
+  {
+    "k": "1xbb3o2fay",
+    "en": "For days now, {0} has been begging for a puppy.",
+    "fa": "چند روز است {0} برای توله‌سگ التماس می‌کند."
+  },
+  {
+    "k": "22i66s8ypoz",
+    "en": "The neighbours' new litter is looking for homes.",
+    "fa": "بچه‌های تازه همسایه‌ها دنبال خانه‌اند."
+  },
+  {
+    "k": "2fuos7pri7c",
+    "en": "At the shelter you saw animals waiting for a family.",
+    "fa": "در پناهگاه حیوانی دیدید که منتظر خانواده‌اند."
+  },
+  {
+    "k": "105s6fxrfrm",
+    "en": "You keep thinking about a stray cat you often see around the neighbourhood.",
+    "fa": "مدام به گربه ولگردی فکر می‌کنید که اغلب در محله می‌بینید."
+  },
+  {
+    "k": "1uxwv2qcenm",
+    "en": "Take in a dog",
+    "fa": "سگ بگیرید"
+  },
+  {
+    "k": "1byedgkq3ga",
+    "en": "About {0} a year · 10-15 years together",
+    "fa": "حدود {0} در سال · ۱۰–۱۵ سال کنار هم"
+  },
+  {
+    "k": "20xbtlqr3kc",
+    "en": "Take in a cat",
+    "fa": "گربه بگیرید"
+  },
+  {
+    "k": "1stnhvdmcct",
+    "en": "About {0} a year · 12-18 years together",
+    "fa": "حدود {0} در سال · ۱۲–۱۸ سال کنار هم"
+  },
+  {
+    "k": "smvvodwigu",
+    "en": "Not now",
+    "fa": "الان نه"
+  },
+  {
+    "k": "22f4gwpwtwu",
+    "en": "{0} said not yet.",
+    "fa": "{0} گفت هنوز نه."
+  },
+  {
+    "k": "10xgh0btsh4",
+    "en": "Taking a dog out on the streets or into the parks was banned, so walks stayed near home, at hours when few people were about.",
+    "fa": "بردن سگ به خیابان یا پارک ممنوع شد، پس پیاده‌روی‌ها نزدیک خانه و در ساعتی که مردم کم بودند ماند."
+  },
+  {
+    "k": "27evqj4wnjt",
+    "en": "In Iran, Tehran's police stopped dog walking in public places in 2019, and by 2025 the ban had spread to at least 18 cities. No national law forbids keeping a dog at home (RFE/RL 2025)",
+    "fa": "در ایران، پلیس تهران در ۲۰۱۹ پیاده‌روی سگ در مکان‌های عمومی را متوقف کرد و تا ۲۰۲۵ ممنوعیت حداقل به ۱۸ شهر رسید. قانون ملی نگه داشتن سگ در خانه را ممنوع نمی‌کند (RFE/RL 2025)"
+  },
+  {
+    "k": "1h7ryxujg4s",
+    "en": "{0} is ill",
+    "fa": "{0} بیمار است"
+  },
+  {
+    "k": "1ldq29fzmkw",
+    "en": "At {0}, {1} has not eaten for days. The vet says treatment might help.",
+    "fa": "در {0}، {1} چند روز است نخورده. دامپزشک می‌گوید درمان ممکن است کمک کند."
+  },
+  {
+    "k": "1zekybz4jmp",
+    "en": "Treat",
+    "fa": "درمان کنید"
+  },
+  {
+    "k": "35t9ae8d0e",
+    "en": "Your parents pay the vet, about {0} · it may help, it may not",
+    "fa": "والدین دامپزشک را می‌پردازند، حدود {0} · ممکن است کمک کند، ممکن است نه"
+  },
+  {
+    "k": "nk44xqfgo",
+    "en": "About {0} · it may help, it may not",
+    "fa": "حدود {0} · ممکن است کمک کند، ممکن است نه"
+  },
+  {
+    "k": "1x8dz3mgfr2",
+    "en": "Stay close and let go gently",
+    "fa": "نزدیک بمانید و آرام رهایش کنید"
+  },
+  {
+    "k": "1kspx9b8jgr",
+    "en": "Your parents paid the vet, and after treatment {0} was full of life again.",
+    "fa": "والدین دامپزشک را پرداختند و پس از درمان {0} دوباره پرانرژی شد."
+  },
+  {
+    "k": "9og40buck9",
+    "en": "After treatment, {0} was full of life again. (−{1})",
+    "fa": "پس از درمان، {0} دوباره پرانرژی شد. (−{1})"
+  },
+  {
+    "k": "270yeknj8ug",
+    "en": "Your parents paid the vet, but {0} passed away.",
+    "fa": "والدین دامپزشک را پرداختند، اما {0} از دنیا رفت."
+  }
+]

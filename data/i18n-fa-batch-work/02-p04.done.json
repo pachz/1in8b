@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1q5qhd9v4xf",
+    "en": "You applied to the court for guardianship and went on raising {0}.",
+    "fa": "برای قیمومیت به دادگاه درخواست دادید و {0} را بزرگ کردید."
+  },
+  {
+    "k": "25d3e92ozfl",
+    "en": "{0} stayed on with you.",
+    "fa": "{0} نزد شما ماند."
+  },
+  {
+    "k": "wi04g84ist",
+    "en": "{0} started working as ⁠{1}, the childhood dream come true.",
+    "fa": "{0} شروع به کار به‌عنوان ⁠{1} کرد؛ آرزوی دوران کودکی."
+  },
+  {
+    "k": "1au5rc1qpzy",
+    "en": "{0} finished university and started work as ⁠{1}.",
+    "fa": "{0} دانشگاه را تمام کرد و کار را به‌عنوان ⁠{1} شروع کرد."
+  },
+  {
+    "k": "1q4ki75db5f",
+    "en": "{0} works as ⁠{1}.",
+    "fa": "{0} به‌عنوان ⁠{1} کار می‌کند."
+  },
+  {
+    "k": "1dk74h2ow0z",
+    "en": "At home",
+    "fa": "در خانه"
+  },
+  {
+    "k": "1v30bhoow1c",
+    "en": "married{0}",
+    "fa": "متأهل{0}"
+  },
+  {
+    "k": "xjf33sr8yh",
+    "en": "Separated{0}",
+    "fa": "جدا{0}"
+  },
+  {
+    "k": "13st7yseyv0",
+    "en": "divorced{0}",
+    "fa": "طلاق‌گرفته{0}"
+  },
+  {
+    "k": "1rci309euk4",
+    "en": "lives with a partner",
+    "fa": "با شریک زندگی"
+  },
+  {
+    "k": "29p854171c6",
+    "en": "one child",
+    "fa": "یک فرزند"
+  },
+  {
+    "k": "1svdclwytl5",
+    "en": "{0} children",
+    "fa": "{0} فرزند"
+  },
+  {
+    "k": "1ja8tbcuojb",
+    "en": "in prison",
+    "fa": "در زندان"
+  },
+  {
+    "k": "185vq39po1y",
+    "en": "living with your parents back home",
+    "fa": "با والدین در زادگاه"
+  },
+  {
+    "k": "uq3qdiyc3n",
+    "en": "living with your mother back home",
+    "fa": "با مادر در زادگاه"
+  },
+  {
+    "k": "1x8t91twwcu",
+    "en": "living with your father back home",
+    "fa": "با پدر در زادگاه"
+  },
+  {
+    "k": "10go9pefv3j",
+    "en": "lives with you",
+    "fa": "با شما"
+  },
+  {
+    "k": "211eu7rkttr",
+    "en": "living with {0}",
+    "fa": "با {0}"
+  },
+  {
+    "k": "1vwfnyrg0q0",
+    "en": "living with a foster family",
+    "fa": "با خانواده پرورشی"
+  },
+  {
+    "k": "umgmlkxsvw",
+    "en": "living in a children's home",
+    "fa": "در خانه کودکان"
+  },
+  {
+    "k": "plllxpowzr",
+    "en": "waiting in {0}",
+    "fa": "در انتظار در {0}"
+  },
+  {
+    "k": "1l9u4phhtf3",
+    "en": "lives with their birth father",
+    "fa": "با پدر زاده‌اش"
+  },
+  {
+    "k": "1pwrgpntgq1",
+    "en": "lives with their birth mother",
+    "fa": "با مادر زاده‌اش"
+  },
+  {
+    "k": "28qlvkbhzij",
+    "en": "lives with the other parent in {0}",
+    "fa": "با والد دیگر در {0}"
+  },
+  {
+    "k": "7j3n4xaili",
+    "en": "lives with their father in {0}",
+    "fa": "با پدرش در {0}"
+  },
+  {
+    "k": "1wvccasc67t",
+    "en": "lives with their mother in {0}",
+    "fa": "با مادرش در {0}"
+  },
+  {
+    "k": "gai8rtq95r",
+    "en": "lives with the other parent",
+    "fa": "با والد دیگر"
+  },
+  {
+    "k": "2b8oz00iqso",
+    "en": "lives with their father",
+    "fa": "با پدرش"
+  },
+  {
+    "k": "11zzwn7rhcz",
+    "en": "lives with their mother",
+    "fa": "با مادرش"
+  },
+  {
+    "k": "1rf67cui0tx",
+    "en": "lives in {0}",
+    "fa": "در {0} زندگی می‌کند"
+  },
+  {
+    "k": "1uy1cylaw5l",
+    "en": "lives nearby",
+    "fa": "نزدیک"
+  },
+  {
+    "k": "1c6nluo4dmg",
+    "en": "lives in another village",
+    "fa": "در روستای دیگر"
+  },
+  {
+    "k": "xkjd3gsw7",
+    "en": "lives elsewhere",
+    "fa": "جای دیگر"
+  },
+  {
+    "k": "52n0w4f3rk",
+    "en": "You left the care home and moved into the new one.",
+    "fa": "خانه مراقبت را ترک کردید و به خانه جدید رفتید."
+  },
+  {
+    "k": "1zztdu4736d",
+    "en": "You moved out of your in-laws' home into the new one.",
+    "fa": "از خانه خانواده همسر به خانه جدید نقل مکان کردید."
+  },
+  {
+    "k": "1viw6ablmd6",
+    "en": "You moved out of {0} into the new one.",
+    "fa": "از {0} به خانه جدید نقل مکان کردید."
+  },
+  {
+    "k": "1zbik1x8jve",
+    "en": "You packed your things and moved back into {0}. For the first time in years you ate a meal your mother had made.",
+    "fa": "وسایلتان را بستید و به {0} برگشتید. برای اولین بار پس از سال‌ها غذایی که مادرتان پخته بود خوردید."
+  },
+  {
+    "k": "20ag3xenh1y",
+    "en": "You packed your things and moved back into {0}. Your father had quietly cleared out your old room.",
+    "fa": "وسایلتان را بستید و به {0} برگشتید. پدرتان آرام اتاق قدیمی‌تان را خالی کرده بود."
+  },
+  {
+    "k": "1txnd0gkvqc",
+    "en": "You moved out of {0} and set up a home of your own as a couple.",
+    "fa": "از {0} بیرون آمدید و به‌عنوان زوج خانه خودتان را راه انداختید."
+  },
+  {
+    "k": "21ezfaajc2b",
+    "en": "You moved out of {0} and set up a place of your own for the first time.",
+    "fa": "از {0} بیرون آمدید و برای اولین بار جایی برای خودتان راه انداختید."
+  },
+  {
+    "k": "28qkplamgml",
+    "en": "Former spouse",
+    "fa": "همسر سابق"
+  },
+  {
+    "k": "1tf1yq4syoh",
+    "en": "{0} turned {1}, and under {2}'s family law went to live with {3}.",
+    "fa": "{0} {1} ساله شد و طبق قانون خانواده {2} نزد {3} رفت."
+  },
+  {
+    "k": "13asispx6cm",
+    "en": "You visit often.",
+    "fa": "اغلب سر می‌زنید."
+  },
+  {
+    "k": "2b149mrh6oo",
+    "en": "{0} turned {1}, and under {2}'s family law came to live with you.",
+    "fa": "{0} {1} ساله شد و طبق قانون خانواده {2} نزد شما آمد."
+  },
+  {
+    "k": "1og9xv9plr7",
+    "en": "Under Sudan's Muslim Personal Status Act of 1991, young children stay with their mother after a divorce, and custody passes to the father when a son turns 7 and a daughter 9. Guardianship and the children's support stay with the father (OECD SIGI 2019)",
+    "fa": "طبق قانون وضعیت شخصی مسلمانان سودان ۱۹۹۱، کودکان خردسال پس از طلاق نزد مادر می‌مانند و حضانت پسر در ۷ سالگی و دختر در ۹ سالگی به پدر می‌رسد. قیمومت و نفقه کودکان با پدر است (OECD SIGI 2019)"
+  },
+  {
+    "k": "w5zwaimt92",
+    "en": "Where Islamic family law applies, young children usually stay with their mother while legal guardianship often stays with the father. Where children grow up varies widely by country and family custom",
+    "fa": "جایی که قانون خانواده اسلامی جاری است، کودکان خردسال معمولاً نزد مادر می‌مانند و قیمومت قانونی اغلب با پدر است. محل بزرگ شدن کودکان بسته به کشور و رسم خانواده بسیار متفاوت است"
+  },
+  {
+    "k": "hldy4p4y4k",
+    "en": "In South Asia the father is often seen as the legal guardian, but young children usually stay with their mother (India's Hindu Minority and Guardianship Act: usually the mother until age five)",
+    "fa": "در جنوب آسیا پدر اغلب قیم قانونی دیده می‌شود، اما کودکان خردسال معمولاً نزد مادر می‌مانند (قانون اقلیت هندو و قیمومت هند: معمولاً مادر تا پنج سالگی)"
+  },
+  {
+    "k": "cerpit4boh",
+    "en": "In much of Africa custom says children belong to the father's family, yet more of them actually live with their mother",
+    "fa": "در بخش بزرگی از آفریقا رسم می‌گوید کودکان به خانواده پدر تعلق دارند، اما بیشترشان در عمل نزد مادر زندگی می‌کنند"
+  },
+  {
+    "k": "1nm0zsmduzb",
+    "en": "In Korea about 78% of single parents aged 20 to 39 raising children alone are mothers (Statistics Korea, young single-parent households 2023)",
+    "fa": "در کره حدود ۷۸٪ والدین تنهای ۲۰ تا ۳۹ ساله که تنها فرزندان را بزرگ می‌کنند مادرند (آمار کره، خانوارهای تک‌والد جوان ۲۰۲۳)"
+  },
+  {
+    "k": "1glnvsqtjcv",
+    "en": "In Japan about 85% of divorcing couples give the mother parental authority over all the children (Ministry of Health, Labour and Welfare, Vital Statistics). From April 2026 couples can also choose joint parental authority",
+    "fa": "در ژاپن حدود ۸۵٪ زوج‌های در حال طلاق به مادر حقوق اختیار والدین همه فرزندان را می‌دهند (وزارت بهداشت، کار و رفاه، آمار حیاتی). از آوریل ۲۰۲۶ زوج‌ها می‌توانند اختیار والدین مشترک را هم انتخاب کنند"
+  },
+  {
+    "k": "24bgiofeo9e",
+    "en": "In Japan about 85% of divorcing couples give the mother parental authority over all the children (Ministry of Health, Labour and Welfare, Vital Statistics)",
+    "fa": "در ژاپن حدود ۸۵٪ زوج‌های در حال طلاق به مادر حقوق اختیار والدین همه فرزندان را می‌دهند (وزارت بهداشت، کار و رفاه، آمار حیاتی)"
+  },
+  {
+    "k": "vw7al2qxhb",
+    "en": "In the US about 80% of custodial parents of children whose parents live apart are mothers (US Census Bureau 2020)",
+    "fa": "در آمریکا حدود ۸۰٪ والدین حضانت کودکانی که والدینشان جدا زندگی می‌کنند مادرند (سرشماری آمریکا ۲۰۲۰)"
+  },
+  {
+    "k": "5w777useiz",
+    "en": "Of Canadian children whose parents separated, about 70% live mainly with their mother, 15% with their father, and 9% split their time equally (Statistics Canada 2011)",
+    "fa": "از کودکان کانادایی که والدینشان جدا شده‌اند، حدود ۷۰٪ بیشتر با مادر، ۱۵٪ با پدر و ۹٪ زمان را مساوی تقسیم می‌کنند (Statistics Canada 2011)"
+  },
+  {
+    "k": "1vm4whnq0i1",
+    "en": "Children whose parents separate mostly live with their mother. In Canada and the US 70-80% live mainly with their mother, one or two in ten with their father, and the rest move between two homes (Statistics Canada 2011, US Census Bureau 2020)",
+    "fa": "کودکانی که والدینشان جدا می‌شوند بیشتر نزد مادر زندگی می‌کنند. در کانادا و آمریکا ۷۰–۸۰٪ بیشتر با مادر، یک یا دو از هر ده با پدر و بقیه بین دو خانه جابه‌جا می‌شوند (Statistics Canada 2011، US Census Bureau 2020)"
+  },
+  {
+    "k": "ezm1vbkmi2",
+    "en": "the children",
+    "fa": "فرزندان"
+  },
+  {
+    "k": "10vje9x449t",
+    "en": "After long talks with {0}, you agreed that {1} would come back to live with you. Setting up the child's room again, your heart was full.",
+    "fa": "پس از گفت‌وگوهای طولانی با {0}، توافق کردید {1} دوباره نزد شما بیاید. وقتی اتاق بچه را دوباره چیدید، دلتان پر بود."
+  },
+  {
+    "k": "1oqjo7kyd45",
+    "en": "Custody court costs",
+    "fa": "هزینه‌های دادگاه حضانت"
+  },
+  {
+    "k": "11ddzzwtgbz",
+    "en": "{0} refused, so you asked the court to change custody. The court found it better for {1} to live with you. (−{2})",
+    "fa": "{0} نپذیرفت، پس از دادگاه خواستید حضانت عوض شود. دادگاه یافت بهتر است {1} نزد شما بماند. (−{2})"
+  },
+  {
+    "k": "2bsyn3afoht",
+    "en": "{0} refused, so you asked the court to change custody, but the court found it better for the child to stay as things are. You resolved to treasure your weekends together all the more. (−{1})",
+    "fa": "{0} نپذیرفت، پس از دادگاه خواستید حضانت عوض شود، اما دادگاه یافت بهتر است وضعیت همان بماند. عهد کردید آخر هفته‌ها را گرامی‌تر بدارید. (−{1})"
+  },
+  {
+    "k": "1ddnm2v02i6",
+    "en": "You started looking for work again to make ends meet.",
+    "fa": "دوباره به دنبال کار رفتید تا گذران کنید."
+  },
+  {
+    "k": "2bntdu3lghh",
+    "en": "You live on a survivor's pension from your late spouse and your own pension.",
+    "fa": "با مستمری بازمانده همسر فوت‌شده و مستمری خود زندگی می‌کنید."
+  },
+  {
+    "k": "20876dsmv2k",
+    "en": "You live on your pension.",
+    "fa": "با مستمری خود زندگی می‌کنید."
+  },
+  {
+    "k": "11xbl0hzs36",
+    "en": "{0} set up a home of their own again and moved out.",
+    "fa": "{0} دوباره خانه خودش را راه انداخت و بیرون رفت."
+  },
+  {
+    "k": "qxjmu6q2fa",
+    "en": "{0} became a {1} at work. That evening, everyone celebrated together at the dinner table.",
+    "fa": "{0} در کار {1} شد. آن شب همه دور میز شام جشن گرفتند."
+  },
+  {
+    "k": "1ej2r4yde3z",
+    "en": "You heard that {0} had become a {1} at work.",
+    "fa": "شنیدید {0} در کار {1} شده است."
+  },
+  {
+    "k": "1cyw5awsokw",
+    "en": "You heard that {0} had bought a home in {1}.",
+    "fa": "شنیدید {0} در {1} خانه خریده است."
+  },
+  {
+    "k": "20s6ep1a0me",
+    "en": "{0} bought a home. At the housewarming you looked around it for a long time.",
+    "fa": "{0} خانه خرید. در مهمانی خانه‌نو شما مدت‌ها دورش گشتید."
+  },
+  {
+    "k": "1svxooz2uy9",
+    "en": "{0} separated from their spouse and came to live with you for a while. What you could give was a warm meal.",
+    "fa": "{0} از همسرش جدا شد و مدتی نزد شما آمد. آنچه می‌توانستید بدهید یک وعده گرم بود."
+  },
+  {
+    "k": "1rhbpp2ljo9",
+    "en": "{0} divorced and came to live with you for a while. What you could give was a warm meal.",
+    "fa": "{0} طلاق گرفت و مدتی نزد شما آمد. آنچه می‌توانستید بدهید یک وعده گرم بود."
+  },
+  {
+    "k": "1og3pzn7ts9",
+    "en": "{0} separated from their spouse. There was little you could do, and your heart was heavy.",
+    "fa": "{0} از همسرش جدا شد. کاری از دستتان برنمی‌آمد و دلتان سنگین بود."
+  },
+  {
+    "k": "gal9d98lbp",
+    "en": "{0} divorced. There was little you could do, and your heart was heavy.",
+    "fa": "{0} طلاق گرفت. کاری از دستتان برنمی‌آمد و دلتان سنگین بود."
+  },
+  {
+    "k": "xwysd7lsxv",
+    "en": "{0} married the child's mother, and the child now lives with them.",
+    "fa": "{0} با مادر کودک ازدواج کرد و کودک اکنون با آن‌هاست."
+  },
+  {
+    "k": "6k9iuo5of6",
+    "en": "{0} married again, a quiet ceremony with only those closest.",
+    "fa": "{0} دوباره ازدواج کرد؛ مراسمی آرام فقط با نزدیک‌ترین‌ها."
+  },
+  {
+    "k": "1n6xd71vbou",
+    "en": "{0} retired. You could hardly believe your child was old enough to retire.",
+    "fa": "{0} بازنشسته شد. باور نمی‌کردید فرزندتان آنقدر پیر شده که بازنشسته شود."
+  },
+  {
+    "k": "10lm25uihsg",
+    "en": "{0}'s daughter",
+    "fa": "دختر {0}"
+  },
+  {
+    "k": "1cg9s2bets8",
+    "en": "{0}'s son",
+    "fa": "پسر {0}"
+  },
+  {
+    "k": "237f4prbzzf",
+    "en": "Gifts for the grandchildren",
+    "fa": "هدایای نوه‌ها"
+  },
+  {
+    "k": "10ppj4sw493",
+    "en": "{1}, who lives in {0}, started school. You sent your congratulations from afar.",
+    "fa": "{1} که در {0} زندگی می‌کند مدرسه را شروع کرد. از دور تبریک فرستادید."
+  },
+  {
+    "k": "2eqv82i8ihd",
+    "en": "{0} started school. You gave your congratulations instead of a gift.",
+    "fa": "{0} مدرسه را شروع کرد. به‌جای هدیه تبریک گفتید."
+  },
+  {
+    "k": "og0utmao2a",
+    "en": "{1}, who lives in {0}, started school. You bought a school bag and sent it.",
+    "fa": "{1} که در {0} زندگی می‌کند مدرسه را شروع کرد. کیف مدرسه خریدید و فرستادید."
+  },
+  {
+    "k": "28lc2ot7gdl",
+    "en": "{0} started elementary school. You bought a randoseru school backpack as a gift.",
+    "fa": "{0} دبستان را شروع کرد. به هدیه کوله پشتی randoseru خریدید."
+  },
+  {
+    "k": "skwpaunu47",
+    "en": "{0} started school. You bought a school bag.",
+    "fa": "{0} مدرسه را شروع کرد. کیف مدرسه خریدید."
+  },
+  {
+    "k": "n583ta7sz0",
+    "en": "You pressed a little money into their hand to celebrate.",
+    "fa": "برای تبریک کمی پول در دستشان گذاشتید."
+  },
+  {
+    "k": "1v3cu60zr3t",
+    "en": "That evening, everyone celebrated together.",
+    "fa": "آن شب همه با هم جشن گرفتند."
+  },
+  {
+    "k": "1vrg0o380yl",
+    "en": "{0} got into university, and you sent a card with a gift.",
+    "fa": "{0} به دانشگاه راه یافت و کارت با هدیه فرستادید."
+  },
+  {
+    "k": "1zkfhe7rqsq",
+    "en": "You heard that {0} got into university.",
+    "fa": "شنیدید {0} به دانشگاه راه یافته است."
+  },
+  {
+    "k": "28oznii7i6g",
+    "en": "{1}, who lives in {0}, got their first pay and sent you a present.",
+    "fa": "{1} که در {0} زندگی می‌کند اولین حقوقش را گرفت و برای شما هدیه فرستاد."
+  },
+  {
+    "k": "1tswlfgcudu",
+    "en": "{0} bought you thermal underwear with their first pay, as is the custom.",
+    "fa": "{0} با اولین حقوقش طبق رسم برایتان لباس زیر گرم خرید."
+  },
+  {
+    "k": "1r4yw1n0u8k",
+    "en": "{0} got their first pay and took you out to dinner.",
+    "fa": "{0} با اولین حقوقش شما را به شام برد."
+  },
+  {
+    "k": "rvicgwrt05",
+    "en": "A grandchild's wedding gift",
+    "fa": "هدیه عروسی نوه"
+  },
+  {
+    "k": "26i0pwm14qa",
+    "en": "You went to the wedding of {0}. You had never thought you would see a grandchild marry.",
+    "fa": "به عروسی {0} رفتید. هرگز فکر نمی‌کردید نوه‌ای ازدواج کند ببینید."
+  },
+  {
+    "k": "ly7cvweioe",
+    "en": "You flew to {0} for the wedding of {1}. You had never thought you would see a grandchild marry.",
+    "fa": "برای عروسی {1} به {0} پرواز کردید. هرگز فکر نمی‌کردید نوه‌ای ازدواج کند ببینید."
+  },
+  {
+    "k": "mqzvfhtl4d",
+    "en": "You watched the wedding of {1} in {0} on a video call. You had never thought you would see a grandchild marry.",
+    "fa": "عروسی {1} در {0} را در تماس تصویری دیدید. هرگز فکر نمی‌کردید نوه‌ای ازدواج کند ببینید."
+  },
+  {
+    "k": "slxqlttawg",
+    "en": "Photos of the wedding of {1} in {0} came by post. You had never thought you would see a grandchild marry.",
+    "fa": "عکس‌های عروسی {1} در {0} با پست رسید. هرگز فکر نمی‌کردید نوه‌ای ازدواج کند ببینید."
+  },
+  {
+    "k": "1gh51ll7wp0",
+    "en": "daughter {0}",
+    "fa": "دختر {0}"
+  },
+  {
+    "k": "21a6ejhdwxl",
+    "en": "son {0}",
+    "fa": "پسر {0}"
+  },
+  {
+    "k": "jum9rn96e9",
+    "en": "daughter",
+    "fa": "دختر"
+  },
+  {
+    "k": "1n6l1igwju6",
+    "en": "son",
+    "fa": "پسر"
+  },
+  {
+    "k": "1son1ym41wf",
+    "en": "Your {0} and their spouse adopted a {1}.",
+    "fa": "{0} و همسرش یک {1} به فرزندخواندگی پذیرفتند."
+  },
+  {
+    "k": "4r22dnxm91",
+    "en": "Your {0} adopted a {1}.",
+    "fa": "{0} یک {1} به فرزندخواندگی پذیرفت."
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "k": "2fpxa5f8bjb",
+    "en": "The equipment you bought {0} years ago is old now too, and the work is slowing down."
+  },
+  {
+    "k": "fimys9690p",
+    "en": "Replace the vehicles?"
+  },
+  {
+    "k": "1ubuffuy4l9",
+    "en": "Replace the equipment?"
+  },
+  {
+    "k": "1wixp15u4u1",
+    "en": "Replacing it would cost about {0}."
+  },
+  {
+    "k": "hbyopw6wb3",
+    "en": "Replacing it would cost about {0}, and you would have to borrow what you are short."
+  },
+  {
+    "k": "gya76nn5eo",
+    "en": "Old equipment is slowing the work down. New equipment would cost about {0}."
+  },
+  {
+    "k": "91xdqimzb8",
+    "en": "Old equipment slows the work down. New equipment would cost about {0}, and whatever you lack would have to be borrowed."
+  },
+  {
+    "k": "g1406q8sau",
+    "en": "Buy new equipment"
+  },
+  {
+    "k": "k252zg1zmy",
+    "en": "Borrow and buy it"
+  },
+  {
+    "k": "1g7ey973oa",
+    "en": "About {0} · faster work"
+  },
+  {
+    "k": "16e3yziy1pi",
+    "en": "Keep repairing the old one"
+  },
+  {
+    "k": "1c3owpy02fu",
+    "en": "Fewer staff and less stock · earn less, but closing is less likely"
+  },
+  {
+    "k": "1x5o7tw41jq",
+    "en": "Fewer staff and less space · earn less, but closing is less likely"
+  },
+  {
+    "k": "wcb3scva25",
+    "en": "Get through on your savings"
+  },
+  {
+    "k": "vg32yqclgw",
+    "en": "Borrow to get through"
+  },
+  {
+    "k": "1yobmhcnos7",
+    "en": "About {0} in debt"
+  },
+  {
+    "k": "4dfvu7uoco",
+    "en": "Close before it gets worse"
+  },
+  {
+    "k": "mc6slf498w",
+    "en": "Keep what is left"
+  },
+  {
+    "k": "siiwdfbpsd",
+    "en": "A year with fewer people coming"
+  },
+  {
+    "k": "qlcw6cfix0",
+    "en": "For months now, fewer people have been coming."
+  },
+  {
+    "k": "v0dufrmvoo",
+    "en": "At this rate it will be hard to hold on."
+  },
+  {
+    "k": "rj554reqe1",
+    "en": "Cut prices and hold on"
+  },
+  {
+    "k": "13ncxb3dif5",
+    "en": "Earn less, but keep people coming"
+  },
+  {
+    "k": "25fidhclq8y",
+    "en": "Scale down and hold on"
+  },
+  {
+    "k": "5gox46anqu",
+    "en": "Take on less work and cut costs · earn less, but closing is less likely"
+  },
+  {
+    "k": "2bfz2scvn4m",
+    "en": "A hard year for business"
+  },
+  {
+    "k": "1p2fxojo5es",
+    "en": "Customers have been dropping off for months. At this rate it will be hard to hold on."
+  },
+  {
+    "k": "v611xkcdd4",
+    "en": "Earn less, keep the customers"
+  },
+  {
+    "k": "j0x0a74t1r",
+    "en": "Shorter hours and less stock · earn less, but closing is less likely"
+  },
+  {
+    "k": "oq04pm2pvq",
+    "en": "A year of less work"
+  },
+  {
+    "k": "1u98j8hmxas",
+    "en": "A year of falling prices"
+  },
+  {
+    "k": "2b1d0udbvkk",
+    "en": "A year of fewer orders"
+  },
+  {
+    "k": "2c2nar86btu",
+    "en": "There has been less work for months."
+  },
+  {
+    "k": "rlns0hsztt",
+    "en": "Farm-gate prices and your customers' orders have both fallen."
+  },
+  {
+    "k": "1j5s4afhbpx",
+    "en": "Orders have been dropping off for months."
+  },
+  {
+    "k": "17avgnltz3q",
+    "en": "Orders from your customers have been dropping off for months."
+  },
+  {
+    "k": "15xkof8r4rl",
+    "en": "Lower your rates and hold on"
+  },
+  {
+    "k": "a005u2gt1e",
+    "en": "Earn less, keep the work coming"
+  },
+  {
+    "k": "1f65fkmd74c",
+    "en": "Earn less, keep your customers"
+  },
+  {
+    "k": "a7p6qxtko",
+    "en": "Less advertising and less stock · earn less, but closing is less likely"
+  },
+  {
+    "k": "2ft0k2mexw2",
+    "en": "With another childcare worker on staff, things got less hectic and more families brought their children."
+  },
+  {
+    "k": "imi39vsmoa",
+    "en": "With an employee, things got less hectic and more patients came."
+  },
+  {
+    "k": "951e549j3j",
+    "en": "With an employee, things got less hectic and more people came to learn."
+  },
+  {
+    "k": "tyc8zxqrvr",
+    "en": "With an employee, things got less hectic and clients brought you more work."
+  },
+  {
+    "k": "27e69gfq68d",
+    "en": "With an employee, things got less hectic and more customers came."
+  },
+  {
+    "k": "axdh4auk62",
+    "en": "With an employee, things got less hectic and more work came in."
+  },
+  {
+    "k": "xjx00zg9l5",
+    "en": "With an employee, things got less hectic and more orders came in."
+  },
+  {
+    "k": "1hbb7vfck6u",
+    "en": "Sales did not grow as much as you hoped, and the wages became a burden. (−{0})"
+  },
+  {
+    "k": "28g97ohv6wg",
+    "en": "Your family pitched in. Every evening you all closed up the shop together."
+  },
+  {
+    "k": "1h4dxk9p7av",
+    "en": "Your family pitched in."
+  },
+  {
+    "k": "mgjww9u56h",
+    "en": "Every evening you all packed the orders together."
+  },
+  {
+    "k": "6lzzi9skg1",
+    "en": "Every evening you all finished the day's work together."
+  },
+  {
+    "k": "1p784ge008r",
+    "en": "You decided to keep running it on your own."
+  },
+  {
+    "k": "281we5ksozk",
+    "en": "More families saw the ads and came to enrol their children."
+  },
+  {
+    "k": "1iegg4ifvyf",
+    "en": "More patients came after seeing the ads."
+  },
+  {
+    "k": "1fseiecy0hb",
+    "en": "More people came to learn after seeing the ads."
+  },
+  {
+    "k": "19d0q3yeny6",
+    "en": "More clients came to you with work after seeing the ads."
+  },
+  {
+    "k": "1szo3pslpys",
+    "en": "You found new customers, and more work came in."
+  },
+  {
+    "k": "ktqmqde1uf",
+    "en": "You found new customers, and orders grew."
+  },
+  {
+    "k": "uxnv6v1n5n",
+    "en": "More households hired you after seeing the ads."
+  },
+  {
+    "k": "20d7fakt66r",
+    "en": "More customers came after seeing the ads."
+  },
+  {
+    "k": "wqocyp4ulq",
+    "en": "Not enough new people came to cover the cost of the ads. (−{0})"
+  },
+  {
+    "k": "14kzmxnz6tj",
+    "en": "All the legwork did not bring in enough work to pay off. (−{0})"
+  },
+  {
+    "k": "1vggms9pe35",
+    "en": "All the legwork did not bring in enough orders to pay off. (−{0})"
+  },
+  {
+    "k": "zi7vdh2b23",
+    "en": "The ads did not bring in enough work to cover their cost. (−{0})"
+  },
+  {
+    "k": "1da2evu9gpo",
+    "en": "The ads did not bring in enough customers to cover their cost. (−{0})"
+  },
+  {
+    "k": "188pkmryj1r",
+    "en": "You decided to trust word of mouth from those who had already come."
+  },
+  {
+    "k": "11t6ycfmmd5",
+    "en": "You decided to rely on the customers you have worked with for years."
+  },
+  {
+    "k": "1dnsb79eehh",
+    "en": "You decided to trust the households you have worked for to spread the word."
+  },
+  {
+    "k": "2c4zu4v3cfn",
+    "en": "You decided to trust your regulars to spread the word."
+  },
+  {
+    "k": "1vz4wy526am",
+    "en": "You paid the higher rent on your {0}."
+  },
+  {
+    "k": "l4kji50nba",
+    "en": "Less is left over now."
+  },
+  {
+    "k": "6y9f3snxlf",
+    "en": "You paid the higher rent. Less is left over now."
+  },
+  {
+    "k": "160qa164y5x",
+    "en": "You moved to new premises."
+  },
+  {
+    "k": "1njpdbvqcow",
+    "en": "A few regulars stopped coming."
+  },
+  {
+    "k": "co9fgzlbjs",
+    "en": "You moved the shop. A few regulars stopped coming."
+  },
+  {
+    "k": "1exklxcq93e",
+    "en": "Your regulars followed you to the new place."
+  },
+  {
+    "k": "kzmj25hm40",
+    "en": "You moved the shop. Your regulars found their way to the new place."
+  },
+  {
+    "k": "1vvo139iojs",
+    "en": "You talked with the landlord and got the rise cut in half."
+  },
+  {
+    "k": "tzfjsaw3ov",
+    "en": "The talks went nowhere. In the end you paid the higher rent."
+  },
+  {
+    "k": "vfoaenwi8n",
+    "en": "With the new vehicles the work went faster and more of it came in."
+  },
+  {
+    "k": "wyzbutduwc",
+    "en": "The new equipment made the work easier, and more people came."
+  },
+  {
+    "k": "11mw76k0en0",
+    "en": "With the new equipment the work went faster and orders grew."
+  },
+  {
+    "k": "24umnbzlt2q",
+    "en": "The equipment is better, but no more people come than before. (−{0})"
+  },
+  {
+    "k": "27q7jz0xc9x",
+    "en": "The equipment is better, but no more people come than before."
+  },
+  {
+    "k": "tyo66knikt",
+    "en": "Now the loan has to be paid off. (−{0})"
+  },
+  {
+    "k": "rmm9koipm2",
+    "en": "The vehicles are better, but the work has not grown. (−{0})"
+  },
+  {
+    "k": "rkt9ksfrz",
+    "en": "The vehicles are better, but the work has not grown. You have a loan to pay off. (−{0})"
+  },
+  {
+    "k": "1bpfydlpccf",
+    "en": "The equipment is better, but orders have not grown. (−{0})"
+  },
+  {
+    "k": "2beutfdhvyf",
+    "en": "The equipment is better, but orders stayed the same. Now the loan has to be paid back. (−{0})"
+  },
+  {
+    "k": "1fhzyl45cue",
+    "en": "You decided to keep the old vehicles running a while longer."
+  },
+  {
+    "k": "23miw98qm6d",
+    "en": "You decided to keep the old equipment going a while longer."
+  },
+  {
+    "k": "y5owtggp4q",
+    "en": "Once you lowered your fees, people slowly started coming back."
+  },
+  {
+    "k": "9qswpf449u",
+    "en": "After you lowered your rates, the work slowly came back."
+  },
+  {
+    "k": "xeudpjfgu2",
+    "en": "After you lowered your rates, your customers' orders slowly came back."
+  },
+  {
+    "k": "1r7m53dd14y",
+    "en": "After you cut prices, customers slowly came back."
+  },
+  {
+    "k": "1e0ntcyk7hb",
+    "en": "Even with lower fees, people were slow to come back."
+  },
+  {
+    "k": "duym3s4zsf",
+    "en": "Even with lower rates, the work was slow to pick up."
+  },
+  {
+    "k": "tjq9rblpo2",
+    "en": "Even with lower rates, orders were slow to pick up."
+  },
+  {
+    "k": "23ksjy21tab",
+    "en": "Even with lower prices, customers were slow to come back."
+  }
+]

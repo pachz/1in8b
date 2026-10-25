@@ -1,0 +1,874 @@
+[
+  {
+    "k": "1r6xj7sldqx",
+    "en": "{0} · {1}"
+  },
+  {
+    "k": "mu8pt7d89k",
+    "en": "Universitas Terbuka"
+  },
+  {
+    "k": "237dkxzq3es",
+    "en": "You could not see the National Defense Academy through and left. You decided to find another road."
+  },
+  {
+    "k": "1wy7uv7l5xp",
+    "en": "You could not see military academy through and left. You decided to find another road."
+  },
+  {
+    "k": "1taztsmm19f",
+    "en": "You could not see military academy through and left. You decided to find another road."
+  },
+  {
+    "k": "9o2uyi4p24",
+    "en": "After {0} years at university, you left without a degree. Working and studying at the same time was too much."
+  },
+  {
+    "k": "ns6qc5nxm3",
+    "en": "After {0} years at university, you left without a degree. Keeping up with the classes and exams was too much."
+  },
+  {
+    "k": "20k8tmhdjxa",
+    "en": "After {0} years at university, you left without a degree. The studies were not what you had expected, so you decided to find another path."
+  },
+  {
+    "k": "11eka83wbic",
+    "en": "You earned your doctorate! Turning the last page of the thesis, you thought of all those late nights."
+  },
+  {
+    "k": "1so0jbrg3to",
+    "en": "You finished the primary classes at the learning centre. There was no recognised certificate."
+  },
+  {
+    "k": "clgw2xo168",
+    "en": "You finished the middle classes at the learning centre. There was no recognised certificate."
+  },
+  {
+    "k": "1tsp0lytfg2",
+    "en": "You finished primary school."
+  },
+  {
+    "k": "riz45r0go3",
+    "en": "You finished middle school."
+  },
+  {
+    "k": "j59w8a87se",
+    "en": "You graduated from high school."
+  },
+  {
+    "k": "zy6cbztufs",
+    "en": "You graduated from university! You earned a bachelor's degree."
+  },
+  {
+    "k": "19izndv5uhk",
+    "en": "You finished graduate school and earned a master's degree."
+  },
+  {
+    "k": "2edwc1bnkz2",
+    "en": "You completed a vocational training course."
+  },
+  {
+    "k": "453hgblqhp",
+    "en": "You finished primary school at home."
+  },
+  {
+    "k": "zsyovhp24o",
+    "en": "You finished middle school at home."
+  },
+  {
+    "k": "1uq7bb3bjvv",
+    "en": "You finished high school at home and got your diploma."
+  },
+  {
+    "k": "26np33eskh7",
+    "en": "You finished basic schooling and received its certificate."
+  },
+  {
+    "k": "1lxttb1kgvq",
+    "en": "You finished the last grade and graduated from school."
+  },
+  {
+    "k": "1qkfdqyiool",
+    "en": "You graduated from the National Defense Academy and, after officer candidate school, received the insignia of a third lieutenant (a second lieutenant elsewhere)."
+  },
+  {
+    "k": "24pjb88zy4q",
+    "en": "You graduated from the military academy with a bachelor's degree and became an officer."
+  },
+  {
+    "k": "wrnr604hsj",
+    "en": "You graduated from the military academy, with a bachelor's degree and a second lieutenant's insignia."
+  },
+  {
+    "k": "ifn50tn34n",
+    "en": "You graduated from vocational school in {0}."
+  },
+  {
+    "k": "22f5tb7fbn0",
+    "en": "There were times you wanted to quit, but the determination you'd had since childhood carried you to the end."
+  },
+  {
+    "k": "cysaa3456t",
+    "en": "Debt your family paid off"
+  },
+  {
+    "k": "dvx08hly4e",
+    "en": "Debt your parents paid off"
+  },
+  {
+    "k": "v21puh5zb5",
+    "en": "{0} paid off the {1} you still owed from your student years."
+  },
+  {
+    "k": "rjadd9qm2a",
+    "en": "You came through the worst of it."
+  },
+  {
+    "k": "ltezwvzhdw",
+    "en": "Little by little, work is getting back to normal."
+  },
+  {
+    "k": "17vdwdbd4a0",
+    "en": "With the slump, the work fell off sharply."
+  },
+  {
+    "k": "272d9lph4bc",
+    "en": "With the slump, customers fell off sharply."
+  },
+  {
+    "k": "1sahjgc4qid",
+    "en": "The work fell off sharply."
+  },
+  {
+    "k": "3fp5bjoy7t",
+    "en": "Customers fell off sharply."
+  },
+  {
+    "k": "1hqfml618vv",
+    "en": "At this rate, you may have to close."
+  },
+  {
+    "k": "1zut3hjf3d6",
+    "en": "Your savings alone were not enough to live on, so you went back to work as a {0}."
+  },
+  {
+    "k": "14d32ujw2w4",
+    "en": "Worldwide, about 77% of people above retirement age receive a pension, but in low-income countries only about 23% do (ILO 2021)"
+  },
+  {
+    "k": "zkmsblxgk7",
+    "en": "You could not ride out the slump, and in the end you closed the {0}."
+  },
+  {
+    "k": "2317bv12sis",
+    "en": "You could not ride out the slump, and in the end you closed the business."
+  },
+  {
+    "k": "9aqupfnd4b",
+    "en": "The work dried up, and in the end you closed the {0}."
+  },
+  {
+    "k": "hv176da52d",
+    "en": "Business dried up, and you closed your shop."
+  },
+  {
+    "k": "o8r8bk0l9y",
+    "en": "Fewer and fewer customers came, and in the end you closed the business."
+  },
+  {
+    "k": "dj9y0uqjk1",
+    "en": "Only about half of new businesses are still running five years later (OECD business demography)"
+  },
+  {
+    "k": "dnj9ldq6y8",
+    "en": "Partner bought out"
+  },
+  {
+    "k": "d96wt9xm5t",
+    "en": "You and your partner no longer saw eye to eye and went separate ways. You bought out their share. (−{0})"
+  },
+  {
+    "k": "zs25j1ie7",
+    "en": "Your health had worn down too far to keep working. You stopped work until you could recover."
+  },
+  {
+    "k": "22v75fjazpc",
+    "en": "About 4% of working-age people cannot work because of illness or disability (OECD)"
+  },
+  {
+    "k": "23f6prgvi0a",
+    "en": "Your body was not what it used to be, and you stopped working."
+  },
+  {
+    "k": "1c5p2sej8gu",
+    "en": "Stopped working to stay by {0}, who had grown frail."
+  },
+  {
+    "k": "n8tm2whqhi",
+    "en": "The workplace did not renew the contract. The long years of that work came to an end."
+  },
+  {
+    "k": "8drbdfa1u6",
+    "en": "Savings your spouse brought"
+  },
+  {
+    "k": "1fbgps20tjt",
+    "en": "Debts your spouse brought"
+  },
+  {
+    "k": "1y3vtay296a",
+    "en": "{0} brought {1} in savings into the household."
+  },
+  {
+    "k": "18b10cvar60",
+    "en": "You also took on the {1} of debt {0} was still paying off."
+  },
+  {
+    "k": "1bjp2c6id0w",
+    "en": "Service pay put aside"
+  },
+  {
+    "k": "gjm46an4mc",
+    "en": "Saved from your pension"
+  },
+  {
+    "k": "1vpk9ev1qcv",
+    "en": "Saved from your earnings"
+  },
+  {
+    "k": "9mrdd5g0c",
+    "en": "Food and housing costs the care home now covers"
+  },
+  {
+    "k": "2gxse7c1zk",
+    "en": "Raising children"
+  },
+  {
+    "k": "1gyrv28zo7l",
+    "en": "Saved from your spouse's earnings"
+  },
+  {
+    "k": "x12n0hk5mv",
+    "en": "Shortfall in living costs"
+  },
+  {
+    "k": "1on6jeh3wow",
+    "en": "Food rations and relief"
+  },
+  {
+    "k": "1dw94jgib0h",
+    "en": "Sales bonus"
+  },
+  {
+    "k": "5bpmc9hmnl",
+    "en": "Your spouse {0}'s pension keeps the household going."
+  },
+  {
+    "k": "oz3y9h3hue",
+    "en": "Your spouse {1}'s earnings keep the household going{0}."
+  },
+  {
+    "k": "halu9wfuv5",
+    "en": " for now"
+  },
+  {
+    "k": "5fdoidlpxr",
+    "en": "Money from your children"
+  },
+  {
+    "k": "24a7jswip6i",
+    "en": "Unemployment benefits"
+  },
+  {
+    "k": "97676ewgxm",
+    "en": "Income support"
+  },
+  {
+    "k": "dhbkxe9ipg",
+    "en": "Your unemployment benefits ran out. Now you have to get by on your savings."
+  },
+  {
+    "k": "baie6ykkbm",
+    "en": "Living costs (from savings)"
+  },
+  {
+    "k": "z7xpwt0mpg",
+    "en": "Canteen money in prison"
+  },
+  {
+    "k": "ob050q7jij",
+    "en": "Student living costs"
+  },
+  {
+    "k": "1yv28rr5gbc",
+    "en": "Living costs (no income)"
+  },
+  {
+    "k": "1q8kxs4cf64",
+    "en": "PhD stipend"
+  },
+  {
+    "k": "2124zgdg15l",
+    "en": "Cadet support"
+  },
+  {
+    "k": "1wkdipx7k09",
+    "en": "State grant and dormitory"
+  },
+  {
+    "k": "xxaybtthhx",
+    "en": "Living money from your parents"
+  },
+  {
+    "k": "1k9y4slw0qq",
+    "en": "Keep for the child with relatives"
+  },
+  {
+    "k": "xhrww1jue5",
+    "en": "Single-parent support"
+  },
+  {
+    "k": "nz1z8bu9tc",
+    "en": "Raising the grandchildren"
+  },
+  {
+    "k": "cyj1hbjk3x",
+    "en": "Support for the grandchildren"
+  },
+  {
+    "k": "12pzkee7urn",
+    "en": "Overseas posting allowance"
+  },
+  {
+    "k": "qgmikhixwe",
+    "en": "Debt paid down from your spouse's pay"
+  },
+  {
+    "k": "1o530g9icdo",
+    "en": "Distant-water fishing pay"
+  },
+  {
+    "k": "4ibmjy4nxg",
+    "en": "Child support paid"
+  },
+  {
+    "k": "18c5ldxuqz6",
+    "en": "Child support received"
+  },
+  {
+    "k": "18mxx7ijvvf",
+    "en": "Party dues"
+  },
+  {
+    "k": "13xomffyz15",
+    "en": "Money from your children"
+  },
+  {
+    "k": "ok5le5gbtt",
+    "en": "{0} began putting part of their pay toward the household every month. You were grateful, and a little sorry."
+  },
+  {
+    "k": "7tii0xozxa",
+    "en": "Living costs from a child at home"
+  },
+  {
+    "k": "2ffw9o2j66c",
+    "en": "The fees became too much, so you moved the children to a public school."
+  },
+  {
+    "k": "1e5d7cvg08x",
+    "en": "Children's private school fees"
+  },
+  {
+    "k": "29j1hw3xs99",
+    "en": "Childcare fees"
+  },
+  {
+    "k": "19z22epj00y",
+    "en": "Second wife's household"
+  },
+  {
+    "k": "1mqi016qi5m",
+    "en": "Care home fees"
+  },
+  {
+    "k": "glkj6h86lm",
+    "en": "Your savings ran out, and public support now covers most of the care home fees."
+  },
+  {
+    "k": "h4nwa1aedw",
+    "en": "Rent saved in military quarters"
+  },
+  {
+    "k": "2ffmm3my7pj",
+    "en": "Housing near work"
+  },
+  {
+    "k": "k5dw2tnh02",
+    "en": "Debt paid down by cutting back"
+  },
+  {
+    "k": "20tttbajrdn",
+    "en": "Living costs in retirement"
+  },
+  {
+    "k": "27m8ohcfn5v",
+    "en": "Hobby costs"
+  },
+  {
+    "k": "1ulswf7aazj",
+    "en": "Cigarettes"
+  },
+  {
+    "k": "gkqsrjbrk5",
+    "en": "Groceries with more vegetables and whole grains"
+  },
+  {
+    "k": "1o565hoxdi8",
+    "en": "Eating out and delivery"
+  },
+  {
+    "k": "1kmt4rrladc",
+    "en": "Rent saved by living in your own home"
+  },
+  {
+    "k": "9ltdu9jzwm",
+    "en": "Health care"
+  },
+  {
+    "k": "228u4ajzv0a",
+    "en": "Selling things you made as a hobby"
+  },
+  {
+    "k": "51dbghmxpp",
+    "en": "Insurance premiums"
+  },
+  {
+    "k": "iytrrnxf93",
+    "en": "Group home support"
+  },
+  {
+    "k": "274m7d2nad5",
+    "en": "Covered by the family you live with"
+  },
+  {
+    "k": "26d521u9odv",
+    "en": "You paid off all your debts!"
+  },
+  {
+    "k": "dcus51wftc",
+    "en": "Interest on debt"
+  },
+  {
+    "k": "5szslypp4s",
+    "en": "Loan rates soared, and the interest on your debts cost {0} more."
+  },
+  {
+    "k": "2eli80srzdh",
+    "en": "Spending cut (no one would lend more)"
+  },
+  {
+    "k": "2e5ueuo1gw7",
+    "en": "For years you had gone without meals on many days, and your body grew visibly weaker."
+  },
+  {
+    "k": "1oj4jn3xtt3",
+    "en": "In 2023, about 733 million people worldwide faced hunger (FAO SOFI 2024)"
+  },
+  {
+    "k": "il1l6qj7eu",
+    "en": "With nowhere left to borrow, you got by on fewer meals and less of everything."
+  },
+  {
+    "k": "fpxgeex6ml",
+    "en": "In low-income countries most people who borrow take small sums from family and friends (World Bank Findex)"
+  },
+  {
+    "k": "1y27rjgoaq4",
+    "en": "Debt written off"
+  },
+  {
+    "k": "vmrd7syzd1",
+    "en": "Debt taken on by relatives"
+  },
+  {
+    "k": "2aaalpcrqgd",
+    "en": "{0} of a debt you could not repay for years was written off in debt relief. {1} is still owed."
+  },
+  {
+    "k": "wpudxxlq8n",
+    "en": "Relatives and the people you owed let go of {0} of a debt you could not repay for years. {1} is still owed."
+  },
+  {
+    "k": "15qgt2ycxeg",
+    "en": "Home prices fell {0}% in a year. (−{1})"
+  },
+  {
+    "k": "ah9btdhf1d",
+    "en": "Prices in your neighbourhood jumped, and your home's value rose {0}%. (+{1})"
+  },
+  {
+    "k": "2e1w2gzxmok",
+    "en": "Home prices here have been sliding for some years. Your home is worth less, and so is a home you would buy."
+  },
+  {
+    "k": "clyk167fwn",
+    "en": "The home loan is paid off, and the {0} invested beside it has joined your savings."
+  },
+  {
+    "k": "1t9z2nr0vor",
+    "en": "The {0} invested beside the loan paid off the {1} left on the home loan."
+  },
+  {
+    "k": "1b9x90j91z0",
+    "en": "{0} is left as savings."
+  },
+  {
+    "k": "115jt1z22zl",
+    "en": "All of the {0} invested beside the loan went to pay down the home loan."
+  },
+  {
+    "k": "qh13hhlv7b",
+    "en": "Still, {0} of debt remains."
+  },
+  {
+    "k": "m7c65pwoht",
+    "en": "Put it in a savings account"
+  },
+  {
+    "k": "zze7udhmnt",
+    "en": "1-1.5% a year after inflation · almost safe"
+  },
+  {
+    "k": "1hwc9a81cj8",
+    "en": "Put it in a balanced stock-and-bond fund"
+  },
+  {
+    "k": "222je3tr3vt",
+    "en": "After inflation about 3.5% a year on average · medium swings"
+  },
+  {
+    "k": "5rh9q4t2eg",
+    "en": "Invest in stocks"
+  },
+  {
+    "k": "1g0zhunsuj6",
+    "en": "5% a year on average after inflation · can crash"
+  },
+  {
+    "k": "1f2wcqgg2jh",
+    "en": "Invest in property"
+  },
+  {
+    "k": "rvejzpbwpl",
+    "en": "3.5% a year on average after inflation · some swings"
+  },
+  {
+    "k": "1q23inc7p9d",
+    "en": "The stock market crashed, and {0}% of your investment was wiped out."
+  },
+  {
+    "k": "1xeqkmgn6dw",
+    "en": "Stocks rose sharply, and your investment grew by {0}%."
+  },
+  {
+    "k": "26hyz0t80ai",
+    "en": "The dollar rose sharply against the money of {0}, so the savings in a world index grew by {1}% in local terms."
+  },
+  {
+    "k": "1o65ermxxtj",
+    "en": "World stocks rose sharply, and the savings in a world index grew by {0}%."
+  },
+  {
+    "k": "25qtto5u6g3",
+    "en": "World stock markets fell hard, and {0}% of the savings in a world index were gone."
+  },
+  {
+    "k": "fiv2453ark",
+    "en": "The money of {0} rose sharply against the dollar, so the savings in a world index shrank by {1}% in local terms."
+  },
+  {
+    "k": "fwndj3g35c",
+    "en": "The stock market fell hard, and the balanced fund lost {0}% too. The bonds kept it from falling as far as stocks."
+  },
+  {
+    "k": "202q10cgex2",
+    "en": "The shares you picked fell hard; you lost {0}% of the money you were trading."
+  },
+  {
+    "k": "262rn9rhnyp",
+    "en": "Of Taiwan's day traders who picked shares and traded often, fewer than 1% kept making money year after year (Barber et al., 2014)"
+  },
+  {
+    "k": "1qkgbm3yoy6",
+    "en": "A share you picked soared; the money you were trading grew {0}%."
+  },
+  {
+    "k": "1ukk5pdf1kn",
+    "en": "The property market turned, and the money you had invested shrank."
+  },
+  {
+    "k": "1er3ge0gfjq",
+    "en": "Tax on investment gains"
+  },
+  {
+    "k": "18c9wmmxbgr",
+    "en": "Stocks"
+  },
+  {
+    "k": "b2fe2azoh4",
+    "en": "World index"
+  },
+  {
+    "k": "14gp7suk4qh",
+    "en": "Property investment"
+  },
+  {
+    "k": "1p0o9ar6718",
+    "en": "Bonds"
+  },
+  {
+    "k": "14bzijstkpm",
+    "en": "Stocks and bonds, half and half"
+  },
+  {
+    "k": "v2lffxkxce",
+    "en": "Picking and trading shares"
+  },
+  {
+    "k": "1pekk6jrgbl",
+    "en": "Interest on savings"
+  },
+  {
+    "k": "82ltnhyc2v",
+    "en": "Interest rates soared, and your bank deposits earned {0} more in interest."
+  },
+  {
+    "k": "23m36v1zlgu",
+    "en": "Right after the currency crisis the call rate went above 30% a year, and bank deposits paid close to 20% (Bank of Korea)"
+  },
+  {
+    "k": "hkz6gs7smn",
+    "en": "As shares crashed, people holding cash were split: some said now was the time to buy, others that prices would fall further."
+  },
+  {
+    "k": "2fb9qrkc0hb",
+    "en": "Ten years since you put your money into {0}: in all it has grown by {1}."
+  },
+  {
+    "k": "8fpxglycv0",
+    "en": "Ten years since you put your money into {0}: in all it has shrunk by {1}."
+  },
+  {
+    "k": "bt81q9hexe",
+    "en": "About the same as if it had stayed in savings."
+  },
+  {
+    "k": "12xhmdx26bq",
+    "en": "Left in savings, it would have earned about {0} less."
+  },
+  {
+    "k": "29tkfjh0pij",
+    "en": "Left in savings, about {0} more would be left."
+  },
+  {
+    "k": "f2i1emq90v",
+    "en": "The home loan is paid on its schedule, and each year whatever you save beyond the payment goes into {0}."
+  },
+  {
+    "k": "dhmscci7u2",
+    "en": "With {0} owed, there is no money to invest right now. Nothing is borrowed to invest: once the debt is paid off, what you save goes into {1}."
+  },
+  {
+    "k": "h1zo3k0mqx",
+    "en": "Fees and taxes on moving investments"
+  },
+  {
+    "k": "lt9gcsbn87",
+    "en": "Fees of {0} and tax of {1} on the gains were paid."
+  },
+  {
+    "k": "ksfat3gapt",
+    "en": "Fees of {0} were paid."
+  },
+  {
+    "k": "cdt4xbr7w4",
+    "en": "You took your savings out and put them into {0}."
+  },
+  {
+    "k": "11ge9116idn",
+    "en": "You sold all your {0} and moved the money into savings."
+  },
+  {
+    "k": "h41irx09al",
+    "en": "You sold your {0} and put the money into {1}."
+  },
+  {
+    "k": "1d3fz2l3ysv",
+    "en": "savings{0}"
+  },
+  {
+    "k": "2457rkrme84",
+    "en": "bonds{0}"
+  },
+  {
+    "k": "2199srrco3y",
+    "en": "a balanced stock-and-bond fund{0}"
+  },
+  {
+    "k": "2cbqry9s2ee",
+    "en": "stocks{0}"
+  },
+  {
+    "k": "2b2hv5ys29k",
+    "en": "a world index{0}"
+  },
+  {
+    "k": "84mbvqpt3l",
+    "en": "real estate{0}"
+  },
+  {
+    "k": "2exlw38ose6",
+    "en": "shares you pick yourself{0}"
+  },
+  {
+    "k": "1shy78v63wl",
+    "en": "With a loan of {0}, you bought {1} to let for {2}."
+  },
+  {
+    "k": "l9oi6t3ng6",
+    "en": "house"
+  },
+  {
+    "k": "sv80jhxlqq",
+    "en": "a small house"
+  },
+  {
+    "k": "15s8cemjsa3",
+    "en": "You bought {0} to let for {1}."
+  },
+  {
+    "k": "113jp8nvlb0",
+    "en": "Taxes and costs came to {0}. Now rent comes in every month."
+  },
+  {
+    "k": "1bxo8ecehfb",
+    "en": "When the tenants moved out, you left the care home and moved back into your own home, which you had been letting."
+  },
+  {
+    "k": "7jffab844n",
+    "en": "When the tenants moved out, you left the care home and moved into the home you had been letting."
+  },
+  {
+    "k": "2edrecutqlv",
+    "en": "When the tenant moved out, you moved into the home you had been letting. No more rent to pay."
+  },
+  {
+    "k": "2baw8fzh2w6",
+    "en": "Your home in {1}, {0}"
+  },
+  {
+    "k": "1h54zfrhpcp",
+    "en": "Your home in {0}"
+  },
+  {
+    "k": "kfz7uodxw3",
+    "en": "You sold your home in {1}, {0}."
+  },
+  {
+    "k": "1m8k3wm49lc",
+    "en": "You sold your home in {0}."
+  },
+  {
+    "k": "23vj9fqlzcv",
+    "en": "You go on living in your child's home."
+  },
+  {
+    "k": "1xhcr96c8kz",
+    "en": "You go on living with your child"
+  },
+  {
+    "k": "4ycawb1k7",
+    "en": "You go on living in the care home."
+  },
+  {
+    "k": "2a6nox4ud6d",
+    "en": "You stay on in the care home"
+  },
+  {
+    "k": "2ddd9nplrt0",
+    "en": "You rent now."
+  },
+  {
+    "k": "20h2iyjxv84",
+    "en": "You rent from then on"
+  },
+  {
+    "k": "2c8yb12gxs2",
+    "en": "Sell one in {0}"
+  },
+  {
+    "k": "111jkaq7wrf",
+    "en": "Sell one"
+  },
+  {
+    "k": "1tyq6v28c84",
+    "en": "You sold the home you had let in {0} for {1}. (Bought for {2})"
+  },
+  {
+    "k": "34l5r5jm8x",
+    "en": "You sold the home you had let for {0}. (Bought for {1})"
+  },
+  {
+    "k": "b90qcln1vo",
+    "en": "After costs and {0} of capital gains tax, {1} came into your hands."
+  },
+  {
+    "k": "pbb9o2xvmz",
+    "en": "After costs, {0} came into your hands."
+  },
+  {
+    "k": "1cew6rdykyy",
+    "en": "Rental income"
+  },
+  {
+    "k": "2ct9wn9piwx",
+    "en": "Upkeep and taxes on homes let"
+  },
+  {
+    "k": "1v4t19r79r1",
+    "en": "Letting agent's fee for homes let"
+  },
+  {
+    "k": "1ur4gy2s2lt",
+    "en": "The tenant in the home you kept in {0} moved out, and for {1} months no new tenant could be found; the home stood empty."
+  },
+  {
+    "k": "15edv7wma8f",
+    "en": "The tenant moved out, and for {0} months no new tenant could be found; the home stood empty."
+  },
+  {
+    "k": "c9of4w08tb",
+    "en": "Change in the value of homes let"
+  },
+  {
+    "k": "g60tu0mnkg",
+    "en": "Distress sale of a home let"
+  },
+  {
+    "k": "2df2fi5vc7g",
+    "en": "Unable to carry the debt, you sold a home you had let quickly and below its value. (Worth {0}, you got {1})"
+  },
+  {
+    "k": "lh819qb7yi",
+    "en": "Homes lost"
+  },
+  {
+    "k": "1i27pd5pxzg",
+    "en": "your maternal grandmother"
+  },
+  {
+    "k": "1pb4ilku2ce",
+    "en": "your maternal grandfather"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1p5jinz5elh",
+    "en": "youngest brother",
+    "fa": "کوچک‌ترین برادر"
+  },
+  {
+    "k": "g4gy6x5ldp",
+    "en": "second younger brother",
+    "fa": "دومین برادر کوچک‌تر"
+  },
+  {
+    "k": "7g9qiwmp1x",
+    "en": "third younger brother",
+    "fa": "سومین برادر کوچک‌تر"
+  },
+  {
+    "k": "j6ilfqomev",
+    "en": "fourth younger brother",
+    "fa": "چهارمین برادر کوچک‌تر"
+  },
+  {
+    "k": "1zrvwgy3seh",
+    "en": "fifth younger brother",
+    "fa": "پنجمین برادر کوچک‌تر"
+  },
+  {
+    "k": "21gx3eya9k0",
+    "en": "eldest younger sister",
+    "fa": "بزرگ‌ترین خواهر کوچک‌تر"
+  },
+  {
+    "k": "20dyo52fmig",
+    "en": "youngest sister",
+    "fa": "کوچک‌ترین خواهر"
+  },
+  {
+    "k": "yo67kcoxzb",
+    "en": "second younger sister",
+    "fa": "دومین خواهر کوچک‌تر"
+  },
+  {
+    "k": "1eakdvata6w",
+    "en": "third younger sister",
+    "fa": "سومین خواهر کوچک‌تر"
+  },
+  {
+    "k": "1r065zq4cio",
+    "en": "fourth younger sister",
+    "fa": "چهارمین خواهر کوچک‌تر"
+  },
+  {
+    "k": "2fyr7inp2ob",
+    "en": "fifth younger sister",
+    "fa": "پنجمین خواهر کوچک‌تر"
+  },
+  {
+    "k": "ad0fsagdb6",
+    "en": "Your newborn {0} died before their first birthday.",
+    "fa": "نوزاد {0} پیش از اولین سالگرد تولد درگذشت."
+  },
+  {
+    "k": "pvp0ka593x",
+    "en": "Your {0} died young.",
+    "fa": "{0} جوان مرد."
+  },
+  {
+    "k": "1sa3xuib8q1",
+    "en": "Your {0} died at {1}.",
+    "fa": "{0} در {1} درگذشت."
+  },
+  {
+    "k": "17d6j3pten",
+    "en": "You were too young to remember, but your family told you about it as you grew up.",
+    "fa": "خیلی کوچک بودید که به خاطر بیاورید، اما خانواده با بزرگ شدنتان برایتان تعریف کرد."
+  },
+  {
+    "k": "d5khrkeyx3",
+    "en": "Your {0} died before turning five. ({1})",
+    "fa": "{0} پیش از پنج سالگی درگذشت. ({1})"
+  },
+  {
+    "k": "1hllyyni7j8",
+    "en": "Word came from home that your {0} had died at {1}. ({2})",
+    "fa": "از زادگاه خبر رسید {0} در {1} درگذشته است. ({2})"
+  },
+  {
+    "k": "15aviog9umv",
+    "en": "Your {0} died at {1}. ({2})",
+    "fa": "{0} در {1} درگذشت. ({2})"
+  },
+  {
+    "k": "yebjdy36ej",
+    "en": "You kept thinking of the trips you had taken together.",
+    "fa": "مدام به سفرهایی که با هم رفته بودید فکر می‌کردید."
+  },
+  {
+    "k": "23sijy9e74b",
+    "en": "Your {0} married and left home.",
+    "fa": "{0} ازدواج کرد و خانه را ترک کرد."
+  },
+  {
+    "k": "8uvgphxka3",
+    "en": "A few years after marrying, your {0} moved out to a home of their own.",
+    "fa": "چند سال پس از ازدواج، {0} به خانه خودش رفت."
+  },
+  {
+    "k": "22kfw8xm7g8",
+    "en": "Your {0} left home to live on their own.",
+    "fa": "{0} خانه را ترک کرد تا تنها زندگی کند."
+  },
+  {
+    "k": "gs2l7qwdep",
+    "en": "In the US, 27% of fathers living apart from their children had not seen them once in the past year (Pew Research Center 2011)",
+    "fa": "در آمریکا ۲۷٪ پدرانی که از فرزندانشان دورند در سال گذشته حتی یک‌بار هم آن‌ها را ندیده‌اند (Pew Research Center 2011)"
+  },
+  {
+    "k": "omt66gtoxk",
+    "en": "In Britain, about one in five parents living apart from their child does not see the child (DWP Survey of Separated Parents 2021)",
+    "fa": "در بریتانیا حدود یک از هر پنج والد دور از فرزند، فرزند را نمی‌بیند (DWP Survey of Separated Parents 2021)"
+  },
+  {
+    "k": "110vi02xutx",
+    "en": "In Norway, 2% of fathers living apart from their child have not seen the child since the separation (Statistics Norway 2012)",
+    "fa": "در نروژ ۲٪ پدرانی که از فرزند دورند از زمان جدایی فرزند را ندیده‌اند (Statistics Norway 2012)"
+  },
+  {
+    "k": "217txvnhatd",
+    "en": "a hard time",
+    "fa": "دوره سخت"
+  },
+  {
+    "k": "1qauq4l23d7",
+    "en": "close",
+    "fa": "صمیمی"
+  },
+  {
+    "k": "1rghqo6amsj",
+    "en": "on good terms",
+    "fa": "در ارتباط خوب"
+  },
+  {
+    "k": "1tdlamusdaf",
+    "en": "distant",
+    "fa": "دور"
+  },
+  {
+    "k": "9832dexwlh",
+    "en": "You married, left {0} and set up a home of your own.",
+    "fa": "ازدواج کردید، {0} را ترک کردید و خانه خودتان را راه انداختید."
+  },
+  {
+    "k": "241f3cxwodw",
+    "en": "The two of you found a place together, and you left {0}.",
+    "fa": "با هم جایی پیدا کردید و {0} را ترک کردید."
+  },
+  {
+    "k": "2dt9gqka8lw",
+    "en": "When you married, you moved in with your husband's family.",
+    "fa": "با ازدواج نزد خانواده شوهر رفتید."
+  },
+  {
+    "k": "ndbiogophq",
+    "en": "After the wedding you went on living with {0} under one roof.",
+    "fa": "پس از عروسی همچنان با {0} زیر یک سقف ماندید."
+  },
+  {
+    "k": "domla1nspq",
+    "en": "After you moved in together, you went on living in {0}.",
+    "fa": "پس از زندگی مشترک همچنان در {0} ماندید."
+  },
+  {
+    "k": "2a66pfa4qwl",
+    "en": "While at university you left {0} and lived on your own for the first time.",
+    "fa": "در دانشگاه {0} را ترک کردید و برای اولین بار تنها زندگی کردید."
+  },
+  {
+    "k": "vwrouvuhf",
+    "en": "You moved out of {0} and ran a household of your own for the first time.",
+    "fa": "از {0} بیرون آمدید و برای اولین بار خانه خودتان را اداره کردید."
+  },
+  {
+    "k": "182jmh38bym",
+    "en": "About half of the parents who could not accept it at first opened up within a few years (Samarova et al. 2014, a survey of 140 LGB young people in Israel)",
+    "fa": "حدود نیمی از والدینی که اول نپذیرفتند ظرف چند سال باز شدند (Samarova et al. 2014، نظرسنجی ۱۴۰ جوان LGB در اسرائیل)"
+  },
+  {
+    "k": "1sxw74574qd",
+    "en": "{0}, who had seldom been in touch, reached out first to ask you to come to the wedding.",
+    "fa": "{0} که کمتر سر می‌زد، اول تماس گرفت و خواست به عروسی بیایید."
+  },
+  {
+    "k": "19ilo4pzrh4",
+    "en": "You said you were sorry for hurting them back then, and that you would be there.",
+    "fa": "گفتید از آزار دادنشان آن زمان پشیمانید و آنجا خواهید بود."
+  },
+  {
+    "k": "238o4b69sct",
+    "en": "{0} came to see you together with their partner.",
+    "fa": "{0} با شریکش پیش شما آمد."
+  },
+  {
+    "k": "1prgzv647ni",
+    "en": "After a long stretch of distance, you sat down with {0} again.",
+    "fa": "پس از مدت‌ها فاصله، دوباره با {0} نشستید."
+  },
+  {
+    "k": "115x7fdimd9",
+    "en": "You said you were sorry for hurting them back then, and that they would always be your child.",
+    "fa": "گفتید از آزار دادنشان آن زمان پشیمانید و همیشه فرزند شما خواهند بود."
+  },
+  {
+    "k": "6yclmo852w",
+    "en": "{0} brought their partner home, and you all had dinner together. Somewhere along the way you had come to feel at ease.",
+    "fa": "{0} شریکش را به خانه آورد و همه با هم شام خوردید. جایی راحت شده بودید."
+  },
+  {
+    "k": "1rt3wbcjpuc",
+    "en": "You sat down with {0} and talked and laughed for the first time in a long while. You had grown much closer since then.",
+    "fa": "با {0} نشستید و برای اولین بار پس از مدت‌ها گفتید و خندیدید. از آن زمان خیلی نزدیک‌تر شده بودید."
+  },
+  {
+    "k": "37a04r2p03",
+    "en": "{0} moved in with the woman they love, without a wedding.",
+    "fa": "{0} بدون عروسی با زنی که دوست دارد زندگی کرد."
+  },
+  {
+    "k": "1swdtpx60o5",
+    "en": "{0} moved in with the man they love, without a wedding.",
+    "fa": "{0} بدون عروسی با مردی که دوست دارد زندگی کرد."
+  },
+  {
+    "k": "1bvi4vlycr6",
+    "en": "{0} moved in with a partner, without a wedding.",
+    "fa": "{0} بدون عروسی با شریک زندگی کرد."
+  },
+  {
+    "k": "1xmmkulnts1",
+    "en": "{0} moved out to set up home with the woman they love, without a wedding.",
+    "fa": "{0} بیرون رفت تا بدون عروسی با زنی که دوست دارد خانه بسازد."
+  },
+  {
+    "k": "283fn9k47zu",
+    "en": "{0} moved out to set up home with the man they love, without a wedding.",
+    "fa": "{0} بیرون رفت تا بدون عروسی با مردی که دوست دارد خانه بسازد."
+  },
+  {
+    "k": "hdj20j1zf8",
+    "en": "{0} moved out to set up home with a partner, without a wedding.",
+    "fa": "{0} بیرون رفت تا بدون عروسی با شریک خانه بسازد."
+  },
+  {
+    "k": "2d5ex26dkzu",
+    "en": "You heard from other family members that {0} had married.",
+    "fa": "از بستگان شنیدید {0} ازدواج کرده است."
+  },
+  {
+    "k": "isbe47u8hj",
+    "en": "Your spouse's child, {0}, got married. You went to the wedding with your spouse.",
+    "fa": "فرزند همسر، {0}، ازدواج کرد. با همسر به عروسی رفتید."
+  },
+  {
+    "k": "26sc3soqco1",
+    "en": "You heard that {0} had married.",
+    "fa": "شنیدید {0} ازدواج کرده است."
+  },
+  {
+    "k": "1buiccrat4k",
+    "en": "{0}, now grown, left {1}'s home and went their own way.",
+    "fa": "{0} که بزرگ شده از خانه {1} رفت و راه خودش را رفت."
+  },
+  {
+    "k": "m9b3fgtcdl",
+    "en": "{0}, now grown, left the foster family. You keep in touch now and then.",
+    "fa": "{0} که بزرگ شده خانواده پرورشی را ترک کرد. گاه‌گاه در تماسید."
+  },
+  {
+    "k": "4phqyinii9",
+    "en": "{0}, now grown, left the children's home. You keep in touch now and then.",
+    "fa": "{0} که بزرگ شده خانه کودکان را ترک کرد. گاه‌گاه در تماسید."
+  },
+  {
+    "k": "272y2vrgp5",
+    "en": "{0} and their new spouse decided to live with us.",
+    "fa": "{0} و همسر تازه‌اش تصمیم گرفتند با ما زندگی کنند."
+  },
+  {
+    "k": "99enpbq131",
+    "en": "{0} didn't move out and stayed at home with you.",
+    "fa": "{0} بیرون نرفت و در خانه با شما ماند."
+  },
+  {
+    "k": "223vyzga53c",
+    "en": "{0} moved in with her husband's family.",
+    "fa": "{0} نزد خانواده شوهرش رفت."
+  },
+  {
+    "k": "nmx3vj7ljp",
+    "en": "{0} left home to set up a household of their own.",
+    "fa": "{0} خانه را ترک کرد تا خانه خودش را راه بیندازد."
+  },
+  {
+    "k": "1xcl2rijlqr",
+    "en": "{0} found a room near the university and left home.",
+    "fa": "{0} اتاقی نزد دانشگاه پیدا کرد و خانه را ترک کرد."
+  },
+  {
+    "k": "13k07tlf96t",
+    "en": "{0} left for the city to find work.",
+    "fa": "{0} برای کار به شهر رفت."
+  },
+  {
+    "k": "28ixapzqx6z",
+    "en": "{0} moved out. The empty room felt strange for a while.",
+    "fa": "{0} بیرون رفت. اتاق خالی مدتی عجیب بود."
+  },
+  {
+    "k": "p1bwqv3isx",
+    "en": "{0} found a place near work and moved out.",
+    "fa": "{0} جایی نزد محل کار پیدا کرد و بیرون رفت."
+  },
+  {
+    "k": "4xbc5ph6hi",
+    "en": "{0} moved out. After you helped carry the boxes, the drive home felt empty.",
+    "fa": "{0} بیرون رفت. وقتی در حمل جعبه‌ها کمک کردید، برگشت به خانه خالی احساس شد."
+  },
+  {
+    "k": "252z3qfqq4t",
+    "en": "Now it is just the two of you at home.",
+    "fa": "اکنون فقط شما دو نفر در خانه‌اید."
+  },
+  {
+    "k": "1jcl6gg3uh6",
+    "en": "Now you live on your own.",
+    "fa": "اکنون تنها زندگی می‌کنید."
+  },
+  {
+    "k": "j5b79lwmus",
+    "en": "People living with HIV who stay on treatment and keep the virus suppressed do not pass it on to others (WHO · U=U)",
+    "fa": "افراد مبتلا به HIV که درمان را ادامه دهند و ویروس سرکوب شود، آن را به دیگران منتقل نمی‌کنند (WHO · U=U)"
+  },
+  {
+    "k": "53i7hjvv1y",
+    "en": "Without treatment, half of people with HIV died a little over ten years after infection. With treatment, people can live about as long as those without HIV (CASCADE Collaboration 2000, UNAIDS 2024)",
+    "fa": "بدون درمان نیمی از مبتلایان به HIV کمی بیش از ده سال پس از عفونت می‌میرند. با درمان تقریباً به اندازه افراد بدون HIV زندگی می‌کنند (CASCADE Collaboration 2000، UNAIDS 2024)"
+  },
+  {
+    "k": "16n451bphgi",
+    "en": "You were tested together, and you were HIV-positive too. With help from {0}, you take your medicine every day.",
+    "fa": "با هم آزمایش دادید و شما هم HIV مثبت بودید. با کمک {0} هر روز دارو می‌خورید."
+  },
+  {
+    "k": "23z2jop8uu0",
+    "en": "You tested HIV-positive. You got it from your mother at birth. Now you take medicine every day.",
+    "fa": "HIV مثبت شدید. از مادرتان در زمان تولد گرفته بودید. اکنون هر روز دارو می‌خورید."
+  },
+  {
+    "k": "qkp6m5mgd3",
+    "en": "A test during pregnancy showed you were HIV-positive. You started treatment right away, for the baby's sake.",
+    "fa": "آزمایش بارداری HIV مثبت نشان داد. فوراً درمان را شروع کردید، برای نوزاد."
+  },
+  {
+    "k": "1pmdn4n8ldw",
+    "en": "With treatment, the chance of passing HIV from mother to baby falls below 5% (WHO)",
+    "fa": "با درمان احتمال انتقال HIV از مادر به نوزاد زیر ۵٪ می‌افتد (WHO)"
+  },
+  {
+    "k": "mwzepvmcey",
+    "en": "After losing your child, you were tested, and you were HIV-positive too.",
+    "fa": "پس از از دست دادن فرزند، آزمایش دادید و شما هم HIV مثبت بودید."
+  },
+  {
+    "k": "1wgmso5taqf",
+    "en": "You were tested as well. You were HIV-positive too.",
+    "fa": "شما هم آزمایش دادید. HIV مثبت بودید."
+  },
+  {
+    "k": "1u4i1w7483b",
+    "en": "At a regular test, you were found to be HIV-positive too.",
+    "fa": "در آزمایش منظم، شما هم HIV مثبت یافتید."
+  },
+  {
+    "k": "69xfbcdd5k",
+    "en": "You kept falling ill, so you were tested, and the result was HIV-positive.",
+    "fa": "مدام بیمار می‌شدید، آزمایش دادید و نتیجه HIV مثبت بود."
+  },
+  {
+    "k": "2iylaqf9ny",
+    "en": "A test showed you were HIV-positive.",
+    "fa": "آزمایش HIV مثبت نشان داد."
+  },
+  {
+    "k": "25svsp2ajl2",
+    "en": "Your spouse {0} was tested too and was HIV-positive.{1}",
+    "fa": "همسر {0} هم آزمایش داد و HIV مثبت بود.{1}"
+  },
+  {
+    "k": "115xax4rycj",
+    "en": " You started treatment together.",
+    "fa": " با هم درمان را شروع کردید."
+  },
+  {
+    "k": "56yivrvys5",
+    "en": "Your spouse {0} was tested too. The result was negative.",
+    "fa": "همسر {0} هم آزمایش داد. نتیجه منفی بود."
+  },
+  {
+    "k": "oltqqdps5p",
+    "en": "Your child {0} also tested HIV-positive. You started treatment together.",
+    "fa": "فرزند {0} هم HIV مثبت شد. با هم درمان را شروع کردید."
+  },
+  {
+    "k": "gv6z4p2nwx",
+    "en": "Each year about 2 in 100 partners living with someone whose HIV is untreated become infected; once treatment suppresses the virus, it is not passed on (Donnell et al. 2010, WHO · U=U) · Testing every year while you live together means an infection is found early and can be treated (WHO 2019)",
+    "fa": "هر سال حدود ۲ از ۱۰۰ شریکی که با کسی با HIV درمان‌نشده زندگی می‌کند مبتلا می‌شود؛ وقتی درمان ویروس را سرکوب کند، منتقل نمی‌شود (Donnell et al. 2010، WHO · U=U) · آزمایش سالانه در زندگی مشترک عفونت را زود می‌یابد و قابل درمان است (WHO 2019)"
+  },
+  {
+    "k": "1xegdx5eseb",
+    "en": "Your spouse {0} tested HIV-positive.{1}",
+    "fa": "همسر {0} HIV مثبت شد.{1}"
+  },
+  {
+    "k": "27zekdyrh0v",
+    "en": " Treatment began right away.",
+    "fa": " درمان فوراً آغاز شد."
+  },
+  {
+    "k": "az21lyabge",
+    "en": " They would not seek treatment.",
+    "fa": " درمان را نپذیرفت."
+  },
+  {
+    "k": "65xn2p9sy0",
+    "en": "You were tested as well. You were negative.",
+    "fa": "شما هم آزمایش دادید. منفی بودید."
+  },
+  {
+    "k": "1kkpc1euiz2",
+    "en": "You were born with HIV, passed on from your mother. You are growing up taking medicine every day.",
+    "fa": "با HIV متولد شدید، از مادرتان. با داروی روزانه بزرگ می‌شوید."
+  },
+  {
+    "k": "19n07j8kp02",
+    "en": "Of about 1.4 million children living with HIV worldwide, about 57% are on treatment (UNAIDS 2024)",
+    "fa": "از حدود ۱٫۴ میلیون کودک مبتلا به HIV در جهان، حدود ۵۷٪ درمان می‌گیرند (UNAIDS 2024)"
+  },
+  {
+    "k": "1uzq29e25qv",
+    "en": "Your spouse {0} had long put off treatment and now began it.",
+    "fa": "همسر {0} مدت‌ها درمان را به تأخیر انداخته بود و اکنون شروع کرد."
+  },
+  {
+    "k": "1gbjorlwzgp",
+    "en": "You lost weight, and colds and diarrhea kept coming back. Your body was not what it used to be.",
+    "fa": "لاغر شدید و سرماخوردگی و اسهال مدام برمی‌گشت. بدنتان دیگر سابق نبود."
+  },
+  {
+    "k": "14c5bi6waf1",
+    "en": "If you need help: {@y}",
+    "fa": "اگر کمک لازم دارید: {@y}"
+  },
+  {
+    "k": "2fca51zt7s7",
+    "en": "If you need help: {@c}",
+    "fa": "اگر کمک لازم دارید: {@c}"
+  },
+  {
+    "k": "1hp66y576nx",
+    "en": "People who lose someone close to suicide often blame themselves, but a suicide is never one person's fault. One suicide touches as many as 135 people around it (Cerel et al. 2018) · Someone to talk to: {@y}",
+    "fa": "کسانی که عزیزی را بر اثر خودکشی از دست می‌دهند اغلب خود را مقصر می‌دانند، اما خودکشی تقصیر یک نفر نیست. یک خودکشی تا ۱۳۵ نفر اطرافش را درگیر می‌کند (Cerel et al. 2018) · کسی برای گفت‌وگو: {@y}"
+  },
+  {
+    "k": "en5xvemqxg",
+    "en": "People who lose someone close to suicide often blame themselves, but a suicide is never one person's fault. One suicide touches as many as 135 people around it (Cerel et al. 2018) · Support for the bereaved: {@c}",
+    "fa": "کسانی که عزیزی را بر اثر خودکشی از دست می‌دهند اغلب خود را مقصر می‌دانند، اما خودکشی تقصیر یک نفر نیست. یک خودکشی تا ۱۳۵ نفر اطرافش را درگیر می‌کند (Cerel et al. 2018) · حمایت از بازماندگان: {@c}"
+  },
+  {
+    "k": "pfp5m7k3m5",
+    "en": "What should have been done? The question with no answer stayed for a long time. Meeting other parents who had lost a child the same way, it became a little easier to breathe.",
+    "fa": "چه باید می‌شد؟ پرسشی بی‌پاسخ مدت‌ها ماند. دیدار والدینی که فرزندشان را همین‌طور از دست داده بودند، کمی نفس کشیدن را آسان‌تر کرد."
+  },
+  {
+    "k": "jbx84d5d4d",
+    "en": "For a long time came the self-blame of having been right there and not noticing. At a group for people who had been through the same loss, it could finally be said out loud.",
+    "fa": "مدت‌ها خودسرزنشِ «آنجا بودم و نفهمیدم» بود. در گروهی از کسانی که همان از دست دادن را دیده بودند، بالاخره می‌شد بلند گفت."
+  },
+  {
+    "k": "gyn49t013d",
+    "en": "Long after the funeral the question 'why' remained. It took time to accept that it was no one's fault.",
+    "fa": "مدت‌ها پس از تشییع پرسش «چرا» ماند. وقت برد تا بپذیرید تقصیر کسی نبود."
+  },
+  {
+    "k": "2akjckjb1q0",
+    "en": "Days of playing together as children kept coming back. The family left behind agreed not to blame one another.",
+    "fa": "روزهای بازی کودکی مدام برمی‌گشت. خانواده بازمانده توافق کرد یکدیگر را سرزنش نکنند."
+  },
+  {
+    "k": "11icv8ihi8x",
+    "en": "The family spoke of it gently and held one another up.",
+    "fa": "خانواده آرام گفت و یکدیگر را نگه داشت."
+  }
+]

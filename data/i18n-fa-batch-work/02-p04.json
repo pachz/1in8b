@@ -1,0 +1,402 @@
+[
+  {
+    "k": "1q5qhd9v4xf",
+    "en": "You applied to the court for guardianship and went on raising {0}."
+  },
+  {
+    "k": "25d3e92ozfl",
+    "en": "{0} stayed on with you."
+  },
+  {
+    "k": "wi04g84ist",
+    "en": "{0} started working as ⁠{1}, the childhood dream come true."
+  },
+  {
+    "k": "1au5rc1qpzy",
+    "en": "{0} finished university and started work as ⁠{1}."
+  },
+  {
+    "k": "1q4ki75db5f",
+    "en": "{0} works as ⁠{1}."
+  },
+  {
+    "k": "1dk74h2ow0z",
+    "en": "At home"
+  },
+  {
+    "k": "1v30bhoow1c",
+    "en": "married{0}"
+  },
+  {
+    "k": "xjf33sr8yh",
+    "en": "Separated{0}"
+  },
+  {
+    "k": "13st7yseyv0",
+    "en": "divorced{0}"
+  },
+  {
+    "k": "1rci309euk4",
+    "en": "lives with a partner"
+  },
+  {
+    "k": "29p854171c6",
+    "en": "one child"
+  },
+  {
+    "k": "1svdclwytl5",
+    "en": "{0} children"
+  },
+  {
+    "k": "1ja8tbcuojb",
+    "en": "in prison"
+  },
+  {
+    "k": "185vq39po1y",
+    "en": "living with your parents back home"
+  },
+  {
+    "k": "uq3qdiyc3n",
+    "en": "living with your mother back home"
+  },
+  {
+    "k": "1x8t91twwcu",
+    "en": "living with your father back home"
+  },
+  {
+    "k": "10go9pefv3j",
+    "en": "lives with you"
+  },
+  {
+    "k": "211eu7rkttr",
+    "en": "living with {0}"
+  },
+  {
+    "k": "1vwfnyrg0q0",
+    "en": "living with a foster family"
+  },
+  {
+    "k": "umgmlkxsvw",
+    "en": "living in a children's home"
+  },
+  {
+    "k": "plllxpowzr",
+    "en": "waiting in {0}"
+  },
+  {
+    "k": "1l9u4phhtf3",
+    "en": "lives with their birth father"
+  },
+  {
+    "k": "1pwrgpntgq1",
+    "en": "lives with their birth mother"
+  },
+  {
+    "k": "28qlvkbhzij",
+    "en": "lives with the other parent in {0}"
+  },
+  {
+    "k": "7j3n4xaili",
+    "en": "lives with their father in {0}"
+  },
+  {
+    "k": "1wvccasc67t",
+    "en": "lives with their mother in {0}"
+  },
+  {
+    "k": "gai8rtq95r",
+    "en": "lives with the other parent"
+  },
+  {
+    "k": "2b8oz00iqso",
+    "en": "lives with their father"
+  },
+  {
+    "k": "11zzwn7rhcz",
+    "en": "lives with their mother"
+  },
+  {
+    "k": "1rf67cui0tx",
+    "en": "lives in {0}"
+  },
+  {
+    "k": "1uy1cylaw5l",
+    "en": "lives nearby"
+  },
+  {
+    "k": "1c6nluo4dmg",
+    "en": "lives in another village"
+  },
+  {
+    "k": "xkjd3gsw7",
+    "en": "lives elsewhere"
+  },
+  {
+    "k": "52n0w4f3rk",
+    "en": "You left the care home and moved into the new one."
+  },
+  {
+    "k": "1zztdu4736d",
+    "en": "You moved out of your in-laws' home into the new one."
+  },
+  {
+    "k": "1viw6ablmd6",
+    "en": "You moved out of {0} into the new one."
+  },
+  {
+    "k": "1zbik1x8jve",
+    "en": "You packed your things and moved back into {0}. For the first time in years you ate a meal your mother had made."
+  },
+  {
+    "k": "20ag3xenh1y",
+    "en": "You packed your things and moved back into {0}. Your father had quietly cleared out your old room."
+  },
+  {
+    "k": "1txnd0gkvqc",
+    "en": "You moved out of {0} and set up a home of your own as a couple."
+  },
+  {
+    "k": "21ezfaajc2b",
+    "en": "You moved out of {0} and set up a place of your own for the first time."
+  },
+  {
+    "k": "28qkplamgml",
+    "en": "Former spouse"
+  },
+  {
+    "k": "1tf1yq4syoh",
+    "en": "{0} turned {1}, and under {2}'s family law went to live with {3}."
+  },
+  {
+    "k": "13asispx6cm",
+    "en": "You visit often."
+  },
+  {
+    "k": "2b149mrh6oo",
+    "en": "{0} turned {1}, and under {2}'s family law came to live with you."
+  },
+  {
+    "k": "1og9xv9plr7",
+    "en": "Under Sudan's Muslim Personal Status Act of 1991, young children stay with their mother after a divorce, and custody passes to the father when a son turns 7 and a daughter 9. Guardianship and the children's support stay with the father (OECD SIGI 2019)"
+  },
+  {
+    "k": "w5zwaimt92",
+    "en": "Where Islamic family law applies, young children usually stay with their mother while legal guardianship often stays with the father. Where children grow up varies widely by country and family custom"
+  },
+  {
+    "k": "hldy4p4y4k",
+    "en": "In South Asia the father is often seen as the legal guardian, but young children usually stay with their mother (India's Hindu Minority and Guardianship Act: usually the mother until age five)"
+  },
+  {
+    "k": "cerpit4boh",
+    "en": "In much of Africa custom says children belong to the father's family, yet more of them actually live with their mother"
+  },
+  {
+    "k": "1nm0zsmduzb",
+    "en": "In Korea about 78% of single parents aged 20 to 39 raising children alone are mothers (Statistics Korea, young single-parent households 2023)"
+  },
+  {
+    "k": "1glnvsqtjcv",
+    "en": "In Japan about 85% of divorcing couples give the mother parental authority over all the children (Ministry of Health, Labour and Welfare, Vital Statistics). From April 2026 couples can also choose joint parental authority"
+  },
+  {
+    "k": "24bgiofeo9e",
+    "en": "In Japan about 85% of divorcing couples give the mother parental authority over all the children (Ministry of Health, Labour and Welfare, Vital Statistics)"
+  },
+  {
+    "k": "vw7al2qxhb",
+    "en": "In the US about 80% of custodial parents of children whose parents live apart are mothers (US Census Bureau 2020)"
+  },
+  {
+    "k": "5w777useiz",
+    "en": "Of Canadian children whose parents separated, about 70% live mainly with their mother, 15% with their father, and 9% split their time equally (Statistics Canada 2011)"
+  },
+  {
+    "k": "1vm4whnq0i1",
+    "en": "Children whose parents separate mostly live with their mother. In Canada and the US 70-80% live mainly with their mother, one or two in ten with their father, and the rest move between two homes (Statistics Canada 2011, US Census Bureau 2020)"
+  },
+  {
+    "k": "ezm1vbkmi2",
+    "en": "the children"
+  },
+  {
+    "k": "10vje9x449t",
+    "en": "After long talks with {0}, you agreed that {1} would come back to live with you. Setting up the child's room again, your heart was full."
+  },
+  {
+    "k": "1oqjo7kyd45",
+    "en": "Custody court costs"
+  },
+  {
+    "k": "11ddzzwtgbz",
+    "en": "{0} refused, so you asked the court to change custody. The court found it better for {1} to live with you. (−{2})"
+  },
+  {
+    "k": "2bsyn3afoht",
+    "en": "{0} refused, so you asked the court to change custody, but the court found it better for the child to stay as things are. You resolved to treasure your weekends together all the more. (−{1})"
+  },
+  {
+    "k": "1ddnm2v02i6",
+    "en": "You started looking for work again to make ends meet."
+  },
+  {
+    "k": "2bntdu3lghh",
+    "en": "You live on a survivor's pension from your late spouse and your own pension."
+  },
+  {
+    "k": "20876dsmv2k",
+    "en": "You live on your pension."
+  },
+  {
+    "k": "11xbl0hzs36",
+    "en": "{0} set up a home of their own again and moved out."
+  },
+  {
+    "k": "qxjmu6q2fa",
+    "en": "{0} became a {1} at work. That evening, everyone celebrated together at the dinner table."
+  },
+  {
+    "k": "1ej2r4yde3z",
+    "en": "You heard that {0} had become a {1} at work."
+  },
+  {
+    "k": "1cyw5awsokw",
+    "en": "You heard that {0} had bought a home in {1}."
+  },
+  {
+    "k": "20s6ep1a0me",
+    "en": "{0} bought a home. At the housewarming you looked around it for a long time."
+  },
+  {
+    "k": "1svxooz2uy9",
+    "en": "{0} separated from their spouse and came to live with you for a while. What you could give was a warm meal."
+  },
+  {
+    "k": "1rhbpp2ljo9",
+    "en": "{0} divorced and came to live with you for a while. What you could give was a warm meal."
+  },
+  {
+    "k": "1og3pzn7ts9",
+    "en": "{0} separated from their spouse. There was little you could do, and your heart was heavy."
+  },
+  {
+    "k": "gal9d98lbp",
+    "en": "{0} divorced. There was little you could do, and your heart was heavy."
+  },
+  {
+    "k": "xwysd7lsxv",
+    "en": "{0} married the child's mother, and the child now lives with them."
+  },
+  {
+    "k": "6k9iuo5of6",
+    "en": "{0} married again, a quiet ceremony with only those closest."
+  },
+  {
+    "k": "1n6xd71vbou",
+    "en": "{0} retired. You could hardly believe your child was old enough to retire."
+  },
+  {
+    "k": "10lm25uihsg",
+    "en": "{0}'s daughter"
+  },
+  {
+    "k": "1cg9s2bets8",
+    "en": "{0}'s son"
+  },
+  {
+    "k": "237f4prbzzf",
+    "en": "Gifts for the grandchildren"
+  },
+  {
+    "k": "10ppj4sw493",
+    "en": "{1}, who lives in {0}, started school. You sent your congratulations from afar."
+  },
+  {
+    "k": "2eqv82i8ihd",
+    "en": "{0} started school. You gave your congratulations instead of a gift."
+  },
+  {
+    "k": "og0utmao2a",
+    "en": "{1}, who lives in {0}, started school. You bought a school bag and sent it."
+  },
+  {
+    "k": "28lc2ot7gdl",
+    "en": "{0} started elementary school. You bought a randoseru school backpack as a gift."
+  },
+  {
+    "k": "skwpaunu47",
+    "en": "{0} started school. You bought a school bag."
+  },
+  {
+    "k": "n583ta7sz0",
+    "en": "You pressed a little money into their hand to celebrate."
+  },
+  {
+    "k": "1v3cu60zr3t",
+    "en": "That evening, everyone celebrated together."
+  },
+  {
+    "k": "1vrg0o380yl",
+    "en": "{0} got into university, and you sent a card with a gift."
+  },
+  {
+    "k": "1zkfhe7rqsq",
+    "en": "You heard that {0} got into university."
+  },
+  {
+    "k": "28oznii7i6g",
+    "en": "{1}, who lives in {0}, got their first pay and sent you a present."
+  },
+  {
+    "k": "1tswlfgcudu",
+    "en": "{0} bought you thermal underwear with their first pay, as is the custom."
+  },
+  {
+    "k": "1r4yw1n0u8k",
+    "en": "{0} got their first pay and took you out to dinner."
+  },
+  {
+    "k": "rvicgwrt05",
+    "en": "A grandchild's wedding gift"
+  },
+  {
+    "k": "26i0pwm14qa",
+    "en": "You went to the wedding of {0}. You had never thought you would see a grandchild marry."
+  },
+  {
+    "k": "ly7cvweioe",
+    "en": "You flew to {0} for the wedding of {1}. You had never thought you would see a grandchild marry."
+  },
+  {
+    "k": "mqzvfhtl4d",
+    "en": "You watched the wedding of {1} in {0} on a video call. You had never thought you would see a grandchild marry."
+  },
+  {
+    "k": "slxqlttawg",
+    "en": "Photos of the wedding of {1} in {0} came by post. You had never thought you would see a grandchild marry."
+  },
+  {
+    "k": "1gh51ll7wp0",
+    "en": "daughter {0}"
+  },
+  {
+    "k": "21a6ejhdwxl",
+    "en": "son {0}"
+  },
+  {
+    "k": "jum9rn96e9",
+    "en": "daughter"
+  },
+  {
+    "k": "1n6l1igwju6",
+    "en": "son"
+  },
+  {
+    "k": "1son1ym41wf",
+    "en": "Your {0} and their spouse adopted a {1}."
+  },
+  {
+    "k": "4r22dnxm91",
+    "en": "Your {0} adopted a {1}."
+  }
+]

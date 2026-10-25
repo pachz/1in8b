@@ -1,0 +1,502 @@
+[
+  {
+    "k": "21k3o9guv8i",
+    "en": "the small restaurant{0}",
+    "fa": "رستوران کوچک{0}"
+  },
+  {
+    "k": "1egawvgdckx",
+    "en": "the repair shop{0}",
+    "fa": "تعمیرگاه{0}"
+  },
+  {
+    "k": "1lvjuxbk2ma",
+    "en": "the small factory{0}",
+    "fa": "کارخانه کوچک{0}"
+  },
+  {
+    "k": "2c6xvbzi8hn",
+    "en": "the neighbourhood shop{0}",
+    "fa": "مغازه محله{0}"
+  },
+  {
+    "k": "1irc3rl903x",
+    "en": "restaurant owner",
+    "fa": "صاحب رستوران"
+  },
+  {
+    "k": "13t9qiu1816",
+    "en": "repair shop owner",
+    "fa": "صاحب تعمیرگاه"
+  },
+  {
+    "k": "1mw1cqzwamo",
+    "en": "small factory owner",
+    "fa": "صاحب کارخانه کوچک"
+  },
+  {
+    "k": "tftbo4esqx",
+    "en": "shop owner",
+    "fa": "صاحب مغازه"
+  },
+  {
+    "k": "18rt9pj3mra",
+    "en": "homemaker",
+    "fa": "خانه‌دار"
+  },
+  {
+    "k": "15na88566nw",
+    "en": "The people's commune was wound up, and you began farming the plot your household was allotted.",
+    "fa": "کمون مردمی منحل شد و شما کشت زمینی را که به خانوار شما واگذار شده بود آغاز کردید."
+  },
+  {
+    "k": "11v06sbsfo9",
+    "en": "The land your family farmed became the people's commune's.",
+    "fa": "زمینی که خانواده‌تان می‌کاشت به کمون مردمی تعلق گرفت."
+  },
+  {
+    "k": "rln4f7ox0y",
+    "en": "{0} now worked the commune's fields, paid in work points.",
+    "fa": "{0} حالا مزارع کمون را با امتیاز کار می‌کشت."
+  },
+  {
+    "k": "5afqlgvbo3",
+    "en": "{0} scraped together the rest of the start-up money and opened a small shop.",
+    "fa": "{0} بقیه سرمایه اولیه را جمع کرد و یک مغازه کوچک باز کرد."
+  },
+  {
+    "k": "zfks1kql6h",
+    "en": "{0} opened a small shop with that money.",
+    "fa": "{0} با آن پول یک مغازه کوچک باز کرد."
+  },
+  {
+    "k": "1uolf1s24u9",
+    "en": "The shop {0} ran has closed.",
+    "fa": "مغازه‌ای که {0} اداره می‌کرد بسته شد."
+  },
+  {
+    "k": "de9djxpgyg",
+    "en": "{0} went back to the work from before.",
+    "fa": "{0} به کار قبلی برگشت."
+  },
+  {
+    "k": "ul1tzsa26n",
+    "en": "{0} found work again.",
+    "fa": "{0} دوباره کار پیدا کرد."
+  },
+  {
+    "k": "2bofixhwrjj",
+    "en": "Your childhood dream",
+    "fa": "رویای دوران کودکی‌تان"
+  },
+  {
+    "k": "i6pvuw57vc",
+    "en": "Close to a long-time hobby",
+    "fa": "نزدیک به یک سرگرمی دیرین"
+  },
+  {
+    "k": "1isqs33rkk4",
+    "en": "Uses your degree",
+    "fa": "از مدرکتان استفاده می‌کند"
+  },
+  {
+    "k": "20kf4712u6d",
+    "en": "Your parent's line of work",
+    "fa": "شغل والدین‌تان"
+  },
+  {
+    "k": "po27rseky4",
+    "en": "worth a try",
+    "fa": "ارزش امتحان کردن"
+  },
+  {
+    "k": "20uqwhtqez2",
+    "en": "quite low",
+    "fa": "نسبتاً کم"
+  },
+  {
+    "k": "24g7yghay7k",
+    "en": "very low",
+    "fa": "بسیار کم"
+  },
+  {
+    "k": "1v219jho9vy",
+    "en": "Without practice kept up since childhood, it was a hard road to get into.",
+    "fa": "بدون تمرین مداوم از کودکی، ورود به این راه سخت بود."
+  },
+  {
+    "k": "jfimljmutb",
+    "en": "It was late in life to start out on this road.",
+    "fa": "دیر در زندگی بود که این راه را آغاز کردید."
+  },
+  {
+    "k": "ldyqxbok3u",
+    "en": "With so many skilled applicants, places on this road were hard to win.",
+    "fa": "با این همه متقاضی ماهر، جا در این راه سخت به دست می‌آمد."
+  },
+  {
+    "k": "j49afin3oq",
+    "en": "With your record, few places would take you.",
+    "fa": "با سوابق شما، جایی کمتر شما را می‌پذیرفت."
+  },
+  {
+    "k": "22bvoah1hhb",
+    "en": "Past forty-five, openings for someone starting out were rare.",
+    "fa": "بعد از چهل‌وپنج سالگی، فرصت برای کسی که تازه شروع می‌کند کم بود."
+  },
+  {
+    "k": "2g5f1tn9h6t",
+    "en": "You had never done the work, and applicants with experience came first.",
+    "fa": "هرگز آن کار را نکرده بودید و متقاضیان با سابقه اولویت داشتند."
+  },
+  {
+    "k": "120b7bixd8u",
+    "en": "There were few places and many applicants.",
+    "fa": "جا کم بود و متقاضی زیاد."
+  },
+  {
+    "k": "1sbhvml9ei7",
+    "en": "Keeping up a hobby that leads to that work would open the door a little wider next time.",
+    "fa": "ادامه دادن سرگرمی‌ای که به آن کار می‌رسد، دفعه بعد در را کمی بیشتر باز می‌کند."
+  },
+  {
+    "k": "25ojl2etfjz",
+    "en": "Two years old, among other children",
+    "fa": "دو ساله، میان بچه‌های دیگر"
+  },
+  {
+    "k": "20qs7ne67wc",
+    "en": "Where the neighborhood children play together, what does the child do first?",
+    "fa": "جایی که بچه‌های محله با هم بازی می‌کنند، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "2656i1d3fwo",
+    "en": "Watch the older children play for a long time",
+    "fa": "مدت زیادی بازی بچه‌های بزرگ‌تر را تماشا می‌کند"
+  },
+  {
+    "k": "1687xo8txa6",
+    "en": "Dash in among the children",
+    "fa": "میان بچه‌ها می‌دود"
+  },
+  {
+    "k": "f7t35rxino",
+    "en": "Go over to a child who is crying",
+    "fa": "سراغ بچه‌ای می‌رود که گریه می‌کند"
+  },
+  {
+    "k": "1k24qnjvet3",
+    "en": "Fall while chasing the older children, get up and keep after them",
+    "fa": "در تعقیب بچه‌های بزرگ‌تر می‌افتد، بلند می‌شود و دنبالشان می‌رود"
+  },
+  {
+    "k": "jji5dv2qt",
+    "en": "Two years old, and a visitor",
+    "fa": "دو ساله، و یک مهمان"
+  },
+  {
+    "k": "2a3q339w3jo",
+    "en": "When a visitor the child has never met comes to the house, what does the child do first?",
+    "fa": "وقتی مهمان ناآشنا به خانه می‌آید، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "189svgcpuey",
+    "en": "Study the visitor's bag and shoes for a long time",
+    "fa": "مدت زیادی کیف و کفش مهمان را نگاه می‌کند"
+  },
+  {
+    "k": "5uj272i95f",
+    "en": "Run around and around in front of the visitor",
+    "fa": "جلوی مهمان دور می‌چرخد"
+  },
+  {
+    "k": "2yl3vae3w2",
+    "en": "Go up to the visitor and offer what's in your hand",
+    "fa": "به سمت مهمان می‌رود و چیزی که در دست دارد پیشنهاد می‌دهد"
+  },
+  {
+    "k": "8iv9aer3v9",
+    "en": "Insist on opening the visitor's bundle alone and keep at it to the end",
+    "fa": "اصرار می‌کند خودش بسته مهمان را باز کند و تا آخر ادامه می‌دهد"
+  },
+  {
+    "k": "1o3683ketcj",
+    "en": "Two years old, and a new toy",
+    "fa": "دو ساله، و یک اسباب‌بازی نو"
+  },
+  {
+    "k": "6xlmp664g3",
+    "en": "With a new toy in hand, what does the child do first?",
+    "fa": "با اسباب‌بازی نو در دست، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "1embqgd3cud",
+    "en": "Turn it this way and that and study it for a long time",
+    "fa": "آن را این طرف و آن طرف می‌چرخاند و مدت زیادی بررسی می‌کند"
+  },
+  {
+    "k": "orhhlpzfe8",
+    "en": "Run all over the house with it",
+    "fa": "با آن در همه خانه می‌دود"
+  },
+  {
+    "k": "9hsn91aax5",
+    "en": "Hold it out to someone nearby and ask them to play",
+    "fa": "به کسی نزدیک دراز می‌کند و می‌خواهد با او بازی کند"
+  },
+  {
+    "k": "anygpq454r",
+    "en": "Keep trying again and again, even when it doesn't work",
+    "fa": "حتی وقتی جواب نمی‌دهد بارها و بارها تلاش می‌کند"
+  },
+  {
+    "k": "23bbydt1lrh",
+    "en": "Two years old, and a world outside",
+    "fa": "دو ساله، و دنیایی بیرون"
+  },
+  {
+    "k": "efpn3f7tn8",
+    "en": "Carried outside in the family's arms, what does the child do first?",
+    "fa": "در آغوش خانواده بیرون برده می‌شود، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "18tz1j49ib6",
+    "en": "Outside, full of sounds and smells never met before, what does the child do first?",
+    "fa": "بیرون، پر از صداها و بوی‌هایی که هرگز نشنیده، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "1f8e72rtvgn",
+    "en": "Outside, where everything is new, what does the child do first?",
+    "fa": "بیرون، جایی که همه‌چیز تازه است، بچه اول چه می‌کند؟"
+  },
+  {
+    "k": "10c0xbg4o9a",
+    "en": "Feel the dirt and pebbles for a long time",
+    "fa": "مدت زیادی خاک و سنگریزه را لمس می‌کند"
+  },
+  {
+    "k": "ye0ozehxzn",
+    "en": "Look closely at the dirt and pebbles for a long time",
+    "fa": "مدت زیادی خاک و سنگریزه را از نزدیک نگاه می‌کند"
+  },
+  {
+    "k": "25mgwz6n6st",
+    "en": "Lean your whole body toward every sound",
+    "fa": "تمام بدنش را به سمت هر صدا خم می‌کند"
+  },
+  {
+    "k": "1g840ea348n",
+    "en": "Run off as fast as you can",
+    "fa": "تا جایی که می‌تواند می‌دود"
+  },
+  {
+    "k": "2m1kh39sr2",
+    "en": "Reach out a hand to a child who is crying",
+    "fa": "دستش را به سمت بچه‌ای که گریه می‌کند دراز می‌کند"
+  },
+  {
+    "k": "b98szq28jh",
+    "en": "Reach again and again, even when it's out of reach",
+    "fa": "بارها و بارها دست دراز می‌کند، حتی وقتی به دست نمی‌رسد"
+  },
+  {
+    "k": "1iajbgxgjk",
+    "en": "Fall, get up on your own and walk on",
+    "fa": "می‌افتد، خودش بلند می‌شود و راه می‌رود"
+  },
+  {
+    "k": "xgmjhd4fv3",
+    "en": "{0} loves going outside.",
+    "fa": "{0} عاشق بیرون رفتن است."
+  },
+  {
+    "k": "1xng1325nl2",
+    "en": "{0} can walk quite well now.",
+    "fa": "{0} حالا خوب راه می‌رود."
+  },
+  {
+    "k": "1v4rpgswo9m",
+    "en": "What you pick leans the child's temperament that way; moments like these add up, and it settles by about age five.",
+    "fa": "آنچه انتخاب می‌کنید تمایز کودک را به آن سمت می‌برد؛ چنین لحظه‌هایی جمع می‌شوند و تا حدود پنج سالگی تثبیت می‌شود."
+  },
+  {
+    "k": "pn65xmeeq2",
+    "en": "Temperament comes from what we are born with and what happens as we grow. Twin studies put about 40% of the differences in personality down to genes (Vukasović & Bratko 2015)",
+    "fa": "تمایز از آنچه با آن متولد می‌شویم و آنچه در رشد رخ می‌دهد می‌آید. مطالعات دوقلوها حدود ۴۰٪ تفاوت‌های شخصیت را به ژن‌ها نسبت می‌دهند (Vukasović & Bratko 2015)"
+  },
+  {
+    "k": "218asugi7nx",
+    "en": "You watched the older children's game for a long time, then tried it on your own at home.",
+    "fa": "مدت زیادی بازی بچه‌های بزرگ‌تر را تماشا کردید، بعد در خانه خودتان امتحانش کردید."
+  },
+  {
+    "k": "1vb8fol05df",
+    "en": "You kept right up with the older children and played as hard as any of them.",
+    "fa": "کنار بچه‌های بزرگ‌تر ماندید و به سختی هر کدامشان بازی کردید."
+  },
+  {
+    "k": "rd3pjau390",
+    "en": "You took the crying child's hand, and soon the crying stopped.",
+    "fa": "دست بچه گریان را گرفتید و به زودی گریه قطع شد."
+  },
+  {
+    "k": "1a95vyij6tj",
+    "en": "You fell more than once, and in the end you caught up with the older children.",
+    "fa": "بیش از یک بار افتادید و در پایان به بچه‌های بزرگ‌تر رسیدید."
+  },
+  {
+    "k": "yr11gkav6b",
+    "en": "Curious about what was in the bag, you stayed by the visitor until they left.",
+    "fa": "کنجکاو بودید داخل کیف چه باشد و تا رفتن مهمان کنارش ماندید."
+  },
+  {
+    "k": "2552hbhwrbj",
+    "en": "You ran about in front of the visitor until you fell asleep on their lap.",
+    "fa": "جلوی مهمان دویدید تا روی پایش خوابید."
+  },
+  {
+    "k": "ab3uz80ghw",
+    "en": "You handed over what you were holding, and the visitor broke into a big smile.",
+    "fa": "آنچه در دست داشتید دادید و مهمان لبخند بزرگی زد."
+  },
+  {
+    "k": "msydahtsr8",
+    "en": "After a long struggle, you opened the bundle all by yourself.",
+    "fa": "پس از مبارزه طولانی، بسته را کاملاً خودتان باز کردید."
+  },
+  {
+    "k": "194s07wid2e",
+    "en": "You did not let go of the toy until you had worked out how it moved.",
+    "fa": "اسباب‌بازی را ول نکردید تا فهمیدید چطور حرکت می‌کند."
+  },
+  {
+    "k": "2e60lqy6d34",
+    "en": "All that day you carried the toy from one end of the house to the other.",
+    "fa": "تمام آن روز اسباب‌بازی را از یک سر خانه به سر دیگر بردید."
+  },
+  {
+    "k": "2fktg4ncw3h",
+    "en": "You held out the toy for someone to play with you, and that day the whole family laughed together.",
+    "fa": "اسباب‌بازی را برای بازی دراز کردید و آن روز همه خانواده با هم خندیدند."
+  },
+  {
+    "k": "1ykxsdpg3kq",
+    "en": "You tried again and again, and at last you did it by yourself.",
+    "fa": "بارها و بارها تلاش کردید و بالاخره خودتان انجام دادید."
+  },
+  {
+    "k": "1dvvino0qaw",
+    "en": "A handful of earth or a single pebble kept you busy for ages.",
+    "fa": "یک مشت خاک یا یک سنگریزه مدت‌ها شما را مشغول کرد."
+  },
+  {
+    "k": "1onljadpm6m",
+    "en": "Every time you went out, you leaned toward the sounds and laughed.",
+    "fa": "هر بار بیرون می‌رفتید، به سمت صداها خم می‌شدید و می‌خندید."
+  },
+  {
+    "k": "17abqcdl0i0",
+    "en": "You were the first at the door, shoes in hand, waiting to go out.",
+    "fa": "اول سر در بودید، کفش به دست، منتظر بیرون رفتن."
+  },
+  {
+    "k": "1cmfrjlftd",
+    "en": "You stayed quietly beside the crying child, and soon you were laughing and playing together.",
+    "fa": "آرام کنار بچه گریان ماندید و به زودی با هم خندیدید و بازی کردید."
+  },
+  {
+    "k": "ix9xoanewm",
+    "en": "You reached out again and again, and at last a petal was in your hand.",
+    "fa": "بارها دست دراز کردید و بالاخره یک گلبرگ در دستتان بود."
+  },
+  {
+    "k": "2832zcmkh8u",
+    "en": "You fell and fell again, and each time you got up on your own and walked on to the end.",
+    "fa": "بارها افتادید و هر بار خودتان بلند شدید و تا آخر راه رفتید."
+  },
+  {
+    "k": "4adp7ggxnk",
+    "en": "I want to go back to school",
+    "fa": "می‌خواهم دوباره به مدرسه بروم"
+  },
+  {
+    "k": "1sh7kzlklec",
+    "en": "I want to go to school",
+    "fa": "می‌خواهم به مدرسه بروم"
+  },
+  {
+    "k": "6lc14mlnu4",
+    "en": "Some children your age go to school. You help your family at home.",
+    "fa": "برخی بچه‌های هم‌سن شما به مدرسه می‌روند. شما در خانه به خانواده کمک می‌کنید."
+  },
+  {
+    "k": "1negz5kx57m",
+    "en": "Some children your age go to school. You help in the fields and fetch water.",
+    "fa": "برخی بچه‌های هم‌سن شما به مدرسه می‌روند. شما در مزارع کمک می‌کنید و آب می‌آورید."
+  },
+  {
+    "k": "25i13usui04",
+    "en": "Expected years of schooling in {0}: {1} years (UNDP HDR 2022)",
+    "fa": "سال‌های تحصیل مورد انتظار در {0}: {1} سال (UNDP HDR 2022)"
+  },
+  {
+    "k": "jy9l1ogoju",
+    "en": "Beg to be sent back to school",
+    "fa": "التماس کنید دوباره به مدرسه بفرستندتان"
+  },
+  {
+    "k": "7jhcg9vxc8",
+    "en": "Beg to be sent to school",
+    "fa": "التماس کنید به مدرسه بفرستندتان"
+  },
+  {
+    "k": "1cjdm8huv2p",
+    "en": "Whether it works depends on your family's situation",
+    "fa": "موفق شدن یا نه به وضعیت خانواده‌تان بستگی دارد"
+  },
+  {
+    "k": "e9518wgnw9",
+    "en": "Help your family",
+    "fa": "به خانواده کمک کنید"
+  },
+  {
+    "k": "1gkglrkv8gv",
+    "en": "Relationships +4",
+    "fa": "روابط +4"
+  },
+  {
+    "k": "217smwk7k00",
+    "en": "You stayed with your family instead of going to school.",
+    "fa": "به جای رفتن به مدرسه، کنار خانواده ماندید."
+  },
+  {
+    "k": "2fxaagj90lh",
+    "en": "{0} said yes. You went back to primary school!",
+    "fa": "{0} بله گفت. دوباره به مدرسه ابتدایی رفتید!"
+  },
+  {
+    "k": "1qxmy51wxms",
+    "en": "{0} said yes.",
+    "fa": "{0} بله گفت."
+  },
+  {
+    "k": "2bb23mk9sv",
+    "en": "A little late, but you started primary school!",
+    "fa": "کمی دیر، اما مدرسه ابتدایی را شروع کردید!"
+  },
+  {
+    "k": "br4z8frqxt",
+    "en": "{0} said yes. A little late, but you started primary school!",
+    "fa": "{0} بله گفت. کمی دیر، اما مدرسه ابتدایی را شروع کردید!"
+  },
+  {
+    "k": "11x23ixqosh",
+    "en": "You tried to go back to school, but no way opened up.",
+    "fa": "خواستید دوباره به مدرسه بروید، اما راهی باز نشد."
+  },
+  {
+    "k": "1bh66lz3vs0",
+    "en": "School fees and the need for your help at home kept you from going back to school.",
+    "fa": "شهریه مدرسه و نیاز خانواده به کمک شما در خانه مانع بازگشت به مدرسه شد."
+  }
+]

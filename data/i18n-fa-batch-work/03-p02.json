@@ -1,0 +1,402 @@
+[
+  {
+    "k": "21k3o9guv8i",
+    "en": "the small restaurant{0}"
+  },
+  {
+    "k": "1egawvgdckx",
+    "en": "the repair shop{0}"
+  },
+  {
+    "k": "1lvjuxbk2ma",
+    "en": "the small factory{0}"
+  },
+  {
+    "k": "2c6xvbzi8hn",
+    "en": "the neighbourhood shop{0}"
+  },
+  {
+    "k": "1irc3rl903x",
+    "en": "restaurant owner"
+  },
+  {
+    "k": "13t9qiu1816",
+    "en": "repair shop owner"
+  },
+  {
+    "k": "1mw1cqzwamo",
+    "en": "small factory owner"
+  },
+  {
+    "k": "tftbo4esqx",
+    "en": "shop owner"
+  },
+  {
+    "k": "18rt9pj3mra",
+    "en": "homemaker"
+  },
+  {
+    "k": "15na88566nw",
+    "en": "The people's commune was wound up, and you began farming the plot your household was allotted."
+  },
+  {
+    "k": "11v06sbsfo9",
+    "en": "The land your family farmed became the people's commune's."
+  },
+  {
+    "k": "rln4f7ox0y",
+    "en": "{0} now worked the commune's fields, paid in work points."
+  },
+  {
+    "k": "5afqlgvbo3",
+    "en": "{0} scraped together the rest of the start-up money and opened a small shop."
+  },
+  {
+    "k": "zfks1kql6h",
+    "en": "{0} opened a small shop with that money."
+  },
+  {
+    "k": "1uolf1s24u9",
+    "en": "The shop {0} ran has closed."
+  },
+  {
+    "k": "de9djxpgyg",
+    "en": "{0} went back to the work from before."
+  },
+  {
+    "k": "ul1tzsa26n",
+    "en": "{0} found work again."
+  },
+  {
+    "k": "2bofixhwrjj",
+    "en": "Your childhood dream"
+  },
+  {
+    "k": "i6pvuw57vc",
+    "en": "Close to a long-time hobby"
+  },
+  {
+    "k": "1isqs33rkk4",
+    "en": "Uses your degree"
+  },
+  {
+    "k": "20kf4712u6d",
+    "en": "Your parent's line of work"
+  },
+  {
+    "k": "po27rseky4",
+    "en": "worth a try"
+  },
+  {
+    "k": "20uqwhtqez2",
+    "en": "quite low"
+  },
+  {
+    "k": "24g7yghay7k",
+    "en": "very low"
+  },
+  {
+    "k": "1v219jho9vy",
+    "en": "Without practice kept up since childhood, it was a hard road to get into."
+  },
+  {
+    "k": "jfimljmutb",
+    "en": "It was late in life to start out on this road."
+  },
+  {
+    "k": "ldyqxbok3u",
+    "en": "With so many skilled applicants, places on this road were hard to win."
+  },
+  {
+    "k": "j49afin3oq",
+    "en": "With your record, few places would take you."
+  },
+  {
+    "k": "22bvoah1hhb",
+    "en": "Past forty-five, openings for someone starting out were rare."
+  },
+  {
+    "k": "2g5f1tn9h6t",
+    "en": "You had never done the work, and applicants with experience came first."
+  },
+  {
+    "k": "120b7bixd8u",
+    "en": "There were few places and many applicants."
+  },
+  {
+    "k": "1sbhvml9ei7",
+    "en": "Keeping up a hobby that leads to that work would open the door a little wider next time."
+  },
+  {
+    "k": "25ojl2etfjz",
+    "en": "Two years old, among other children"
+  },
+  {
+    "k": "20qs7ne67wc",
+    "en": "Where the neighborhood children play together, what does the child do first?"
+  },
+  {
+    "k": "2656i1d3fwo",
+    "en": "Watch the older children play for a long time"
+  },
+  {
+    "k": "1687xo8txa6",
+    "en": "Dash in among the children"
+  },
+  {
+    "k": "f7t35rxino",
+    "en": "Go over to a child who is crying"
+  },
+  {
+    "k": "1k24qnjvet3",
+    "en": "Fall while chasing the older children, get up and keep after them"
+  },
+  {
+    "k": "jji5dv2qt",
+    "en": "Two years old, and a visitor"
+  },
+  {
+    "k": "2a3q339w3jo",
+    "en": "When a visitor the child has never met comes to the house, what does the child do first?"
+  },
+  {
+    "k": "189svgcpuey",
+    "en": "Study the visitor's bag and shoes for a long time"
+  },
+  {
+    "k": "5uj272i95f",
+    "en": "Run around and around in front of the visitor"
+  },
+  {
+    "k": "2yl3vae3w2",
+    "en": "Go up to the visitor and offer what's in your hand"
+  },
+  {
+    "k": "8iv9aer3v9",
+    "en": "Insist on opening the visitor's bundle alone and keep at it to the end"
+  },
+  {
+    "k": "1o3683ketcj",
+    "en": "Two years old, and a new toy"
+  },
+  {
+    "k": "6xlmp664g3",
+    "en": "With a new toy in hand, what does the child do first?"
+  },
+  {
+    "k": "1embqgd3cud",
+    "en": "Turn it this way and that and study it for a long time"
+  },
+  {
+    "k": "orhhlpzfe8",
+    "en": "Run all over the house with it"
+  },
+  {
+    "k": "9hsn91aax5",
+    "en": "Hold it out to someone nearby and ask them to play"
+  },
+  {
+    "k": "anygpq454r",
+    "en": "Keep trying again and again, even when it doesn't work"
+  },
+  {
+    "k": "23bbydt1lrh",
+    "en": "Two years old, and a world outside"
+  },
+  {
+    "k": "efpn3f7tn8",
+    "en": "Carried outside in the family's arms, what does the child do first?"
+  },
+  {
+    "k": "18tz1j49ib6",
+    "en": "Outside, full of sounds and smells never met before, what does the child do first?"
+  },
+  {
+    "k": "1f8e72rtvgn",
+    "en": "Outside, where everything is new, what does the child do first?"
+  },
+  {
+    "k": "10c0xbg4o9a",
+    "en": "Feel the dirt and pebbles for a long time"
+  },
+  {
+    "k": "ye0ozehxzn",
+    "en": "Look closely at the dirt and pebbles for a long time"
+  },
+  {
+    "k": "25mgwz6n6st",
+    "en": "Lean your whole body toward every sound"
+  },
+  {
+    "k": "1g840ea348n",
+    "en": "Run off as fast as you can"
+  },
+  {
+    "k": "2m1kh39sr2",
+    "en": "Reach out a hand to a child who is crying"
+  },
+  {
+    "k": "b98szq28jh",
+    "en": "Reach again and again, even when it's out of reach"
+  },
+  {
+    "k": "1iajbgxgjk",
+    "en": "Fall, get up on your own and walk on"
+  },
+  {
+    "k": "xgmjhd4fv3",
+    "en": "{0} loves going outside."
+  },
+  {
+    "k": "1xng1325nl2",
+    "en": "{0} can walk quite well now."
+  },
+  {
+    "k": "1v4rpgswo9m",
+    "en": "What you pick leans the child's temperament that way; moments like these add up, and it settles by about age five."
+  },
+  {
+    "k": "pn65xmeeq2",
+    "en": "Temperament comes from what we are born with and what happens as we grow. Twin studies put about 40% of the differences in personality down to genes (Vukasović & Bratko 2015)"
+  },
+  {
+    "k": "218asugi7nx",
+    "en": "You watched the older children's game for a long time, then tried it on your own at home."
+  },
+  {
+    "k": "1vb8fol05df",
+    "en": "You kept right up with the older children and played as hard as any of them."
+  },
+  {
+    "k": "rd3pjau390",
+    "en": "You took the crying child's hand, and soon the crying stopped."
+  },
+  {
+    "k": "1a95vyij6tj",
+    "en": "You fell more than once, and in the end you caught up with the older children."
+  },
+  {
+    "k": "yr11gkav6b",
+    "en": "Curious about what was in the bag, you stayed by the visitor until they left."
+  },
+  {
+    "k": "2552hbhwrbj",
+    "en": "You ran about in front of the visitor until you fell asleep on their lap."
+  },
+  {
+    "k": "ab3uz80ghw",
+    "en": "You handed over what you were holding, and the visitor broke into a big smile."
+  },
+  {
+    "k": "msydahtsr8",
+    "en": "After a long struggle, you opened the bundle all by yourself."
+  },
+  {
+    "k": "194s07wid2e",
+    "en": "You did not let go of the toy until you had worked out how it moved."
+  },
+  {
+    "k": "2e60lqy6d34",
+    "en": "All that day you carried the toy from one end of the house to the other."
+  },
+  {
+    "k": "2fktg4ncw3h",
+    "en": "You held out the toy for someone to play with you, and that day the whole family laughed together."
+  },
+  {
+    "k": "1ykxsdpg3kq",
+    "en": "You tried again and again, and at last you did it by yourself."
+  },
+  {
+    "k": "1dvvino0qaw",
+    "en": "A handful of earth or a single pebble kept you busy for ages."
+  },
+  {
+    "k": "1onljadpm6m",
+    "en": "Every time you went out, you leaned toward the sounds and laughed."
+  },
+  {
+    "k": "17abqcdl0i0",
+    "en": "You were the first at the door, shoes in hand, waiting to go out."
+  },
+  {
+    "k": "1cmfrjlftd",
+    "en": "You stayed quietly beside the crying child, and soon you were laughing and playing together."
+  },
+  {
+    "k": "ix9xoanewm",
+    "en": "You reached out again and again, and at last a petal was in your hand."
+  },
+  {
+    "k": "2832zcmkh8u",
+    "en": "You fell and fell again, and each time you got up on your own and walked on to the end."
+  },
+  {
+    "k": "4adp7ggxnk",
+    "en": "I want to go back to school"
+  },
+  {
+    "k": "1sh7kzlklec",
+    "en": "I want to go to school"
+  },
+  {
+    "k": "6lc14mlnu4",
+    "en": "Some children your age go to school. You help your family at home."
+  },
+  {
+    "k": "1negz5kx57m",
+    "en": "Some children your age go to school. You help in the fields and fetch water."
+  },
+  {
+    "k": "25i13usui04",
+    "en": "Expected years of schooling in {0}: {1} years (UNDP HDR 2022)"
+  },
+  {
+    "k": "jy9l1ogoju",
+    "en": "Beg to be sent back to school"
+  },
+  {
+    "k": "7jhcg9vxc8",
+    "en": "Beg to be sent to school"
+  },
+  {
+    "k": "1cjdm8huv2p",
+    "en": "Whether it works depends on your family's situation"
+  },
+  {
+    "k": "e9518wgnw9",
+    "en": "Help your family"
+  },
+  {
+    "k": "1gkglrkv8gv",
+    "en": "Relationships +4"
+  },
+  {
+    "k": "217smwk7k00",
+    "en": "You stayed with your family instead of going to school."
+  },
+  {
+    "k": "2fxaagj90lh",
+    "en": "{0} said yes. You went back to primary school!"
+  },
+  {
+    "k": "1qxmy51wxms",
+    "en": "{0} said yes."
+  },
+  {
+    "k": "2bb23mk9sv",
+    "en": "A little late, but you started primary school!"
+  },
+  {
+    "k": "br4z8frqxt",
+    "en": "{0} said yes. A little late, but you started primary school!"
+  },
+  {
+    "k": "11x23ixqosh",
+    "en": "You tried to go back to school, but no way opened up."
+  },
+  {
+    "k": "1bh66lz3vs0",
+    "en": "School fees and the need for your help at home kept you from going back to school."
+  }
+]

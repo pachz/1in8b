@@ -6,6 +6,16 @@ import { fileURLToPath } from "node:url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC = path.join(__dirname, "public");
 const PORT = Number(process.env.PORT) || 3080;
+function readVersion() {
+  try {
+    const pkg = JSON.parse(
+      fs.readFileSync(path.join(__dirname, "package.json"), "utf8"),
+    );
+    return String(pkg.version || "0.0.0");
+  } catch {
+    return "0.0.0";
+  }
+}
 
 const seed = JSON.parse(
   fs.readFileSync(path.join(__dirname, "data", "api-seed.json"), "utf8"),
@@ -210,6 +220,11 @@ async function handleApi(req, res, url) {
 
   if (p === "/api/e" && req.method === "POST") {
     return json(res, 200, { ok: true });
+  }
+
+  if (p === "/api/version" && req.method === "GET") {
+    const version = readVersion();
+    return json(res, 200, { version, label: `${version} beta` });
   }
 
   return json(res, 404, { ok: false, error: "not found" });

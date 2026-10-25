@@ -1,0 +1,502 @@
+[
+  {
+    "k": "9hhq6k1vph",
+    "en": "Among people who left North Korea, 10.7% of those who left before 2000 had bought, sold or swapped a home, and 46.2% of those who left in 2016-2020 (South Korea's Ministry of Unification, report on North Korea's economy and society, 2024)",
+    "fa": "در میان افرادی که کره شمالی را ترک کرده‌اند، ۱۰.۷٪ از کسانی که قبل از سال ۲۰۰۰ ترک کرده بودند خانه‌ای خریده، فروخته یا تعویض کرده بودند و ۴۶.۲٪ از کسانی که در سال‌های ۲۰۱۶ تا ۲۰۲۰ ترک کرده بودند (وزارت اتحاد کره جنوبی، گزارش درباره اقتصاد و جامعه کره شمالی، ۲۰۲۴)"
+  },
+  {
+    "k": "gcsouptwaa",
+    "en": "You sold the old motorbike and bought a small car.",
+    "fa": "تو موتور قدیمی را فروختی و یک ماشین کوچک خریدی."
+  },
+  {
+    "k": "2egrq6b8wji",
+    "en": "Electricity finally reached the village. The house was bright even at night.",
+    "fa": "سرانجام برق به روستا رسید. خانه حتی در شب هم روشن بود."
+  },
+  {
+    "k": "16aydt9snvd",
+    "en": "You got a computer of your own.",
+    "fa": "تو یک کامپیوتر برای خودت داری."
+  },
+  {
+    "k": "8ufd1bttzf",
+    "en": "Your home now has a TV and a refrigerator.",
+    "fa": "خانه شما اکنون یک تلویزیون و یک یخچال دارد."
+  },
+  {
+    "k": "1uyo4o0216r",
+    "en": "drawing",
+    "fa": "نقاشی"
+  },
+  {
+    "k": "1jrifq8uvci",
+    "en": "Music",
+    "fa": "موسیقی"
+  },
+  {
+    "k": "ymmz6xue0",
+    "en": "working with your hands",
+    "fa": "کار کردن با دستان خود"
+  },
+  {
+    "k": "2763bk63gxh",
+    "en": "a way with words",
+    "fa": "استعداد در کلمات"
+  },
+  {
+    "k": "v05cktaxef",
+    "en": "medicine",
+    "fa": "دارو"
+  },
+  {
+    "k": "luadgjqlu1",
+    "en": "Doctor or nurse · long years of study, hard to get in",
+    "fa": "پزشک یا پرستار · سال‌های طولانی تحصیل، ورود دشوار"
+  },
+  {
+    "k": "lwzks0m6df",
+    "en": "nursing",
+    "fa": "پرستاری"
+  },
+  {
+    "k": "10jzwrxtuo1",
+    "en": "Nurse · there are jobs everywhere",
+    "fa": "پرستار · شغل‌ها همه جا هستند"
+  },
+  {
+    "k": "2gj2tkh5hxv",
+    "en": "law",
+    "fa": "قانون"
+  },
+  {
+    "k": "7cfdm0ru5k",
+    "en": "Lawyer, civil servant, police officer",
+    "fa": "وکیل، کارمند دولت، افسر پلیس"
+  },
+  {
+    "k": "116ju31kz74",
+    "en": "engineering",
+    "fa": "مهندسی"
+  },
+  {
+    "k": "qq4rq80d9l",
+    "en": "Engineer, technician",
+    "fa": "مهندس، تکنسین"
+  },
+  {
+    "k": "3mo9dtisif",
+    "en": "computer science",
+    "fa": "علوم کامپیوتر"
+  },
+  {
+    "k": "1v2ocnp1lsv",
+    "en": "Software developer, engineer",
+    "fa": "توسعه‌دهنده نرم‌افزار، مهندس"
+  },
+  {
+    "k": "2exsq05hoa1",
+    "en": "business and economics",
+    "fa": "تجارت و اقتصاد"
+  },
+  {
+    "k": "17i83vecqkc",
+    "en": "Office worker, finance, starting a business",
+    "fa": "کارمند اداری، امور مالی، شروع یک کسب و کار"
+  },
+  {
+    "k": "240qus9e0mk",
+    "en": "education",
+    "fa": "تحصیلات"
+  },
+  {
+    "k": "2b9cj2rsosy",
+    "en": "natural sciences",
+    "fa": "علوم طبیعی"
+  },
+  {
+    "k": "1prwwgnie4x",
+    "en": "Researcher, teacher, engineer",
+    "fa": "پژوهشگر، معلم، مهندس"
+  },
+  {
+    "k": "wx8nfwx3di",
+    "en": "humanities",
+    "fa": "علوم انسانی"
+  },
+  {
+    "k": "njcqnn7qkz",
+    "en": "Teacher, office worker, writer",
+    "fa": "معلم، کارمند اداری، نویسنده"
+  },
+  {
+    "k": "1aci6856ivg",
+    "en": "art and design",
+    "fa": "هنر و طراحی"
+  },
+  {
+    "k": "f9ei5bdh06",
+    "en": "Artist, designer",
+    "fa": "هنرمند، طراح"
+  },
+  {
+    "k": "25nnjqj8kv6",
+    "en": "agriculture",
+    "fa": "کشاورزی"
+  },
+  {
+    "k": "1kxtxuxgktq",
+    "en": "Farm manager, researcher",
+    "fa": "مدیر مزرعه، پژوهشگر"
+  },
+  {
+    "k": "tckdbzyeg7",
+    "en": "Sport & PE",
+    "fa": "ورزش و تربیت بدنی"
+  },
+  {
+    "k": "2ah5p01cjsz",
+    "en": "PE teacher, coach, trainer",
+    "fa": "معلم تربیت بدنی، مربی، آموزشگر"
+  },
+  {
+    "k": "2e0s0s07hfl",
+    "en": "Social sciences",
+    "fa": "علوم اجتماعی"
+  },
+  {
+    "k": "29wcdyx9lkr",
+    "en": "Social worker, civil servant, office work, research",
+    "fa": "کارگر اجتماعی، کارمند دولت، کار اداری، تحقیق"
+  },
+  {
+    "k": "6uzuoxz7np",
+    "en": "Media and communication",
+    "fa": "رسانه و ارتباطات"
+  },
+  {
+    "k": "n7kqwerrfj",
+    "en": "Broadcasting, advertising, PR, creator",
+    "fa": "پخش، تبلیغات، روابط عمومی، خالق"
+  },
+  {
+    "k": "188j0s5ykip",
+    "en": "Architecture",
+    "fa": "معماری"
+  },
+  {
+    "k": "15gj4bxqy4u",
+    "en": "Architect, engineer · a design practice",
+    "fa": "معمار، مهندس · یک دفتر طراحی"
+  },
+  {
+    "k": "25umq1k7ar3",
+    "en": "Hospitality and tourism",
+    "fa": "مهمان‌نوازی و گردشگری"
+  },
+  {
+    "k": "1qp1ofruecv",
+    "en": "Hotels, travel agencies, cooking, your own business",
+    "fa": "هتل‌ها، آژانس‌های مسافرتی، آشپزی، کسب‌وکار خودتان"
+  },
+  {
+    "k": "2quc3q4jqo",
+    "en": "Military science",
+    "fa": "علم نظامی"
+  },
+  {
+    "k": "1gd7ih98bct",
+    "en": "Military academy · officer",
+    "fa": "آکادمی نظامی · افسر"
+  },
+  {
+    "k": "blolwzwy06",
+    "en": "Performer, singer, composer, music teacher",
+    "fa": "هنرپیشه، خواننده، آهنگساز، معلم موسیقی"
+  },
+  {
+    "k": "1savapty2jb",
+    "en": "Dance",
+    "fa": "رقص"
+  },
+  {
+    "k": "7l7339e230",
+    "en": "Dancer, choreographer, dance teacher",
+    "fa": "رقصنده، طراح رقص، معلم رقص"
+  },
+  {
+    "k": "1wwy38ultaz",
+    "en": "Medicine (pre-med as an undergraduate)",
+    "fa": "پزشکی (دروس پیش‌پزشکی به عنوان کارشناسی)"
+  },
+  {
+    "k": "edv59hl38p",
+    "en": "Law (pre-law as an undergraduate)",
+    "fa": "حقوق (پیش‌حقوق به عنوان رشته کارشناسی)"
+  },
+  {
+    "k": "n4j4w9n1pz",
+    "en": "Four years of medical school after a four-year degree · the road to doctor · very hard to get into",
+    "fa": "چهار سال مدرسه پزشکی بعد از یک مدرک چهار ساله · مسیر رسیدن به دکترا · بسیار سخت برای ورود"
+  },
+  {
+    "k": "2cyej5y25ct",
+    "en": "Three years of law school after a four-year degree · lawyer, civil servant, police",
+    "fa": "سه سال مدرسه حقوق پس از یک مدرک چهار ساله · وکیل، کارمند دولت، پلیس"
+  },
+  {
+    "k": "7f4r3fzpmw",
+    "en": "fairly high",
+    "fa": "نسبتاً بالا"
+  },
+  {
+    "k": "fjgw87wnyl",
+    "en": "about even",
+    "fa": "درباره حتی"
+  },
+  {
+    "k": "17ubbg675y1",
+    "en": "fairly low",
+    "fa": "نسبتاً پایین"
+  },
+  {
+    "k": "dry9kvndwu",
+    "en": "Around {0}, the median wage of women working full time in {1} was about {2}% lower than men's ({3})",
+    "fa": "حدود {0}، دستمزد متوسط زنان شاغل تمام‌وقت در {1} حدود {2}٪ کمتر از مردان بود ({3})"
+  },
+  {
+    "k": "2s3kgxrovm",
+    "en": "US Bureau of Labor Statistics, Census Bureau",
+    "fa": "اداره آمار کار ایالات متحده، اداره سرشماری"
+  },
+  {
+    "k": "1pzjgyavraq",
+    "en": "OECD: in {0}, the median wage of women working full time is about {1}% lower than men's ({2})",
+    "fa": "سازمان همکاری و توسعه اقتصادی (OECD): در {0}، دستمزد میانه زنان شاغل تمام‌وقت حدود {1}٪ کمتر از مردان است ({2})"
+  },
+  {
+    "k": "2fzepjflch8",
+    "en": "ILO: in {0}, women's hourly wages are about {1}% lower than men's ({2})",
+    "fa": "سازمان بین‌المللی کار: در {0}، دستمزد ساعتی زنان حدود {1}٪ کمتر از مردان است ({2})"
+  },
+  {
+    "k": "1jz1xtxefw5",
+    "en": "Across OECD countries, the median wage of women working full time is on average about 11% lower than men's (2023)",
+    "fa": "در کشورهای عضو سازمان همکاری و توسعه اقتصادی، دستمزد میانه زنان شاغل تمام‌وقت به طور متوسط حدود ۱۱٪ کمتر از مردان است (۲۰۲۳)"
+  },
+  {
+    "k": "kn3haurmoz",
+    "en": "ILO: worldwide, women are paid about 18% less than men (2026 estimate)",
+    "fa": "سازمان کار بین‌المللی: در سراسر جهان، زنان حدود ۱۸٪ کمتر از مردان دستمزد دریافت می‌کنند (برآورد ۲۰۲۶)"
+  },
+  {
+    "k": "1qmfffrlqb",
+    "en": "You stepped away from your calling and went back to the world.",
+    "fa": "تو از فراخوان خود دور شدی و به جهان بازگشتی."
+  },
+  {
+    "k": "yjlaibqjaa",
+    "en": "Start-up money from your parents",
+    "fa": "پول شروع کسب‌وکار از والدین شما"
+  },
+  {
+    "k": "19mtxsarlca",
+    "en": "When you started work, {0} gave you {1} to set yourself up.",
+    "fa": "وقتی کار خود را شروع کردید، {0} به شما {1} داد تا خود را آماده کنید."
+  },
+  {
+    "k": "9nwsuwmo5m",
+    "en": " · through a former colleague",
+    "fa": "· از طریق یک همکار سابق"
+  },
+  {
+    "k": "1qy4626v7wb",
+    "en": " · through your friend {0}",
+    "fa": "· از طریق دوستت {0}"
+  },
+  {
+    "k": "1q05e700gef",
+    "en": " · through your father",
+    "fa": "· از طریق پدرتان"
+  },
+  {
+    "k": "9m0jba26jr",
+    "en": " · through your mother",
+    "fa": "· از طریق مادر تو"
+  },
+  {
+    "k": "vwjd5mnrji",
+    "en": " · through a relative",
+    "fa": "· از طریق یک خویشاوند"
+  },
+  {
+    "k": "lfg78m3wkk",
+    "en": " · through your spouse's family",
+    "fa": "· از طریق خانواده همسرتان"
+  },
+  {
+    "k": "1wcxtzwslo2",
+    "en": "A former colleague put you forward for it.",
+    "fa": "یک همکار سابق شما را برای آن معرفی کرد."
+  },
+  {
+    "k": "22yfi9z65s7",
+    "en": "Your friend {0} put you forward for it.",
+    "fa": "دوستت {0} تو را برای آن معرفی کرد."
+  },
+  {
+    "k": "19s4qulrabv",
+    "en": "Your father put you forward for it.",
+    "fa": "پدرت تو را برای آن پیشنهاد داد."
+  },
+  {
+    "k": "1okh3wktzi8",
+    "en": "Your mother put you forward for it.",
+    "fa": "مادرت تو را برای آن پیشنهاد داد."
+  },
+  {
+    "k": "158hjawhhdp",
+    "en": "A relative put you forward for it.",
+    "fa": "یک خویشاوند شما را برای آن معرفی کرد."
+  },
+  {
+    "k": "l2cei6o38e",
+    "en": "Your spouse's family put you forward for it.",
+    "fa": "خانواده همسرتان شما را برای آن پیشنهاد دادند."
+  },
+  {
+    "k": "clixlczich",
+    "en": "{0} a year · {1} a month in US terms · {2}",
+    "fa": "{0} یک سال · {1} یک ماه به اصطلاح آمریکایی · {2}"
+  },
+  {
+    "k": "ywni9tbr59",
+    "en": "contract job",
+    "fa": "کار قراردادی"
+  },
+  {
+    "k": "eq2jug7b31",
+    "en": "formal job (pension, insurance)",
+    "fa": "شغل رسمی (بازنشستگی، بیمه)"
+  },
+  {
+    "k": "1by87c44j77",
+    "en": "informal job",
+    "fa": "کار غیررسمی"
+  },
+  {
+    "k": "1t6t0uflx33",
+    "en": " · {0} years of experience count",
+    "fa": "· {0} سال سابقه کاری"
+  },
+  {
+    "k": "1ho8nwcurdi",
+    "en": " · related experience counts",
+    "fa": "· تجربه مرتبط اهمیت دارد"
+  },
+  {
+    "k": "rtjp3s08hu",
+    "en": " · months at a time on board",
+    "fa": "· ماه‌ها به‌طور متوالی روی عرشه"
+  },
+  {
+    "k": "1tjz78ln4cv",
+    "en": "owner of a small company (about {0} employees)",
+    "fa": "صاحب یک شرکت کوچک (حدود {0} کارمند)"
+  },
+  {
+    "k": "13scpeq428z",
+    "en": "owner of a mid-sized company (about {0} employees)",
+    "fa": "صاحب یک شرکت با اندازه متوسط (حدود {0} کارمند)"
+  },
+  {
+    "k": "1o5476yjmuc",
+    "en": "major shareholder of a large company (about {0} employees)",
+    "fa": "سهامدار عمده یک شرکت بزرگ (حدود {0} کارمند)"
+  },
+  {
+    "k": "litjmwlh24",
+    "en": "A typical firm owned by the richest 0.1% in the US is a regional business with about 100 employees and $20 million in yearly sales (Smith et al. 2019)",
+    "fa": "یک شرکت معمولی که متعلق به ثروتمندترین ۰.۱٪ در ایالات متحده است، یک کسب و کار منطقه‌ای با حدود ۱۰۰ کارمند و ۲۰ میلیون دلار فروش سالانه است (اسمیت و همکاران، ۲۰۱۹)"
+  },
+  {
+    "k": "18ndva7kdfk",
+    "en": "99.9% of South Korea's companies are small or medium-sized (Ministry of SMEs and Startups 2024)",
+    "fa": "۹۹.۹٪ از شرکت‌های کره جنوبی کوچک یا متوسط هستند (وزارت شرکت‌های کوچک و متوسط و استارتاپ‌ها ۲۰۲۴)"
+  },
+  {
+    "k": "1peld5iw2ti",
+    "en": "99% of businesses in the EU have fewer than 50 people working in them, and 0.2% have 250 or more (Eurostat 2022)",
+    "fa": "۹۹٪ کسب‌وکارها در اتحادیه اروپا کمتر از ۵۰ نفر کارکن دارند و ۰.۲٪ دارای ۲۵۰ نفر یا بیشتر هستند (یورواستات ۲۰۲۲)"
+  },
+  {
+    "k": "1em2850mz2w",
+    "en": "a camp shelter",
+    "fa": "سرپناه اردوگاهی"
+  },
+  {
+    "k": "8o78he5cna",
+    "en": "Owned",
+    "fa": "مالک شده"
+  },
+  {
+    "k": "1sr5hatyx59",
+    "en": "Rented (jeonse or monthly)",
+    "fa": "اجاره‌ای (جئونسه یا ماهانه)"
+  },
+  {
+    "k": "1fhufmkh592",
+    "en": "Rented",
+    "fa": "اجاره‌ای"
+  },
+  {
+    "k": "1vtqw3fob8y",
+    "en": "the farming",
+    "fa": "کشاورزی"
+  },
+  {
+    "k": "2agvijms9bo",
+    "en": "the reindeer herd",
+    "fa": "گله‌ گوزن شمالی"
+  },
+  {
+    "k": "twd5jcdqxa",
+    "en": "the fields",
+    "fa": "مزرعه‌ها"
+  },
+  {
+    "k": "zbzy9nl8cc",
+    "en": "the herd",
+    "fa": "گله"
+  },
+  {
+    "k": "wbpkqn5n9v",
+    "en": "the fishing boat",
+    "fa": "قایق ماهیگیری"
+  },
+  {
+    "k": "109bs5a89mr",
+    "en": "the farm",
+    "fa": "مزرعه"
+  },
+  {
+    "k": "27o4sdayhew",
+    "en": "the stall",
+    "fa": "غرفه"
+  },
+  {
+    "k": "iyvbv8p81u",
+    "en": "craft workshop",
+    "fa": "کارگاه صنایع دستی"
+  },
+  {
+    "k": "27jeaj5vq8o",
+    "en": "the shop",
+    "fa": "فروشگاه"
+  },
+  {
+    "k": "1ynas1ylbak",
+    "en": "the family business",
+    "fa": "کسب و کار خانوادگی"
+  }
+]

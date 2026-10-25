@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1bnmmxvbip8",
+    "en": "This is a home to live in, separate from any savings you have invested in property.",
+    "fa": "این خانه‌ای برای زندگی است، جدا از پس‌اندازی که در ملک سرمایه‌گذاری کرده‌اید."
+  },
+  {
+    "k": "kn4k3u9z0s",
+    "en": "You decided not to ride motorcycles.",
+    "fa": "تصمیم گرفتید موتورسواری نکنید."
+  },
+  {
+    "k": "2fb7a7vxbx",
+    "en": "You bought a {0} on installments. You'll be paying it off for the next few years.",
+    "fa": "{0} را قسطی خریدید. چند سال آینده بدهی دارید."
+  },
+  {
+    "k": "1pbg2j95hue",
+    "en": "You bought a car.",
+    "fa": "ماشین خریدید."
+  },
+  {
+    "k": "zyfzep44uj",
+    "en": "You took over the right to a flat, and it is your home now!",
+    "fa": "حق سکونت آپارتمان را گرفتید و اکنون خانهٔ شماست!"
+  },
+  {
+    "k": "f0c68ehjb1",
+    "en": "With help from {0}, you bought a home of your own!",
+    "fa": "با کمک {0} خانهٔ خودتان را خریدید!"
+  },
+  {
+    "k": "tav6corkg1",
+    "en": "You bought a home of your own!",
+    "fa": "خانهٔ خودتان را خریدید!"
+  },
+  {
+    "k": "1bjwooauex",
+    "en": "You were diagnosed with {0}",
+    "fa": "تشخیص {0} داده شد"
+  },
+  {
+    "k": "1n2o83p4erl",
+    "en": "This needs steady medication and care. Your share of the medicine costs is about {0} a year (in US terms).",
+    "fa": "نیاز به دارو و مراقبت مداوم دارد. سهم شما از هزینهٔ دارو حدود {0} در سال (به US)."
+  },
+  {
+    "k": "scc4ocyryq",
+    "en": "About 1.3 billion adults aged 30–79 worldwide have high blood pressure, and nearly half of them don't know it (WHO 2023)",
+    "fa": "حدود ۱.۳ میلیارد بزرگسال ۳۰–۷۹ سال در جهان فشار خون بالا دارند و نزدیک نیمی نمی‌دانند (WHO 2023)"
+  },
+  {
+    "k": "ekvuhkzbf5",
+    "en": "About 10.5% of adults worldwide have diabetes (IDF 2021)",
+    "fa": "حدود ۱۰.۵٪ بزرگسالان جهان دیابت دارند (IDF 2021)"
+  },
+  {
+    "k": "fw0f5n6h9f",
+    "en": "Out-of-pocket share of health spending in {0}: {1}% (WHO GHED)",
+    "fa": "سهم پرداخت از جیب در {0}: {1}٪ (WHO GHED)"
+  },
+  {
+    "k": "ol8569l9xz",
+    "en": "Keep up with treatment",
+    "fa": "درمان را ادامه دهید"
+  },
+  {
+    "k": "zfwv8dohrs",
+    "en": "Stay healthy, at a cost",
+    "fa": "سالم بمانید، با هزینه"
+  },
+  {
+    "k": "e6bhmcssuv",
+    "en": "Take the medicine and change how you eat and move",
+    "fa": "دارو بخورید و خوردن و تحرک را عوض کنید"
+  },
+  {
+    "k": "1jodr91mld8",
+    "en": "At a cost · Lower risk",
+    "fa": "با هزینه · خطر کمتر"
+  },
+  {
+    "k": "2a7ri0qr5qv",
+    "en": "It'll be fine; tough it out",
+    "fa": "درست می‌شود؛ تحمل کنید"
+  },
+  {
+    "k": "1u8ousdmee6",
+    "en": "Saves money, but risky",
+    "fa": "پول کم می‌آید، اما پرریسک"
+  },
+  {
+    "k": "234d81xn9zj",
+    "en": "You were diagnosed with {0}, but once again you told yourself it would be fine and left it untreated.",
+    "fa": "تشخیص {0} داده شد، اما باز گفتید درست می‌شود و درمان نکردید."
+  },
+  {
+    "k": "2cfcurbiv6f",
+    "en": "You were diagnosed with {0}. As before, you took the medicine and watched what you ate and how much you moved.",
+    "fa": "تشخیص {0} داده شد. مثل قبل دارو خوردید و به غذا و تحرک توجه کردید."
+  },
+  {
+    "k": "5e02n8fyfx",
+    "en": "You started taking the medicine, eating less salt and keeping yourself moving.",
+    "fa": "شروع کردید دارو بخورید، نمک کم کنید و خود را به حرکت درآورید."
+  },
+  {
+    "k": "11rfo72vryj",
+    "en": "You started taking the medicine, eating less salt and walking every day.",
+    "fa": "شروع کردید دارو بخورید، نمک کم کنید و هر روز پیاده‌روی کنید."
+  },
+  {
+    "k": "5rsc01n4c4",
+    "en": "You were diagnosed with {0}. As before, you made sure to take your medicine.",
+    "fa": "تشخیص {0} داده شد. مثل قبل مراقب بودید دارو بخورید."
+  },
+  {
+    "k": "wp3ipszwzi",
+    "en": "Having worked as a {0}, one name comes to mind first: {1}.",
+    "fa": "با سابقهٔ کار به‌عنوان {0}، اولین نامی که به ذهن می‌آید {1} است."
+  },
+  {
+    "k": "bowp6ixlwx",
+    "en": "The hospital care itself costs almost nothing.",
+    "fa": "هزینهٔ خود بستری در بیمارستان تقریباً صفر است."
+  },
+  {
+    "k": "aj7alup9vf",
+    "en": "Your own share, for medicines and the like, is about {0} (in US terms).",
+    "fa": "سهم خودتان برای دارو و مانند آن حدود {0} (به US)."
+  },
+  {
+    "k": "t32mtvuih2",
+    "en": "You have {0} saved.",
+    "fa": "{0} پس‌انداز دارید."
+  },
+  {
+    "k": "1aet41lbdq0",
+    "en": "Your insurance pays most of the hospital bill.",
+    "fa": "بیمهٔ شما بیشتر صورتحساب بیمارستان را می‌پردازد."
+  },
+  {
+    "k": "1ocsxvrhjoq",
+    "en": "Your share of the hospital bill, about {0} (in US terms), your parents will pay in full.",
+    "fa": "سهم شما از بیمارستان حدود {0} (به US)، والدین کامل می‌پردازند."
+  },
+  {
+    "k": "yajnw8zfao",
+    "en": "Your share of the hospital bill is about {0} (in US terms). Your parents will pay {1} of it. Your savings: {2}.",
+    "fa": "سهم شما از بیمارستان حدود {0} (به US). والدین {1} آن را می‌پردازند. پس‌انداز شما: {2}."
+  },
+  {
+    "k": "19cg6qg4xe0",
+    "en": "Your share of the hospital bill is about {0} (in US terms). Your savings: {1}.",
+    "fa": "سهم شما از بیمارستان حدود {0} (به US). پس‌انداز شما: {1}."
+  },
+  {
+    "k": "3kixs2nwwc",
+    "en": "Serving soldiers are usually treated by the forces' own medical service at no cost to themselves (UK Ministry of Defence, US Department of Defense TRICARE)",
+    "fa": "سربازان خدمت‌کننده معمولاً توسط پزشکی نیروها بدون هزینه درمان می‌شوند (UK Ministry of Defence، US Department of Defense TRICARE)"
+  },
+  {
+    "k": "1vmdb8fj45u",
+    "en": "In the US about one adult in ten under 65 has no health insurance, and without it a large part of a hospital bill is paid out of pocket even after discounts (KFF 2024)",
+    "fa": "در آمریکا حدود یک بزرگسال از ده زیر ۶۵ بیمه ندارد و بدون آن بخش بزرگی از صورتحساب از جیب می‌آید حتی با تخفیف (KFF 2024)"
+  },
+  {
+    "k": "4fjv2hs8ja",
+    "en": "Public hospitals in {0} are paid for by taxes, so a hospital stay costs almost nothing. Planned surgery can mean a long wait, though (OECD)",
+    "fa": "بیمارستان‌های دولتی {0} با مالیات پرداخت می‌شوند، پس بستری تقریباً رایگان است. جراحی برنامه‌ریزی‌شده ممکن است انتظار طولانی داشته باشد (OECD)"
+  },
+  {
+    "k": "g038f233xd",
+    "en": "Since 1995 everyone in Taiwan has been covered by National Health Insurance; an inpatient pays 10% of the bill for up to 30 days in an acute ward (National Health Insurance Act, Art. 47)",
+    "fa": "از ۱۹۹۵ همه در تایوان تحت بیمه ملی سلامت‌اند؛ بیمار بستری ۱۰٪ تا ۳۰ روز در بخش حاد می‌پردازد (National Health Insurance Act، Art. 47)"
+  },
+  {
+    "k": "22u4j6afe6e",
+    "en": "Out-of-pocket share of health spending in {0}: {1}% · About 2 billion people worldwide face financial hardship because of health costs (WHO/World Bank 2023)",
+    "fa": "سهم پرداخت از جیب در {0}: {1}٪ · حدود ۲ میلیارد نفر در جهان به‌خاطر هزینهٔ سلامت دچار مشکل مالی می‌شوند (WHO/World Bank 2023)"
+  },
+  {
+    "k": "2g9pph4xsxu",
+    "en": "Get treated at a hospital",
+    "fa": "در بیمارستان درمان شوید"
+  },
+  {
+    "k": "1poxzosxfg2",
+    "en": "Your parents pay",
+    "fa": "والدین بپردازند"
+  },
+  {
+    "k": "a7zsojpvyf",
+    "en": "Even if it means debt",
+    "fa": "حتی اگر بدهی لازم باشد"
+  },
+  {
+    "k": "1u82657vh9m",
+    "en": "Make do with the pharmacy and home remedies",
+    "fa": "با داروخانه و درمان خانگی بسازید"
+  },
+  {
+    "k": "dhqlp3fj1e",
+    "en": "At the hospital you were told it was {0}. Treatment cost almost nothing, but waiting months for the operation took a toll on your body.",
+    "fa": "در بیمارستان گفتند {0} است. درمان تقریباً رایگان بود، اما انتظار ماه‌ها برای عمل به بدن فشار آورد."
+  },
+  {
+    "k": "10ffq8valdh",
+    "en": "At the SUS hospital you were told it was {0}, were treated and recovered.",
+    "fa": "در بیمارستان SUS گفتند {0} است، درمان شدید و بهبود یافتید."
+  },
+  {
+    "k": "10ua2q4gglv",
+    "en": "At a hospital of the SUS, Brazil's public health system, you were told it was {0}, were treated and recovered.",
+    "fa": "در بیمارستان SUS، نظام سلامت عمومی برزیل، گفتند {0} است، درمان شدید و بهبود یافتید."
+  },
+  {
+    "k": "lcvgjqozfp",
+    "en": "At the hospital you were told it was {0}, were treated and recovered.",
+    "fa": "در بیمارستان گفتند {0} است، درمان شدید و بهبود یافتید."
+  },
+  {
+    "k": "1p273wfoggx",
+    "en": "With no insurance, a large hospital bill arrived at home a few months later. You decided to pay it off over several years.",
+    "fa": "بدون بیمه، چند ماه بعد صورتحساب بزرگی به خانه آمد. تصمیم گرفتید چند سال قسط بدهید."
+  },
+  {
+    "k": "25t225iyz2l",
+    "en": "The cough and fever went on for weeks, and you got by on pharmacy medicine. If it is TB, it will not go away like this.",
+    "fa": "سرفه و تب هفته‌ها ادامه داشت و با داروخانه گذراندید. اگر TB باشد، این‌طور نمی‌رود."
+  },
+  {
+    "k": "re9gdmqodn",
+    "en": "Six months of medicine cures most TB, but nearly half of those left untreated die (WHO Global Tuberculosis Report)",
+    "fa": "شش ماه دارو بیشتر TB را درمان می‌کند، اما نزدیک نیمی از درمان‌نشده‌ها می‌میرند (WHO Global Tuberculosis Report)"
+  },
+  {
+    "k": "1tnjkrp83me",
+    "en": "You were ill for a long time without ever learning what it was, and your body is not what it was.",
+    "fa": "مدت‌ها بیمار بودید بدون آنکه بدانید چیست، و بدنتان دیگر سابق نیست."
+  },
+  {
+    "k": "1mkviex33az",
+    "en": "For months now you have had a cough and a low fever, and you have lost weight. Get tested for TB at the health centre?",
+    "fa": "چند ماه است سرفه و تب خفیف دارید و لاغر شده‌اید. در مرکز بهداشت TB تست دهید؟"
+  },
+  {
+    "k": "2ghf9pjxhhb",
+    "en": "Six months of medicine cures most TB, and in many countries TB treatment at public clinics is free. Nearly half of those left untreated die (WHO Global Tuberculosis Report)",
+    "fa": "شش ماه دارو بیشتر TB را درمان می‌کند و در بسیاری کشورها درمان در کلینیک‌های دولتی رایگان است. نزدیک نیمی از درمان‌نشده‌ها می‌میرند (WHO Global Tuberculosis Report)"
+  },
+  {
+    "k": "2e4erwtu07p",
+    "en": "Get tested and start treatment",
+    "fa": "تست دهید و درمان را شروع کنید"
+  },
+  {
+    "k": "1yens0sxlok",
+    "en": "Pills every day for six months",
+    "fa": "شش ماه هر روز قرص"
+  },
+  {
+    "k": "23v7ft01rey",
+    "en": "Risky",
+    "fa": "پرریسک"
+  },
+  {
+    "k": "7da6w0e278",
+    "en": "You were diagnosed with TB and took your pills every single day for six months. The cough stopped and your strength came back.",
+    "fa": "TB تشخیص داده شد و شش ماه هر روز قرص خوردید. سرفه برید و نیرو برگشت."
+  },
+  {
+    "k": "fflkh2fysh",
+    "en": "Quit work and look after the baby yourself",
+    "fa": "کار را رها کنید و خودتان از نوزاد مراقبت کنید"
+  },
+  {
+    "k": "158iznoha80",
+    "en": "No pay · time with your child",
+    "fa": "بدون حقوق · وقت با فرزند"
+  },
+  {
+    "k": "1s5dj937n4y",
+    "en": "Cut back to part-time work",
+    "fa": "کار را پاره‌وقت کنید"
+  },
+  {
+    "k": "178vm92fcjr",
+    "en": "About 60% of your pay for around 3 years",
+    "fa": "حدود ۶۰٪ حقوق حدود ۳ سال"
+  },
+  {
+    "k": "1q0sqmxt5y2",
+    "en": "Your spouse takes time off to look after the baby",
+    "fa": "همسرتان مرخصی بگیرد از نوزاد مراقبت کند"
+  },
+  {
+    "k": "1q99hkqbcuq",
+    "en": "Your spouse's pay stops for a few years",
+    "fa": "حقوق همسرتان چند سال قطع می‌شود"
+  },
+  {
+    "k": "1qvth6pic4i",
+    "en": "Your spouse cuts back to part-time work",
+    "fa": "همسرتان کار را پاره‌وقت کند"
+  },
+  {
+    "k": "qdoivkip2f",
+    "en": "About 60% of your spouse's pay for around 3 years",
+    "fa": "حدود ۶۰٪ حقوق همسرتان حدود ۳ سال"
+  },
+  {
+    "k": "8o96yb4ub8",
+    "en": "Leave the baby with your in-laws",
+    "fa": "نوزاد را نزد خانوادهٔ همسر بگذارید"
+  },
+  {
+    "k": "gwpcllthup",
+    "en": "Leave the baby with your in-laws",
+    "fa": "نوزاد را نزد خانوادهٔ همسر بگذارید"
+  },
+  {
+    "k": "10n7q3xmd3b",
+    "en": "Leave the baby with {0} back home",
+    "fa": "نوزاد را نزد {0} در وطن بگذارید"
+  },
+  {
+    "k": "1133wpcdzc2",
+    "en": "Leave the baby with {0}",
+    "fa": "نوزاد را نزد {0} بگذارید"
+  },
+  {
+    "k": "1pkkmhn12to",
+    "en": "Leave the baby with {0}",
+    "fa": "نوزاد را نزد {0} بگذارید"
+  },
+  {
+    "k": "x2mrpzwi8r",
+    "en": "Leave the baby with {0}",
+    "fa": "نوزاد را نزد {0} بگذارید"
+  },
+  {
+    "k": "1reyk8n8o52",
+    "en": "Costs almost nothing · living apart from your child",
+    "fa": "تقریباً رایگان · دور از فرزند"
+  },
+  {
+    "k": "f8pi83gxhb",
+    "en": "Costs almost nothing · you lean on {0}",
+    "fa": "تقریباً رایگان · به {0} تکیه می‌کنید"
+  },
+  {
+    "k": "116vmpqgeib",
+    "en": "Costs almost nothing · you lean on your parents",
+    "fa": "تقریباً رایگان · به والدین تکیه می‌کنید"
+  },
+  {
+    "k": "c8bo3vlswz",
+    "en": "Use a daycare centre or a nanny",
+    "fa": "مهدکودک یا پرستار بگیرید"
+  },
+  {
+    "k": "8m50bm0j6y",
+    "en": "About {0} a year",
+    "fa": "حدود {0} در سال"
+  },
+  {
+    "k": "273h4ygfpgz",
+    "en": "Take the baby with you to work",
+    "fa": "نوزاد را با خود به کار ببرید"
+  },
+  {
+    "k": "14re9ldqo7s",
+    "en": "Hard, but the baby stays by your side",
+    "fa": "سخت، اما نوزاد کنار شماست"
+  },
+  {
+    "k": "y1sydl1i27",
+    "en": "Debts have grown and money is tight.",
+    "fa": "بدهی‌ها زیاد شده و پول تنگ است."
+  },
+  {
+    "k": "ivlj5hc1d5",
+    "en": "Your work has changed since then.",
+    "fa": "کار شما از آن زمان عوض شده."
+  },
+  {
+    "k": "25k4yggr5t1",
+    "en": "Now your parents could look after the baby too.",
+    "fa": "اکنون والدین هم می‌توانند از نوزاد مراقبت کنند."
+  },
+  {
+    "k": "n6z5cu8uj4",
+    "en": "The grandparents can no longer look after the children as before.",
+    "fa": "پدربزرگ و مادربزرگ دیگر مثل قبل از بچه‌ها نمی‌توانند مراقبت کنند."
+  },
+  {
+    "k": "1drrhas3arf",
+    "en": "It has been several years since you last decided.",
+    "fa": "چند سال از آخرین تصمیم گذشته."
+  },
+  {
+    "k": "1c4paa1k09x",
+    "en": "Like last time · {0}",
+    "fa": "مثل دفعهٔ قبل · {0}"
+  },
+  {
+    "k": "1x97yj536sk",
+    "en": "Your spouse {0} offers to take a few years off work to look after the baby.",
+    "fa": "همسرتان {0} پیشنهاد می‌دهد چند سال از کار بماند و از نوزاد مراقبت کند."
+  },
+  {
+    "k": "29vp03vvyxv",
+    "en": "Your spouse {0} offers to work part-time for a few years.",
+    "fa": "همسرتان {0} پیشنهاد می‌دهد چند سال پاره‌وقت کار کند."
+  },
+  {
+    "k": "1b86isjun7p",
+    "en": "Your spouse {0} suggests asking the grandparents.",
+    "fa": "همسرتان {0} پیشنهاد می‌دهد از پدربزرگ و مادربزرگ بپرسید."
+  },
+  {
+    "k": "powu6ts02p",
+    "en": "Your spouse {0} would like you both to keep working and find someone to mind the baby.",
+    "fa": "همسرتان {0} می‌خواهد هر دو کار کنید و کسی نوزاد را نگه دارد."
+  },
+  {
+    "k": "1jf9qbk8c7a",
+    "en": "Who will look after {0}?",
+    "fa": "چه کسی از {0} مراقبت کند؟"
+  },
+  {
+    "k": "wt4vvh6n0l",
+    "en": "Your parents, who looked after {0}, have passed away. Now you have to decide again who will look after the child.",
+    "fa": "والدینی که از {0} مراقبت می‌کردند درگذشتند. باید دوباره تصمیم بگیرید."
+  },
+  {
+    "k": "dngcs2qfw8",
+    "en": "Now that you both work, you need to decide who will look after {0}.",
+    "fa": "حالا که هر دو کار می‌کنید، باید تصمیم بگیرید چه کسی از {0} مراقبت کند."
+  },
+  {
+    "k": "1ol5khn5ejn",
+    "en": "Now that you are back at work, you need to decide who will look after {0}.",
+    "fa": "حالا که به کار برگشتید، باید تصمیم بگیرید چه کسی از {0} مراقبت کند."
+  },
+  {
+    "k": "hs3gg8xb3i",
+    "en": "{0}'s first birthday is coming. With another child in the family, you need to decide again who will look after the children.",
+    "fa": "اولین سالگرد {0} نزدیک است. با فرزند دیگر باید دوباره تصمیم بگیرید."
+  },
+  {
+    "k": "1anzukj1ugv",
+    "en": "{0}'s first birthday is coming. You both work, so you need to decide who will look after the baby.",
+    "fa": "اولین سالگرد {0} نزدیک است. هر دو کار می‌کنید، پس باید تصمیم بگیرید."
+  },
+  {
+    "k": "1pvjozax1lz",
+    "en": "{0}'s first birthday is coming. While you work, someone has to look after the baby.",
+    "fa": "اولین سالگرد {0} نزدیک است. وقتی کار می‌کنید، کسی باید از نوزاد مراقبت کند."
+  },
+  {
+    "k": "289hlqhuak7",
+    "en": "Since 2013 Korea has paid daycare fees for children aged 0-5, so parents pay little for it (Ministry of Health and Welfare)",
+    "fa": "از ۲۰۱۳ کره هزینهٔ مهدکودک ۰–۵ سال را می‌پردازد، پس والدین کم می‌پردازند (Ministry of Health and Welfare)"
+  },
+  {
+    "k": "rngleta8z0",
+    "en": "What parents pay for childcare differs widely across the OECD: in the UK, Switzerland and the US it can pass a quarter of earnings, in the Nordic countries and Germany it is small (OECD)",
+    "fa": "آنچه والدین برای مراقبت از کودک می‌پردازند در OECD بسیار متفاوت است: در UK، سوئیس و آمریکا می‌تواند از یک‌چهارم درآمد بگذرد، در کشورهای شمال اروپا و آلمان کم است (OECD)"
+  },
+  {
+    "k": "krzgufx5y0",
+    "en": "You quit work to look after {0}.",
+    "fa": "کار را رها کردید تا از {0} مراقبت کنید."
+  },
+  {
+    "k": "utkrxxwry4",
+    "en": "You cut back to part-time work to look after {0}.",
+    "fa": "کار را پاره‌وقت کردید تا از {0} مراقبت کنید."
+  },
+  {
+    "k": "1nf1t7rv3od",
+    "en": "Your spouse {0} cut back to part-time work to look after {1}.",
+    "fa": "همسرتان {0} کار را پاره‌وقت کرد تا از {1} مراقبت کند."
+  },
+  {
+    "k": "1aooc0ndcwc",
+    "en": "Your spouse {0} took time off work to look after {1}.",
+    "fa": "همسرتان {0} از کار مرخص شد تا از {1} مراقبت کند."
+  },
+  {
+    "k": "7pzppwif8u",
+    "en": "You left {1} with {0} back home and worked in the city. At every holiday you went home to see your child.",
+    "fa": "{1} را نزد {0} در وطن گذاشتید و در شهر کار کردید. هر عید به دیدن فرزند می‌رفتید."
+  },
+  {
+    "k": "18jg3evefjz",
+    "en": "In China more than 40 million children grow up with their grandparents back home while their parents work in the cities (UNICEF China, 2020 census)",
+    "fa": "در چین بیش از ۴۰ میلیون کودک با پدربزرگ و مادربزرگ در وطن بزرگ می‌شوند در حالی که والدین در شهر کار می‌کنند (UNICEF China، سرشماری ۲۰۲۰)"
+  }
+]

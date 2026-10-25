@@ -228,19 +228,16 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
     html = html.replace("https://1in8b.life/", "https://1in8b.ir/")
     html = html.replace("/en/", "/fa/")
     # restore cross-lang switcher targets that were wrongly rewritten
-    for lang in ["en", "ko", "ja", "zh", "vi", "fr", "th", "es", "de", "pt", "ru", "tr", "id", "it", "ar"]:
+    for lang in ["en", "vi", "fr", "th", "es", "de", "pt", "ru", "tr", "id", "it", "ar"]:
         html = html.replace(f'href="/fa/c/{slug}" hreflang="{lang}"', f'href="/{lang}/c/{slug}" hreflang="{lang}"')
         # footer variants
         html = html.replace(f'href="/fa/c/{slug}" hreflang="{lang}" lang="{lang}"', f'href="/{lang}/c/{slug}" hreflang="{lang}" lang="{lang}"')
 
-    # language switcher block
+    # language switcher block (no Korean / Japanese / Chinese)
     langs = (
         f'<span class="langs">'
         f'<a href="/en/c/{slug}" hreflang="en" lang="en">English</a>'
         f'<a href="/fa/c/{slug}" hreflang="fa" lang="fa" aria-current="page">فارسی</a>'
-        f'<a href="/ko/c/{slug}" hreflang="ko" lang="ko">한국어</a>'
-        f'<a href="/ja/c/{slug}" hreflang="ja" lang="ja">日本語</a>'
-        f'<a href="/zh/c/{slug}" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>'
         f'<a href="/vi/c/{slug}" hreflang="vi" lang="vi">Tiếng Việt</a>'
         f'<a href="/fr/c/{slug}" hreflang="fr" lang="fr">Français</a>'
         f'<a href="/th/c/{slug}" hreflang="th" lang="th">ไทย</a>'

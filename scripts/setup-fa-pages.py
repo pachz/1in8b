@@ -196,6 +196,13 @@ html[lang="fa"] .hero h1 { font-size: clamp(48px, 8vw, 120px); line-height: 1.2;
 html[lang="fa"] .stat { grid-template-columns: 7em minmax(0, 1fr) 2.4em; }
 html[lang="fa"] .orow { grid-template-columns: 10em 1fr 3.6em; }
 html[lang="fa"] .feed .f::before { content: "داده "; }
+/* Life log: keep Latin leftovers / names LTR so periods and apostrophes stay put */
+html[lang="fa"] .feed .x,
+html[lang="fa"] .feed .dq,
+html[lang="fa"] .feed .fa,
+html[lang="fa"] .feed .f {
+  unicode-bidi: plaintext;
+}
 html[lang="fa"] .speed .ffsh { display: none; }
 /* Static pages hardcode Hahmlet / IBM Plex Sans KR — force Vazirmatn */
 html[lang="fa"] body,
@@ -289,6 +296,92 @@ def inject_fa_nav(html: str, current_fa: bool = False) -> str:
     return html
 
 
+# Top-nav languages for FA pages (no Korean / Japanese / Chinese)
+_FA_NAV_LANGS = [
+    ("en", "en", "English"),
+    ("fa", "fa", "فارسی"),
+    ("vi", "vi", "Tiếng Việt"),
+    ("fr", "fr", "Français"),
+    ("th", "th", "ไทย"),
+    ("es", "es", "Español"),
+    ("de", "de", "Deutsch"),
+    ("pt", "pt", "Português"),
+    ("ru", "ru", "Русский"),
+    ("tr", "tr", "Türkçe"),
+    ("id", "id", "Bahasa Indonesia"),
+    ("it", "it", "Italiano"),
+    ("ar", "ar", "العربية"),
+]
+_LANGS_BLOCK = re.compile(r'<span class="langs">.*?</span>', re.S)
+_LANGSW_BLOCK = re.compile(r'<nav class="langsw"[^>]*>.*?</nav>', re.S)
+_LANGSW_SVG = (
+    '<svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true">'
+    '<circle cx="8" cy="8" r="6.5" fill="none" stroke="currentColor" stroke-width="1.3"/>'
+    '<path d="M1.5 8h13M8 1.5c2 2 2.8 4.2 2.8 6.5S10 12.5 8 14.5M8 1.5C6 3.5 5.2 5.7 5.2 8S6 12.5 8 14.5" '
+    'fill="none" stroke="currentColor" stroke-width="1.1"/></svg>'
+)
+
+
+def _nav_suffix_from_html(html: str) -> str:
+    """Path after /{lang}/ for this page, e.g. /about/ or /c/irn or /."""
+    m = re.search(
+        r'href="/(?:en|fa|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar)(/[^"]*)"',
+        html,
+    )
+    if m:
+        return m.group(1) or "/"
+    m = re.search(r'<link rel="canonical" href="https://1in8b\.ir/(?:en|fa)(/[^"]*)"', html)
+    if m:
+        return m.group(1) or "/"
+    return "/"
+
+
+def _href_for(code: str, suffix: str) -> str:
+    return f"/{code}/" if suffix in ("", "/") else f"/{code}{suffix}"
+
+
+def _build_langs_nav(suffix: str, current: str = "fa") -> str:
+    parts = ['<span class="langs">']
+    for code, hreflang, label in _FA_NAV_LANGS:
+        attrs = f'href="{_href_for(code, suffix)}" hreflang="{hreflang}" lang="{hreflang}"'
+        if code == current:
+            attrs += ' aria-current="page"'
+        parts.append(f"<a {attrs}>{label}</a>")
+    parts.append("</span>")
+    return "".join(parts)
+
+
+def _build_langsw_nav(suffix: str, current: str = "fa") -> str:
+    parts = [f'<nav class="langsw" aria-label="زبان">{_LANGSW_SVG}']
+    for code, hreflang, label in _FA_NAV_LANGS:
+        attrs = (
+            f'href="{_href_for(code, suffix)}" lang="{hreflang}" '
+            f'hreflang="{hreflang}" data-lang="{code}"'
+        )
+        if code == current:
+            attrs += ' aria-current="page"'
+        parts.append(f"<a {attrs}>{label}</a>")
+    parts.append("</nav>")
+    return "".join(parts)
+
+
+def ensure_fa_top_nav(html: str) -> str:
+    """Rebuild top language switchers: English + فارسی + others, no CJK."""
+    if 'class="langs"' not in html and 'class="langsw"' not in html:
+        return html
+    suffix = _nav_suffix_from_html(html)
+    if _LANGS_BLOCK.search(html):
+        html = _LANGS_BLOCK.sub(_build_langs_nav(suffix), html, count=1)
+    if _LANGSW_BLOCK.search(html):
+        html = _LANGSW_BLOCK.sub(_build_langsw_nav(suffix), html, count=1)
+    return html
+
+
+def strip_cjk_from_top_nav(html: str) -> str:
+    # Kept as alias for callers; prefer ensure_fa_top_nav.
+    return ensure_fa_top_nav(html)
+
+
 def transform_to_fa(html: str) -> str:
     html = re.sub(r"<html\b[^>]*>", '<html lang="fa" dir="rtl">', html, count=1)
     html = re.sub(
@@ -340,6 +433,8 @@ def transform_to_fa(html: str) -> str:
         '<a href="/en/" lang="en"',
         html,
     )
+    # Rebuild top nav last so path rewrites can't turn English → فارسی/"English"
+    html = ensure_fa_top_nav(html)
     return html
 
 

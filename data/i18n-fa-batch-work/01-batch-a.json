@@ -1,0 +1,402 @@
+[
+  {
+    "k": "1r6xj7sldqx",
+    "en": "{0} · {1}"
+  },
+  {
+    "k": "1suw9eh6bkm",
+    "en": "On 14 April, Ambedkar Jayanti, you marched with the neighbourhood. Children carried his picture at the front."
+  },
+  {
+    "k": "2e6wiitdgv5",
+    "en": "{0} told you about the day in 1956 in Nagpur when hundreds of thousands became Buddhists together with Dr Ambedkar."
+  },
+  {
+    "k": "md36jpc7dh",
+    "en": "A friend from another caste took you into the family kitchen, and the two of you ate from one plate."
+  },
+  {
+    "k": "yo1m4hbxfr",
+    "en": "{0} was proud of the skill of {1}, who had worked as a smith. Every sickle and hoe in the village, she said, had passed through his hands."
+  },
+  {
+    "k": "1vcu2cwiwyd",
+    "en": "In the village's Dalit youth group you learned to read and write together, and how to report discrimination."
+  },
+  {
+    "k": "1tzopo7so4s",
+    "en": "Every evening you gathered the neighbourhood children and taught them. That was how you had learned too."
+  },
+  {
+    "k": "xp0cd49ytc",
+    "en": "You were the first in the family to earn a university degree. Your parents hung the graduation photo where everyone would see it."
+  },
+  {
+    "k": "23qd9ol2z5j",
+    "en": "At festivals the village gathered to sing and dance in {0}."
+  },
+  {
+    "k": "1y9e03iwgdn",
+    "en": "At festivals the village gathered to sing and dance."
+  },
+  {
+    "k": "1gd406ntp6d",
+    "en": "At dawn on Chhath, the whole family stood by the river and prayed to the rising sun."
+  },
+  {
+    "k": "1ovwg9zsst8",
+    "en": "On the morning of Eid, the neighbourhood gathered to pray and share food."
+  },
+  {
+    "k": "1puolotnd3k",
+    "en": "On Christmas night, the neighbourhood gathered in the small church to sing and share food."
+  },
+  {
+    "k": "1p696chbhwu",
+    "en": "You grew up speaking {0} at home and Nepali at school. Moving between the two came naturally."
+  },
+  {
+    "k": "6swsglm4uq",
+    "en": "For a few hours a week at school you learned from textbooks in {0}. It felt strange and wonderful to see the language of home in a book."
+  },
+  {
+    "k": "12pw1kxmghw",
+    "en": "You sang a lullaby in {0} to your grandchild, who clumsily sang along."
+  },
+  {
+    "k": "14xv04prz0d",
+    "en": "{0} gave the woman who came to work at the house a cup kept apart. You poured her tea in your own cup."
+  },
+  {
+    "k": "1san1wwuuyp",
+    "en": "{0} told a neighbour not to step over the threshold. You invited the neighbour into the house."
+  },
+  {
+    "k": "wxo81vvq60",
+    "en": "When a friend could not rent a room because of caste, you went along to see the landlord together."
+  },
+  {
+    "k": "t7e55g7h93",
+    "en": "You told your child not to ask friends their caste: people are not divided by such things."
+  },
+  {
+    "k": "2gahzoun2yl",
+    "en": "About 5% of married women in India married across castes (India Human Development Survey IHDS-II 2011-12)"
+  },
+  {
+    "k": "bi1k8sgplg",
+    "en": "With the change of faith, the places set aside for Scheduled Castes were no longer yours."
+  },
+  {
+    "k": "lymguo2dxi",
+    "en": "In India only Hindus, Sikhs and Buddhists are counted as Scheduled Castes (Presidential Order of 1950, amended 1956 and 1990)"
+  },
+  {
+    "k": "1cvhk1zoznd",
+    "en": "About 5.3% of American children spend time in foster care before 18. Of children leaving care, 46% go home and 26% are adopted (Yi et al. 2020; US HHS AFCARS 2025)"
+  },
+  {
+    "k": "1jnz65yhp3b",
+    "en": "About 4% of children born in England in 2000 were looked after before 18 (Jay et al. 2022). Of children leaving care in 2025, about 9% were adopted (UK Department for Education)"
+  },
+  {
+    "k": "1a92jqa90eb",
+    "en": "Of children born in New Zealand in 1998, 3.1% were placed out of home before 18, and 7.1% of Māori children (Rouland & Vaithianathan 2018)"
+  },
+  {
+    "k": "1shknx1l8ri",
+    "en": "First Nations children in Australia are in out-of-home care about 11 times as often as other children (AIHW 2024)"
+  },
+  {
+    "k": "16kv10cjrcg",
+    "en": "In 2023, 2,054 children in need of protection in Korea were placed in a facility or with a family; about 90% of family foster care is with grandparents and relatives (Ministry of Health and Welfare)"
+  },
+  {
+    "k": "1t5ajco0qpx",
+    "en": "About 42,000 children in Japan are in alternative care, and about a quarter of them grow up in foster families (MHLW; Children and Families Agency)"
+  },
+  {
+    "k": "14bwd0sl3c0",
+    "en": "{0}'s home"
+  },
+  {
+    "k": "244k30bcyb5",
+    "en": "a foster family"
+  },
+  {
+    "k": "267vxehsfx4",
+    "en": "a children's home"
+  },
+  {
+    "k": "w8nq05velh",
+    "en": "{1} from age {0}"
+  },
+  {
+    "k": "obnkbumw9m",
+    "en": "{2}, ages {0}-{1} · went home"
+  },
+  {
+    "k": "fc3csyyhq6",
+    "en": "{1} from age {0} · adopted at {2}"
+  },
+  {
+    "k": "t66fuu0dja",
+    "en": "{1} from age {0} · raised by a guardian"
+  },
+  {
+    "k": "13tauw6d46m",
+    "en": "{1}, ages {0}-18 · left care"
+  },
+  {
+    "k": "2jua74flw0",
+    "en": "You were told that, when you were a baby, there were many days with no grown-up at home to look after you."
+  },
+  {
+    "k": "1l9bg8zijxg",
+    "en": "There were many days with no grown-up at home, and days when the food ran out. The school found out, and a social worker came."
+  },
+  {
+    "k": "asdl0qkd7p",
+    "en": "{0} needed treatment for a drug problem and could no longer look after you."
+  },
+  {
+    "k": "l5rsp38nl2",
+    "en": "{0} could not stop drinking and could no longer look after you."
+  },
+  {
+    "k": "cwnormlzvc",
+    "en": "Your family lost its home and lived between the car and shelters. A social worker came."
+  },
+  {
+    "k": "1c3y2643x4h",
+    "en": "{0} was ill for a long time and could no longer look after you."
+  },
+  {
+    "k": "lmwzc1atpv",
+    "en": "One day {0} did not come home."
+  },
+  {
+    "k": "yh44xp0ivu",
+    "en": "Money was so tight that your parents could not raise you."
+  },
+  {
+    "k": "9rw84qec20",
+    "en": "After your parents split up, neither of them was in a position to raise you."
+  },
+  {
+    "k": "a1vv8u5a17",
+    "en": "{0} could not raise you alone."
+  },
+  {
+    "k": "1kzev0vp0zh",
+    "en": "Your mother was in no position to raise you on her own."
+  },
+  {
+    "k": "2bggw3921lg",
+    "en": "Social services placed you in {0}'s home."
+  },
+  {
+    "k": "29fs7g5svgc",
+    "en": "Social services placed you with a foster family."
+  },
+  {
+    "k": "26oyf2nb3wh",
+    "en": "Social services placed you in a children's home."
+  },
+  {
+    "k": "8qshb0n2dw",
+    "en": "For a while you had nowhere to live and went from one friend's sofa to another."
+  },
+  {
+    "k": "29mujrhmven",
+    "en": "29% of young Americans who left foster care had been homeless at least once by 23-24 (Chapin Hall, Midwest Study)"
+  },
+  {
+    "k": "cb5j0rvshx",
+    "en": "care leaver's allowance"
+  },
+  {
+    "k": "20wl8dmudd5",
+    "en": "After {0} years you went home. {1} held you tight."
+  },
+  {
+    "k": "eeee0hroyd",
+    "en": "Your foster parents adopted you. The judge said you were now a family in the eyes of the law."
+  },
+  {
+    "k": "1r1q8f8e3ki",
+    "en": "A couple adopted you. The judge said you were now a family in the eyes of the law."
+  },
+  {
+    "k": "1k5d3s0knzj",
+    "en": "At eighteen, care ended. You found a small room and started living on your own."
+  },
+  {
+    "k": "12249t8tt6",
+    "en": "care leaver's settlement grant"
+  },
+  {
+    "k": "22hw6t1lzu",
+    "en": "You received a settlement grant of {0}."
+  },
+  {
+    "k": "vijrrirysf",
+    "en": "Young people leaving care in Korea receive a settlement grant of ₩10-20 million depending on the region and, from 2024, ₩500,000 a month for up to five years (Ministry of Health and Welfare)"
+  },
+  {
+    "k": "80i8qru18z",
+    "en": "Of young Americans who aged out of foster care, 7.6% had a college degree by 26, against 46.1% of their peers (Midwest Study)"
+  },
+  {
+    "k": "rtpmjy97m7",
+    "en": "{0} adopted you. The judge said you were now a family on paper too."
+  },
+  {
+    "k": "10eesfz1b5h",
+    "en": "{0} became your legal guardian."
+  },
+  {
+    "k": "2fbxu1f5q8q",
+    "en": "Your foster parents became your legal guardians."
+  },
+  {
+    "k": "1egzt2o51y3",
+    "en": "{0} came to see you for the holidays. You met only briefly."
+  },
+  {
+    "k": "1ljqf8lx7k4",
+    "en": "Every Saturday you saw {0} for an hour, with a social worker sitting nearby."
+  },
+  {
+    "k": "23tzzkt0wnd",
+    "en": "You moved to another foster family, and to another school."
+  },
+  {
+    "k": "1c6ws99dhn0",
+    "en": "You moved to another home, and to another school."
+  },
+  {
+    "k": "kag99li5cr",
+    "en": "You moved to another foster family."
+  },
+  {
+    "k": "2b3w7vjgnvh",
+    "en": "You moved to another children's home."
+  },
+  {
+    "k": "20itd1f9nq1",
+    "en": "Your foster mother baked you a birthday cake for the first time."
+  },
+  {
+    "k": "23h1tuhncpp",
+    "en": "A carer at the children's home packed your lunch on the morning of an exam."
+  },
+  {
+    "k": "1rmw48hlq23",
+    "en": "A carer at the children's home read you stories until you fell asleep."
+  },
+  {
+    "k": "9uz04ua4wt",
+    "en": "{0} was waiting for you at the school gate."
+  },
+  {
+    "k": "28cflfgs9xd",
+    "en": "{0} told you old stories every night."
+  },
+  {
+    "k": "1xy6nueayy7",
+    "en": "From then on, you were raised in {0}'s home."
+  },
+  {
+    "k": "27tqyejwl2q",
+    "en": "From then on, you were raised in {0}'s home, with your cousins."
+  },
+  {
+    "k": "24ew27j35py",
+    "en": "From then on, you were raised by a foster family."
+  },
+  {
+    "k": "8jgm0u2ctc",
+    "en": "From then on, you were raised in a children's home."
+  },
+  {
+    "k": "18f875hi690",
+    "en": "After the first birthday, to a family in {0}"
+  },
+  {
+    "k": "1alwr3s088d",
+    "en": "At about {0} months, to a family in {1}"
+  },
+  {
+    "k": "22abr1ehebd",
+    "en": "At about {0} months, into a family's care (kafala)"
+  },
+  {
+    "k": "2fkcm6qrx30",
+    "en": "At about {0} months, to another family"
+  },
+  {
+    "k": "2ddzi0tw8dh",
+    "en": "Right after birth, to another family"
+  },
+  {
+    "k": "14hui097e9u",
+    "en": "You will soon be taken from your family."
+  },
+  {
+    "k": "bqbgt1ciyz",
+    "en": "A few days after you were born, you were found by a roadside and taken to an orphanage."
+  },
+  {
+    "k": "10nbtjdarcz",
+    "en": "Your mother could not raise you, and you were placed with an adoption agency. A family across the sea will be waiting for you."
+  },
+  {
+    "k": "e4zflabo4c",
+    "en": "Your mother could not raise you, and another family will adopt you."
+  },
+  {
+    "k": "1av9b5782ps",
+    "en": "Since the 1950s about 170,000 Korean children have been adopted abroad, about 65% to the United States. In the 1970s and 1980s it was about 1 in every 100 babies born (Ministry of Health and Welfare, AP 2025)"
+  },
+  {
+    "k": "1y1jeggrci9",
+    "en": "Since 1992 about 160,000 Chinese children have been adopted abroad, most of them girls. China ended adoptions abroad in 2024"
+  },
+  {
+    "k": "b8omvdioy2",
+    "en": "In 2007 about 1 in every 100 babies born in Guatemala was adopted abroad, nearly all to the United States. Forged papers and the buying of babies came to light, and adoptions abroad stopped in 2008"
+  },
+  {
+    "k": "2ci8l0la6ej",
+    "en": "From 1999 to 2012 about 60,000 Russian children were adopted by families in the United States. Russia barred adoptions by Americans in 2013"
+  },
+  {
+    "k": "uus8h72g77",
+    "en": "After the 1989 revolution showed the world Romania's orphanages, more than 10,000 children were adopted abroad in 1990-91 alone. Romania stopped adoptions abroad in 2001"
+  },
+  {
+    "k": "1lgolqx2qet",
+    "en": "Around 2010 Ethiopia sent more than 4,000 children a year abroad for adoption, and banned adoptions abroad in 2018"
+  },
+  {
+    "k": "nsu0143hoo",
+    "en": "Adoptions across borders peaked at about 45,000 in 2004 and have fallen steeply since (Selman, Hague Conference on Private International Law)"
+  },
+  {
+    "k": "1cg641cadtr",
+    "en": "Your parents named you {0}."
+  },
+  {
+    "k": "1lt41u2kbjl",
+    "en": "After your first birthday, you flew from {0} to a new family in {1}."
+  },
+  {
+    "k": "17z610k80ki",
+    "en": "At {0} months old, you flew from {1} to a new family in {2}."
+  },
+  {
+    "k": "9ru016g497",
+    "en": "Your parents, waiting at the airport, held you for the first time."
+  }
+]

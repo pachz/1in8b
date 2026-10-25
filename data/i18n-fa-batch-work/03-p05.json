@@ -1,0 +1,402 @@
+[
+  {
+    "k": "1ki1q3kdhfu",
+    "en": "Didn't get into graduate school at home. Time to look for work."
+  },
+  {
+    "k": "21sfr458qxv",
+    "en": "You won the scholarship! With tuition and living costs covered, you left for university in {0}."
+  },
+  {
+    "k": "sn10slzdy8",
+    "en": "The first year is spent learning the language."
+  },
+  {
+    "k": "b2etntq6bg",
+    "en": "You did not win the scholarship. You decided to apply to universities at home."
+  },
+  {
+    "k": "17bddhtgz5z",
+    "en": "A government scholarship covered most of the fees and living costs. What was left came to {0}"
+  },
+  {
+    "k": "1tlhigie56q",
+    "en": "It cost {0}"
+  },
+  {
+    "k": "bj6rvda6q8",
+    "en": "{0}: {2} covered {1}, and you paid the rest from your savings."
+  },
+  {
+    "k": "z92ycj902a",
+    "en": "{0}: {2} covered {1}, and the rest came from your savings and a loan."
+  },
+  {
+    "k": "1ru849jbs6",
+    "en": "{0}: {2} covered {1}, and the rest became debt."
+  },
+  {
+    "k": "1egwdg4e694",
+    "en": "{0}, all of it paid from your savings."
+  },
+  {
+    "k": "1386hr57y68",
+    "en": "{0}: you paid {1} from your savings, and the rest became debt."
+  },
+  {
+    "k": "39i2tgbizb",
+    "en": "{0}, all of it debt."
+  },
+  {
+    "k": "4gpylpbk1j",
+    "en": "Accepted to a graduate school in {0}, and off to study abroad."
+  },
+  {
+    "k": "1qcsttp2ctr",
+    "en": "Accepted to a university in {0}, and off to study abroad."
+  },
+  {
+    "k": "ig6pgjhanu",
+    "en": "The first year goes to learning the language. "
+  },
+  {
+    "k": "8pa96l8gg6",
+    "en": "Your place at a university in {0} or your student visa fell through, so you decided to apply at home instead."
+  },
+  {
+    "k": "22m95he1bzq",
+    "en": "The place at a graduate school in {0}, or the visa, was refused, so it was the graduate school at home applied to alongside."
+  },
+  {
+    "k": "kgyli6vu5x",
+    "en": "The place at a graduate school in {0}, or the visa, was refused. Time to look for work."
+  },
+  {
+    "k": "2c2g1sulbet",
+    "en": "Postpone enlistment"
+  },
+  {
+    "k": "11cnmn1bwfg",
+    "en": "Defer for study or other reasons"
+  },
+  {
+    "k": "cfrjlhrgu",
+    "en": "Your health was not good, and the conscription physical put you in grade 4."
+  },
+  {
+    "k": "rjg0oognow",
+    "en": "You had not finished high school, so under the rule on schooling you were placed in the supplementary reserve."
+  },
+  {
+    "k": "l2t2zefdbq",
+    "en": "That year there were far more men liable to serve than the forces needed on active duty."
+  },
+  {
+    "k": "kh9jpxmwwb",
+    "en": "The conscription physical put you in grade 4."
+  },
+  {
+    "k": "gjsvay0cjr",
+    "en": "Call-up notice"
+  },
+  {
+    "k": "1vj40maahxt",
+    "en": "Your conscription physical put you in the supplementary reserve, and you are called up as a home-defence conscript (bangwi). After a few weeks of training you will commute from home to a unit or the neighbourhood office and serve about {0} months."
+  },
+  {
+    "k": "afmi31d797",
+    "en": "Your conscription physical put you in the supplementary reserve, and you are called up as a public service worker. After basic military training you will commute from home to a public office and serve about {0} months."
+  },
+  {
+    "k": "25ar2bix7y7",
+    "en": "Your service medical put you in the supplementary reserve, and you are called up as a social service worker. After basic military training you will commute from home to a care facility or public office and serve about {0} months."
+  },
+  {
+    "k": "2bza864nume",
+    "en": "In 1990, of about 450,000 men liable for service, 200,000 went to active duty, 120,000 were called up as home-defence conscripts (bangwi) and 130,000 were exempted (Seoul Shinmun, 1991)."
+  },
+  {
+    "k": "hey5xjs5m1",
+    "en": "Report for duty"
+  },
+  {
+    "k": "1bijv6gdajr",
+    "en": "{0} months · commute from home"
+  },
+  {
+    "k": "gwh48ryvyo",
+    "en": "Postpone the call-up"
+  },
+  {
+    "k": "1343d78gn9x",
+    "en": "Apply to the navy"
+  },
+  {
+    "k": "2a9zb5vqe6i",
+    "en": "Chance of a place: {0} · {1} months of service · guarding the sea on ships"
+  },
+  {
+    "k": "f2dgpn6bi",
+    "en": "Apply to the air force"
+  },
+  {
+    "k": "20v19saxj37",
+    "en": "Chance of a place: {0} · {1} months of service · at airfields and radar sites"
+  },
+  {
+    "k": "1g9ov21u7df",
+    "en": "Apply for KATUSA"
+  },
+  {
+    "k": "i4ehh7he6i",
+    "en": "Chance of a place: {0} · {1} months of service · serving alongside the US Army"
+  },
+  {
+    "k": "1v5aob9sqcv",
+    "en": "Apply to the conscripted police"
+  },
+  {
+    "k": "2dq4r3qi52r",
+    "en": "Chance of a place: {0} · {1} months of service · helping keep order at a police station"
+  },
+  {
+    "k": "25enwqjetfe",
+    "en": "Draft notice"
+  },
+  {
+    "k": "1ffb09wovru",
+    "en": "At the draft lottery you drew a red card. Your service lasts about {0} months."
+  },
+  {
+    "k": "ijjrqax0ol",
+    "en": "In {0}, every {1} must do military service. It lasts about {2} months."
+  },
+  {
+    "k": "1o0wg6ngxt0",
+    "en": "man"
+  },
+  {
+    "k": "bkul7hgm8o",
+    "en": "woman"
+  },
+  {
+    "k": "26t208k21sk",
+    "en": "This country is currently in an armed conflict."
+  },
+  {
+    "k": "bsnqs5dv9y",
+    "en": "Enlist in the army"
+  },
+  {
+    "k": "2fs10168h77",
+    "en": "Enlist"
+  },
+  {
+    "k": "gxbrxa1osj",
+    "en": "{0} months of service"
+  },
+  {
+    "k": "1sjjpw3rj6e",
+    "en": "You put off the call-up until you graduate."
+  },
+  {
+    "k": "gtrevk1rk7",
+    "en": "You put off the call-up for a year."
+  },
+  {
+    "k": "ncs34bqw88",
+    "en": "You put off enlistment until you graduate."
+  },
+  {
+    "k": "1hti4dl87p",
+    "en": "You put off enlistment for a year."
+  },
+  {
+    "k": "2629x8tbqx1",
+    "en": "You took leave from university and were called up as a home-defence conscript."
+  },
+  {
+    "k": "4c59i91j4b",
+    "en": "You were called up as a home-defence conscript. After a few weeks of training you served while living at home, commuting every day."
+  },
+  {
+    "k": "1iwniftkl6x",
+    "en": "You took leave from university and were called up as a public service worker."
+  },
+  {
+    "k": "swg83jl8bh",
+    "en": "You were called up as a public service worker. After basic military training you served while living at home, commuting every day."
+  },
+  {
+    "k": "19ontkpbsie",
+    "en": "You took leave from university and were called up as a social service worker."
+  },
+  {
+    "k": "1jdsxq00z75",
+    "en": "You were called up as a social service worker. After basic military training you served while living at home, commuting every day."
+  },
+  {
+    "k": "rj2uuk743a",
+    "en": "You took leave from university and joined the navy."
+  },
+  {
+    "k": "22c9opakmgy",
+    "en": "You joined the navy. You would serve on ships, guarding the sea."
+  },
+  {
+    "k": "9jztvxs5qd",
+    "en": "You took leave from university and joined the air force."
+  },
+  {
+    "k": "bmgvcv9cfp",
+    "en": "You joined the air force and were posted to a unit guarding an airfield."
+  },
+  {
+    "k": "12vynb2kbix",
+    "en": "You took leave from university and joined the conscripted police."
+  },
+  {
+    "k": "uuq91wz1j4",
+    "en": "You joined the conscripted police. You would guard the police station and help with traffic and neighbourhood patrols."
+  },
+  {
+    "k": "1g8s5hy2lgq",
+    "en": "You took leave from university and enlisted as a KATUSA. You would serve alongside American soldiers on a US Army base."
+  },
+  {
+    "k": "qrs0r8f7a0",
+    "en": "You enlisted as a KATUSA. You would serve alongside American soldiers on a US Army base."
+  },
+  {
+    "k": "1veuc6n3249",
+    "en": "You weren't taken by the navy, so you enlisted in the army."
+  },
+  {
+    "k": "25p7t66o0yr",
+    "en": "You weren't taken by the air force, so you enlisted in the army."
+  },
+  {
+    "k": "1jcrgc28kxq",
+    "en": "You weren't drawn in the KATUSA lottery, so you enlisted in the army."
+  },
+  {
+    "k": "z4z3ekfobh",
+    "en": "You weren't selected for the conscripted police, so you enlisted in the army."
+  },
+  {
+    "k": "1ecs2rac7kn",
+    "en": "You put your playing career on hold and enlisted."
+  },
+  {
+    "k": "23n274budze",
+    "en": "You ended your playing career and enlisted."
+  },
+  {
+    "k": "26egz65q5g9",
+    "en": "You could not put it off any longer and enlisted."
+  },
+  {
+    "k": "1id59s10bvu",
+    "en": "You took leave from university and enlisted."
+  },
+  {
+    "k": "1rnedbpjfto",
+    "en": "You enlisted."
+  },
+  {
+    "k": "229ikyl1ytq",
+    "en": "Before discharge"
+  },
+  {
+    "k": "26jhlsskmb8",
+    "en": "Your unit encouraged you to apply to become a sergeant. If you are accepted, you will go through NCO training and be appointed a sergeant, a career soldier with a salary. After four years, if you are chosen for long-term service, you can stay in the army until retirement age."
+  },
+  {
+    "k": "191m7x0tv3w",
+    "en": "Of NCOs on short-term service, about 25% were chosen for long-term service in 2010 and about 20% in 2026 (Seoul Shinmun, Money Today)."
+  },
+  {
+    "k": "1n4ldyqs83i",
+    "en": "Apply to be a sergeant"
+  },
+  {
+    "k": "hcxl7u5jce",
+    "en": "Chance of a place: {0} · 4 years' obligatory service · then the long-term service review"
+  },
+  {
+    "k": "y8gmv2pik1",
+    "en": "Leave as planned"
+  },
+  {
+    "k": "2gegl4r0z2o",
+    "en": "Finish your service and return to civilian life"
+  },
+  {
+    "k": "16b448y1rim",
+    "en": "You weren't selected as an NCO. You decided to finish your service and leave."
+  },
+  {
+    "k": "1afzqcnqgnv",
+    "en": "You finished NCO training and were appointed a sergeant. Your career as a soldier began."
+  },
+  {
+    "k": "knzll8g7mv",
+    "en": "Wait for a better job"
+  },
+  {
+    "k": "14nz3hkhe1a",
+    "en": "Another year of job hunting"
+  },
+  {
+    "k": "99ho01jbwt",
+    "en": "Focus on home and childcare"
+  },
+  {
+    "k": "126tx6tzjdn",
+    "en": "No income"
+  },
+  {
+    "k": "1hiie3sg9iq",
+    "en": "You used to work as a {0}. "
+  },
+  {
+    "k": "23jxfpkzgxa",
+    "en": "At this age there are fewer jobs to choose from, and they pay less. "
+  },
+  {
+    "k": "jhxsyuwy1o",
+    "en": "{0}Education: {1}. These are the jobs you can find in the {3} in {2}."
+  },
+  {
+    "k": "5l6xlfxvgr",
+    "en": "city"
+  },
+  {
+    "k": "63164a0dna",
+    "en": "countryside"
+  },
+  {
+    "k": "cgm621dpqi",
+    "en": "A job found with an employment support service"
+  },
+  {
+    "k": "27lzng1dbxc",
+    "en": "With a job coach from a disability employment service, you looked for work together."
+  },
+  {
+    "k": "17z0m9grsv1",
+    "en": "Once you start, the coach will be at your side at work for the first few weeks."
+  },
+  {
+    "k": "19h3cv9o9e1",
+    "en": "In a US randomised trial, 87% of autistic young people who had workplace internships with on-site support in their last school year were in work a year later, against 12% of those who had only their school classes (Wehman et al. 2017)"
+  },
+  {
+    "k": "190z42e7f9k",
+    "en": "Choose your first job"
+  },
+  {
+    "k": "1ijfa3cu9q1",
+    "en": "You found work"
+  }
+]

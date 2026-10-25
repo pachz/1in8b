@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+# Patch-bump package.json and sync version into the app (APP_VERSION, CONFIG, verTag).
+node scripts/bump-version.mjs
+
+git add package.json public/version.json public/a/*.js
+# Language pages that carry APP_VERSION / #verTag / softwareVersion
+git add public/*/index.html
+git add public/index.html 2>/dev/null || true

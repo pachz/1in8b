@@ -1,0 +1,502 @@
+[
+  {
+    "k": "rr1udutipo",
+    "en": "A former colleague got in touch. They said your asking that day and listening to the end had helped them hold on, and that little by little they were getting better.",
+    "fa": "همکار سابق تماس گرفت. گفت پرسیدن آن روز و گوش دادن تا آخر کمک کرده بماند و کم‌کم بهتر می‌شود."
+  },
+  {
+    "k": "1zsca6wd64v",
+    "en": "Your friend {0} said your asking that day and staying close had helped them hold on, and that little by little they were getting better.",
+    "fa": "دوست {0} گفت پرسیدن آن روز و نزدیک ماندن کمک کرده بماند و کم‌کم بهتر می‌شود."
+  },
+  {
+    "k": "29maa8ssxd5",
+    "en": "A colleague told you that a few years ago they went through a time so hard they did not want to live. They first told their family, and with counselling they slowly came through it.",
+    "fa": "همکاری گفت چند سال پیش دوره‌ای چنان سخت داشت که نمی‌خواست زندگی کند. اول به خانواده گفت و با مشاوره کم‌کم از آن گذشت."
+  },
+  {
+    "k": "1j22a4dw1og",
+    "en": "Your old friend {0} told you about a time so hard they did not want to live. Things began to change the day they first told someone, and with counselling they came through it.",
+    "fa": "دوست قدیمی {0} از دوره‌ای گفت که نمی‌خواست زندگی کند. از روزی که اول به کسی گفت عوض شد و با مشاوره از آن گذشت."
+  },
+  {
+    "k": "11hghzh59q6",
+    "en": "In a survey of 17 countries, about 9% of adults said they had thought about suicide at some point in their lives, and most of them come through that time and live on (Nock et al. 2008) · {0}",
+    "fa": "در نظرسنجی ۱۷ کشور، حدود ۹٪ بزرگسالان گفتند گاهی به خودکشی فکر کرده‌اند و بیشترشان از آن دوره عبور می‌کنند و زندگی می‌کنند (Nock et al. 2008) · {0}"
+  },
+  {
+    "k": "x1n26vccih",
+    "en": "You asked a colleague who had grown quiet lately whether they were okay. After a long pause they said they had been thinking about suicide. You listened to the end, then found counselling together and made the call.",
+    "fa": "از همکاری که اخیراً خاموش شده بود پرسیدید خوب است یا نه. پس از مکث طولانی گفت به خودکشی فکر می‌کند. تا آخر گوش دادید، بعد با هم مشاوره پیدا کردید و تماس گرفتید."
+  },
+  {
+    "k": "1fy19zaa4q4",
+    "en": "Late one night a worrying message came from {0}, a friend you had not heard from in a while. You called straight away, asked plainly whether they were thinking about suicide, listened to the end, and the next day found counselling together.",
+    "fa": "نیمه‌شب پیام نگران‌کننده‌ای از {0}، دوستی که مدتی خبر نداشتید، آمد. فوراً زنگ زدید، رک و پوست‌کنده پرسیدید آیا به خودکشی فکر می‌کند، تا آخر گوش دادید و روز بعد با هم مشاوره پیدا کردید."
+  },
+  {
+    "k": "1mhrk7p9ctb",
+    "en": "Asking someone directly whether they are thinking about suicide does not put the idea in their head; a review of 13 studies found it may even lower it (Dazzi et al. 2014) · {0}",
+    "fa": "پرسیدن مستقیم از کسی که آیا به خودکشی فکر می‌کند ایده را در ذهنش نمی‌گذارد؛ بررسی ۱۳ مطالعه نشان داد ممکن است حتی کم کند (Dazzi et al. 2014) · {0}"
+  },
+  {
+    "k": "ezxcpjo4kz",
+    "en": "childhood kidney cancer",
+    "fa": "سرطان کلیه کودکی"
+  },
+  {
+    "k": "1wlf1astt7c",
+    "en": "liver cancer",
+    "fa": "سرطان کبد"
+  },
+  {
+    "k": "40gq80jucv",
+    "en": "lung cancer",
+    "fa": "سرطان ریه"
+  },
+  {
+    "k": "1qu97gft8te",
+    "en": "pancreatic cancer",
+    "fa": "سرطان لوزالمعده"
+  },
+  {
+    "k": "1as5verdprl",
+    "en": "esophageal cancer",
+    "fa": "سرطان مری"
+  },
+  {
+    "k": "198rjjiuejw",
+    "en": "mouth cancer",
+    "fa": "سرطان دهان"
+  },
+  {
+    "k": "1w5cyaivhjk",
+    "en": "accidental injuries",
+    "fa": "آسیب‌های تصادفی"
+  },
+  {
+    "k": "2nnulea3ut",
+    "en": "A life insurance payout of {0} went to the family left behind.",
+    "fa": "خسارت بیمه عمر {0} به خانواده بازمانده رسید."
+  },
+  {
+    "k": "6lg78s159s",
+    "en": "{0} had been there all along, but it was never diagnosed.",
+    "fa": "{0} از اول بود، اما هرگز تشخیص داده نشد."
+  },
+  {
+    "k": "bjdigpc76r",
+    "en": "At {0}, this life ended by suicide.",
+    "fa": "در {0}، این زندگی با خودکشی پایان یافت."
+  },
+  {
+    "k": "1l5vpxta27m",
+    "en": "Suicide never has a single reason, and it can be prevented (WHO) · {0}",
+    "fa": "خودکشی هرگز یک دلیل ندارد و قابل پیشگیری است (WHO) · {0}"
+  },
+  {
+    "k": "29pnkltmp2r",
+    "en": "At {0}, your life was taken by someone's violence.",
+    "fa": "در {0}، زندگی‌تان را خشونت کسی گرفت."
+  },
+  {
+    "k": "1anqg9lrln9",
+    "en": "At {0}, you lost your life ({1}).",
+    "fa": "در {0}، جان خود را از دست دادید ({1})."
+  },
+  {
+    "k": "ci7ipybf7i",
+    "en": "At {0}, you passed away ({1}).",
+    "fa": "در {0}، درگذشتید ({1})."
+  },
+  {
+    "k": "1mlz8rzr8po",
+    "en": "At {0}, your life came to a quiet end in your sleep ({1}).",
+    "fa": "در {0}، زندگی‌تان در خواب آرام پایان یافت ({1})."
+  },
+  {
+    "k": "1twb7zxwurs",
+    "en": "At {0}, your life came to an end ({1}).",
+    "fa": "در {0}، زندگی‌تان پایان یافت ({1})."
+  },
+  {
+    "k": "1gi1528exa7",
+    "en": "As the fighting came closer, {0} packed up and decided to flee.",
+    "fa": "با نزدیک شدن جنگ، {0} بست و تصمیم گرفت بگریزد."
+  },
+  {
+    "k": "3x4ob20i51",
+    "en": "The fighting came closer, but {0} decided to stay at home.",
+    "fa": "جنگ نزدیک‌تر شد، اما {0} تصمیم گرفت در خانه بماند."
+  },
+  {
+    "k": "typ019u4pr",
+    "en": "Help buying a home",
+    "fa": "کمک خرید خانه"
+  },
+  {
+    "k": "lmb6sadwiu",
+    "en": "Buying a {0}",
+    "fa": "خرید {0}"
+  },
+  {
+    "k": "1xnraxxi83v",
+    "en": "Decision: {0}",
+    "fa": "تصمیم: {0}"
+  },
+  {
+    "k": "15am2b7ihhq",
+    "en": "You stopped looking for work and retired. You live on your pension.",
+    "fa": "جستجوی کار را متوقف کردید و بازنشسته شدید. با مستمری زندگی می‌کنید."
+  },
+  {
+    "k": "1jc1z4379hf",
+    "en": "You stopped looking for work and retired. You get by on your savings and lean on your family.",
+    "fa": "جستجوی کار را متوقف کردید و بازنشسته شدید. با پس‌انداز سر می‌کنید و به خانواده تکیه می‌کنید."
+  },
+  {
+    "k": "1vct7fcmwnr",
+    "en": "Things got better at home, and you went back to school.",
+    "fa": "اوضاع خانه بهتر شد و به مدرسه برگشتید."
+  },
+  {
+    "k": "1m86w4aemyq",
+    "en": "You finished school and began to give yourself fully to your games as a professional Go player.",
+    "fa": "مدرسه را تمام کردید و تمام وقت به بازی Go حرفه‌ای پرداختید."
+  },
+  {
+    "k": "1lai2tapewz",
+    "en": "You finished school and began to give yourself fully to tournaments as a chess player.",
+    "fa": "مدرسه را تمام کردید و تمام وقت در مسابقات شطرنج شرکت کردید."
+  },
+  {
+    "k": "2e4veotvdw",
+    "en": "With school behind you, you started competing full-time as a pro gamer.",
+    "fa": "با پایان مدرسه تمام‌وقت به رقابت حرفه‌ای بازی‌های ویدیویی پرداختید."
+  },
+  {
+    "k": "28rv1yoe4h9",
+    "en": "You had your conscription physical, but you were never called up. In those years there were far more men liable than the army needed.",
+    "fa": "معاینه خدمت سربازی را دادید، اما هرگز فراخوانده نشدید. در آن سال‌ها مردان مشمول از نیاز ارتش بیشتر بودند."
+  },
+  {
+    "k": "e1uucupyex",
+    "en": "At the draft lottery you drew a black card, so you did not have to join the army.",
+    "fa": "در قرعه‌کشی خدمت کارت سیاه آوردید، پس مجبور به پیوستن به ارتش نشدید."
+  },
+  {
+    "k": "1p1ao1lwrv4",
+    "en": "You looked for work for several years, but nothing suitable came up. You went back to running the home.",
+    "fa": "چند سال کار جستید، اما چیز مناسبی پیدا نشد. دوباره اداره خانه را بر عهده گرفتید."
+  },
+  {
+    "k": "2d6l2ylr8dg",
+    "en": "You shared out the housework and went looking for work.",
+    "fa": "کار خانه را تقسیم کردید و به دنبال کار رفتید."
+  },
+  {
+    "k": "1q6s58mggfc",
+    "en": "You went out looking for work.",
+    "fa": "به دنبال کار رفتید."
+  },
+  {
+    "k": "1v2efgdlph1",
+    "en": "You have been looking for work for more than a year.",
+    "fa": "بیش از یک سال است که کار می‌جویید."
+  },
+  {
+    "k": "21tvxc2fxpe",
+    "en": "In {0}, about {1}% of people who want to work are looking for a job (ILO estimate, 2024)",
+    "fa": "در {0}، حدود {1}٪ کسانی که می‌خواهند کار کنند در جستجوی شغل‌اند (برآورد ILO، 2024)"
+  },
+  {
+    "k": "6jt6kfbqn1",
+    "en": "You told the marriage agency you no longer wanted introductions.",
+    "fa": "به آژانس ازدواج گفتید دیگر معرفی نمی‌خواهید."
+  },
+  {
+    "k": "r9m417vs4v",
+    "en": "You told the matchmaker there was no need to look for anyone else.",
+    "fa": "به همسریاب گفتید لازم نیست کس دیگری بگردد."
+  },
+  {
+    "k": "1yndq5rjxd",
+    "en": "Your marriage agency membership ran out before the remaining introductions came.",
+    "fa": "عضویت آژانس ازدواج قبل از معرفی‌های باقی‌مانده تمام شد."
+  },
+  {
+    "k": "1a30qaubh5b",
+    "en": "The time you'd agreed with the matchmaker passed before the remaining introductions came.",
+    "fa": "وقتی با همسریاب توافق کرده بودید قبل از معرفی‌های باقی‌مانده گذشت."
+  },
+  {
+    "k": "2beb9h3f3j",
+    "en": "You were introduced to a few people, but none felt right.",
+    "fa": "چند نفر معرفی شدند، اما هیچ‌کدام مناسب نبود."
+  },
+  {
+    "k": "1gzbdiumajg",
+    "en": "Meetings across a wide age gap did not come easily.",
+    "fa": "ملاقات با اختلاف سنی زیاد آسان نبود."
+  },
+  {
+    "k": "s6qs4qyhpo",
+    "en": "You met a few people from other countries, but nothing came of it.",
+    "fa": "چند نفر از کشورهای دیگر دیدید، اما حاصل نشد."
+  },
+  {
+    "k": "1st5lylz530",
+    "en": "You went to gatherings and asked people you know to introduce someone, but nothing came of it.",
+    "fa": "به دورهمی‌ها رفتید و از آشنایان خواستید کسی معرفی کنند، اما حاصل نشد."
+  },
+  {
+    "k": "27q8zapvy0d",
+    "en": "No adoption came through this time. Many families were waiting.",
+    "fa": "این بار فرزندخواندگی نشد. خانواده‌های زیادی در صف بودند."
+  },
+  {
+    "k": "zlewl0u8nb",
+    "en": "You had said no then, but a year or two later, among the friends you went around with, you started smoking after all.",
+    "fa": "آن وقت نه گفتید، اما یک‑دو سال بعد میان دوستانی که با آن‌ها بودید باز هم سیگار کشیدن را شروع کردید."
+  },
+  {
+    "k": "1zz6aavh3f6",
+    "en": "Even among teenagers who said they would not smoke if a friend offered, about 13% try a cigarette within two years.",
+    "fa": "حتی میان نوجوانی که گفتند اگر دوست سیگار بدهد نمی‌کشند، حدود ۱۳٪ ظرف دو سال یک نخ امتحان می‌کنند."
+  },
+  {
+    "k": "1ys0pd9b9vj",
+    "en": "About 60% of those who try one become daily smokers (Aleyan et al., BMJ Open 2018; Birge et al., Nicotine Tob Res 2018)",
+    "fa": "حدود ۶۰٪ کسانی که یک نخ می‌کشند سیگاری روزانه می‌شوند (Aleyan et al.، BMJ Open 2018؛ Birge et al.، Nicotine Tob Res 2018)"
+  },
+  {
+    "k": "1tmylz67n1h",
+    "en": "You tried to cut down, but a few months later the drinking crept back up, and night after night you could not sleep without a drink.",
+    "fa": "کم کردید، اما چند ماه بعد نوشیدن دوباره بالا رفت و شب‌ها بدون یک جرعه نمی‌توانستید بخوابید."
+  },
+  {
+    "k": "20jm7f8pu0d",
+    "en": "You tried to cut down, but a few months later the drinking crept back up. After a while like that, you began cutting down again.",
+    "fa": "کم کردید، اما چند ماه بعد نوشیدن دوباره بالا رفت. پس از مدتی دوباره کم کردن را شروع کردید."
+  },
+  {
+    "k": "150y85l37yj",
+    "en": "You got ready to run, but the party did not nominate you for parliament.",
+    "fa": "آماده نامزدی شدید، اما حزب شما را برای پارلمان نامزد نکرد."
+  },
+  {
+    "k": "zqp8g9kc10",
+    "en": "You got ready to run for {0}, but lost the party's race for the nomination.",
+    "fa": "آماده نامزدی {0} شدید، اما در رقابت حزب برای نامزدی باختید."
+  },
+  {
+    "k": "1ut4vcp7ts6",
+    "en": "You had too few backers inside the party.",
+    "fa": "حامیان کافی درون حزب نداشتید."
+  },
+  {
+    "k": "c7u7w74cqg",
+    "en": "Many others wanted the same place.",
+    "fa": "کسانی دیگر هم همان جا را می‌خواستند."
+  },
+  {
+    "k": "rx2hkwpys1",
+    "en": "Tries left: {0}.",
+    "fa": "تلاش باقی‌مانده: {0}."
+  },
+  {
+    "k": "1ljcjlbeuui",
+    "en": "You have used all your tries.",
+    "fa": "همه تلاش‌هایتان را استفاده کردید."
+  },
+  {
+    "k": "u6zpfdqjrb",
+    "en": "You got ready to run for {0}, but things changed and you could not enter the party's race this time.",
+    "fa": "آماده نامزدی {0} شدید، اما اوضاع عوض شد و این بار نتوانستید در رقابت حزب شرکت کنید."
+  },
+  {
+    "k": "19qx5hi3zyw",
+    "en": "You got ready to run for parliament, but things changed and you could not stand in this election.",
+    "fa": "آماده نامزدی پارلمان شدید، اما اوضاع عوض شد و در این انتخابات نتوانستید بایستید."
+  },
+  {
+    "k": "192pvd3ksnk",
+    "en": "You got ready to run, but things changed and you could not stand in this election.",
+    "fa": "آماده نامزدی شدید، اما اوضاع عوض شد و در این انتخابات نتوانستید بایستید."
+  },
+  {
+    "k": "2e16tv99zpg",
+    "en": "You looked into going home, but for now there was no way back.",
+    "fa": "برگشت به وطن را بررسی کردید، اما فعلاً راهی نبود."
+  },
+  {
+    "k": "1jhqtnlb3h9",
+    "en": "You looked for another job, but nothing suitable came up this year.",
+    "fa": "کار دیگری جستید، اما امسال چیز مناسبی پیدا نشد."
+  },
+  {
+    "k": "tgduejeqwz",
+    "en": "estimate based on UNDP expected years of schooling",
+    "fa": "برآورد بر اساس سال‌های تحصیل مورد انتظار UNDP"
+  },
+  {
+    "k": "3kznbwn3pe",
+    "en": "estimate",
+    "fa": "برآورد"
+  },
+  {
+    "k": "28tkenminbh",
+    "en": "In {0}, about {1} of young people finish secondary school ({2})",
+    "fa": "در {0}، حدود {1} جوانان دوره متوسطه را تمام می‌کنند ({2})"
+  },
+  {
+    "k": "1om38nj4wqm",
+    "en": "In {0}, about {1} of young people finish high school ({2})",
+    "fa": "در {0}، حدود {1} جوانان دبیرستان را تمام می‌کنند ({2})"
+  },
+  {
+    "k": "1t0joszbhv5",
+    "en": "The fighting closed the school, and you could not go on.",
+    "fa": "جنگ مدرسه را بست و نتوانستید ادامه دهید."
+  },
+  {
+    "k": "ewbt3vzv24",
+    "en": "The fighting closed the high schools nearby, so you could not go on.",
+    "fa": "جنگ دبیرستان‌های نزدیک را بست، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "34z8tuq5qh",
+    "en": "Money was tight at home, so instead of staying at school you had to start earning.",
+    "fa": "پول خانه تنگ بود، پس به‌جای ماندن در مدرسه باید درآمد می‌آوردید."
+  },
+  {
+    "k": "2ds4gnr7mvb",
+    "en": "The family could not find the fees, the uniform and the books, so you gave up on high school.",
+    "fa": "خانواده شهریه، یونیفرم و کتاب را نمی‌یافت، پس از دبیرستان دست کشیدید."
+  },
+  {
+    "k": "1wml0xbvpj6",
+    "en": "Money was tight at home, so instead of going on to high school you had to start earning.",
+    "fa": "پول خانه تنگ بود، پس به‌جای رفتن به دبیرستان باید درآمد می‌آوردید."
+  },
+  {
+    "k": "w3xl2arj4i",
+    "en": "Your marks in the exam at the end of basic schooling were not enough for a vocational school.",
+    "fa": "نمره امتحان پایان دوره پایه برای هنرستان کافی نبود."
+  },
+  {
+    "k": "pygiq8ft3g",
+    "en": "Your marks in the exam at the end of basic schooling were not enough to go on to the upper grades.",
+    "fa": "نمره امتحان پایان دوره پایه برای رفتن به پایه‌های بالاتر کافی نبود."
+  },
+  {
+    "k": "mrn72bagt9",
+    "en": "Your marks in the leaving exam at the end of middle school were not enough for a vocational school.",
+    "fa": "نمره امتحان پایان دوره راهنمایی برای هنرستان کافی نبود."
+  },
+  {
+    "k": "1coecg5hob9",
+    "en": "Your marks in the leaving exam at the end of middle school were not enough for high school.",
+    "fa": "نمره امتحان پایان دوره راهنمایی برای دبیرستان کافی نبود."
+  },
+  {
+    "k": "qd3oal9nhj",
+    "en": "No school nearby taught the upper grades, so you could not go on.",
+    "fa": "مدرسه نزدیک پایه‌های بالاتر نداشت، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "nd9vr02vdv",
+    "en": "There was no high school anywhere near, so you could not go on.",
+    "fa": "دبیرستانی در نزدیکی نبود، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "23214kpnfc4",
+    "en": "The elders of the family did not want a daughter to stay in school, so you could not go on.",
+    "fa": "بزرگان خانواده نمی‌خواستند دختر در مدرسه بماند، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "n6937817gq",
+    "en": "You did not win a place at a vocational school, so you could not go on.",
+    "fa": "جایی در هنرستان نگرفتید، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "1te99b3dai7",
+    "en": "You did not win a place in the upper grades, so you could not go on.",
+    "fa": "جایی در پایه‌های بالاتر نگرفتید، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "21zxp0qo3g0",
+    "en": "You did not win a place at a high school, so you could not go on.",
+    "fa": "جایی در دبیرستان نگرفتید، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "2580i2edvi1",
+    "en": "Money grew tight at home, and you had to leave school.",
+    "fa": "پول خانه تنگ شد و مجبور شدید مدرسه را ترک کنید."
+  },
+  {
+    "k": "3tsbfs18p3",
+    "en": "Your family couldn't cover the costs of keeping you in school, so you had to give up on going further.",
+    "fa": "خانواده هزینه ماندن شما در مدرسه را نمی‌پوشاند، پس از ادامه تحصیل دست کشیدید."
+  },
+  {
+    "k": "10bdbhip94h",
+    "en": "The fighting closed your school, and you could not go back.",
+    "fa": "جنگ مدرسه شما را بست و نتوانستید برگردید."
+  },
+  {
+    "k": "5i9cpe8ofd",
+    "en": "The fighting closed the schools, so you could not go on to the next one.",
+    "fa": "جنگ مدارس را بست، پس نتوانستید به مدرسه بعدی بروید."
+  },
+  {
+    "k": "15dmk8xy4bu",
+    "en": "The fighting closed every school nearby, and in the end you never went.",
+    "fa": "جنگ همه مدارس نزدیک را بست و در پایان هرگز نرفتید."
+  },
+  {
+    "k": "1rqo0uf1wpa",
+    "en": "The elders of the family did not want a daughter to keep going to school, so you left.",
+    "fa": "بزرگان خانواده نمی‌خواستند دختر به مدرسه برود، پس ترک کردید."
+  },
+  {
+    "k": "2brqrtz9plr",
+    "en": "The elders of the family never agreed, so you did not go to school.",
+    "fa": "بزرگان خانواده هرگز موافقت نکردند، پس به مدرسه نرفتید."
+  },
+  {
+    "k": "1y03pn73s1z",
+    "en": "No place opened up at the neighbourhood school, and in the end you never went.",
+    "fa": "جایی در مدرسه محله باز نشد و در پایان هرگز نرفتید."
+  },
+  {
+    "k": "9nqic8ohdk",
+    "en": "Your school moved far away, and you could not keep going.",
+    "fa": "مدرسه دور شد و نتوانستید ادامه دهید."
+  },
+  {
+    "k": "ws6bu9j1pf",
+    "en": "You did not win a place at a secondary school, so you could not go on.",
+    "fa": "جایی در مدرسه متوسطه نگرفتید، پس نتوانستید ادامه دهید."
+  },
+  {
+    "k": "rg71ue157g",
+    "en": "There was no school close enough, and in the end you never went.",
+    "fa": "مدرسه به اندازه کافی نزدیک نبود و در پایان هرگز نرفتید."
+  },
+  {
+    "k": "cbkw0ik71t",
+    "en": "About 3.4% of US students from kindergarten through 12th grade learn at home instead of at school (NCES, 2022-23 school year)",
+    "fa": "حدود ۳٫۴٪ دانش‌آموزان آمریکا از kindergarten تا پایه دوازدهم در خانه درس می‌خوانند (NCES، سال تحصیلی ۲۰۲۲–۲۳)"
+  },
+  {
+    "k": "54vyl3iasw",
+    "en": "You started going to a learning centre in the camp.",
+    "fa": "به مرکز آموزشی اردوگاه رفتید."
+  },
+  {
+    "k": "139u52zsj8y",
+    "en": "There was no place at the learning centre, so you stayed home and looked after your younger brothers.",
+    "fa": "جایی در مرکز آموزشی نبود، پس در خانه ماندید و از برادران کوچک‌تر مراقبت کردید."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "k": "b9qd174xpt",
+    "en": "born {0} ({1}) {2}, quintile {3}",
+    "fa": "متولد {0} ({1}) {2}، quintile {3}"
+  },
+  {
+    "k": "14a9jeww1cx",
+    "en": "the past, born {0}",
+    "fa": "گذشته، متولد {0}"
+  },
+  {
+    "k": "qcjuxp0nxf",
+    "en": "died at {0} · {1}",
+    "fa": "در {0} درگذشت · {1}"
+  },
+  {
+    "k": "2556pv1ncpz",
+    "en": "lives in {0}",
+    "fa": "در {0} زندگی می‌کند"
+  },
+  {
+    "k": "22c8sf23ye8",
+    "en": "job {0}",
+    "fa": "شغل {0}"
+  },
+  {
+    "k": "1535j8ncqrz",
+    "en": "{0} decisions",
+    "fa": "{0} تصمیم"
+  },
+  {
+    "k": "2061syf8qb8",
+    "en": "screen ",
+    "fa": "صفحه "
+  },
+  {
+    "k": "hl64ljqiut",
+    "en": "Start",
+    "fa": "شروع"
+  },
+  {
+    "k": "292qjwv6mit",
+    "en": "Life",
+    "fa": "زندگی"
+  },
+  {
+    "k": "skkfzwv6bd",
+    "en": "Death",
+    "fa": "مرگ"
+  },
+  {
+    "k": "27zznylnlel",
+    "en": "mobile ",
+    "fa": "موبایل "
+  },
+  {
+    "k": "2gdjaqxyx5g",
+    "en": "desktop ",
+    "fa": "رومیزی "
+  },
+  {
+    "k": "rq92vqsgzh",
+    "en": "Recent problems ",
+    "fa": "مشکلات اخیر "
+  },
+  {
+    "k": "1iysllwmk",
+    "en": "[1 in 8 Billion feedback]\nType: {0}\nMessage: {1}{2}\nPlay info: {3}",
+    "fa": "[بازخورد «۱ در ۸ میلیارد»]\nنوع: {0}\nپیام: {1}{2}\nاطلاعات بازی: {3}"
+  },
+  {
+    "k": "24i2nwfs3sb",
+    "en": "(empty)",
+    "fa": "(خالی)"
+  },
+  {
+    "k": "2etx4jca7z9",
+    "en": "\nNickname: {0}",
+    "fa": "\nنام مستعار: {0}"
+  },
+  {
+    "k": "t28etdwiho",
+    "en": "Privacy policy",
+    "fa": "سیاست حریم خصوصی"
+  },
+  {
+    "k": "8gvfg62xvd",
+    "en": "<a class=\"cta\" id=\"fbSend\" href=\"#\" target=\"_blank\" rel=\"noopener\">Send with Google Forms</a><small>A Google Form opens in a new tab with everything filled in. Its description and questions are in Korean (with English): just press Submit at the bottom to send it.</small>",
+    "fa": "<a class=\"cta\" id=\"fbSend\" href=\"#\" target=\"_blank\" rel=\"noopener\">ارسال با Google Forms</a><small>Google Form در تب تازه با همهٔ فیلدها پر باز می‌شود. توضیح و سؤالات به کره‌ای (با انگلیسی) است: فقط Submit پایین را بزنید.</small>"
+  },
+  {
+    "k": "pdhsbih68x",
+    "en": "<button class=\"cta\" id=\"fbCopy\">Copy message</button><small>Please send what you copied to us as a comment or DM on Threads.</small>",
+    "fa": "<button class=\"cta\" id=\"fbCopy\">کپی پیام</button><small>آنچه کپی کردید را در Threads نظر یا DM برایمان بفرستید.</small>"
+  },
+  {
+    "k": "23pn2b6231q",
+    "en": "<h2>What seemed off?</h2><p>Details of the life you are living are attached automatically. Even one line is fine.</p>",
+    "fa": "<h2>چه چیزی جور نبود؟</h2><p>جزئیات زندگی‌ای که می‌گذرانید خودکار پیوست می‌شود. حتی یک خط کافی است.</p>"
+  },
+  {
+    "k": "1twl0j931c7",
+    "en": "Ideas and long messages are welcome here too, rather than by email.",
+    "fa": "ایده و پیام بلند هم اینجا خوش‌آمد است، نه ایمیل."
+  },
+  {
+    "k": "s01610bukc",
+    "en": "Everything is kept in one place, and we read every one.",
+    "fa": "همه در یک جا نگه داشته می‌شود و هر کدام را می‌خوانیم."
+  },
+  {
+    "k": "218ca8rgak3",
+    "en": "\n    <div class=\"fbtypes\" role=\"group\" aria-label=\"Type of feedback\">{0}</div>\n    <label class=\"field\"><span class=\"lbl\">Message</span><textarea id=\"fbText\" maxlength=\"{1}\" placeholder=\"e.g. I was born in Mali and got a decision about going to university at 15\"></textarea></label><p class=\"fbcount\"><span id=\"fbCount\"></span> <span>{2}</span></p>\n    <label class=\"field\"><span class=\"lbl\">Nickname (optional)</span><input id=\"fbNick\" maxlength=\"40\" autocomplete=\"nickname\"></label>\n    <div class=\"ctxbox\">{3}</div><div class=\"sheetact\">{4}</div>",
+    "fa": "\n    <div class=\"fbtypes\" role=\"group\" aria-label=\"نوع بازخورد\">{0}</div>\n    <label class=\"field\"><span class=\"lbl\">پیام</span><textarea id=\"fbText\" maxlength=\"{1}\" placeholder=\"مثلاً در مالی متولد شدم و در ۱۵ سالگی تصمیم دانشگاه گرفتم\"></textarea></label><p class=\"fbcount\"><span id=\"fbCount\"></span> <span>{2}</span></p>\n    <label class=\"field\"><span class=\"lbl\">نام مستعار (اختیاری)</span><input id=\"fbNick\" maxlength=\"40\" autocomplete=\"nickname\"></label>\n    <div class=\"ctxbox\">{3}</div><div class=\"sheetact\">{4}</div>"
+  },
+  {
+    "k": "18axgq4ryvm",
+    "en": "For a longer message, keep writing in the box once the Google Form opens.",
+    "fa": "برای پیام بلندتر، وقتی Google Form باز شد در جعبه بنویسید."
+  },
+  {
+    "k": "168dikpnge",
+    "en": "What you send goes to Google Forms (USA) and is kept there. Please do not include names or contact details.",
+    "fa": "آنچه می‌فرستید به Google Forms (USA) می‌رود و آنجا می‌ماند. نام یا تماس نگذارید."
+  },
+  {
+    "k": "1viml5rlwf",
+    "en": "For a problem that needs a reply (a payment, the pass, records gone missing), <a href=\"#\" data-help=\"1\">email us</a>.",
+    "fa": "برای مشکلی که پاسخ می‌خواهد (پرداخت، گذرنامه، پرونده گم‌شده)، <a href=\"#\" data-help=\"1\">ایمیل بزنید</a>."
+  },
+  {
+    "k": "146k393h27c",
+    "en": "Show earlier notes",
+    "fa": "نمایش یادداشت‌های قبلی"
+  },
+  {
+    "k": "28pq4343pys",
+    "en": "Update notes",
+    "fa": "یادداشت‌های به‌روزرسانی"
+  },
+  {
+    "k": "y2zy256hez",
+    "en": "Couldn't load the update notes. Please open them again in a moment.",
+    "fa": "یادداشت‌های به‌روزرسانی بار نشد. لحظه‌ای دیگر دوباره باز کنید."
+  },
+  {
+    "k": "2damfn10ihc",
+    "en": "Copying is blocked here. Press and hold the text to copy it yourself.",
+    "fa": "کپی اینجا مسدود است. متن را نگه دارید تا خودتان کپی کنید."
+  },
+  {
+    "k": "2g4iei2gsre",
+    "en": "Where, and as whom, would you be born?",
+    "fa": "کجا و به‌عنوان چه کسی متولد می‌شوید؟"
+  },
+  {
+    "k": "18vf6lkj4tl",
+    "en": "Where do you think you'd be born?",
+    "fa": "فکر می‌کنید کجا متولد می‌شوید؟"
+  },
+  {
+    "k": "l25si05qoh",
+    "en": "Where would your one and only life begin?",
+    "fa": "تنها زندگی‌تان از کجا آغاز می‌شود؟"
+  },
+  {
+    "k": "2ckp09r8xr2",
+    "en": "A moment I want to remember, at {0}: “{1}”",
+    "fa": "لحظه‌ای که می‌خواهم به یاد بماند، در {0}: «{1}»"
+  },
+  {
+    "k": "9yb92h3h3s",
+    "en": "As a child I dreamed of being {0}, and I became one.",
+    "fa": "کودکی آرزو داشتم {0} شوم و شدم."
+  },
+  {
+    "k": "1om031glxgw",
+    "en": "As a child I dreamed of being {0}, and for a while I was one.",
+    "fa": "کودکی آرزو داشتم {0} شوم و مدتی بودم."
+  },
+  {
+    "k": "6slc56voda",
+    "en": "As a child I dreamed of being {0}. My last job: {1}.",
+    "fa": "کودکی آرزو داشتم {0} شوم. آخرین شغلم: {1}."
+  },
+  {
+    "k": "hxr37354ik",
+    "en": "I lived in {0}.",
+    "fa": "در {0} زندگی کردم."
+  },
+  {
+    "k": "8jw0q1jrus",
+    "en": "I had a gift for learning from a young age.",
+    "fa": "از کوچکی استعداد یادگیری داشتم."
+  },
+  {
+    "k": "18gwtjhs4wg",
+    "en": "I had a gift for sport and movement from a young age.",
+    "fa": "از کوچکی استعداد ورزش و حرکت داشتم."
+  },
+  {
+    "k": "po9ewwvim7",
+    "en": "I had a gift for drawing from a young age.",
+    "fa": "از کوچکی استعداد نقاشی داشتم."
+  },
+  {
+    "k": "jgzcej3v53",
+    "en": "I had a gift for music from a young age.",
+    "fa": "از کوچکی استعداد موسیقی داشتم."
+  },
+  {
+    "k": "2dy4bjnrsc9",
+    "en": "I was good with my hands from a young age.",
+    "fa": "از کوچکی با دست‌هایم خوب کار می‌کردم."
+  },
+  {
+    "k": "jyi6mjpkzp",
+    "en": "I had a way with people from a young age.",
+    "fa": "از کوچکی با مردم خوب کنار می‌آمدم."
+  },
+  {
+    "k": "1pgoc8svf4c",
+    "en": "I never gave up {0}.",
+    "fa": "هرگز {0} را رها نکردم."
+  },
+  {
+    "k": "np0h1lbarj",
+    "en": "I spent {0} years with my wife.",
+    "fa": "{0} سال با همسرم گذراندم."
+  },
+  {
+    "k": "160nour5tmp",
+    "en": "I spent {0} years with my husband.",
+    "fa": "{0} سال با شوهرم گذراندم."
+  },
+  {
+    "k": "xuhwwm3fi0",
+    "en": "I spent {0} years with the one I loved.",
+    "fa": "{0} سال با کسی که دوستش داشتم گذراندم."
+  },
+  {
+    "k": "1h5t9uk38mf",
+    "en": "After {0} years together, I lost my wife.",
+    "fa": "پس از {0} سال با هم، همسرم را از دست دادم."
+  },
+  {
+    "k": "v23xovpdfh",
+    "en": "After {0} years together, I lost my husband.",
+    "fa": "پس از {0} سال با هم، شوهرم را از دست دادم."
+  },
+  {
+    "k": "bus5tzjdgh",
+    "en": "After {0} years together, I lost the one I loved.",
+    "fa": "پس از {0} سال با هم، کسی را که دوستش داشتم از دست دادم."
+  },
+  {
+    "k": "1oaj9zsuxds",
+    "en": "I lived to see {0} grandchildren and a great-grandchild.",
+    "fa": "تا {0} نوه و یک نتیجه زنده ماندم."
+  },
+  {
+    "k": "1kqq00lv8z2",
+    "en": "I lived to see {0} grandchildren and {1} great-grandchildren.",
+    "fa": "تا {0} نوه و {1} نتیجه زنده ماندم."
+  },
+  {
+    "k": "185fkr8f5rr",
+    "en": "I lived to see {0} grandchildren.",
+    "fa": "تا {0} نوه زنده ماندم."
+  },
+  {
+    "k": "178y1vaxmxo",
+    "en": "I raised {0} children.",
+    "fa": "{0} فرزند بزرگ کردم."
+  },
+  {
+    "k": "2b8v955iz4r",
+    "en": "My happiest year was at {0}: {1}.",
+    "fa": "شادترین سالم {0} بود: {1}."
+  },
+  {
+    "k": "2az3n5asbcr",
+    "en": "At my funeral, my {0} remembered me as “{1}.”",
+    "fa": "در مراسمم، {0} مرا «{1}» به یاد آورد."
+  },
+  {
+    "k": "9ns75cmr0j",
+    "en": "My last words were {0}",
+    "fa": "آخرین کلماتم {0} بود"
+  },
+  {
+    "k": "1z6wg5elhyx",
+    "en": "{0} of the children born the same year live longer than I did.",
+    "fa": "{0} از کودکان متولد همان سال بیشتر از من زندگی کردند."
+  },
+  {
+    "k": "12kdgc2kssq",
+    "en": "The {0} others born in the same second lived to {1}.",
+    "fa": "{0} نفر دیگر متولد همان ثانیه تا {1} زندگی کردند."
+  },
+  {
+    "k": "18mdbq51805",
+    "en": "I was born into {1} in {0}.",
+    "fa": "در {0} در {1} به دنیا آمدم."
+  },
+  {
+    "k": "1811weaj8jz",
+    "en": "I was born a {2} into {1} in {0}.",
+    "fa": "در {0} یک {2} در {1} به دنیا آمدم."
+  },
+  {
+    "k": "1sl3udxjkmx",
+    "en": "I was adopted by a family in {0}.",
+    "fa": "توسط خانواده‌ای در {0} به فرزندخواندگی پذیرفته شدم."
+  },
+  {
+    "k": "3pkq51853b",
+    "en": "I moved to {0}.",
+    "fa": "به {0} نقل‌مکان کردم."
+  },
+  {
+    "k": "1gv6r41vga1",
+    "en": "I died before my first birthday.",
+    "fa": "قبل از اولین سالگرد تولدم درگذشتم."
+  },
+  {
+    "k": "2fjfa3oiyhx",
+    "en": "I died of {0} before my first birthday.",
+    "fa": "قبل از اولین سالگرد تولدم بر اثر {0} درگذشتم."
+  },
+  {
+    "k": "1sedo0tj4dm",
+    "en": "I retired, and died at {0}.",
+    "fa": "بازنشسته شدم و در {0} درگذشتم."
+  },
+  {
+    "k": "11hk930i5vl",
+    "en": "I retired, and died of {1} at {0}.",
+    "fa": "بازنشسته شدم و در {0} بر اثر {1} درگذشتم."
+  },
+  {
+    "k": "28dzvmstcj7",
+    "en": "I worked as {0} and died at {1}.",
+    "fa": "به‌عنوان {0} کار کردم و در {1} درگذشتم."
+  },
+  {
+    "k": "1zmpox1e292",
+    "en": "I worked as {0} and died of {2} at {1}.",
+    "fa": "به‌عنوان {0} کار کردم و در {1} بر اثر {2} درگذشتم."
+  },
+  {
+    "k": "1ghhzb2hdbe",
+    "en": "I died at {0}.",
+    "fa": "در {0} درگذشتم."
+  },
+  {
+    "k": "1013dhukr95",
+    "en": "I died of {1} at {0}.",
+    "fa": "در {0} بر اثر {1} درگذشتم."
+  },
+  {
+    "k": "1q8p1bfxvio",
+    "en": "I put this life in a memorial. Come and look around its room and photo album.",
+    "fa": "این زندگی را در یادبود گذاشتم. بیایید اتاق و آلبومش را ببینید."
+  },
+  {
+    "k": "vzou9koz0f",
+    "en": "e.g. I want to remember this person's story for a long time",
+    "fa": "مثلاً می‌خواهم داستان این شخص را مدت‌ها به یاد بماند"
+  },
+  {
+    "k": "28b77hf0end",
+    "en": "e.g. Such a short life. It hurts",
+    "fa": "مثلاً: زندگی‌ای این‌قدر کوتاه. دردناک است"
+  },
+  {
+    "k": "25uc0hwi0t8",
+    "en": "e.g. Gone far too soon. It hurts",
+    "fa": "مثلاً: خیلی زود رفت. دردناک است"
+  },
+  {
+    "k": "283m9muybhg",
+    "en": "e.g. So glad someone stayed by my side for {0} years",
+    "fa": "مثلاً: خوشحالم کسی {0} سال کنارم ماند"
+  },
+  {
+    "k": "1h2rdzot5oc",
+    "en": "e.g. Glad I got to see all my grandchildren's faces",
+    "fa": "مثلاً: خوشحالم چهرهٔ همهٔ نوه‌ها را دیدم"
+  },
+  {
+    "k": "1yzmzazc9mf",
+    "en": "e.g. Seeing a childhood dream come true got to me",
+    "fa": "مثلاً: تحقق آرزوی کودکی اثر گذاشت"
+  },
+  {
+    "k": "2c11hsq2sgb",
+    "en": "e.g. Not the dream, but a life lived hard",
+    "fa": "مثلاً: آرزو نشد، اما سخت زیست"
+  },
+  {
+    "k": "1sfinan0ve",
+    "en": "e.g. A life that held on in a strange country to the end",
+    "fa": "مثلاً: زندگی‌ای که در کشور غریب تا آخر پایداری کرد"
+  },
+  {
+    "k": "7o9gee01mo",
+    "en": "e.g. {0} years. What a long journey",
+    "fa": "مثلاً: {0} سال. چه سفر درازی"
+  },
+  {
+    "k": "18qomeqg3oj",
+    "en": "e.g. It feels like all I did was work",
+    "fa": "مثلاً: انگار فقط کار کردم"
+  },
+  {
+    "k": "1gqg5303i9l",
+    "en": "e.g. Glad this life stayed close to family",
+    "fa": "مثلاً: خوشحالم این زندگی به خانواده نزدیک ماند"
+  },
+  {
+    "k": "h98iojl6mo",
+    "en": "e.g. Started in one of the poorest families and came this far",
+    "fa": "مثلاً: از فقیرترین خانواده شروع شد و تا اینجا آمد"
+  },
+  {
+    "k": "2ako2p3npb1",
+    "en": "e.g. Who knew ordinary days could mean so much",
+    "fa": "مثلاً: کی فکر می‌کرد روزهای عادی این‌قدر معنا دارند"
+  },
+  {
+    "k": "2878de5qhkr",
+    "en": "e.g. Amazing how much depends on where you're born",
+    "fa": "مثلاً: شگفت‌انگیز است چقدر به محل تولد بستگی دارد"
+  },
+  {
+    "k": "1som90dvh6s",
+    "en": "e.g. Next time I'll call the people I love more often",
+    "fa": "مثلاً: دفعهٔ بعد بیشتر به کسانی که دوستشان دارم زنگ می‌زنم"
+  },
+  {
+    "k": "285wl3h4gz1",
+    "en": "One line on living this life (optional)",
+    "fa": "یک خط دربارهٔ زیستن این زندگی (اختیاری)"
+  },
+  {
+    "k": "7vmzuub5x2",
+    "en": "If you write one, it opens your post.",
+    "fa": "اگر بنویسید، نوشتهٔ شما باز می‌شود."
+  },
+  {
+    "k": "1cmyrcp5mmr",
+    "en": "Someone's life this time had the grain '{0}'.",
+    "fa": "زندگی این بار رگهٔ «{0}» داشت."
+  },
+  {
+    "k": "s91lfhydts",
+    "en": "Someone's life this time had a grain no single name can hold.",
+    "fa": "زندگی این بار رگه‌ای داشت که یک نام جمع نمی‌کند."
+  },
+  {
+    "k": "8r7teecj0k",
+    "en": "What grain of life will you be born into?",
+    "fa": "با چه رگه‌ای از زندگی متولد می‌شوید؟"
+  },
+  {
+    "k": "1b850e25l3e",
+    "en": "No one chooses a grain.",
+    "fa": "کسی رگه انتخاب نمی‌کند."
+  },
+  {
+    "k": "1j8914pxism",
+    "en": "Someone passed you 'The life I wish for' they found through the lives they lived: {0}.",
+    "fa": "کسی «زندگی‌ای که آرزو دارم» را که در زندگی‌هایش یافت به شما داد: {0}."
+  },
+  {
+    "k": "j79dcm41iw",
+    "en": "a city in {0}",
+    "fa": "شهری در {0}"
+  },
+  {
+    "k": "2c47ty3mj9u",
+    "en": "Someone shared a life with you: a {1} born in {0}, {2}. Where will you be born, and who will you be?",
+    "fa": "کسی زندگی‌ای با شما به اشتراک گذاشت: {1} متولد {0}، {2}. کجا متولد می‌شوید و چه کسی می‌شوید؟"
+  },
+  {
+    "k": "82myigtd45",
+    "en": "who didn't live to see a first birthday",
+    "fa": "که به اولین سالگرد تولد نرسید"
+  },
+  {
+    "k": "2fljm6qa6z6",
+    "en": "who lived to {0}",
+    "fa": "که تا {0} زندگی کرد"
+  },
+  {
+    "k": "1tfh6v8fsrd",
+    "en": "Someone was born a {2} in {1} in {0}. That was 1 in every {3} babies born that year. Where will you be born?",
+    "fa": "کسی در {0} یک {2} در {1} متولد شد. از هر {3} نوزاد آن سال یکی. کجا متولد می‌شوید؟"
+  }
+]

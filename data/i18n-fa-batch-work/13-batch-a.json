@@ -1,0 +1,266 @@
+[
+  {
+    "k": "243powg2crq",
+    "en": "<div class=\"flow\" style=\"grid-column:1/-1\"><small>Net worth, past year: {0}{1}</small><ul>{2}</ul></div>"
+  },
+  {
+    "k": "1n34etvtfs6",
+    "en": "Belongings"
+  },
+  {
+    "k": "tg0y9l3ifz",
+    "en": "Getting around"
+  },
+  {
+    "k": "1mcq20zrfkp",
+    "en": "{0} a day commuting"
+  },
+  {
+    "k": "1ff5rmg6ami",
+    "en": "<div style=\"grid-column:1/-1\"><button class=\"ghost shopbtn\" id=\"shopBtn\">Spend & invest{0}</button></div>"
+  },
+  {
+    "k": "1gn25fxk14i",
+    "en": "How are the amounts worked out?"
+  },
+  {
+    "k": "278yq3d391y",
+    "en": "Money in this life is what it buys where you live, written at US prices."
+  },
+  {
+    "k": "3ncdmbga3h",
+    "en": "The small dollar figures (PPP) are purchasing-power dollars: one of them is about {0} here."
+  },
+  {
+    "k": "8jvyca8tty",
+    "en": "They differ from the market exchange rate at a bank because the same money buys different amounts in different countries."
+  },
+  {
+    "k": "hpaw94fkkn",
+    "en": "<span>Net worth <b>{0}</b>{1}</span><span>{2}</span>{3}<span class=\"fm-bt\">{4}<button class=\"ghost sm fm-more\" id=\"fmMore\">Details</button></span>"
+  },
+  {
+    "k": "gce86d43we",
+    "en": " <small>(past year {0}{1})</small>"
+  },
+  {
+    "k": "1w0cu33doic",
+    "en": "Income <b>{0} a month</b>"
+  },
+  {
+    "k": "220f5m6ucrq",
+    "en": "Debt left <b>{0}</b>"
+  },
+  {
+    "k": "n56w6hcn7h",
+    "en": "<button class=\"ghost sm fm-more\" id=\"fmShop\">Spend</button>"
+  },
+  {
+    "k": "1wczndjmmg0",
+    "en": "Taxes and social insurance"
+  },
+  {
+    "k": "cl6n2nzpqm",
+    "en": "Transport"
+  },
+  {
+    "k": "1wmzt00mnhw",
+    "en": "Health care"
+  },
+  {
+    "k": "738062rp1f",
+    "en": "Kids & school"
+  },
+  {
+    "k": "iuy5fkju3p",
+    "en": "Clothes, leisure, phone etc."
+  },
+  {
+    "k": "1vvxbujfite",
+    "en": "Savings"
+  },
+  {
+    "k": "107xk098sy3",
+    "en": "Food"
+  },
+  {
+    "k": "l577irfh5y",
+    "en": "Housing"
+  },
+  {
+    "k": "1jqwqmosdwy",
+    "en": "Where a year's income goes (estimate)"
+  },
+  {
+    "k": "1gwa45ar4co",
+    "en": "Built up wealth in the {1} of {0}, but stayed distant from {2}."
+  },
+  {
+    "k": "1u3xsl6ylju",
+    "en": "Built up a comfortable fortune, but stayed distant from {0}."
+  },
+  {
+    "k": "3xkdydzcwq",
+    "en": "Built up wealth in the {1} of {0}, but stayed distant from the children."
+  },
+  {
+    "k": "10b77axhfnb",
+    "en": "Built up a comfortable fortune, but stayed distant from the children."
+  },
+  {
+    "k": "2eirl8poc9g",
+    "en": "Built up wealth in the {1} of {0}, but after losing {2}, spent the last year alone."
+  },
+  {
+    "k": "2aavat089ro",
+    "en": "Built up a comfortable fortune, but after losing {0}, spent the last year alone."
+  },
+  {
+    "k": "1of2z1tas3a",
+    "en": "Built up wealth in the {1} of {0}, but lived with no one in the last year."
+  },
+  {
+    "k": "1mr1ocv0dr5",
+    "en": "Built up a comfortable fortune, but lived with no one in the last year."
+  },
+  {
+    "k": "27r9b0iiilr",
+    "en": "Built up a comfortable fortune, but spent the last year alone."
+  },
+  {
+    "k": "1uv7p8c4f97",
+    "en": "Built up wealth in the {1} of {0}, but parted from {2}."
+  },
+  {
+    "k": "qawbcqfjmw",
+    "en": "Built up a comfortable fortune, but parted from {0}."
+  },
+  {
+    "k": "yiaxks8suy",
+    "en": "Built up wealth in the {1} of {0}, but parted from their partner."
+  },
+  {
+    "k": "2bky3l74875",
+    "en": "Built up a comfortable fortune, but parted from their partner."
+  },
+  {
+    "k": "1zx4whehmsj",
+    "en": "Built up wealth in the {1} of {0}, but health clearly declined from about age {2}."
+  },
+  {
+    "k": "1x18py94dpl",
+    "en": "Built up a comfortable fortune, but health clearly declined from about age {0}."
+  },
+  {
+    "k": "1m81kleqqwz",
+    "en": "Spent {0} years absorbed in work, and health clearly declined from about age {1}."
+  },
+  {
+    "k": "1yquuqu26o2",
+    "en": "Spent {0} years absorbed in work, and stayed distant from {1}."
+  },
+  {
+    "k": "17mk4je62m1",
+    "en": "Spent {0} years absorbed in work, and stayed distant from the children."
+  },
+  {
+    "k": "2ag33mi99ac",
+    "en": "Spent {0} years absorbed in work, and parted from {1}."
+  },
+  {
+    "k": "96xedmn7dd",
+    "en": "Spent {0} years absorbed in work, and parted from their partner."
+  },
+  {
+    "k": "725ycpw11l",
+    "en": "Never had much money, but stayed close to both children, {0} and {1}, to the end."
+  },
+  {
+    "k": "2c252dsw5pl",
+    "en": "Never had much money, but stayed close to all {0} children to the end."
+  },
+  {
+    "k": "63h72zfece",
+    "en": "Never had much money, but {0} was there to the end."
+  },
+  {
+    "k": "1seqvjwqs10",
+    "en": "Never had much money, but shared a home with {0} to the end."
+  },
+  {
+    "k": "1j0q8glxq80",
+    "en": "Never had much money, but stayed close to {0} to the end."
+  },
+  {
+    "k": "uoagiwmza5",
+    "en": "Never had much money, but stayed close to the children to the end."
+  },
+  {
+    "k": "fz6ulrtgt2",
+    "en": "Never had much money, but family stayed close to the end."
+  },
+  {
+    "k": "1jlucx7maad",
+    "en": "Spent {0} years looking after family and friends, and stayed close to all {1} children to the end."
+  },
+  {
+    "k": "1bnluop9ptc",
+    "en": "Spent {0} years looking after family and friends, and stayed close to {1} to the end."
+  },
+  {
+    "k": "1u2r0pfnyk6",
+    "en": "Spent {0} years looking after family and friends, and stayed close to the children to the end."
+  },
+  {
+    "k": "1xdxgsgardj",
+    "en": "Spent {0} years looking after family and friends, and into the last few years there were many people close by."
+  },
+  {
+    "k": "22dxirecxoc",
+    "en": "Gave {0} years to family and friends, and stayed close to {1} to the end."
+  },
+  {
+    "k": "1vcqstzr11j",
+    "en": "Gave {0} years to family and friends, and stayed close to both children, {1} and {2}, to the end."
+  },
+  {
+    "k": "smyaokb04d",
+    "en": "Gave {0} years to family and friends, and stayed close to all {1} children to the end."
+  },
+  {
+    "k": "1fm2it02s9h",
+    "en": "Gave {0} years to family and friends, and stayed close to the children to the end."
+  },
+  {
+    "k": "5h6qsx61mp",
+    "en": "Gave {0} years to looking after health, and lived {1} years beyond the life expectancy of those born the same year."
+  },
+  {
+    "k": "2fh6swxde8m",
+    "en": "Around forty there were people all around; after losing {0}, the last few years held fewer people to see."
+  },
+  {
+    "k": "2bqugd5szuj",
+    "en": "Around forty there were people all around; in the last few years there were fewer to see."
+  },
+  {
+    "k": "1zm47rqvc43",
+    "en": "Around forty there were many people close by; in the last few years there were not many to see."
+  },
+  {
+    "k": "13n7sgw7ond",
+    "en": "After putting work down, grew closer to people."
+  },
+  {
+    "k": "20sc353ko3c",
+    "en": "After stepping back from work, there were more days spent with people."
+  },
+  {
+    "k": "1ug7wu5nkoy",
+    "en": "Grew closer to people with the years."
+  },
+  {
+    "k": "1kgqlyo5t80",
+    "en": "Year by year there were more people to be close to."
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1u9z6bi0jlz",
+    "en": "May cause conflict with your family",
+    "fa": "ممکن است با خانواده‌تان درگیر شود"
+  },
+  {
+    "k": "vqgdr1mfo6",
+    "en": "In the end {0} could not go against the family. You parted.",
+    "fa": "سرانجام {0} نتوانست بر خانواده پافشاری کند. راه جدا شدید."
+  },
+  {
+    "k": "tay3huad8i",
+    "en": "{0}'s family politely declined.",
+    "fa": "خانوادهٔ {0} مودبانه رد کرد."
+  },
+  {
+    "k": "24visidkpvi",
+    "en": "{0} got in touch to say they would rather not meet again.",
+    "fa": "{0} پیام داد که ترجیح می‌دهد دوباره ملاقات نکنید."
+  },
+  {
+    "k": "1pgoxmq2ypp",
+    "en": "In time, the family that had objected slowly came round.",
+    "fa": "به‌مرور، خانواده‌ای که مخالف بود کم‌کم نرم شد."
+  },
+  {
+    "k": "1zy1l0892hh",
+    "en": "You agreed to meet {0} a few more times.",
+    "fa": "موافقت کردید چند بار دیگر {0} را ببینید."
+  },
+  {
+    "k": "s45514rlm7",
+    "en": "You started dating {0}.",
+    "fa": "شروع به قرار گذاشتن با {0} کردید."
+  },
+  {
+    "k": "dvlcydueib",
+    "en": "Apply for permanent residence?",
+    "fa": "درخواست اقامت دائم؟"
+  },
+  {
+    "k": "xe8i5ypqmd",
+    "en": "You have lived in {0} for {1} years. With permanent residence you no longer renew visas, and changing jobs gets easier. It takes paperwork, fees and a few months of review.",
+    "fa": "{1} سال است در {0} زندگی می‌کنید. با اقامت دائم دیگر ویزا تمدید نمی‌کنید و عوض کردن کار آسان‌تر می‌شود. کاغذبازی، هزینه و چند ماه بررسی لازم است."
+  },
+  {
+    "k": "15gsjuh64wp",
+    "en": "With a spouse who is a citizen of {0}, the wait was shorter.",
+    "fa": "با همسری که شهروند {0} است، انتظار کوتاه‌تر بود."
+  },
+  {
+    "k": "2dov23j3eij",
+    "en": "The US grants permanent residence (a green card) to about a million people a year (US Department of Homeland Security 2022)",
+    "fa": "آمریکا سالانه حدود یک میلیون نفر اقامت دائم (گرین‌کارت) می‌دهد (US Department of Homeland Security 2022)"
+  },
+  {
+    "k": "1astt7ifg1n",
+    "en": "Canada admitted about 480,000 permanent residents in 2024 (Immigration, Refugees and Citizenship Canada)",
+    "fa": "کانادا در ۲۰۲۴ حدود ۴۸۰٬۰۰۰ مقیم دائم پذیرفت (Immigration, Refugees and Citizenship Canada)"
+  },
+  {
+    "k": "z3nl50eegp",
+    "en": "In OECD countries, about two in three immigrants who have lived there for over 10 years hold its citizenship (OECD 2023)",
+    "fa": "در کشورهای OECD، حدود دو سوم مهاجرانی که بیش از ۱۰ سال آنجا زندگی کرده‌اند شهروند آن کشورند (OECD 2023)"
+  },
+  {
+    "k": "281qz41j1ww",
+    "en": "Apply for permanent residence",
+    "fa": "درخواست اقامت دائم"
+  },
+  {
+    "k": "pik9lttl2d",
+    "en": "About {0} · decided by your work and record",
+    "fa": "حدود {0} · بر اساس کار و سوابق شما"
+  },
+  {
+    "k": "zts8xj5q83",
+    "en": "Your permanent residence came through! You can now live in {0} without worrying about visas.",
+    "fa": "اقامت دائم شما تأیید شد! اکنون می‌توانید در {0} بدون نگرانی از ویزا زندگی کنید."
+  },
+  {
+    "k": "27vizyh1cha",
+    "en": "Your application for permanent residence was refused. You can apply again in a few years.",
+    "fa": "درخواست اقامت دائم شما رد شد. چند سال دیگر می‌توانید دوباره درخواست دهید."
+  },
+  {
+    "k": "vqx29zmjee",
+    "en": "Test and oath · about {0}",
+    "fa": "آزمون و سوگند · حدود {0}"
+  },
+  {
+    "k": "xg3n28ttzc",
+    "en": "Give up {0} citizenship · about {1}",
+    "fa": "تخلیه شهروندی {0} · حدود {1}"
+  },
+  {
+    "k": "1bb6v6qq0cl",
+    "en": "Become a citizen of {0}?",
+    "fa": "شهروند {0} شوید؟"
+  },
+  {
+    "k": "ejx0s4qeqv",
+    "en": "You have lived in {0} for {1} years. After a citizenship test and an oath you could vote and run for office, with a new passport.",
+    "fa": "{1} سال است در {0} زندگی می‌کنید. پس از آزمون شهروندی و سوگند می‌توانید رأی دهید و برای مقام نامزد شوید، با گذرنامهٔ جدید."
+  },
+  {
+    "k": "or2578cll6",
+    "en": "But {0} does not allow dual citizenship, so you would have to give up your citizenship of {1}.",
+    "fa": "اما {0} شهروندی دوگانه را نمی‌پذیرد، پس باید شهروندی {1} را از دست بدهید."
+  },
+  {
+    "k": "12ks2ecxkbo",
+    "en": "In Japan a married couple shares one family name, so naturalising means taking the spouse's name ({0}).",
+    "fa": "در ژاپن زوج متأهل یک نام خانوادگی مشترک دارند، پس تابعیت یعنی گرفتن نام همسر ({0})."
+  },
+  {
+    "k": "1g5jwdqjlxo",
+    "en": "Naturalise, writing your name as it sounds",
+    "fa": "تابعیت بگیرید و نام را همان‌طور که تلفظ می‌شود بنویسید"
+  },
+  {
+    "k": "18mqcj9pck2",
+    "en": "Naturalise and take a new name of {0}",
+    "fa": "تابعیت بگیرید و نام جدید {0} بگیرید"
+  },
+  {
+    "k": "wh2h26gd6t",
+    "en": "Keep your citizenship",
+    "fa": "شهروندی‌تان را نگه دارید"
+  },
+  {
+    "k": "16xbc5erz21",
+    "en": "Apply for citizenship",
+    "fa": "درخواست شهروندی"
+  },
+  {
+    "k": "2cu9jvkauqz",
+    "en": "You failed the citizenship test. You can prepare and try again.",
+    "fa": "در آزمون شهروندی مردود شدید. می‌توانید آماده شوید و دوباره امتحان دهید."
+  },
+  {
+    "k": "1445ukhyq86",
+    "en": "Entered the spouse's family register under the spouse's family name. The new name is \"{0}\".",
+    "fa": "در سجل خانوادگی همسر با نام خانوادگی او ثبت شدید. نام جدید «{0}» است."
+  },
+  {
+    "k": "18qqdpe7juw",
+    "en": "You registered a new name too: {0}.",
+    "fa": "نام جدیدی هم ثبت کردید: {0}."
+  },
+  {
+    "k": "1n8et7i8alp",
+    "en": "You took the citizenship oath and became a citizen of {0}.",
+    "fa": "سوگند شهروندی خوردید و شهروند {0} شدید."
+  },
+  {
+    "k": "z10o1du6fm",
+    "en": "You handed back your {0} passports.",
+    "fa": "گذرنامه‌های {0} را پس دادید."
+  },
+  {
+    "k": "hyetlctlo2",
+    "en": "You handed back your {0} passport.",
+    "fa": "گذرنامهٔ {0} را پس دادید."
+  },
+  {
+    "k": "1strznjuar8",
+    "en": "Talk of living together",
+    "fa": "سخن از زندگی مشترک"
+  },
+  {
+    "k": "14obhgmtz2w",
+    "en": "You and {0} have been together for {1} years. {2} brings up moving in together.",
+    "fa": "شما و {0} {1} سال است با هم هستید. {2} پیشنهاد می‌کند با هم زندگی کنید."
+  },
+  {
+    "k": "rec9um2jxz",
+    "en": "Keep dating for now",
+    "fa": "فعلاً همان قرارها را ادامه دهید"
+  },
+  {
+    "k": "2et5gr7gfdl",
+    "en": "No rush",
+    "fa": "عجله‌ای نیست"
+  },
+  {
+    "k": "1w3ps3oecrc",
+    "en": "Break up",
+    "fa": "جدایی"
+  },
+  {
+    "k": "x1xef0xtuv",
+    "en": "At this age, marrying also means talking over the grown children, what each of you owns, and your pensions.",
+    "fa": "در این سن، ازدواج یعنی گفت‌وگو دربارهٔ فرزندان بالغ، دارایی هر کدام و مستمری‌ها."
+  },
+  {
+    "k": "2fjmhsxl4nd",
+    "en": "At this age, marrying also means talking over what each of you owns and your pensions.",
+    "fa": "در این سن، ازدواج یعنی گفت‌وگو دربارهٔ دارایی هر کدام و مستمری‌ها."
+  },
+  {
+    "k": "1ta03zek6g",
+    "en": "Talk of marriage",
+    "fa": "سخن از ازدواج"
+  },
+  {
+    "k": "4xcf42reu4",
+    "en": "You and {0} have been together for {1} years. {2} brings up marriage.",
+    "fa": "شما و {0} {1} سال است با هم هستید. {2} ازدواج را مطرح می‌کند."
+  },
+  {
+    "k": "5zvq0vbs13",
+    "en": "In the US about 4 million people aged 50 and over lived with a partner without marrying in 2016, 75% more than in 2007 (Pew Research Center 2017)",
+    "fa": "در آمریکا حدود ۴ میلیون نفر ۵۰ سال به بالا در ۲۰۱۶ بدون ازدواج با شریک زندگی می‌کردند، ۷۵٪ بیشتر از ۲۰۰۷ (Pew Research Center 2017)"
+  },
+  {
+    "k": "25lexzn4fr9",
+    "en": "In the US, just over half of engaged couples (53%) dated two to five years before getting engaged (The Knot 2024)",
+    "fa": "در آمریکا کمی بیش از نیمی از زوج‌های نامزد (۵۳٪) دو تا پنج سال قبل از نامزدی قرار گذاشتند (The Knot 2024)"
+  },
+  {
+    "k": "yzsk24136k",
+    "en": "Marry",
+    "fa": "ازدواج"
+  },
+  {
+    "k": "1put9k9udm9",
+    "en": "Put off the wedding and live together",
+    "fa": "عروسی را به تأخیر بیندازید و با هم زندگی کنید"
+  },
+  {
+    "k": "sceyoct9x",
+    "en": "You turned down the match with {0}.",
+    "fa": "پیوند با {0} را رد کردید."
+  },
+  {
+    "k": "hzqsue6igw",
+    "en": "You asked for more time, but {0}'s side called off the match.",
+    "fa": "وقت بیشتر خواستید، اما طرف {0} پیوند را لغو کرد."
+  },
+  {
+    "k": "221s1dngpo5",
+    "en": "You asked to wait a little longer, but {0} ended it.",
+    "fa": "خواستید کمی بیشتر صبر کنید، اما {0} پایان داد."
+  },
+  {
+    "k": "1jvj904wxg9",
+    "en": "You decided to get to know each other a little more.",
+    "fa": "تصمیم گرفتید کمی بیشتر یکدیگر را بشناسید."
+  },
+  {
+    "k": "1zfh4fv2m0s",
+    "en": "You decided to keep dating for now.",
+    "fa": "تصمیم گرفتید فعلاً همان قرارها را ادامه دهید."
+  },
+  {
+    "k": "3x4whlmxfk",
+    "en": "Time to marry?",
+    "fa": "وقت ازدواج است؟"
+  },
+  {
+    "k": "w89qeigic5",
+    "en": "You and {0} have lived together for {1} years. Talk turns to making it official with a small wedding.",
+    "fa": "شما و {0} {1} سال است با هم زندگی می‌کنید. سخن از رسمی کردن با عروسی کوچک در میان است."
+  },
+  {
+    "k": "1g8n62e0e7c",
+    "en": "In the United States about 70% of first marriages are of couples who lived together first (CDC National Survey of Family Growth)",
+    "fa": "در آمریکا حدود ۷۰٪ ازدواج‌های اول زوج‌هایی هستند که پیش‌تر با هم زندگی کرده‌اند (CDC National Survey of Family Growth)"
+  },
+  {
+    "k": "1s1d6367a4h",
+    "en": "In the European Union more than 40% of babies are born to parents who are not married (Eurostat 2022)",
+    "fa": "در اتحادیهٔ اروپا بیش از ۴۰٪ نوزادان از والدینی متولد می‌شوند که ازدواج نکرده‌اند (Eurostat 2022)"
+  },
+  {
+    "k": "2f2t2c1yz2i",
+    "en": "Register it · a small wedding",
+    "fa": "ثبت رسمی · عروسی کوچک"
+  },
+  {
+    "k": "1p5mmi413f7",
+    "en": "Keep living together as you are",
+    "fa": "همان‌طور که هستید با هم زندگی کنید"
+  },
+  {
+    "k": "2exkhh0rgxt",
+    "en": "You decided to keep living together as you are.",
+    "fa": "تصمیم گرفتید همان‌طور که هستید با هم زندگی کنید."
+  },
+  {
+    "k": "1of1cz7da3p",
+    "en": "You and {0} made it official, marrying in front of the people closest to you.",
+    "fa": "شما و {0} رسمی شدید و در برابر نزدیک‌ترین افراد ازدواج کردید."
+  },
+  {
+    "k": "2dapryxlhic",
+    "en": "You are pregnant",
+    "fa": "باردار هستید"
+  },
+  {
+    "k": "p79kgfvgip",
+    "en": "{0} is pregnant",
+    "fa": "{0} باردار است"
+  },
+  {
+    "k": "19400jbh36h",
+    "en": "{1} years with {0}, and a baby is on the way that neither of you planned. The two of you talk about what to do.",
+    "fa": "{1} سال با {0}، و نوزادی در راه است که هیچ‌کدام برنامه‌ریزی نکرده بودید. دربارهٔ کار بعدی گفت‌وگو می‌کنید."
+  },
+  {
+    "k": "v3lo2fky5t",
+    "en": "In Korea, 4.7% of babies born in 2023 were born to parents who were not married (Statistics Korea)",
+    "fa": "در کره، ۴.۷٪ نوزادان متولد ۲۰۲۳ از والدینی متولد شدند که ازدواج نکرده بودند (Statistics Korea)"
+  },
+  {
+    "k": "artounxqbe",
+    "en": "Across OECD countries about 40% of babies are born to parents who are not married (OECD Family Database)",
+    "fa": "در کشورهای OECD حدود ۴۰٪ نوزادان از والدینی متولد می‌شوند که ازدواج نکرده‌اند (OECD Family Database)"
+  },
+  {
+    "k": "1qgu8vp9pzu",
+    "en": "Relations↑",
+    "fa": "روابط↑"
+  },
+  {
+    "k": "1ciinr91hha",
+    "en": "Raise the child together without marrying",
+    "fa": "بدون ازدواج، با هم فرزند را بزرگ کنید"
+  },
+  {
+    "k": "1ho32w82cba",
+    "en": "Your marriage to your former spouse still stands in law",
+    "fa": "ازدواج شما با همسر سابق هنوز در قانون برقرار است"
+  },
+  {
+    "k": "jie3xseyhi",
+    "en": "Without marrying",
+    "fa": "بدون ازدواج"
+  },
+  {
+    "k": "1qw8qzqw6hj",
+    "en": "Split up and raise the child alone",
+    "fa": "جدایی و تربیت فرزند به تنهایی"
+  },
+  {
+    "k": "1amdtz4d2j4",
+    "en": "Split up, but pay child support",
+    "fa": "جدایی، اما پرداخت نفقهٔ فرزند"
+  },
+  {
+    "k": "22ixb0qgrrz",
+    "en": "Child support may or may not come",
+    "fa": "نفقهٔ فرزند ممکن است بیاید یا نیاید"
+  },
+  {
+    "k": "awcjpav8c3",
+    "en": "The child lives with the mother",
+    "fa": "فرزند با مادر زندگی می‌کند"
+  },
+  {
+    "k": "235meqqxru8",
+    "en": "A baby is on the way.",
+    "fa": "نوزادی در راه است."
+  },
+  {
+    "k": "n0rmif54v6",
+    "en": "You and {0} split up, and you decided to raise the child alone.",
+    "fa": "شما و {0} جدا شدید و تصمیم گرفتید فرزند را تنها بزرگ کنید."
+  },
+  {
+    "k": "2b5qihstgqx",
+    "en": "You and {0} split up. The child will live with the mother, and you will pay child support.",
+    "fa": "شما و {0} جدا شدید. فرزند با مادر می‌ماند و شما نفقه می‌پردازید."
+  },
+  {
+    "k": "60smy7ioj3",
+    "en": "Your husband wants to take a second wife",
+    "fa": "شوهرتان می‌خواهد همسر دوم بگیرد"
+  },
+  {
+    "k": "1vny08fpww9",
+    "en": "Your husband {0}, who lives apart from you, says he will take {2}, {1}, as his second wife. She will live with him in his home.",
+    "fa": "شوهرتان {0} که از شما دور زندگی می‌کند می‌گوید {2}، {1} را همسر دوم خود خواهد کرد. او با او در خانهٔ خود زندگی خواهد کرد."
+  },
+  {
+    "k": "2c0pdh74yw7",
+    "en": "Accept it",
+    "fa": "بپذیرید"
+  },
+  {
+    "k": "1qw7famqyoh",
+    "en": "Happiness↓ · his pay keeps two households",
+    "fa": "شادی↓ · درآمدش دو خانه را می‌کشد"
+  },
+  {
+    "k": "21yv2e2hgpv",
+    "en": "Refuse and leave",
+    "fa": "رد کنید و بروید"
+  },
+  {
+    "k": "1u0611dbr2x",
+    "en": "Divorce · you will need your own family's help",
+    "fa": "طلاق · به کمک خانوادهٔ خودتان نیاز دارید"
+  },
+  {
+    "k": "1j1e780n30q",
+    "en": "Your husband {0} says he will take {2}, {1}, as his second wife. The families are already talking.",
+    "fa": "شوهرتان {0} می‌گوید {2}، {1} را همسر دوم خود خواهد گرفت. خانواده‌ها از پیش گفت‌وگو می‌کنند."
+  },
+  {
+    "k": "17mvszgpjt4",
+    "en": "Accept it and share the home",
+    "fa": "بپذیرید و خانه را مشترک کنید"
+  },
+  {
+    "k": "1ayox0x73nw",
+    "en": "Ask for a home of your own",
+    "fa": "خانهٔ جدا برای خود بخواهید"
+  },
+  {
+    "k": "2fnzqcgzp3l",
+    "en": "Separate homes, if he can afford it",
+    "fa": "خانه‌های جدا، اگر بتواند بپردازد"
+  },
+  {
+    "k": "rdwma3vt6e",
+    "en": "You could not accept a second wife.",
+    "fa": "نمی‌توانستید همسر دوم را بپذیرید."
+  },
+  {
+    "k": "ehumu6i5e9",
+    "en": "You tried to leave, but your own family told you to accept it. {0} became his second wife and now lives with him.",
+    "fa": "خواستید بروید، اما خانوادهٔ خودتان گفت بپذیرید. {0} همسر دوم او شد و اکنون با او زندگی می‌کند."
+  },
+  {
+    "k": "1jvuwvt31ba",
+    "en": "{0} became his second wife and now lives with him. You heard the news from far away.",
+    "fa": "{0} همسر دوم او شد و اکنون با او زندگی می‌کند. خبر را از دور شنیدید."
+  },
+  {
+    "k": "11cxh3r283o",
+    "en": "You tried to leave, but your own family told you to go back. {0} moved in, and now you share the home.",
+    "fa": "خواستید بروید، اما خانوادهٔ خودتان گفت برگردید. {0} آمد و اکنون خانه را مشترکید."
+  },
+  {
+    "k": "13nshvg3bhg",
+    "en": "Your husband set up a separate home for {0}. He now goes back and forth between the two.",
+    "fa": "شوهرتان برای {0} خانهٔ جدا گرفت. اکنون بین دو خانه رفت‌وآمد می‌کند."
+  },
+  {
+    "k": "pg0pufhqj9",
+    "en": "There was no money for a second home. {0} moved in, and now you share the home.",
+    "fa": "پول خانهٔ دوم نبود. {0} آمد و اکنون خانه را مشترکید."
+  },
+  {
+    "k": "1n37f3pfmx7",
+    "en": "{0} moved in as his second wife, and now you share the home.",
+    "fa": "{0} به‌عنوان همسر دوم آمد و اکنون خانه را مشترکید."
+  },
+  {
+    "k": "1ofmfq870vd",
+    "en": "Take a second wife?",
+    "fa": "همسر دوم بگیرید؟"
+  },
+  {
+    "k": "1yv203wdhkm",
+    "en": "The family elders propose a match with {1}, {0}. Your wife {2} is not happy about it.",
+    "fa": "بزرگان خانواده پیوندی با {1}، {0} پیشنهاد می‌دهند. همسر شما {2} از این خبر خوشحال نیست."
+  },
+  {
+    "k": "o5xtyp5tft",
+    "en": "Take a second wife",
+    "fa": "همسر دوم بگیرید"
+  },
+  {
+    "k": "jk4zpybuk6",
+    "en": "Wedding about {0} · two households · strain with your wife",
+    "fa": "عروسی حدود {0} · دو خانه · فشار بر همسر فعلی"
+  },
+  {
+    "k": "km4hpyd8s9",
+    "en": "Keep the family as it is",
+    "fa": "خانواده را همان‌طور نگه دارید"
+  },
+  {
+    "k": "zy8x3vllqq",
+    "en": "You decided to keep the family as it is.",
+    "fa": "تصمیم گرفتید خانواده را همان‌طور نگه دارید."
+  },
+  {
+    "k": "19b1fdqujkb",
+    "en": "You took {0} as your second wife. The wedding and the gifts to the bride's family cost {1}. Things were cold between you and {2} for a while.",
+    "fa": "{0} را همسر دوم خود گرفتید. عروسی و هدایای خانوادهٔ عروس {1} هزینه داشت. مدتی بین شما و {2} سردی بود."
+  },
+  {
+    "k": "4tebtn6ac9",
+    "en": "Have a child with donated sperm",
+    "fa": "با اسپرم اهدایی فرزند داشته باشید"
+  }
+]

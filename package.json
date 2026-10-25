@@ -1,6 +1,6 @@
 {
   "name": "1in8b",
-  "version": "0.8.39",
+  "version": "0.8.40",
   "private": true,
   "description": "Local mirror of 1 in 8 Billion (1in8b.ir)",
   "type": "module",
@@ -8,9 +8,15 @@
     "start": "node server.mjs",
     "dev": "node server.mjs",
     "build:fa": "./scripts/rebuild-fa-from-progress.sh",
-    "translate:fa": "python3 scripts/translate-i18n-fa.py"
+    "translate:fa": "python3 scripts/translate-i18n-fa.py",
+    "version:bump": "node scripts/bump-version.mjs",
+    "version:sync": "node scripts/bump-version.mjs --sync-only",
+    "prepare": "husky"
   },
   "engines": {
     "node": ">=18"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7"
   }
 }

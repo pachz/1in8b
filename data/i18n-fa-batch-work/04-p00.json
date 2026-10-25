@@ -1,0 +1,402 @@
+[
+  {
+    "k": "d7v3ytrk31",
+    "en": "You cut staff and scaled the business down. You earn less, but it looks as if you will get through the hard patch."
+  },
+  {
+    "k": "2g9kc4o8h51",
+    "en": "You cut your opening hours and the stock you keep. You earn less, but it looks as if you will get through the hard patch."
+  },
+  {
+    "k": "28ut1o84lcj",
+    "en": "You cut staff and scaled the business down."
+  },
+  {
+    "k": "252mhk5fxcu",
+    "en": "You cut back on advertising and on the stock you keep."
+  },
+  {
+    "k": "pm6mc36gk7",
+    "en": "You took on less work and cut your costs."
+  },
+  {
+    "k": "gv419lvr7p",
+    "en": "You earn less, but it looks as if you will get through the hard patch."
+  },
+  {
+    "k": "vcxxlz086b",
+    "en": "Your savings got you through the rough patch."
+  },
+  {
+    "k": "2fr981unn67",
+    "en": "The borrowed money got you through the rough patch."
+  },
+  {
+    "k": "5ngrngrl09",
+    "en": "You held on with your savings, but things did not get better. (−{0})"
+  },
+  {
+    "k": "1ttkto5grqc",
+    "en": "You held on with borrowed money, but things did not get better. (−{0})"
+  },
+  {
+    "k": "22b7jwrw28",
+    "en": "Selling off the machines and stock kept you out of debt."
+  },
+  {
+    "k": "10e28rujf6u",
+    "en": "Selling the vehicles and equipment kept you out of debt."
+  },
+  {
+    "k": "29nly0kl9z7",
+    "en": "Selling the tools and leftover materials kept you out of debt."
+  },
+  {
+    "k": "1jrinvoc8ec",
+    "en": "Selling off the furniture and equipment kept you out of debt."
+  },
+  {
+    "k": "a7t8unzwoj",
+    "en": "Selling off the stock kept you out of debt."
+  },
+  {
+    "k": "1oh4fec6acz",
+    "en": "You closed the shop before it was too late. Selling off the stock kept you out of debt."
+  },
+  {
+    "k": "q2cix86u3t",
+    "en": "You closed the {0} before it was too late."
+  },
+  {
+    "k": "1jo1s0bsz9r",
+    "en": "Talk of an early marriage"
+  },
+  {
+    "k": "256lsgjwp2o",
+    "en": "You are {1}, and {0} would like to see you married soon. Talk of a dowry is going back and forth with the other family."
+  },
+  {
+    "k": "1y183wyv2op",
+    "en": "You are {1}, and {0} would like to see you married soon. The other family is talking about a bride price."
+  },
+  {
+    "k": "2bzmdwv1v7h",
+    "en": "You are {1}, and {0} would like to see you married soon. The two families are talking about a match."
+  },
+  {
+    "k": "nx2o8eq5vb",
+    "en": "In {0}, about {1}% of women aged 20–24 had married or begun living with a partner before age 18 (UNICEF)"
+  },
+  {
+    "k": "urrnrscrrl",
+    "en": "In {0}, about {1}% of women aged 20–24 were married before age 18 (UNICEF)"
+  },
+  {
+    "k": "rh4dlhfgzh",
+    "en": "Ask them to wait so you can keep studying"
+  },
+  {
+    "k": "d3pox3dbt1",
+    "en": "Ask them to wait, saying you are still too young"
+  },
+  {
+    "k": "hyrkef71gs",
+    "en": "Whether it works depends on your family's situation and your relationship"
+  },
+  {
+    "k": "1v7of0rdk2e",
+    "en": "Go along with {0}"
+  },
+  {
+    "k": "1nlpoe6u6j1",
+    "en": "Live together without a legal marriage; most girls leave school"
+  },
+  {
+    "k": "23kuk2qits5",
+    "en": "Live together without a legal marriage"
+  },
+  {
+    "k": "155huoj7dkx",
+    "en": "Marry; most girls leave school"
+  },
+  {
+    "k": "1j9k140z1z3",
+    "en": "Marry"
+  },
+  {
+    "k": "w2yqd9f3ta",
+    "en": "You talked {0} into waiting. The marriage was put off."
+  },
+  {
+    "k": "1qjpfz4o6eq",
+    "en": "You couldn't persuade them, and you began living with him without a legal marriage."
+  },
+  {
+    "k": "1nzzebl4xc0",
+    "en": "You began living with him without a legal marriage."
+  },
+  {
+    "k": "olb0exkhnz",
+    "en": "With his family's permission, you kept going to school."
+  },
+  {
+    "k": "oh7rptjy22",
+    "en": "You left school."
+  },
+  {
+    "k": "25lyq9fv9jf",
+    "en": "Since its 1988 Family Code, the Philippines has not recognised the marriage of anyone under 18, and since 2022 the law has prohibited marrying or living with a child."
+  },
+  {
+    "k": "15q7ev6bun4",
+    "en": "Marrying or living together before 18 violates a child's rights (Republic Act 11596, UN Sustainable Development Goal 5.3, UNICEF)"
+  },
+  {
+    "k": "1osiua0gpfi",
+    "en": "Since its 1988 Family Code, the Philippines has not recognised the marriage of anyone under 18."
+  },
+  {
+    "k": "5i32289nmm",
+    "en": "Marrying or living together before 18 violates a child's rights (UN Sustainable Development Goal 5.3, UNICEF)"
+  },
+  {
+    "k": "1zn9wz0fi5e",
+    "en": "You couldn't change their minds, and the wedding went ahead."
+  },
+  {
+    "k": "16dx0w26mun",
+    "en": "The wedding went ahead."
+  },
+  {
+    "k": "20tdzxymuig",
+    "en": "With your husband's family's permission, you kept going to school."
+  },
+  {
+    "k": "27n5yoia3ur",
+    "en": "The wedding went ahead. You left school."
+  },
+  {
+    "k": "1hiu5bbqnl6",
+    "en": "Marriage before 18 violates a child's rights. The world has pledged to end child marriage by 2030 (UN Sustainable Development Goal 5.3, UNICEF)"
+  },
+  {
+    "k": "25pal3ypjdn",
+    "en": "Your last love was a man; this time your heart goes to a woman."
+  },
+  {
+    "k": "m93gqyd5fg",
+    "en": "Your last love was a woman; this time your heart goes to a man."
+  },
+  {
+    "k": "1vqy1vvl2pp",
+    "en": "They have {0} grown children (aged {1})."
+  },
+  {
+    "k": "1nri1vrhy77",
+    "en": "They have {0} children (aged {1})."
+  },
+  {
+    "k": "16gwyntoo6d",
+    "en": "They have a grown child aged {0}."
+  },
+  {
+    "k": "40ojlf5o2v",
+    "en": "They have a child aged {0}."
+  },
+  {
+    "k": "1q01e2psyr0",
+    "en": "Work: retired (formerly {0})."
+  },
+  {
+    "k": "urr5vybcvm",
+    "en": "Work: {0}."
+  },
+  {
+    "k": "35h1qe8ou",
+    "en": "kind"
+  },
+  {
+    "k": "23o5dmffeyc",
+    "en": "hard-working"
+  },
+  {
+    "k": "xa75pxsc9n",
+    "en": "funny"
+  },
+  {
+    "k": "g8bd8f4xj5",
+    "en": "capable"
+  },
+  {
+    "k": "a028v5n8xh",
+    "en": "quiet"
+  },
+  {
+    "k": "1kjeto71gvk",
+    "en": "outgoing"
+  },
+  {
+    "k": "1r2yzz1vrp0",
+    "en": "Introduced by the family elders"
+  },
+  {
+    "k": "2c07sdr15sz",
+    "en": "Introduced by your children"
+  },
+  {
+    "k": "b0zig0tcor",
+    "en": "Introduced by your child"
+  },
+  {
+    "k": "220m87o6vq6",
+    "en": "Introduced by a relative"
+  },
+  {
+    "k": "vzwofx02o2",
+    "en": "An introduction abroad"
+  },
+  {
+    "k": "2e0zsq1jp7z",
+    "en": "A match for remarriage"
+  },
+  {
+    "k": "1ghsfr42qd",
+    "en": "Love again"
+  },
+  {
+    "k": "1igtasuupmu",
+    "en": "A proposed match"
+  },
+  {
+    "k": "13zcfwno8aw",
+    "en": "Love came along"
+  },
+  {
+    "k": "1vdjcidvskj",
+    "en": "{0}: {4}{5} ({3}, age {1}, {2})."
+  },
+  {
+    "k": "uyiq6vimsm",
+    "en": "introduced by an international marriage agency:"
+  },
+  {
+    "k": "lxbfihln64",
+    "en": "The marriage agency's next introduction"
+  },
+  {
+    "k": "t83f8hjt4e",
+    "en": "The matchmaker's next introduction"
+  },
+  {
+    "k": "2eroz6ozp4y",
+    "en": "Introduced by a marriage agency"
+  },
+  {
+    "k": "3oxem081zs",
+    "en": "Introduced by a matchmaker"
+  },
+  {
+    "k": "bs5ctjyj5c",
+    "en": "Someone you met at a gathering"
+  },
+  {
+    "k": "uw244xsyvv",
+    "en": "Someone you've known for a while"
+  },
+  {
+    "k": "tgyxbipxgk",
+    "en": "The two of you are from different castes, and the elders on both sides are against the marriage."
+  },
+  {
+    "k": "s3kfkb4f8g",
+    "en": "Their family is against marrying a foreigner."
+  },
+  {
+    "k": "25i9wxp9y4l",
+    "en": "They come from a family of another caste."
+  },
+  {
+    "k": "myt7nl8p30",
+    "en": "He already has a wife and {0} children."
+  },
+  {
+    "k": "u5to8t3bi0",
+    "en": "He already has a wife and a child."
+  },
+  {
+    "k": "1cuvdbr401a",
+    "en": "He already has a wife."
+  },
+  {
+    "k": "1bdjv74gmb0",
+    "en": "This is the last of the introductions you were promised."
+  },
+  {
+    "k": "198432l6j40",
+    "en": "About 16% of US children live in a blended family with a stepparent or step-siblings (Pew Research Center 2015)"
+  },
+  {
+    "k": "1hh7hnmksua",
+    "en": "20% of Americans remarrying take a wife at least 10 years younger, and 13% of women a husband at least 10 years older; at first marriages it is 5% and 7% (Pew Research Center 2014)"
+  },
+  {
+    "k": "1qojjmee1ag",
+    "en": "In {0} husbands are on average about {1} years older than their wives; a gap like this is not unusual (UN World Marriage Data, DHS)"
+  },
+  {
+    "k": "1k0gihj1015",
+    "en": "In {0} the average age gap in a couple is about {1} years; a gap this wide is not common (UN World Marriage Data)"
+  },
+  {
+    "k": "2blra2ivi7p",
+    "en": "Marriage agencies grade their members by work, schooling and family means and match people of the same grade. Few introductions end in marriage"
+  },
+  {
+    "k": "65n0tpp0r1",
+    "en": "Matchmakers and marriage bureaus mostly match people of similar family, schooling and means"
+  },
+  {
+    "k": "znibz6l55l",
+    "en": "In the US, four in ten new marriages include at least one partner who has been married before (Pew Research Center 2014)"
+  },
+  {
+    "k": "2clezb90h2j",
+    "en": "The average age at first marriage for men in {0} is estimated at about {1}"
+  },
+  {
+    "k": "l0k2ndm3rs",
+    "en": "The average age at first marriage for women in {0} is estimated at about {1}"
+  },
+  {
+    "k": "x7fcz7mbv8",
+    "en": "See where it goes"
+  },
+  {
+    "k": "50lzk13qhp",
+    "en": "Time to get to know each other · marriage can wait"
+  },
+  {
+    "k": "2abr8uy7kh5",
+    "en": "Your heart isn't in it"
+  },
+  {
+    "k": "1e7nfk1d8ij",
+    "en": "Against their family's wishes"
+  },
+  {
+    "k": "25kuvovio50",
+    "en": "Get to know them better first"
+  },
+  {
+    "k": "9ndarer7hc",
+    "en": "Just date for now"
+  },
+  {
+    "k": "29w2zfad1uv",
+    "en": "Put off the decision"
+  },
+  {
+    "k": "6g7cdx3gpe",
+    "en": "Say no"
+  }
+]

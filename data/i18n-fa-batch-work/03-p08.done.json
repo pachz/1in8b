@@ -1,0 +1,502 @@
+[
+  {
+    "k": "2fpxa5f8bjb",
+    "en": "The equipment you bought {0} years ago is old now too, and the work is slowing down.",
+    "fa": "تجهیزاتی که {0} سال پیش خریدید حالا کهنه شده‌اند و کار کند شده."
+  },
+  {
+    "k": "fimys9690p",
+    "en": "Replace the vehicles?",
+    "fa": "وسایل نقلیه را عوض کنید؟"
+  },
+  {
+    "k": "1ubuffuy4l9",
+    "en": "Replace the equipment?",
+    "fa": "تجهیزات را عوض کنید؟"
+  },
+  {
+    "k": "1wixp15u4u1",
+    "en": "Replacing it would cost about {0}.",
+    "fa": "عوض کردن حدود {0} هزینه دارد."
+  },
+  {
+    "k": "hbyopw6wb3",
+    "en": "Replacing it would cost about {0}, and you would have to borrow what you are short.",
+    "fa": "عوض کردن حدود {0} هزینه دارد و باید کمبود را قرض بگیرید."
+  },
+  {
+    "k": "gya76nn5eo",
+    "en": "Old equipment is slowing the work down. New equipment would cost about {0}.",
+    "fa": "تجهیزات کهنه کار را کند کرده. تجهیزات جدید حدود {0} هزینه دارد."
+  },
+  {
+    "k": "91xdqimzb8",
+    "en": "Old equipment slows the work down. New equipment would cost about {0}, and whatever you lack would have to be borrowed.",
+    "fa": "تجهیزات کهنه کار را کند می‌کند. تجهیزات جدید حدود {0} هزینه دارد و کمبود باید قرض گرفته شود."
+  },
+  {
+    "k": "g1406q8sau",
+    "en": "Buy new equipment",
+    "fa": "تجهیزات جدید بخرید"
+  },
+  {
+    "k": "k252zg1zmy",
+    "en": "Borrow and buy it",
+    "fa": "قرض بگیرید و بخرید"
+  },
+  {
+    "k": "1g7ey973oa",
+    "en": "About {0} · faster work",
+    "fa": "حدود {0} · کار سریع‌تر"
+  },
+  {
+    "k": "16e3yziy1pi",
+    "en": "Keep repairing the old one",
+    "fa": "همان کهنه را تعمیر کنید"
+  },
+  {
+    "k": "1c3owpy02fu",
+    "en": "Fewer staff and less stock · earn less, but closing is less likely",
+    "fa": "پرسنل و موجودی کمتر · درآمد کمتر، اما احتمال بسته شدن کمتر"
+  },
+  {
+    "k": "1x5o7tw41jq",
+    "en": "Fewer staff and less space · earn less, but closing is less likely",
+    "fa": "پرسنل و فضای کمتر · درآمد کمتر، اما احتمال بسته شدن کمتر"
+  },
+  {
+    "k": "wcb3scva25",
+    "en": "Get through on your savings",
+    "fa": "با پس‌انداز دوام بیاورید"
+  },
+  {
+    "k": "vg32yqclgw",
+    "en": "Borrow to get through",
+    "fa": "قرض بگیرید و دوام بیاورید"
+  },
+  {
+    "k": "1yobmhcnos7",
+    "en": "About {0} in debt",
+    "fa": "حدود {0} بدهی"
+  },
+  {
+    "k": "4dfvu7uoco",
+    "en": "Close before it gets worse",
+    "fa": "قبل از بدتر شدن ببندید"
+  },
+  {
+    "k": "mc6slf498w",
+    "en": "Keep what is left",
+    "fa": "آنچه مانده را نگه دارید"
+  },
+  {
+    "k": "siiwdfbpsd",
+    "en": "A year with fewer people coming",
+    "fa": "سالی که مردم کمتر می‌آیند"
+  },
+  {
+    "k": "qlcw6cfix0",
+    "en": "For months now, fewer people have been coming.",
+    "fa": "ماه‌هاست مردم کمتر می‌آیند."
+  },
+  {
+    "k": "v0dufrmvoo",
+    "en": "At this rate it will be hard to hold on.",
+    "fa": "با این روند دوام آوردن سخت خواهد بود."
+  },
+  {
+    "k": "rj554reqe1",
+    "en": "Cut prices and hold on",
+    "fa": "قیمت را کم کنید و دوام بیاورید"
+  },
+  {
+    "k": "13ncxb3dif5",
+    "en": "Earn less, but keep people coming",
+    "fa": "درآمد کمتر، اما مردم می‌آیند"
+  },
+  {
+    "k": "25fidhclq8y",
+    "en": "Scale down and hold on",
+    "fa": "کوچک کنید و دوام بیاورید"
+  },
+  {
+    "k": "5gox46anqu",
+    "en": "Take on less work and cut costs · earn less, but closing is less likely",
+    "fa": "کار کمتر بگیرید و هزینه را ببرید · درآمد کمتر، اما احتمال بسته شدن کمتر"
+  },
+  {
+    "k": "2bfz2scvn4m",
+    "en": "A hard year for business",
+    "fa": "سال سخت برای کسب‌وکار"
+  },
+  {
+    "k": "1p2fxojo5es",
+    "en": "Customers have been dropping off for months. At this rate it will be hard to hold on.",
+    "fa": "ماه‌هاست مشتری کم شده. با این روند دوام آوردن سخت خواهد بود."
+  },
+  {
+    "k": "v611xkcdd4",
+    "en": "Earn less, keep the customers",
+    "fa": "درآمد کمتر، مشتریان را نگه دارید"
+  },
+  {
+    "k": "j0x0a74t1r",
+    "en": "Shorter hours and less stock · earn less, but closing is less likely",
+    "fa": "ساعات کمتر و موجودی کمتر · درآمد کمتر، اما احتمال بسته شدن کمتر"
+  },
+  {
+    "k": "oq04pm2pvq",
+    "en": "A year of less work",
+    "fa": "سالی با کار کمتر"
+  },
+  {
+    "k": "1u98j8hmxas",
+    "en": "A year of falling prices",
+    "fa": "سالی با قیمت‌های رو به کاهش"
+  },
+  {
+    "k": "2b1d0udbvkk",
+    "en": "A year of fewer orders",
+    "fa": "سالی با سفارش کمتر"
+  },
+  {
+    "k": "2c2nar86btu",
+    "en": "There has been less work for months.",
+    "fa": "ماه‌هاست کار کمتر شده."
+  },
+  {
+    "k": "rlns0hsztt",
+    "en": "Farm-gate prices and your customers' orders have both fallen.",
+    "fa": "قیمت مزرعه و سفارش مشتریان هر دو افت کرده."
+  },
+  {
+    "k": "1j5s4afhbpx",
+    "en": "Orders have been dropping off for months.",
+    "fa": "ماه‌هاست سفارش‌ها کم شده."
+  },
+  {
+    "k": "17avgnltz3q",
+    "en": "Orders from your customers have been dropping off for months.",
+    "fa": "سفارش مشتریان ماه‌هاست کم شده."
+  },
+  {
+    "k": "15xkof8r4rl",
+    "en": "Lower your rates and hold on",
+    "fa": "نرخ را پایین بیاورید و دوام بیاورید"
+  },
+  {
+    "k": "a005u2gt1e",
+    "en": "Earn less, keep the work coming",
+    "fa": "درآمد کمتر، کار بیاید"
+  },
+  {
+    "k": "1f65fkmd74c",
+    "en": "Earn less, keep your customers",
+    "fa": "درآمد کمتر، مشتریان را نگه دارید"
+  },
+  {
+    "k": "a7p6qxtko",
+    "en": "Less advertising and less stock · earn less, but closing is less likely",
+    "fa": "تبلیغ و موجودی کمتر · درآمد کمتر، اما احتمال بسته شدن کمتر"
+  },
+  {
+    "k": "2ft0k2mexw2",
+    "en": "With another childcare worker on staff, things got less hectic and more families brought their children.",
+    "fa": "با یک پرستار کودک دیگر، اوضاع آرام‌تر شد و خانواده‌های بیشتری بچه آوردند."
+  },
+  {
+    "k": "imi39vsmoa",
+    "en": "With an employee, things got less hectic and more patients came.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و بیماران بیشتری آمدند."
+  },
+  {
+    "k": "951e549j3j",
+    "en": "With an employee, things got less hectic and more people came to learn.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و افراد بیشتری برای یادگیری آمدند."
+  },
+  {
+    "k": "tyc8zxqrvr",
+    "en": "With an employee, things got less hectic and clients brought you more work.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و مشتریان کار بیشتری آوردند."
+  },
+  {
+    "k": "27e69gfq68d",
+    "en": "With an employee, things got less hectic and more customers came.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و مشتریان بیشتری آمدند."
+  },
+  {
+    "k": "axdh4auk62",
+    "en": "With an employee, things got less hectic and more work came in.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و کار بیشتری آمد."
+  },
+  {
+    "k": "xjx00zg9l5",
+    "en": "With an employee, things got less hectic and more orders came in.",
+    "fa": "با یک کارمند، اوضاع آرام‌تر شد و سفارش بیشتری آمد."
+  },
+  {
+    "k": "1hbb7vfck6u",
+    "en": "Sales did not grow as much as you hoped, and the wages became a burden. (−{0})",
+    "fa": "فروش آن‌طور که امید داشتید رشد نکرد و حقوق بار شد. (−{0})"
+  },
+  {
+    "k": "28g97ohv6wg",
+    "en": "Your family pitched in. Every evening you all closed up the shop together.",
+    "fa": "خانواده کمک کرد. هر شب همه با هم مغازه را می‌بستید."
+  },
+  {
+    "k": "1h4dxk9p7av",
+    "en": "Your family pitched in.",
+    "fa": "خانواده کمک کرد."
+  },
+  {
+    "k": "mgjww9u56h",
+    "en": "Every evening you all packed the orders together.",
+    "fa": "هر شب همه با هم سفارش‌ها را بسته‌بندی می‌کردید."
+  },
+  {
+    "k": "6lzzi9skg1",
+    "en": "Every evening you all finished the day's work together.",
+    "fa": "هر شب همه با هم کار روز را تمام می‌کردید."
+  },
+  {
+    "k": "1p784ge008r",
+    "en": "You decided to keep running it on your own.",
+    "fa": "تصمیم گرفتید تنها اداره کنید."
+  },
+  {
+    "k": "281we5ksozk",
+    "en": "More families saw the ads and came to enrol their children.",
+    "fa": "خانواده‌های بیشتری آگهی‌ها را دیدند و بچه ثبت‌نام کردند."
+  },
+  {
+    "k": "1iegg4ifvyf",
+    "en": "More patients came after seeing the ads.",
+    "fa": "بیماران بیشتری پس از دیدن آگهی‌ها آمدند."
+  },
+  {
+    "k": "1fseiecy0hb",
+    "en": "More people came to learn after seeing the ads.",
+    "fa": "افراد بیشتری برای یادگیری پس از دیدن آگهی‌ها آمدند."
+  },
+  {
+    "k": "19d0q3yeny6",
+    "en": "More clients came to you with work after seeing the ads.",
+    "fa": "مشتریان بیشتری با کار پس از دیدن آگهی‌ها آمدند."
+  },
+  {
+    "k": "1szo3pslpys",
+    "en": "You found new customers, and more work came in.",
+    "fa": "مشتری جدید پیدا کردید و کار بیشتر آمد."
+  },
+  {
+    "k": "ktqmqde1uf",
+    "en": "You found new customers, and orders grew.",
+    "fa": "مشتری جدید پیدا کردید و سفارش‌ها رشد کرد."
+  },
+  {
+    "k": "uxnv6v1n5n",
+    "en": "More households hired you after seeing the ads.",
+    "fa": "خانوارهای بیشتری پس از دیدن آگهی‌ها شما را استخدام کردند."
+  },
+  {
+    "k": "20d7fakt66r",
+    "en": "More customers came after seeing the ads.",
+    "fa": "مشتریان بیشتری پس از دیدن آگهی‌ها آمدند."
+  },
+  {
+    "k": "wqocyp4ulq",
+    "en": "Not enough new people came to cover the cost of the ads. (−{0})",
+    "fa": "مردم تازه کافی نیامدند تا هزینه آگهی را جبران کنند. (−{0})"
+  },
+  {
+    "k": "14kzmxnz6tj",
+    "en": "All the legwork did not bring in enough work to pay off. (−{0})",
+    "fa": "همه رفت‌وآمدها کار کافی نیاورد تا سود کند. (−{0})"
+  },
+  {
+    "k": "1vggms9pe35",
+    "en": "All the legwork did not bring in enough orders to pay off. (−{0})",
+    "fa": "همه رفت‌وآمدها سفارش کافی نیاورد تا سود کند. (−{0})"
+  },
+  {
+    "k": "zi7vdh2b23",
+    "en": "The ads did not bring in enough work to cover their cost. (−{0})",
+    "fa": "آگهی‌ها کار کافی نیاوردند تا هزینه‌شان را جبران کنند. (−{0})"
+  },
+  {
+    "k": "1da2evu9gpo",
+    "en": "The ads did not bring in enough customers to cover their cost. (−{0})",
+    "fa": "آگهی‌ها مشتری کافی نیاوردند تا هزینه‌شان را جبران کنند. (−{0})"
+  },
+  {
+    "k": "188pkmryj1r",
+    "en": "You decided to trust word of mouth from those who had already come.",
+    "fa": "تصمیم گرفتید به شایعه کسانی که آمده بودند اعتماد کنید."
+  },
+  {
+    "k": "11t6ycfmmd5",
+    "en": "You decided to rely on the customers you have worked with for years.",
+    "fa": "تصمیم گرفتید به مشتریانی که سال‌ها با آنها کار کرده‌اید تکیه کنید."
+  },
+  {
+    "k": "1dnsb79eehh",
+    "en": "You decided to trust the households you have worked for to spread the word.",
+    "fa": "تصمیم گرفتید به خانوارهایی که برایشان کار کرده‌اید برای پخش خبر اعتماد کنید."
+  },
+  {
+    "k": "2c4zu4v3cfn",
+    "en": "You decided to trust your regulars to spread the word.",
+    "fa": "تصمیم گرفتید به مشتریان ثابت برای پخش خبر اعتماد کنید."
+  },
+  {
+    "k": "1vz4wy526am",
+    "en": "You paid the higher rent on your {0}.",
+    "fa": "اجاره بالاتر {0} را پرداخت کردید."
+  },
+  {
+    "k": "l4kji50nba",
+    "en": "Less is left over now.",
+    "fa": "حالا کمتر می‌ماند."
+  },
+  {
+    "k": "6y9f3snxlf",
+    "en": "You paid the higher rent. Less is left over now.",
+    "fa": "اجاره بالاتر را پرداخت کردید. حالا کمتر می‌ماند."
+  },
+  {
+    "k": "160qa164y5x",
+    "en": "You moved to new premises.",
+    "fa": "به محل جدید منتقل شدید."
+  },
+  {
+    "k": "1njpdbvqcow",
+    "en": "A few regulars stopped coming.",
+    "fa": "چند مشتری ثابت دیگر نیامدند."
+  },
+  {
+    "k": "co9fgzlbjs",
+    "en": "You moved the shop. A few regulars stopped coming.",
+    "fa": "مغازه را جابجا کردید. چند مشتری ثابت دیگر نیامدند."
+  },
+  {
+    "k": "1exklxcq93e",
+    "en": "Your regulars followed you to the new place.",
+    "fa": "مشتریان ثابت شما را به محل جدید دنبال کردند."
+  },
+  {
+    "k": "kzmj25hm40",
+    "en": "You moved the shop. Your regulars found their way to the new place.",
+    "fa": "مغازه را جابجا کردید. مشتریان ثابت راه محل جدید را پیدا کردند."
+  },
+  {
+    "k": "1vvo139iojs",
+    "en": "You talked with the landlord and got the rise cut in half.",
+    "fa": "با موجر صحبت کردید و افزایش را نصف کردید."
+  },
+  {
+    "k": "tzfjsaw3ov",
+    "en": "The talks went nowhere. In the end you paid the higher rent.",
+    "fa": "مذاکره به جایی نرسید. در پایان اجاره بالاتر را پرداخت کردید."
+  },
+  {
+    "k": "vfoaenwi8n",
+    "en": "With the new vehicles the work went faster and more of it came in.",
+    "fa": "با وسایل جدید کار سریع‌تر شد و کار بیشتری آمد."
+  },
+  {
+    "k": "wyzbutduwc",
+    "en": "The new equipment made the work easier, and more people came.",
+    "fa": "تجهیزات جدید کار را آسان‌تر کرد و مردم بیشتر آمدند."
+  },
+  {
+    "k": "11mw76k0en0",
+    "en": "With the new equipment the work went faster and orders grew.",
+    "fa": "با تجهیزات جدید کار سریع‌تر شد و سفارش‌ها رشد کرد."
+  },
+  {
+    "k": "24umnbzlt2q",
+    "en": "The equipment is better, but no more people come than before. (−{0})",
+    "fa": "تجهیزات بهتر است، اما مردم بیشتر از قبل نمی‌آیند. (−{0})"
+  },
+  {
+    "k": "27q7jz0xc9x",
+    "en": "The equipment is better, but no more people come than before.",
+    "fa": "تجهیزات بهتر است، اما مردم بیشتر از قبل نمی‌آیند."
+  },
+  {
+    "k": "tyo66knikt",
+    "en": "Now the loan has to be paid off. (−{0})",
+    "fa": "حالا باید وام پرداخت شود. (−{0})"
+  },
+  {
+    "k": "rmm9koipm2",
+    "en": "The vehicles are better, but the work has not grown. (−{0})",
+    "fa": "وسایل بهتر است، اما کار رشد نکرد. (−{0})"
+  },
+  {
+    "k": "rkt9ksfrz",
+    "en": "The vehicles are better, but the work has not grown. You have a loan to pay off. (−{0})",
+    "fa": "وسایل بهتر است، اما کار رشد نکرد. وام برای پرداخت دارید. (−{0})"
+  },
+  {
+    "k": "1bpfydlpccf",
+    "en": "The equipment is better, but orders have not grown. (−{0})",
+    "fa": "تجهیزات بهتر است، اما سفارش‌ها رشد نکرد. (−{0})"
+  },
+  {
+    "k": "2beutfdhvyf",
+    "en": "The equipment is better, but orders stayed the same. Now the loan has to be paid back. (−{0})",
+    "fa": "تجهیزات بهتر است، اما سفارش همان ماند. حالا باید وام برگردد. (−{0})"
+  },
+  {
+    "k": "1fhzyl45cue",
+    "en": "You decided to keep the old vehicles running a while longer.",
+    "fa": "تصمیم گرفتید وسایل کهنه را کمی بیشتر نگه دارید."
+  },
+  {
+    "k": "23miw98qm6d",
+    "en": "You decided to keep the old equipment going a while longer.",
+    "fa": "تصمیم گرفتید تجهیزات کهنه را کمی بیشتر نگه دارید."
+  },
+  {
+    "k": "y5owtggp4q",
+    "en": "Once you lowered your fees, people slowly started coming back.",
+    "fa": "وقتی حقوق را پایین آوردید، مردم آهسته برگشتند."
+  },
+  {
+    "k": "9qswpf449u",
+    "en": "After you lowered your rates, the work slowly came back.",
+    "fa": "پس از پایین آوردن نرخ، کار آهسته برگشت."
+  },
+  {
+    "k": "xeudpjfgu2",
+    "en": "After you lowered your rates, your customers' orders slowly came back.",
+    "fa": "پس از پایین آوردن نرخ، سفارش مشتریان آهسته برگشت."
+  },
+  {
+    "k": "1r7m53dd14y",
+    "en": "After you cut prices, customers slowly came back.",
+    "fa": "پس از کاهش قیمت، مشتریان آهسته برگشتند."
+  },
+  {
+    "k": "1e0ntcyk7hb",
+    "en": "Even with lower fees, people were slow to come back.",
+    "fa": "حتی با حقوق پایین‌تر، مردم دیر برگشتند."
+  },
+  {
+    "k": "duym3s4zsf",
+    "en": "Even with lower rates, the work was slow to pick up.",
+    "fa": "حتی با نرخ پایین‌تر، کار دیر راه افتاد."
+  },
+  {
+    "k": "tjq9rblpo2",
+    "en": "Even with lower rates, orders were slow to pick up.",
+    "fa": "حتی با نرخ پایین‌تر، سفارش‌ها دیر راه افتاد."
+  },
+  {
+    "k": "23ksjy21tab",
+    "en": "Even with lower prices, customers were slow to come back.",
+    "fa": "حتی با قیمت پایین‌تر، مشتریان دیر برگشتند."
+  }
+]

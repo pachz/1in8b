@@ -1,0 +1,497 @@
+[
+  {
+    "k": "w4zhu1b6sy",
+    "en": "There was no place at the learning centre, so you stayed home and looked after your younger sisters.",
+    "fa": "جایی در مرکز آموزشی نبود، پس در خانه ماندید و از خواهران کوچک‌تر مراقبت کردید."
+  },
+  {
+    "k": "1wfrqqp480w",
+    "en": "There was no place at the learning centre, so you stayed home and looked after the younger ones.",
+    "fa": "جایی در مرکز آموزشی نبود، پس در خانه ماندید و از کوچک‌ترها مراقبت کردید."
+  },
+  {
+    "k": "v9lopwfibs",
+    "en": "There was no place at the learning centre, so you stayed home and looked after your {0}.",
+    "fa": "جایی در مرکز آموزشی نبود، پس در خانه ماندید و از {0} مراقبت کردید."
+  },
+  {
+    "k": "1hle5yagknm",
+    "en": "There was no place at the learning centre, so you stayed home and helped with the housework.",
+    "fa": "جایی در مرکز آموزشی نبود، پس در خانه ماندید و در کارهای خانه کمک کردید."
+  },
+  {
+    "k": "1mfylfz9xzt",
+    "en": "Instead of going to school, you started learning at home.",
+    "fa": "به‌جای مدرسه، در خانه شروع به یادگیری کردید."
+  },
+  {
+    "k": "1w91q2t2s6b",
+    "en": "Your family decided to teach you themselves.",
+    "fa": "خانواده تصمیم گرفت خودشان به شما درس بدهند."
+  },
+  {
+    "k": "2eihq51qf7i",
+    "en": "You started primary school.",
+    "fa": "مدرسه ابتدایی را شروع کردید."
+  },
+  {
+    "k": "1sq4l3b2os8",
+    "en": "You couldn't go to school. That year the neighbourhood school had no places left.",
+    "fa": "نتوانستید به مدرسه بروید. آن سال مدرسه محله جا نداشت."
+  },
+  {
+    "k": "e2r3u4bqz7",
+    "en": "You couldn't go to school. The elders in your family didn't want a daughter going to school far from home.",
+    "fa": "نتوانستید به مدرسه بروید. بزرگان خانواده نمی‌خواستند دختر دور از خانه به مدرسه برود."
+  },
+  {
+    "k": "1wui6y50b0a",
+    "en": "You couldn't go to school. There was no school close enough to attend.",
+    "fa": "نتوانستید به مدرسه بروید. مدرسه به اندازه کافی نزدیک نبود."
+  },
+  {
+    "k": "1559pcjy5n8",
+    "en": "You couldn't go to school. Your family was struggling, and you had to help with work from a young age.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند و از سنین پایین باید در کار کمک می‌کردید."
+  },
+  {
+    "k": "20cqt9etjp0",
+    "en": "You couldn't go to school. Your family was struggling, so you stayed home looking after your younger brothers.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند، پس در خانه ماندید و از برادران کوچک‌تر مراقبت کردید."
+  },
+  {
+    "k": "dlkgvaypc3",
+    "en": "You couldn't go to school. Your family was struggling, so you stayed home looking after your younger sisters.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند، پس در خانه ماندید و از خواهران کوچک‌تر مراقبت کردید."
+  },
+  {
+    "k": "zg5crymmvr",
+    "en": "You couldn't go to school. Your family was struggling, so you stayed home looking after your younger siblings.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند، پس در خانه ماندید و از خواهر و برادر کوچک‌تر مراقبت کردید."
+  },
+  {
+    "k": "2cdguur8pv3",
+    "en": "You couldn't go to school. Your family was struggling, so you stayed home looking after your {0}.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند، پس در خانه ماندید و از {0} مراقبت کردید."
+  },
+  {
+    "k": "10vd8ymtpgh",
+    "en": "You couldn't go to school. Your family was struggling, so you stayed home and helped with the housework.",
+    "fa": "نتوانستید به مدرسه بروید. خانواده سخت روز می‌گذراند، پس در خانه ماندید و در کارهای خانه کمک کردید."
+  },
+  {
+    "k": "o6tbrn30qu",
+    "en": "You couldn't go to school. Your home was far from the school, and your family needed help around the house.",
+    "fa": "نتوانستید به مدرسه بروید. خانه از مدرسه دور بود و خانواده در خانه به کمک نیاز داشت."
+  },
+  {
+    "k": "d1jgdxmtfe",
+    "en": "About 78 million children of primary school age around the world are out of school (UNESCO 2023)",
+    "fa": "حدود ۷۸ میلیون کودک سن مدرسه ابتدایی در جهان از مدرسه بازمانده‌اند (UNESCO 2023)"
+  },
+  {
+    "k": "20zfg1j3wld",
+    "en": "Rohingya in Rakhine State needed a special permit to travel to another township, and could go to Sittwe's hospital only in an emergency and with permission (Amnesty International 2017)",
+    "fa": "روhingyaها در ایالت راخین برای سفر به township دیگر مجوز ویژه می‌خواستند و فقط در اورژانس و با اجازه می‌توانستند به بیمارستان سیتوی بروند (Amnesty International 2017)"
+  },
+  {
+    "k": "2cqb6te7fjv",
+    "en": "Rohingya students could not attend classes at Sittwe University from 2012, and were admitted again only in 2022 (DVB 2022)",
+    "fa": "دانش‌آموزان Rohingya از ۲۰۱۲ نمی‌توانستند در دانشگاه سیتوی درس بخوانند و فقط در ۲۰۲۲ دوباره پذیرفته شدند (DVB 2022)"
+  },
+  {
+    "k": "1gjmzmuq0s0",
+    "en": "After the violence of 2012 in Rakhine State, about 138,000 Rohingya lost their homes and came to live in camps (IRIN 2014)",
+    "fa": "پس از خشونت ۲۰۱۲ در راخین، حدود ۱۳۸٬۰۰۰ Rohingya خانه‌شان را از دست دادند و به اردوگاه‌ها آمدند (IRIN 2014)"
+  },
+  {
+    "k": "10xvlf8jgrp",
+    "en": "In 1978 about 200,000 Rohingya fled to Bangladesh, and almost all had gone back by the end of 1979. UNHCR acknowledged that up to 10,000 died in the camps in between (Crisp 2018, HPN)",
+    "fa": "در ۱۹۷۸ حدود ۲۰۰٬۰۰۰ Rohingya به بنگلادش گریختند و تا پایان ۱۹۷۹ تقریباً همه برگشتند. UNHCR تأیید کرد تا ۱۰٬۰۰۰ نفر در این فاصله در اردوگاه‌ها مردند (Crisp 2018، HPN)"
+  },
+  {
+    "k": "1k5dm4kwf4d",
+    "en": "In 1991-92 about 250,000 Rohingya fled to Bangladesh, and 200,000 had gone back by mid-1995 (Crisp 2018, HPN)",
+    "fa": "در ۱۹۹۱–۹۲ حدود ۲۵۰٬۰۰۰ Rohingya به بنگلادش گریختند و تا میانه ۱۹۹۵، ۲۰۰٬۰۰۰ برگشته بودند (Crisp 2018، HPN)"
+  },
+  {
+    "k": "t6fbdiilkx",
+    "en": "In the six months from late August 2017, nearly 700,000 Rohingya fled to Cox's Bazar in Bangladesh. MSF estimated that at least 6,700 were killed by violence in the first month alone (MSF 2017, 2018)",
+    "fa": "در شش ماه از اواخر اوت ۲۰۱۷، نزدیک ۷۰۰٬۰۰۰ Rohingya به Cox's Bazar در بنگلادش گریختند. MSF برآورد کرد حداقل ۶٬۷۰۰ نفر فقط در ماه اول بر اثر خشونت کشته شدند (MSF 2017، 2018)"
+  },
+  {
+    "k": "tg6udqolty",
+    "en": "From early 2024 to August 2026, 155,296 Rohingya newly arrived in Bangladesh's camps from Rakhine State (Bangladesh Refugee Relief and Repatriation Commissioner, 2026)",
+    "fa": "از اوایل ۲۰۲۴ تا اوت ۲۰۲۶، ۱۵۵٬۲۹۶ Rohingya تازه از راخین به اردوگاه‌های بنگلادش رسیدند (کمیسیون امداد و بازگشت پناهندگان بنگلادش، ۲۰۲۶)"
+  },
+  {
+    "k": "lvcx2hr8xj",
+    "en": "From February 2024 Myanmar's military forcibly recruited more than 1,000 Rohingya men and boys in Rakhine State (Human Rights Watch 2024)",
+    "fa": "از فوریه ۲۰۲۴ ارتش میانمار بیش از ۱٬۰۰۰ مرد و پسر Rohingya را در راخین به زور جذب کرد (Human Rights Watch 2024)"
+  },
+  {
+    "k": "rw1ycycooo",
+    "en": "Food aid in the camps comes as e-vouchers worth US$7-12 a person a month (Bangladesh Refugee Relief and Repatriation Commissioner, 2026)",
+    "fa": "کمک غذایی در اردوگاه‌ها به‌صورت کوپن الکترونیک به ارزش ۷–۱۲ دلار آمریکا برای هر نفر در ماه است (کمیسیون امداد و بازگشت پناهندگان بنگلادش، ۲۰۲۶)"
+  },
+  {
+    "k": "t23skudqm1",
+    "en": "Rohingya refugees cannot leave the camps to work. Even Rohingya teachers at the learning centres work as 'volunteers', paid 13,000 taka (about US$106) a month (Human Rights Watch 2025)",
+    "fa": "پناهندگان Rohingya نمی‌توانند برای کار از اردوگاه بیرون بروند. حتی معلم‌های Rohingya در مراکز آموزشی به‌عنوان «داوطلب» با ۱۳٬۰۰۰ تaka (حدود ۱۰۶ دلار) در ماه کار می‌کنند (Human Rights Watch 2025)"
+  },
+  {
+    "k": "nkdl0czv4s",
+    "en": "The camps' learning centres teach Myanmar's curriculum up to grade 8 or 9. Refugee children who came after 2017 cannot attend Bangladeshi schools, so they have no way to earn a recognised certificate (Bangladesh Refugee Relief and Repatriation Commissioner 2026, Human Rights Watch 2025)",
+    "fa": "مراکز آموزشی اردوگاه‌ها برنامه درسی میانمار تا پایه ۸ یا ۹ را تدریس می‌کنند. کودکان پناهنده پس از ۲۰۱۷ نمی‌توانند به مدارس بنگلادش بروند، پس راهی برای گواهی معتبر ندارند (کمیسیون امداد و بازگشت پناهندگان بنگلادش ۲۰۲۶، Human Rights Watch 2025)"
+  },
+  {
+    "k": "1xizmgaw1kf",
+    "en": "In 2025 only 57 students were in class 11 at the learning centres of the Cox's Bazar camps (Human Rights Watch 2025)",
+    "fa": "در ۲۰۲۵ فقط ۵۷ دانش‌آموز در پایه ۱۱ در مراکز آموزشی اردوگاه‌های Cox's Bazar بودند (Human Rights Watch 2025)"
+  },
+  {
+    "k": "8a0grhrwcc",
+    "en": "In June 2025 funding cuts closed thousands of learning centres in the camps, halting the schooling of about 304,000 children (Human Rights Watch 2025)",
+    "fa": "در ژوئن ۲۰۲۵ کاهش بودجه هزاران مرکز آموزشی را بست و تحصیل حدود ۳۰۴٬۰۰۰ کودک متوقف شد (Human Rights Watch 2025)"
+  },
+  {
+    "k": "1zi61k8p5r1",
+    "en": "In early 2025 over 15% of children in the camps were malnourished, and children treated for severe acute malnutrition were up 27% on a year before (UNICEF 2025)",
+    "fa": "اوایل ۲۰۲۵ بیش از ۱۵٪ کودکان اردوگاه‌ها دچار سوءتغذیه بودند و کودکان درمان‌شده برای سوءتغذیه حاد شدید ۲۷٪ بیشتر از سال قبل بودند (UNICEF 2025)"
+  },
+  {
+    "k": "29gm49qi7tq",
+    "en": "Many of the camps' shelters are at risk of landslides and flash floods (Bangladesh Refugee Relief and Repatriation Commissioner, 2026)",
+    "fa": "بسیاری از پناهگاه‌های اردوگاه در معرض رانش زمین و سیل ناگهانی‌اند (کمیسیون امداد و بازگشت پناهندگان بنگلادش، ۲۰۲۶)"
+  },
+  {
+    "k": "r18ute5fed",
+    "en": "In August 2026, 33,514 Rohingya lived on Bhasan Char, an island in the Bay of Bengal (Bangladesh Refugee Relief and Repatriation Commissioner, 2026)",
+    "fa": "در اوت ۲۰۲۶، ۳۳٬۵۱۴ Rohingya در Bhasan Char، جزیره‌ای در خلیج بنگال، زندگی می‌کردند (کمیسیون امداد و بازگشت پناهندگان بنگلادش، ۲۰۲۶)"
+  },
+  {
+    "k": "kj8dz8ytld",
+    "en": "In 2025 more than 6,500 Rohingya set out by sea, and nearly 900 died or went missing: one in seven, the highest rate of any major refugee sea route in the world (UNHCR 2026)",
+    "fa": "در ۲۰۲۵ بیش از ۶٬۵۰۰ Rohingya با دریا رفتند و نزدیک ۹۰۰ نفر مردند یا ناپدید شدند: یک از هفت، بالاترین نرخ در مسیرهای دریایی پناهندگی بزرگ جهان (UNHCR 2026)"
+  },
+  {
+    "k": "zn1mc1ges0",
+    "en": "By November 2023 just over 600 Rohingya refugees in Bangladesh had been resettled in third countries: 355 in the US, 131 in Canada, 48 in Australia and a few elsewhere (Bangladesh's home ministry, The Irrawaddy 2023)",
+    "fa": "تا نوامبر ۲۰۲۳ کمی بیش از ۶۰۰ پناهنده Rohingya در بنگلادش در کشورهای ثالث پذیرش یافتند: ۳۵۵ در آمریکا، ۱۳۱ در کانada، ۴۸ در استرالیا و چند جای دیگر (وزارت کشور بنگلادش، The Irrawaddy 2023)"
+  },
+  {
+    "k": "21d87154hwt",
+    "en": "Bhasan Char",
+    "fa": "باسان چار"
+  },
+  {
+    "k": "15a4v3utwz1",
+    "en": "Cox's Bazar camps",
+    "fa": "اردوگاه‌های Cox's Bazar"
+  },
+  {
+    "k": "26h77x30hh4",
+    "en": "In 1978, fleeing a military assault, you crossed the Naf River into Bangladesh with your family.",
+    "fa": "در ۱۹۷۸، در فرار از حمله نظامی، با خانواده از رود Naf به بنگلادش گذشتید."
+  },
+  {
+    "k": "xsn5uwhfxn",
+    "en": "In {0}, fleeing persecution, you crossed the border into Bangladesh with your family.",
+    "fa": "در {0}، در فرار از آزار، با خانواده از مرز به بنگلادش گذشتید."
+  },
+  {
+    "k": "1cvea3hqi4k",
+    "en": "In August 2017, fleeing the military's operations, you walked for days with your family and crossed the Naf River. You reached the camps of Cox's Bazar.",
+    "fa": "در اوت ۲۰۱۷، در فرار از عملیات نظامی، روزها با خانواده راه رفتید و از رود Naf گذشتید. به اردوگاه‌های Cox's Bazar رسیدید."
+  },
+  {
+    "k": "1vqkqt12v28",
+    "en": "Fleeing the fighting in Rakhine State, you crossed the border with your family. You reached the camps of Cox's Bazar.",
+    "fa": "در فرار از جنگ در راخین، با خانواده از مرز گذشتید. به اردوگاه‌های Cox's Bazar رسیدید."
+  },
+  {
+    "k": "1kj8lpzu4ji",
+    "en": "a boat lost at sea",
+    "fa": "قایقی گم‌شده در دریا"
+  },
+  {
+    "k": "19kiup1t12s",
+    "en": "You paid a broker and boarded a boat at night. After long days at sea, you reached {0}.",
+    "fa": "به دلال پرداخت کردید و شب سوار قایق شدید. پس از روزهای دریا به {0} رسیدید."
+  },
+  {
+    "k": "2d3v0ykgppp",
+    "en": "You passed the resettlement interviews and left for {0} with your family. It was a country where one day you could hold a nationality.",
+    "fa": "مصاحبه‌های پذیرش را پشت سر گذاشتید و با خانواده به {0} رفتید. کشوری که روزی بتوانید تابعیت داشته باشید."
+  },
+  {
+    "k": "13kkb33hpxj",
+    "en": "In 2012 violence broke out in Rakhine State. Your family lost its home and moved to a camp outside Sittwe.",
+    "fa": "در ۲۰۱۲ در راخین خشونت درگرفت. خانواده خانه‌اش را از دست داد و به اردوگاهی بیرون سیتوی رفت."
+  },
+  {
+    "k": "2537o38i311",
+    "en": "In 2012 violence broke out in Rakhine State. People from neighbouring villages lost their homes and moved to camps.",
+    "fa": "در ۲۰۱۲ در راخین خشونت درگرفت. مردم روستاهای همسایه خانه‌شان را از دست دادند و به اردوگاه‌ها رفتند."
+  },
+  {
+    "k": "1brxynr431r",
+    "en": "the military operations in Rakhine State in 2017",
+    "fa": "عملیات نظامی در راخین در ۲۰۱۷"
+  },
+  {
+    "k": "zwukg77pg1",
+    "en": "In August 2017 most people in the villages around you crossed the border. Your family stayed.",
+    "fa": "در اوت ۲۰۱۷ بیشتر مردم روستاهای اطراف از مرز گذشتند. خانواده شما ماند."
+  },
+  {
+    "k": "6lvzzcynys",
+    "en": "The military took young men from the village by force. One was a boy of fifteen.",
+    "fa": "ارتش مردان جوان را از روستا به زور برد. یکی پسر پانزده‌ساله بود."
+  },
+  {
+    "k": "146bwxzou0m",
+    "en": "Under an agreement between the two countries, you went back to your village in Rakhine with your family.",
+    "fa": "طبق توافق دو کشور، با خانواده به روستایتان در راخین برگشتید."
+  },
+  {
+    "k": "tuz6om46t5",
+    "en": "Under the repatriation agreement, you went back to your village in Rakhine with your family.",
+    "fa": "طبق توافق بازگشت، با خانواده به روستایتان در راخین برگشتید."
+  },
+  {
+    "k": "vdsutq6758",
+    "en": "hunger and disease in Bangladesh's camps in 1978",
+    "fa": "گرسنگی و بیماری در اردوگاه‌های بنگلادش در ۱۹۷۸"
+  },
+  {
+    "k": "9cf5jop7lx",
+    "en": "At the distribution point your family got rice and oil with its food vouchers. Each person's share is worth a few dollars a month.",
+    "fa": "در نقطه توزیع خانواده با کوپن غذایی برنج و روغن گرفت. سهم هر نفر چند دلار در ماه ارزش دارد."
+  },
+  {
+    "k": "mir2svy6kt",
+    "en": "Not allowed to leave the camp to work, you queued for a 'volunteer' post with an aid agency.",
+    "fa": "اجازه نداشتید برای کار از اردوگاه بیرون بروید؛ برای پست «داوطلبانه» با آژانس کمک در صف ایستادید."
+  },
+  {
+    "k": "1qot7wjlo16",
+    "en": "You learned that however long you studied at the learning centre, there would be no recognised certificate.",
+    "fa": "فهمیدید هر قدر در مرکز آموزشی درس بخوانید، گواهی معتبر نخواهید داشت."
+  },
+  {
+    "k": "22axiufr1pg",
+    "en": "In the monsoon you lay awake at night, afraid your bamboo shelter on the hillside would come down.",
+    "fa": "در موسم باران شب‌ها بیدار می‌ماندید، می‌ترسید پناهگاه بامبو روی شیب زمین فرو بریزد."
+  },
+  {
+    "k": "91d34pod7c",
+    "en": "As a small child you were given supplementary food at a nutrition centre.",
+    "fa": "کودکی غذای تکمیلی در مرکز تغذیه گرفتید."
+  },
+  {
+    "k": "ipylgnojgz",
+    "en": "New neighbours from Rakhine put up shelters at the edge of the camp.",
+    "fa": "همسایگان تازه از راخین در لبه اردوگاه پناهگاه ساختند."
+  },
+  {
+    "k": "ha4mbv0ohv",
+    "en": "Your learning centre closed. They said there was not enough money.",
+    "fa": "مرکز آموزشی شما بسته شد. گفتند پول کافی نیست."
+  },
+  {
+    "k": "2dfrhtmyk4z",
+    "en": "Your family moved by boat to Bhasan Char, an island in the Bay of Bengal. Your relatives in Cox's Bazar were far away now.",
+    "fa": "خانواده با قایق به Bhasan Char، جزیره‌ای در خلیج بنگال، رفت. بستگان در Cox's Bazar دور شدند."
+  },
+  {
+    "k": "1k2qk23gyjl",
+    "en": "Free movement in the European Community",
+    "fa": "آزادی حرکت در جامعه اروپا"
+  },
+  {
+    "k": "1fccshok648",
+    "en": "Free movement in the European Union",
+    "fa": "آزادی حرکت در اتحادیه اروپا"
+  },
+  {
+    "k": "1wujqbzkjma",
+    "en": "The UK and Ireland’s Common Travel Area",
+    "fa": "منطقه سفر مشترک بریتانیا و ایرلند"
+  },
+  {
+    "k": "20stntlu292",
+    "en": "The ECOWAS free movement protocol",
+    "fa": "پروتکل آزادی حرکت ECOWAS"
+  },
+  {
+    "k": "k2morvt670",
+    "en": "Free movement within the Alliance of Sahel States (AES)",
+    "fa": "آزادی حرکت درون اتحاد دولت‌های ساحل (AES)"
+  },
+  {
+    "k": "1uim4ufc0by",
+    "en": "Free movement that ECOWAS and the Alliance of Sahel States (AES) recognise for each other's citizens",
+    "fa": "آزادی حرکتی که ECOWAS و اتحاد دولت‌های ساحل (AES) برای شهروندان یکدیگر به رسمیت می‌شناسند"
+  },
+  {
+    "k": "vduvyhpoxf",
+    "en": "The Mercosur residence agreement",
+    "fa": "توافق اقامت Mercosur"
+  },
+  {
+    "k": "21wz44fb015",
+    "en": "The Trans-Tasman arrangement",
+    "fa": "ترتیبات Trans-Tasman"
+  },
+  {
+    "k": "1qert1sdjz",
+    "en": "The India–Nepal friendship treaty",
+    "fa": "پیمان دوستی هند و نپال"
+  },
+  {
+    "k": "z2o6j458jw",
+    "en": "the Communist Party of China",
+    "fa": "حزب کومونیست چین"
+  },
+  {
+    "k": "11pi1299w53",
+    "en": "The Communist Party of China has about 99 million members, about one adult in 11 or 12 (CPC Organization Department, 2023)",
+    "fa": "حزب کومونیست چین حدود ۹۹ میلیون عضو دارد، حدود یک بزرگسال از هر ۱۱ یا ۱۲ (اداره سازماندهی CPC، ۲۰۲۳)"
+  },
+  {
+    "k": "1khp0xwkcxl",
+    "en": "the Communist Party of Vietnam",
+    "fa": "حزب کومونیست ویتنام"
+  },
+  {
+    "k": "2a9d5j4t65x",
+    "en": "The Communist Party of Vietnam has about 5.6 million members, about one adult in 13 (2024)",
+    "fa": "حزب کومونیست ویتنام حدود ۵٫۶ میلیون عضو دارد، حدود یک بزرگسال از هر ۱۳ (۲۰۲۴)"
+  },
+  {
+    "k": "1y5cyy041eg",
+    "en": "the Lao People’s Revolutionary Party",
+    "fa": "حزب انقلابی مردم لائوس"
+  },
+  {
+    "k": "1n7n0eift8l",
+    "en": "The Lao People’s Revolutionary Party has about 350,000 members, about one adult in 14 (2021)",
+    "fa": "حزب انقلابی مردم لائوس حدود ۳۵۰٬۰۰۰ عضو دارد، حدود یک بزرگسال از هر ۱۴ (۲۰۲۱)"
+  },
+  {
+    "k": "14oj6m2taux",
+    "en": "the Communist Party of Cuba",
+    "fa": "حزب کومونیست کوبا"
+  },
+  {
+    "k": "170oyikmi4k",
+    "en": "The Communist Party of Cuba has about 700,000 members, about one adult in 13 (2021)",
+    "fa": "حزب کومونیست کوبا حدود ۷۰۰٬۰۰۰ عضو دارد، حدود یک بزرگسال از هر ۱۳ (۲۰۲۱)"
+  },
+  {
+    "k": "1yv3yqfjcr5",
+    "en": "the Workers’ Party of Korea",
+    "fa": "حزب کارگران کره"
+  },
+  {
+    "k": "7anw31x5p3",
+    "en": "Outside estimates put the Workers’ Party of Korea at 6 million members or more, about one adult in four or five",
+    "fa": "برآوردهای بیرونی حزب کارگران کره را ۶ میلیون عضو یا بیشتر می‌دانند، حدود یک بزرگسال از هر چهار یا پنج"
+  },
+  {
+    "k": "1anbb2h158j",
+    "en": "the Communist Party of the Soviet Union",
+    "fa": "حزب کومونیست اتحاد شوروی"
+  },
+  {
+    "k": "sj41r581qt",
+    "en": "At the 27th Party Congress in 1986 the Communist Party of the Soviet Union had about 19 million members and candidates, about one adult in ten",
+    "fa": "در کنگره ۲۷ حزب در ۱۹۸۶ حزب کومونیست اتحاد شوروی حدود ۱۹ میلیون عضو و کاندید داشت، حدود یک بزرگسال از هر ده"
+  },
+  {
+    "k": "28s1ohhbd4m",
+    "en": "the Socialist Unity Party of Germany",
+    "fa": "حزب وحدت سوسیالیست آلمان"
+  },
+  {
+    "k": "1wgl0xq5pa0",
+    "en": "Before the upheaval of 1989 the Socialist Unity Party had about 2.3 million members, about one in seven of East Germany’s 16.4 million people",
+    "fa": "پیش از تحولات ۱۹۸۹ حزب وحدت سوسیالیست حدود ۲٫۳ میلیون عضو داشت، حدود یک از هر هفت از ۱۶٫۴ میلیون نفر آلمان شرقی"
+  },
+  {
+    "k": "1qc6d953poc",
+    "en": "On becoming an officer, you joined {0}.",
+    "fa": "با افسر شدن به {0} پیوستید."
+  },
+  {
+    "k": "rgbksjowrh",
+    "en": "In 2024, 668,126 of the 864,245 foreign nationals of Korean descent living in South Korea held Chinese nationality. China counts 1,702,479 Korean Chinese (Statistics Korea; China's 2020 census)",
+    "fa": "در ۲۰۲۴، ۶۶۸٬۱۲۶ از ۸۶۴٬۲۴۵ اتباع خارجی کره‌ای‌تبار ساکن کره جنوبی تابعیت چین داشتند. چین ۱٬۷۰۲٬۴۷۹ چینی کره‌ای می‌شمارد (Statistics Korea؛ سرشماری ۲۰۲۰ چین)"
+  },
+  {
+    "k": "ls530hftkr",
+    "en": "After China and South Korea established diplomatic ties in 1992, many more Korean Chinese went to work in Korea on relatives' invitations or as industrial trainees. China counted 1,702,479 Korean Chinese in 2020 (Chinese census)",
+    "fa": "پس از برقراری روابط دیپلماتیک چین و کره جنوبی در ۱۹۹۲، چینی‌های کره‌ای بیشتری با دعوت بستگان یا به‌عنوان کارآموز صنعتی به کره رفتند. چین در ۲۰۲۰ ۱٬۷۰۲٬۴۷۹ چینی کره‌ای شمرد (سرشماری چین)"
+  },
+  {
+    "k": "1bjzupqt1fs",
+    "en": "high blood pressure",
+    "fa": "فشار خون بالا"
+  },
+  {
+    "k": "13s7yv16bsc",
+    "en": "diabetes",
+    "fa": "دیابت"
+  },
+  {
+    "k": "937nihowjj",
+    "en": "angina",
+    "fa": "آنژین"
+  },
+  {
+    "k": "e13b0gukgf",
+    "en": "The tests showed {0}.",
+    "fa": "آزمایش‌ها {0} را نشان داد."
+  },
+  {
+    "k": "1tn324goyka",
+    "en": "You were told your blood pressure is borderline. Less soup and fewer salty side dishes, and keep moving, they said.",
+    "fa": "گفتند فشار خونتان مرزی است. کمتر آبگوشت و غذاهای شور، و فعال بمانید."
+  },
+  {
+    "k": "ysasg9jwjv",
+    "en": "You were told your blood pressure is borderline. Less salt, and keep moving, they said.",
+    "fa": "گفتند فشار خونتان مرزی است. کمتر نمک، و فعال بمانید."
+  },
+  {
+    "k": "1y0mect6l7t",
+    "en": "You were told your blood sugar is a little high. Fewer sweet drinks, less white rice and white bread, and keep moving, they said.",
+    "fa": "گفتند قند خونتان کمی بالاست. کمتر نوشیدنی شیرین، کمتر برنج سفید و نان سفید، و فعال بمانید."
+  },
+  {
+    "k": "1tfnxh728eu",
+    "en": "smartphone",
+    "fa": "گوشی هوشمند"
+  },
+  {
+    "k": "uiivvavay1",
+    "en": "Mobile phone",
+    "fa": "تلفن همراه"
+  },
+  {
+    "k": "1a3glapoohp",
+    "en": "bicycle",
+    "fa": "دوچرخه"
+  },
+  {
+    "k": "ff9ek6ylw5",
+    "en": "motorbike",
+    "fa": "موتورسیکلت"
+  },
+  {
+    "k": "285jm128n1i",
+    "en": "car",
+    "fa": "خودرو"
+  }
+]

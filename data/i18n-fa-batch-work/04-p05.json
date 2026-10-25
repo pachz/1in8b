@@ -1,0 +1,402 @@
+[
+  {
+    "k": "1307f6kdy7z",
+    "en": "Out of prison, {0} stood at your door. After a long hesitation, they bowed their head. “I'm sorry. I want to start again.”"
+  },
+  {
+    "k": "n2amfkruce",
+    "en": "Out of prison, your {0} came to see you. At the door, after a long hesitation, they bowed their head. “I'm sorry. I want to start again.”"
+  },
+  {
+    "k": "1yvayizfd34",
+    "en": "Prisoners who had visitors were 13% less likely to reoffend after release (Minnesota Department of Corrections 2011)"
+  },
+  {
+    "k": "mf0ay8oblv",
+    "en": "Hold them"
+  },
+  {
+    "k": "whta7iyayu",
+    "en": "Family again"
+  },
+  {
+    "k": "166gkprbj3p",
+    "en": "Say you still need time"
+  },
+  {
+    "k": "ak74wb1jg5",
+    "en": "Until you are ready"
+  },
+  {
+    "k": "1q7v2s6d8ln",
+    "en": "Without a word, you held {0}. That evening you sat at one table together for the first time in years."
+  },
+  {
+    "k": "28mxp9uisce",
+    "en": "You held your {0}. That holiday, the brothers and sisters were all together again for the first time in years."
+  },
+  {
+    "k": "nfsggvc99y",
+    "en": "You said it was still too hard. {0} nodded and turned away."
+  },
+  {
+    "k": "zt6nqq1git",
+    "en": "Want a smoke?"
+  },
+  {
+    "k": "irt11967us",
+    "en": "Your friends offer you a cigarette. Smoking together feels like being part of the group, and a little grown-up."
+  },
+  {
+    "k": "vd96nqnvqn",
+    "en": "Tobacco use in {0} ({1}): {2}% (WHO 2020, age-standardized)"
+  },
+  {
+    "k": "fvsy16adtr",
+    "en": "Try one"
+  },
+  {
+    "k": "lfohft1087",
+    "en": "Fit in with friends · can become a habit"
+  },
+  {
+    "k": "29xbeg9r2c3",
+    "en": "You started smoking with your friends. A cigarette seemed to settle your nerves."
+  },
+  {
+    "k": "vszv31vyo3",
+    "en": "{0} soon smelled the smoke on your clothes, and you got a real scolding."
+  },
+  {
+    "k": "1k7nejynat6",
+    "en": "The calm smokers feel is mostly craving briefly relieved. People who quit are less anxious and depressed and in a better mood within months (Taylor et al., BMJ 2014)"
+  },
+  {
+    "k": "18acyg06lqt",
+    "en": "You smoked a few times, then stopped."
+  },
+  {
+    "k": "28te7zvqz8p",
+    "en": "Quit smoking?"
+  },
+  {
+    "k": "u95dge6w9k",
+    "en": "You've been coughing more and more. Is it time to quit?"
+  },
+  {
+    "k": "1jb6wzbljwp",
+    "en": "On average, smokers lose more than 10 years of life (CDC)."
+  },
+  {
+    "k": "v4bkkbhk5d",
+    "en": "Of US smokers who tried to quit in a year, about 13% had stayed off cigarettes for over six months (CDC 2015)"
+  },
+  {
+    "k": "12av60ww8ga",
+    "en": "Try to quit"
+  },
+  {
+    "k": "8pifo5kpfv",
+    "en": "If it works, your health recovers"
+  },
+  {
+    "k": "1qcnlwfqlbt",
+    "en": "Keep smoking"
+  },
+  {
+    "k": "1mh55tj1ipq",
+    "en": "You quit smoking!"
+  },
+  {
+    "k": "aui04pj6tm",
+    "en": "You tried to quit, but couldn't."
+  },
+  {
+    "k": "1emwg0wf7fv",
+    "en": "Leave for the city?"
+  },
+  {
+    "k": "24x2o5rrarj",
+    "en": "There is more work in the cities of {0}. But you don't know anyone there."
+  },
+  {
+    "k": "1oxuy49w9at",
+    "en": "About {2}% of people in {1} lived in cities in {0} (UN World Urbanization Prospects)"
+  },
+  {
+    "k": "8bncp2j3fz",
+    "en": "Share of people living in cities in {0}: {1}% (UN-Habitat 2023)"
+  },
+  {
+    "k": "1n5xqdyutdb",
+    "en": "Income↑ Relationships↓"
+  },
+  {
+    "k": "qku7t6gpfi",
+    "en": "Stay in your hometown"
+  },
+  {
+    "k": "11zx4ma1cjn",
+    "en": "You moved to {0}."
+  },
+  {
+    "k": "fmbuhgm980",
+    "en": "Where your child lives · through family sponsorship"
+  },
+  {
+    "k": "1oeff798dq5",
+    "en": "Where you once lived · you have the right to stay"
+  },
+  {
+    "k": "8xrn4ynu6z",
+    "en": "Warm and cheaper to live in · free to move there"
+  },
+  {
+    "k": "31sqzfbs46",
+    "en": "Warm and cheaper to live in · a retirement visa"
+  },
+  {
+    "k": "1lzqugs2pyb",
+    "en": "Go back to where you lived for so long?"
+  },
+  {
+    "k": "1jd0ujxdqg2",
+    "en": "Where to live in retirement?"
+  },
+  {
+    "k": "2emam0tq5km",
+    "en": "You moved to {0} after retiring, but there is also a way back to the country where you lived for so long, or to where your children live. Your pension comes wherever you live."
+  },
+  {
+    "k": "qjkvmbvhqh",
+    "en": "Now that you have stopped working, spending your old age in another country is possible too. Your pension comes wherever you live."
+  },
+  {
+    "k": "f1c7l2rmko",
+    "en": "Your spouse would come too."
+  },
+  {
+    "k": "simbq1lm36",
+    "en": "But it means leaving the neighbourhood you have long lived in, your friends and a familiar language."
+  },
+  {
+    "k": "mwccglqi5m",
+    "en": "Britain pays more than a million state pensions abroad, most of them to retirees in Australia, Spain, Canada, the US and Ireland (UK Department for Work and Pensions)"
+  },
+  {
+    "k": "104i346q8lm",
+    "en": "Stay where you live now"
+  },
+  {
+    "k": "2c6f0p3hqrr",
+    "en": "Near the people you know"
+  },
+  {
+    "k": "1kx6grhh3x8",
+    "en": "Rather than going back, you chose to spend the rest of your old age here."
+  },
+  {
+    "k": "2dunld3yan2",
+    "en": "Rather than going far, you chose to spend your old age in the neighbourhood you know."
+  },
+  {
+    "k": "ytp2totym8",
+    "en": "You left {0} and moved to {1}, where your child lives. Now you live close to them. (−{2})"
+  },
+  {
+    "k": "2f6jyamxav8",
+    "en": "You left {0} and went back to {1}, where you once lived. The familiar streets were a welcome sight. (−{2})"
+  },
+  {
+    "k": "2f7vzx4crax",
+    "en": "You left {0} to spend your old age in {1}. The warm weather and low prices were welcome. (−{2})"
+  },
+  {
+    "k": "11w40912gvl",
+    "en": "You left {0} to spend your old age in {1}. The warm weather and low prices were welcome, but with little of the language even shopping was hard for a while. (−{2})"
+  },
+  {
+    "k": "tq0pyya1d4",
+    "en": "As a citizen of {0}, you can go back to live and work there without a visa."
+  },
+  {
+    "k": "23mi8xh0v2h",
+    "en": "{0} lets you go and work there without a visa."
+  },
+  {
+    "k": "z490fyfhyb",
+    "en": "It is your spouse's country, so you can go on a spouse visa."
+  },
+  {
+    "k": "ru2bu6io93",
+    "en": "As an ethnic Korean from China, you can go and work in Korea on a Visit and Employment (H-2) or Overseas Korean (F-4) visa."
+  },
+  {
+    "k": "nrn4ol76sv",
+    "en": "You can go and work in Korea on an invitation from relatives there or as an industrial trainee."
+  },
+  {
+    "k": "1xvyml3l2uv",
+    "en": "You can apply for a skilled worker visa."
+  },
+  {
+    "k": "21yvq87eq55",
+    "en": "You could go on a working holiday visa or with an employer's sponsorship."
+  },
+  {
+    "k": "1akb9r8gea8",
+    "en": "You can go as a migrant worker through a recruitment agency."
+  },
+  {
+    "k": "dv9t1s45z2",
+    "en": "A regular visa is out of reach; the only way is an irregular route through a broker."
+  },
+  {
+    "k": "f2jkt2741v",
+    "en": "Income↑ Loneliness↑"
+  },
+  {
+    "k": "jd2v2jpla4",
+    "en": "Income↑ · with your family"
+  },
+  {
+    "k": "aipx03wp8o",
+    "en": "Income↑ Loneliness↑ · family stays home"
+  },
+  {
+    "k": "2bnshyjpgeq",
+    "en": "Leave for {0}"
+  },
+  {
+    "k": "w2mto7e5cx",
+    "en": "Risky route, income↑ · family stays home"
+  },
+  {
+    "k": "1suwlv2ptog",
+    "en": "Risky route, income↑"
+  },
+  {
+    "k": "52d2i7v41t",
+    "en": "Leave your current work"
+  },
+  {
+    "k": "t6iyquy5c8",
+    "en": "let the home"
+  },
+  {
+    "k": "1qug6wlj53h",
+    "en": "Sell the home and leave for {0}"
+  },
+  {
+    "k": "2n3owe9n2k",
+    "en": "take the money with you"
+  },
+  {
+    "k": "rm4t23ovvf",
+    "en": "Go to {1} with {0}"
+  },
+  {
+    "k": "160gyihc4k8",
+    "en": "About {0} · {1} must want to come"
+  },
+  {
+    "k": "4m5ucpkmlg",
+    "en": "Go to {0} and bring {1} over once settled"
+  },
+  {
+    "k": "1ctil709sz7",
+    "en": "The invitation may take years · {0} must want to come"
+  },
+  {
+    "k": "1mueuo90oau",
+    "en": "Move to your spouse's country?"
+  },
+  {
+    "k": "1y865anz5kc",
+    "en": "A chance to move on to another country"
+  },
+  {
+    "k": "wswiiu3pc",
+    "en": "A chance to go abroad"
+  },
+  {
+    "k": "12weissxx0x",
+    "en": "Hospitals in {0} are hiring a {1} like you. You may have to pass that country's licensing exam again. It costs about {2} (in US terms)."
+  },
+  {
+    "k": "1vw2ktbvjd2",
+    "en": "After looking, you found ways to work in two places. {0}: {1} {2}: {3}"
+  },
+  {
+    "k": "1x3grki1e1l",
+    "en": "There is a way to live in {0} with your spouse. {1} It would cost about {2} (in US terms)."
+  },
+  {
+    "k": "gkejskugco",
+    "en": "A way to work in {0} has opened up. {1} It would cost about {2} (in US terms)."
+  },
+  {
+    "k": "1en60oacdks",
+    "en": "Family migration is the largest route of permanent migration to OECD countries (OECD International Migration Outlook)"
+  },
+  {
+    "k": "29szm2cbbpg",
+    "en": "GDP per person (PPP) in {0} is about {2} times that of {1} · About 281 million international migrants worldwide (IOM 2024)"
+  },
+  {
+    "k": "1qacot4vbzl",
+    "en": "Stay"
+  },
+  {
+    "k": "2dnuj7nyk3b",
+    "en": "an accident on the migration route"
+  },
+  {
+    "k": "1ko2i0cs64o",
+    "en": "Your visa was refused because of your criminal record. Only the application fees were lost. (−{0})"
+  },
+  {
+    "k": "bbuizfc6kd",
+    "en": "You borrowed to pay the recruitment fee and the flight. The first few years of wages will go to paying it back."
+  },
+  {
+    "k": "zi2aawn6uv",
+    "en": "You arrived in {0}, your spouse's country. A new life begins."
+  },
+  {
+    "k": "1kxcvzkk090",
+    "en": "You arrived in {0}. A new life begins."
+  },
+  {
+    "k": "2062awj6zvi",
+    "en": "You have no permit to stay."
+  },
+  {
+    "k": "1ivd9a9wvnc",
+    "en": "First you need to find work."
+  },
+  {
+    "k": "15qe8e3glow",
+    "en": "You were caught at the border and sent back."
+  },
+  {
+    "k": "cctxb3knvd",
+    "en": "Your visa was refused. Only the application fees were lost. (−{0})"
+  },
+  {
+    "k": "8nsm7tzd4",
+    "en": "A term abroad?"
+  },
+  {
+    "k": "wgwjpndqhf",
+    "en": "Your university’s Erasmus exchange can send you to a university in {0} for a term. There is a grant, but living costs run a little higher. About {1} (in US terms)."
+  },
+  {
+    "k": "1jmeg09yr2",
+    "en": "Today about 470,000 European university students a year study in another country on Erasmus. Those who went work abroad later more often (European Commission)"
+  },
+  {
+    "k": "127fzr0fdk3",
+    "en": "Go"
+  }
+]

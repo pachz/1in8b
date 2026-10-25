@@ -1,0 +1,402 @@
+[
+  {
+    "k": "kbahq789ad",
+    "en": "You told an old friend how hard things had been. Your friend stayed with you late into the night."
+  },
+  {
+    "k": "2g9cjmup1n5",
+    "en": "You decided to tell no one and bear it alone."
+  },
+  {
+    "k": "1gyx4gzzri7",
+    "en": "Ask for help?"
+  },
+  {
+    "k": "10zy8hcus31",
+    "en": "{0} years of bearing it alone. There are good days, but your heart is still heavy."
+  },
+  {
+    "k": "2exfu6g9hl5",
+    "en": "Free"
+  },
+  {
+    "k": "1das6r4i0ts",
+    "en": "Bear it alone a while longer"
+  },
+  {
+    "k": "p5awnl41ue",
+    "en": "You finally started the counselling you had put off for so long."
+  },
+  {
+    "k": "pmpi9tynzk",
+    "en": "For the first time, you spoke of what you had carried alone so long. More people than you thought had been through a time like it."
+  },
+  {
+    "k": "2drkvkeny7j",
+    "en": "The hurt you caused {0} weighs on you."
+  },
+  {
+    "k": "227o8w8itfa",
+    "en": "The hurt you caused your spouse weighs on you."
+  },
+  {
+    "k": "l8e371ok6j",
+    "en": "The hurt you caused your children weighs on you."
+  },
+  {
+    "k": "1ey8w876bc3",
+    "en": "The hurt you caused your brothers and sisters weighs on you."
+  },
+  {
+    "k": "17flulnji3y",
+    "en": "The people who were harmed by what you did weigh on you."
+  },
+  {
+    "k": "r6k74mc1ht",
+    "en": "Ask {0} for forgiveness"
+  },
+  {
+    "k": "292dzqrunfs",
+    "en": "Go to {0} and ask for forgiveness"
+  },
+  {
+    "k": "17d3ltubo46",
+    "en": "Tell your spouse everything and ask for forgiveness"
+  },
+  {
+    "k": "4dtd4et1kg",
+    "en": "Tell your children what happened and say sorry"
+  },
+  {
+    "k": "2acna5ud9y1",
+    "en": "Go to your brothers and sisters and ask for forgiveness"
+  },
+  {
+    "k": "1u95bocyhwf",
+    "en": "A way back"
+  },
+  {
+    "k": "27r0s4dps4m",
+    "en": "You have not been out of prison long."
+  },
+  {
+    "k": "2ckiv51soqh",
+    "en": "It has been {0} years since you left prison."
+  },
+  {
+    "k": "zeo79k3s5h",
+    "en": "What is done cannot be undone, but there are things you can do from now on."
+  },
+  {
+    "k": "16z18h4isnb",
+    "en": "Restorative justice conferences, where offenders sit down with those they harmed, brought a modest but steady drop in reoffending, and the crimes they prevented were worth 3.7 to 8.1 times what they cost (Strang et al. 2013, Campbell systematic review)"
+  },
+  {
+    "k": "16ghlr7ztvw",
+    "en": "Forgiveness may not come yet"
+  },
+  {
+    "k": "2cmsmlo3zn5",
+    "en": "Apologise to those you harmed and make it up to them"
+  },
+  {
+    "k": "1ztymojmian",
+    "en": "Help young people heading down the same road"
+  },
+  {
+    "k": "ghryuxp5hb",
+    "en": "Volunteering as a mentor to young people leaving juvenile detention"
+  },
+  {
+    "k": "18e2y2zvkfl",
+    "en": "Quietly live an honest life"
+  },
+  {
+    "k": "nldl27gqgj",
+    "en": "Trust takes time"
+  },
+  {
+    "k": "1dgeraqjlcz",
+    "en": "You sat down in front of your mother and bowed your head. She cried for a long while, then took your hand."
+  },
+  {
+    "k": "1euaq2q2pkp",
+    "en": "You went to {0} and bowed your head. Your mother cried for a long time, then asked whether you were eating properly."
+  },
+  {
+    "k": "xemko9hcht",
+    "en": "You begged your father's forgiveness. He was silent for a long time, then patted your shoulder and said that was enough now."
+  },
+  {
+    "k": "143i52epj5r",
+    "en": "You went to your father and begged his forgiveness. He was silent for a long time, then patted your shoulder and said that was enough now."
+  },
+  {
+    "k": "tlj2e452xb",
+    "en": "You told your spouse everything and asked for forgiveness. The answer was: let's start again from the beginning."
+  },
+  {
+    "k": "gsflp94j93",
+    "en": "For the first time, you told your children about it and said sorry. One of them quietly took your hand."
+  },
+  {
+    "k": "e5h83eek7y",
+    "en": "You went to your brothers and sisters and asked for forgiveness. That holiday, you all sat together for the first time in years."
+  },
+  {
+    "k": "179sl7or8hy",
+    "en": "Though you lived under the same roof, your mother still would not meet your eyes. Even so, you decided to greet her first every morning."
+  },
+  {
+    "k": "wze5ix5zlv",
+    "en": "Your mother said she could not see you yet. Still, you decided to go to her door every holiday."
+  },
+  {
+    "k": "1gt78qkih9y",
+    "en": "Though you lived under the same roof, your father still would not speak with you. Even so, you decided to greet him first every morning."
+  },
+  {
+    "k": "1tuoizoroon",
+    "en": "Your father would not open the door. Still, you decided to go every holiday."
+  },
+  {
+    "k": "1zbqpqi0w29",
+    "en": "Your spouse could not open up to you yet. You said you would wait."
+  },
+  {
+    "k": "1ea6klkfr1s",
+    "en": "The children were still awkward with you. You decided to come closer slowly."
+  },
+  {
+    "k": "1nlk6s417yg",
+    "en": "Your brothers and sisters were not ready to welcome you. You decided to wait."
+  },
+  {
+    "k": "wjbb66s9s",
+    "en": "You went to those harmed by what you did, apologised, and began paying them back with what you had saved. (−{0})"
+  },
+  {
+    "k": "1xcuf3xqjhq",
+    "en": "You began mentoring young people just out of juvenile detention. One who heard your story came back the next week."
+  },
+  {
+    "k": "wyjn5s2li2",
+    "en": "You made no excuses to anyone and simply worked, day after day. Trust, you thought, is built with time, not words."
+  },
+  {
+    "k": "k8mpnczdn3",
+    "en": "Dip into public funds?"
+  },
+  {
+    "k": "1g1gczkm387",
+    "en": "Dip into the company's money?"
+  },
+  {
+    "k": "27s7ss4ny7h",
+    "en": "Debt collectors call several times a day. You happen to be in charge of {0}, and if you borrowed some and put it back, it seems no one would know."
+  },
+  {
+    "k": "t60jgprcls",
+    "en": "public funds"
+  },
+  {
+    "k": "1impf0u19s0",
+    "en": "the company's money"
+  },
+  {
+    "k": "2fq7mykvsx6",
+    "en": "43% of embezzlement and fraud at work comes to light through a tip, usually about a year after it starts (ACFE 2024)"
+  },
+  {
+    "k": "7txlp1w24",
+    "en": "Don't touch it"
+  },
+  {
+    "k": "dtpu2x7ys3",
+    "en": "Borrow it, just for a while"
+  },
+  {
+    "k": "15m6zls52sp",
+    "en": "Covers the debt · if found: fired and in court"
+  },
+  {
+    "k": "1j7g07bf9ih",
+    "en": "A risky offer"
+  },
+  {
+    "k": "ggpsa9t2aj",
+    "en": "{0} and {1}. Someone you know offers you risky work: \"Help me out just once, and there's big money in it for you.\""
+  },
+  {
+    "k": "2bf004n1l1r",
+    "en": "There's no work,"
+  },
+  {
+    "k": "1e67vy10p57",
+    "en": "Money is tight,"
+  },
+  {
+    "k": "1djx4gk4735",
+    "en": "your debts keep piling up"
+  },
+  {
+    "k": "12mz5s8d4fq",
+    "en": "life shows no sign of getting better"
+  },
+  {
+    "k": "1p7aaxpvu5s",
+    "en": "More than 10 million people are held in prisons around the world (World Prison Brief)"
+  },
+  {
+    "k": "2269b9jmovz",
+    "en": "Things stay as they are"
+  },
+  {
+    "k": "zsis1ix5rl",
+    "en": "Accept the offer"
+  },
+  {
+    "k": "85ao3tb2ap",
+    "en": "Big money promised · prison if you're caught"
+  },
+  {
+    "k": "25rdy9vefh8",
+    "en": "You left it alone. The calls kept coming, but you could sleep at night."
+  },
+  {
+    "k": "1xk1g10qo16",
+    "en": "You said no. Things stayed as they were, but your mind was at peace."
+  },
+  {
+    "k": "123wt5xion4",
+    "en": "You dipped into {0}. The urgent debt was covered, but from that day your hands shook whenever an audit was announced."
+  },
+  {
+    "k": "1xxmg19x53u",
+    "en": "You were caught and put on trial. You were sentenced to {0} years in prison."
+  },
+  {
+    "k": "1bvlji4wo1n",
+    "en": "Your spouse {0} asked what you were doing these days, and you could not answer."
+  },
+  {
+    "k": "1n30m4vaxnv",
+    "en": "{0} asked what you were doing these days, and you could not answer."
+  },
+  {
+    "k": "2997wvd7lun",
+    "en": "The big money never came. All you got was a few weeks' pay, and from that day on, a knock at the door often woke you in the night."
+  },
+  {
+    "k": "cm2i36yuro",
+    "en": "In a study of a Chicago drug gang's books, the rank and file earned around the minimum wage (Levitt & Venkatesh 2000)"
+  },
+  {
+    "k": "yh8m3squj6",
+    "en": "The evening out with colleagues is over."
+  },
+  {
+    "k": "1fkfdfceftd",
+    "en": "At the holiday you drank with relatives until late."
+  },
+  {
+    "k": "1806dqbn7be",
+    "en": "The night out with friends is over."
+  },
+  {
+    "k": "1vc89idb7dl",
+    "en": "A night of drinking"
+  },
+  {
+    "k": "1e3kkdi5gp2",
+    "en": "You've had a few drinks, and your motorbike is parked right outside. Home is 20 minutes away."
+  },
+  {
+    "k": "buzoegz1yc",
+    "en": "You've had a few drinks, and the car is in the car park. Home is a 20-minute drive."
+  },
+  {
+    "k": "18a3u61n3mi",
+    "en": "Last time you got home with no trouble."
+  },
+  {
+    "k": "2fgv89pl3cc",
+    "en": "Drink-driving arrests in Korea fell from 243,000 in 2015 to 118,000 in 2024, but about 44% of those caught are caught again (Samsung Traffic Safety Research Institute 2026)"
+  },
+  {
+    "k": "xu3l855i4t",
+    "en": "At a blood alcohol level of 0.05-0.08%, the risk of dying in a crash is at least six times higher (WHO, Global Road Safety Partnership)"
+  },
+  {
+    "k": "19l5q63cvci",
+    "en": "Call a designated driver"
+  },
+  {
+    "k": "ywsfsbnais",
+    "en": "Call a taxi"
+  },
+  {
+    "k": "17cel81wsk4",
+    "en": "Leave the motorbike, fetch it tomorrow"
+  },
+  {
+    "k": "1m5mdcukssk",
+    "en": "Leave the car, fetch it tomorrow"
+  },
+  {
+    "k": "1obbiak4u80",
+    "en": "A bit of a hassle"
+  },
+  {
+    "k": "l4yyxl9wxj",
+    "en": "Just drive home"
+  },
+  {
+    "k": "1tf4dcsylar",
+    "en": "“It'll be fine” · checks and crashes"
+  },
+  {
+    "k": "drkeowinl8",
+    "en": "You waited for the designated driver in the cold air. When the keys were handed back at your door, you felt relieved."
+  },
+  {
+    "k": "yr0aunarjl",
+    "en": "You took a taxi home and fetched the car the next day."
+  },
+  {
+    "k": "10klrpfk5q9",
+    "en": "You left the motorbike and walked home, then went back for it the next morning."
+  },
+  {
+    "k": "12unugmza4y",
+    "en": "You left the car and took the bus home, then went back for it the next morning."
+  },
+  {
+    "k": "12xr0ggodc0",
+    "en": "On the way home you collided with an oncoming car. Its driver died. You could not lift your head before their family."
+  },
+  {
+    "k": "1vfcrod8l7x",
+    "en": "You missed a light and hit someone crossing the road. They were in hospital for months. You paid the bills and a settlement and bowed your head outside their room. (−{0})"
+  },
+  {
+    "k": "15gvmuwmd8u",
+    "en": "The motorbike skidded on a bend. You badly hurt your leg and spent weeks in hospital."
+  },
+  {
+    "k": "d0io9cx2kb",
+    "en": "You drove into a roadside tree. You were the only one hurt, but you spent weeks in hospital."
+  },
+  {
+    "k": "1qkf4k612og",
+    "en": "You were stopped at a police check on your own street."
+  },
+  {
+    "k": "v7srt8dtta",
+    "en": "You made it home without incident. The next morning you could barely remember the drive."
+  },
+  {
+    "k": "2ff6uypradw",
+    "en": "{0} came back"
+  }
+]

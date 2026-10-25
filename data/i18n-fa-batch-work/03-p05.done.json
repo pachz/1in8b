@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1ki1q3kdhfu",
+    "en": "Didn't get into graduate school at home. Time to look for work.",
+    "fa": "در کشور خود به کارشناسی ارشد راه نیافتید. وقت کار پیدا کردن است."
+  },
+  {
+    "k": "21sfr458qxv",
+    "en": "You won the scholarship! With tuition and living costs covered, you left for university in {0}.",
+    "fa": "بورسیه را بردید! با پوشش شهریه و هزینه زندگی، برای دانشگاه در {0} رفتید."
+  },
+  {
+    "k": "sn10slzdy8",
+    "en": "The first year is spent learning the language.",
+    "fa": "سال اول صرف یادگیری زبان می‌شود."
+  },
+  {
+    "k": "b2etntq6bg",
+    "en": "You did not win the scholarship. You decided to apply to universities at home.",
+    "fa": "بورسیه را نبردید. تصمیم گرفتید در کشور خود برای دانشگاه درخواست دهید."
+  },
+  {
+    "k": "17bddhtgz5z",
+    "en": "A government scholarship covered most of the fees and living costs. What was left came to {0}",
+    "fa": "بورسیه دولتی بیشتر شهریه و هزینه زندگی را پوشش داد. باقی‌مانده به {0} رسید"
+  },
+  {
+    "k": "1tlhigie56q",
+    "en": "It cost {0}",
+    "fa": "هزینه {0} شد"
+  },
+  {
+    "k": "bj6rvda6q8",
+    "en": "{0}: {2} covered {1}, and you paid the rest from your savings.",
+    "fa": "{0}: {2} {1} را پوشش داد و بقیه را از پس‌انداز پرداخت کردید."
+  },
+  {
+    "k": "z92ycj902a",
+    "en": "{0}: {2} covered {1}, and the rest came from your savings and a loan.",
+    "fa": "{0}: {2} {1} را پوشش داد و بقیه از پس‌انداز و وام آمد."
+  },
+  {
+    "k": "1ru849jbs6",
+    "en": "{0}: {2} covered {1}, and the rest became debt.",
+    "fa": "{0}: {2} {1} را پوشش داد و بقیه بدهی شد."
+  },
+  {
+    "k": "1egwdg4e694",
+    "en": "{0}, all of it paid from your savings.",
+    "fa": "{0}، همه از پس‌انداز پرداخت شد."
+  },
+  {
+    "k": "1386hr57y68",
+    "en": "{0}: you paid {1} from your savings, and the rest became debt.",
+    "fa": "{0}: {1} را از پس‌انداز پرداخت کردید و بقیه بدهی شد."
+  },
+  {
+    "k": "39i2tgbizb",
+    "en": "{0}, all of it debt.",
+    "fa": "{0}، همه بدهی شد."
+  },
+  {
+    "k": "4gpylpbk1j",
+    "en": "Accepted to a graduate school in {0}, and off to study abroad.",
+    "fa": "در کارشناسی ارشد در {0} پذیرفته شدید و برای تحصیل در خارج رفتید."
+  },
+  {
+    "k": "1qcsttp2ctr",
+    "en": "Accepted to a university in {0}, and off to study abroad.",
+    "fa": "در دانشگاه {0} پذیرفته شدید و برای تحصیل در خارج رفتید."
+  },
+  {
+    "k": "ig6pgjhanu",
+    "en": "The first year goes to learning the language. ",
+    "fa": "سال اول صرف یادگیری زبان می‌شود. "
+  },
+  {
+    "k": "8pa96l8gg6",
+    "en": "Your place at a university in {0} or your student visa fell through, so you decided to apply at home instead.",
+    "fa": "جای شما در دانشگاه {0} یا ویزای دانشجویی‌تان لغو شد، پس تصمیم گرفتید در کشور خود درخواست دهید."
+  },
+  {
+    "k": "22m95he1bzq",
+    "en": "The place at a graduate school in {0}, or the visa, was refused, so it was the graduate school at home applied to alongside.",
+    "fa": "جای کارشناسی ارشد در {0} یا ویزا رد شد، پس همان کارشناسی ارشد داخلی که همزمان درخواست داده بودید."
+  },
+  {
+    "k": "kgyli6vu5x",
+    "en": "The place at a graduate school in {0}, or the visa, was refused. Time to look for work.",
+    "fa": "جای کارشناسی ارشد در {0} یا ویزا رد شد. وقت کار پیدا کردن است."
+  },
+  {
+    "k": "2c2g1sulbet",
+    "en": "Postpone enlistment",
+    "fa": "به تعویق انداختن فراخوان"
+  },
+  {
+    "k": "11cnmn1bwfg",
+    "en": "Defer for study or other reasons",
+    "fa": "تعویق به خاطر تحصیل یا دلایل دیگر"
+  },
+  {
+    "k": "cfrjlhrgu",
+    "en": "Your health was not good, and the conscription physical put you in grade 4.",
+    "fa": "سلامتی‌تان خوب نبود و معاینه خدمت سربازی شما را در رده ۴ قرار داد."
+  },
+  {
+    "k": "rjg0oognow",
+    "en": "You had not finished high school, so under the rule on schooling you were placed in the supplementary reserve.",
+    "fa": "دبیرستان را تمام نکرده بودید، پس طبق قانون تحصیل در ذخیره مکمل قرار گرفتید."
+  },
+  {
+    "k": "l2t2zefdbq",
+    "en": "That year there were far more men liable to serve than the forces needed on active duty.",
+    "fa": "آن سال مردان مشمول خدمت بسیار بیشتر از نیاز نیروها برای خدمت فعال بودند."
+  },
+  {
+    "k": "kh9jpxmwwb",
+    "en": "The conscription physical put you in grade 4.",
+    "fa": "معاینه خدمت سربازی شما را در رده ۴ قرار داد."
+  },
+  {
+    "k": "gjsvay0cjr",
+    "en": "Call-up notice",
+    "fa": "برگه فراخوان"
+  },
+  {
+    "k": "1vj40maahxt",
+    "en": "Your conscription physical put you in the supplementary reserve, and you are called up as a home-defence conscript (bangwi). After a few weeks of training you will commute from home to a unit or the neighbourhood office and serve about {0} months.",
+    "fa": "معاینه خدمت سربازی شما را در ذخیره مکمل قرار داد و به عنوان سرباز دفاع محلی (bangwi) فراخوانده شدید. پس از چند هفته آموزش، از خانه به یگان یا دفارت محله رفت‌وآمد می‌کنید و حدود {0} ماه خدمت می‌کنید."
+  },
+  {
+    "k": "afmi31d797",
+    "en": "Your conscription physical put you in the supplementary reserve, and you are called up as a public service worker. After basic military training you will commute from home to a public office and serve about {0} months.",
+    "fa": "معاینه خدمت سربازی شما را در ذخیره مکمل قرار داد و به عنوان کارگر خدمات عمومی فراخوانده شدید. پس از آموزش پایه نظامی، از خانه به اداره عمومی رفت‌وآمد می‌کنید و حدود {0} ماه خدمت می‌کنید."
+  },
+  {
+    "k": "25ar2bix7y7",
+    "en": "Your service medical put you in the supplementary reserve, and you are called up as a social service worker. After basic military training you will commute from home to a care facility or public office and serve about {0} months.",
+    "fa": "معاینه پزشکی خدمت شما را در ذخیره مکمل قرار داد و به عنوان کارگر خدمات اجتماعی فراخوانده شدید. پس از آموزش پایه نظامی، از خانه به مرکز مراقبت یا اداره عمومی رفت‌وآمد می‌کنید و حدود {0} ماه خدمت می‌کنید."
+  },
+  {
+    "k": "2bza864nume",
+    "en": "In 1990, of about 450,000 men liable for service, 200,000 went to active duty, 120,000 were called up as home-defence conscripts (bangwi) and 130,000 were exempted (Seoul Shinmun, 1991).",
+    "fa": "در ۱۹۹۰، از حدود ۴۵۰٬۰۰۰ مرد مشمول، ۲۰۰٬۰۰۰ به خدمت فعال رفتند، ۱۲۰٬۰۰۰ به عنوان سرباز دفاع محلی (bangwi) فراخوانده شدند و ۱۳۰٬۰۰۰ معاف شدند (Seoul Shinmun، ۱۹۹۱)."
+  },
+  {
+    "k": "hey5xjs5m1",
+    "en": "Report for duty",
+    "fa": "حضور در یگان"
+  },
+  {
+    "k": "1bijv6gdajr",
+    "en": "{0} months · commute from home",
+    "fa": "{0} ماه · رفت‌وآمد از خانه"
+  },
+  {
+    "k": "gwh48ryvyo",
+    "en": "Postpone the call-up",
+    "fa": "به تعویق انداختن فراخوان"
+  },
+  {
+    "k": "1343d78gn9x",
+    "en": "Apply to the navy",
+    "fa": "برای نیروی دریایی درخواست دهید"
+  },
+  {
+    "k": "2a9zb5vqe6i",
+    "en": "Chance of a place: {0} · {1} months of service · guarding the sea on ships",
+    "fa": "شانس قبولی: {0} · {1} ماه خدمت · نگهبانی دریا روی کشتی‌ها"
+  },
+  {
+    "k": "f2dgpn6bi",
+    "en": "Apply to the air force",
+    "fa": "برای نیروی هوایی درخواست دهید"
+  },
+  {
+    "k": "20v19saxj37",
+    "en": "Chance of a place: {0} · {1} months of service · at airfields and radar sites",
+    "fa": "شانس قبولی: {0} · {1} ماه خدمت · در پایگاه‌ها و سایت‌های رادار"
+  },
+  {
+    "k": "1g9ov21u7df",
+    "en": "Apply for KATUSA",
+    "fa": "برای KATUSA درخواست دهید"
+  },
+  {
+    "k": "i4ehh7he6i",
+    "en": "Chance of a place: {0} · {1} months of service · serving alongside the US Army",
+    "fa": "شانس قبولی: {0} · {1} ماه خدمت · خدمت کنار ارتش آمریکا"
+  },
+  {
+    "k": "1v5aob9sqcv",
+    "en": "Apply to the conscripted police",
+    "fa": "برای پلیس سربازگیر درخواست دهید"
+  },
+  {
+    "k": "2dq4r3qi52r",
+    "en": "Chance of a place: {0} · {1} months of service · helping keep order at a police station",
+    "fa": "شانس قبولی: {0} · {1} ماه خدمت · کمک به حفظ نظم در کلانتری"
+  },
+  {
+    "k": "25enwqjetfe",
+    "en": "Draft notice",
+    "fa": "برگه سربازگیری"
+  },
+  {
+    "k": "1ffb09wovru",
+    "en": "At the draft lottery you drew a red card. Your service lasts about {0} months.",
+    "fa": "در قرعه‌کشی سربازگیری کارت قرمز کشیدید. خدمت شما حدود {0} ماه طول می‌کشد."
+  },
+  {
+    "k": "ijjrqax0ol",
+    "en": "In {0}, every {1} must do military service. It lasts about {2} months.",
+    "fa": "در {0}، هر {1} باید خدمت سربازی کند. حدود {2} ماه طول می‌کشد."
+  },
+  {
+    "k": "1o0wg6ngxt0",
+    "en": "man",
+    "fa": "مرد"
+  },
+  {
+    "k": "bkul7hgm8o",
+    "en": "woman",
+    "fa": "زن"
+  },
+  {
+    "k": "26t208k21sk",
+    "en": "This country is currently in an armed conflict.",
+    "fa": "این کشور در حال حاضر در درگیری مسلحانه است."
+  },
+  {
+    "k": "bsnqs5dv9y",
+    "en": "Enlist in the army",
+    "fa": "در ارتش سرباز شوید"
+  },
+  {
+    "k": "2fs10168h77",
+    "en": "Enlist",
+    "fa": "سرباز شوید"
+  },
+  {
+    "k": "gxbrxa1osj",
+    "en": "{0} months of service",
+    "fa": "{0} ماه خدمت"
+  },
+  {
+    "k": "1sjjpw3rj6e",
+    "en": "You put off the call-up until you graduate.",
+    "fa": "فراخوان را تا فارغ‌التحصیلی به تعویق انداختید."
+  },
+  {
+    "k": "gtrevk1rk7",
+    "en": "You put off the call-up for a year.",
+    "fa": "فراخوان را یک سال به تعویق انداختید."
+  },
+  {
+    "k": "ncs34bqw88",
+    "en": "You put off enlistment until you graduate.",
+    "fa": "سربازگیری را تا فارغ‌التحصیلی به تعویق انداختید."
+  },
+  {
+    "k": "1hti4dl87p",
+    "en": "You put off enlistment for a year.",
+    "fa": "سربازگیری را یک سال به تعویق انداختید."
+  },
+  {
+    "k": "2629x8tbqx1",
+    "en": "You took leave from university and were called up as a home-defence conscript.",
+    "fa": "از دانشگاه مرخصی گرفتید و به عنوان سرباز دفاع محلی فراخوانده شدید."
+  },
+  {
+    "k": "4c59i91j4b",
+    "en": "You were called up as a home-defence conscript. After a few weeks of training you served while living at home, commuting every day.",
+    "fa": "به عنوان سرباز دفاع محلی فراخوانده شدید. پس از چند هفته آموزش در خانه زندگی کردید و هر روز رفت‌وآمد کردید."
+  },
+  {
+    "k": "1iwniftkl6x",
+    "en": "You took leave from university and were called up as a public service worker.",
+    "fa": "از دانشگاه مرخصی گرفتید و به عنوان کارگر خدمات عمومی فراخوانده شدید."
+  },
+  {
+    "k": "swg83jl8bh",
+    "en": "You were called up as a public service worker. After basic military training you served while living at home, commuting every day.",
+    "fa": "به عنوان کارگر خدمات عمومی فراخوانده شدید. پس از آموزش پایه نظامی در خانه زندگی کردید و هر روز رفت‌وآمد کردید."
+  },
+  {
+    "k": "19ontkpbsie",
+    "en": "You took leave from university and were called up as a social service worker.",
+    "fa": "از دانشگاه مرخصی گرفتید و به عنوان کارگر خدمات اجتماعی فراخوانده شدید."
+  },
+  {
+    "k": "1jdsxq00z75",
+    "en": "You were called up as a social service worker. After basic military training you served while living at home, commuting every day.",
+    "fa": "به عنوان کارگر خدمات اجتماعی فراخوانده شدید. پس از آموزش پایه نظامی در خانه زندگی کردید و هر روز رفت‌وآمد کردید."
+  },
+  {
+    "k": "rj2uuk743a",
+    "en": "You took leave from university and joined the navy.",
+    "fa": "از دانشگاه مرخصی گرفتید و به نیروی دریایی پیوستید."
+  },
+  {
+    "k": "22c9opakmgy",
+    "en": "You joined the navy. You would serve on ships, guarding the sea.",
+    "fa": "به نیروی دریایی پیوستید. روی کشتی‌ها خدمت می‌کردید و دریا را نگهبانی می‌کردید."
+  },
+  {
+    "k": "9jztvxs5qd",
+    "en": "You took leave from university and joined the air force.",
+    "fa": "از دانشگاه مرخصی گرفتید و به نیروی هوایی پیوستید."
+  },
+  {
+    "k": "bmgvcv9cfp",
+    "en": "You joined the air force and were posted to a unit guarding an airfield.",
+    "fa": "به نیروی هوایی پیوستید و در یگانی برای نگهبانی پایگاه هوایی مستقر شدید."
+  },
+  {
+    "k": "12vynb2kbix",
+    "en": "You took leave from university and joined the conscripted police.",
+    "fa": "از دانشگاه مرخصی گرفتید و به پلیس سربازگیر پیوستید."
+  },
+  {
+    "k": "uuq91wz1j4",
+    "en": "You joined the conscripted police. You would guard the police station and help with traffic and neighbourhood patrols.",
+    "fa": "به پلیس سربازگیر پیوستید. کلانتری را نگهبانی می‌کردید و در ترافیک و گشت محله کمک می‌کردید."
+  },
+  {
+    "k": "1g8s5hy2lgq",
+    "en": "You took leave from university and enlisted as a KATUSA. You would serve alongside American soldiers on a US Army base.",
+    "fa": "از دانشگاه مرخصی گرفتید و به عنوان KATUSA سرباز شدید. کنار سربازان آمریکایی در پایگاه ارتش آمریکا خدمت می‌کردید."
+  },
+  {
+    "k": "qrs0r8f7a0",
+    "en": "You enlisted as a KATUSA. You would serve alongside American soldiers on a US Army base.",
+    "fa": "به عنوان KATUSA سرباز شدید. کنار سربازان آمریکایی در پایگاه ارتش آمریکا خدمت می‌کردید."
+  },
+  {
+    "k": "1veuc6n3249",
+    "en": "You weren't taken by the navy, so you enlisted in the army.",
+    "fa": "نیروی دریایی شما را نپذیرفت، پس در ارتش سرباز شدید."
+  },
+  {
+    "k": "25p7t66o0yr",
+    "en": "You weren't taken by the air force, so you enlisted in the army.",
+    "fa": "نیروی هوایی شما را نپذیرفت، پس در ارتش سرباز شدید."
+  },
+  {
+    "k": "1jcrgc28kxq",
+    "en": "You weren't drawn in the KATUSA lottery, so you enlisted in the army.",
+    "fa": "در قرعه KATUSA نیامدید، پس در ارتش سرباز شدید."
+  },
+  {
+    "k": "z4z3ekfobh",
+    "en": "You weren't selected for the conscripted police, so you enlisted in the army.",
+    "fa": "برای پلیس سربازگیر انتخاب نشدید، پس در ارتش سرباز شدید."
+  },
+  {
+    "k": "1ecs2rac7kn",
+    "en": "You put your playing career on hold and enlisted.",
+    "fa": "مسیر بازی‌تان را متوقف کردید و سرباز شدید."
+  },
+  {
+    "k": "23n274budze",
+    "en": "You ended your playing career and enlisted.",
+    "fa": "مسیر بازی‌تان را تمام کردید و سرباز شدید."
+  },
+  {
+    "k": "26egz65q5g9",
+    "en": "You could not put it off any longer and enlisted.",
+    "fa": "دیگر نمی‌توانستید به تعویق بیندازید و سرباز شدید."
+  },
+  {
+    "k": "1id59s10bvu",
+    "en": "You took leave from university and enlisted.",
+    "fa": "از دانشگاه مرخصی گرفتید و سرباز شدید."
+  },
+  {
+    "k": "1rnedbpjfto",
+    "en": "You enlisted.",
+    "fa": "سرباز شدید."
+  },
+  {
+    "k": "229ikyl1ytq",
+    "en": "Before discharge",
+    "fa": "پیش از ترخیص"
+  },
+  {
+    "k": "26jhlsskmb8",
+    "en": "Your unit encouraged you to apply to become a sergeant. If you are accepted, you will go through NCO training and be appointed a sergeant, a career soldier with a salary. After four years, if you are chosen for long-term service, you can stay in the army until retirement age.",
+    "fa": "یگانتان شما را تشویق کرد برای گروهبان شدن درخواست دهید. اگر پذیرفته شوید، دوره درجه‌داران را می‌گذرانید و گروهبان منصوب می‌شوید، سرباز حرفه‌ای با حقوق. پس از چهار سال، اگر برای خدمت بلندمدت انتخاب شوید، می‌توانید تا سن بازنشستگی در ارتش بمانید."
+  },
+  {
+    "k": "191m7x0tv3w",
+    "en": "Of NCOs on short-term service, about 25% were chosen for long-term service in 2010 and about 20% in 2026 (Seoul Shinmun, Money Today).",
+    "fa": "از درجه‌داران خدمت کوتاه‌مدت، حدود ۲۵٪ در ۲۰۱۰ و حدود ۲۰٪ در ۲۰۲۶ برای خدمت بلندمدت انتخاب شدند (Seoul Shinmun، Money Today)."
+  },
+  {
+    "k": "1n4ldyqs83i",
+    "en": "Apply to be a sergeant",
+    "fa": "برای گروهبان شدن درخواست دهید"
+  },
+  {
+    "k": "hcxl7u5jce",
+    "en": "Chance of a place: {0} · 4 years' obligatory service · then the long-term service review",
+    "fa": "شانس قبولی: {0} · ۴ سال خدمت اجباری · بعداً بررسی خدمت بلندمدت"
+  },
+  {
+    "k": "y8gmv2pik1",
+    "en": "Leave as planned",
+    "fa": "طبق برنامه خارج شوید"
+  },
+  {
+    "k": "2gegl4r0z2o",
+    "en": "Finish your service and return to civilian life",
+    "fa": "خدمت را تمام کنید و به زندگی غیرنظامی برگردید"
+  },
+  {
+    "k": "16b448y1rim",
+    "en": "You weren't selected as an NCO. You decided to finish your service and leave.",
+    "fa": "به عنوان درجه‌دار انتخاب نشدید. تصمیم گرفتید خدمت را تمام کنید و خارج شوید."
+  },
+  {
+    "k": "1afzqcnqgnv",
+    "en": "You finished NCO training and were appointed a sergeant. Your career as a soldier began.",
+    "fa": "دوره درجه‌داران را تمام کردید و گروهبان منصوب شدید. مسیر سربازی‌تان آغاز شد."
+  },
+  {
+    "k": "knzll8g7mv",
+    "en": "Wait for a better job",
+    "fa": "منتظر کار بهتر بمانید"
+  },
+  {
+    "k": "14nz3hkhe1a",
+    "en": "Another year of job hunting",
+    "fa": "یک سال دیگر جستجوی کار"
+  },
+  {
+    "k": "99ho01jbwt",
+    "en": "Focus on home and childcare",
+    "fa": "تمرکز روی خانه و نگهداری از بچه"
+  },
+  {
+    "k": "126tx6tzjdn",
+    "en": "No income",
+    "fa": "بدون درآمد"
+  },
+  {
+    "k": "1hiie3sg9iq",
+    "en": "You used to work as a {0}. ",
+    "fa": "قبلاً به عنوان {0} کار می‌کردید. "
+  },
+  {
+    "k": "23jxfpkzgxa",
+    "en": "At this age there are fewer jobs to choose from, and they pay less. ",
+    "fa": "در این سن کارهای کمتری برای انتخاب هست و دستمزد کمتر است. "
+  },
+  {
+    "k": "jhxsyuwy1o",
+    "en": "{0}Education: {1}. These are the jobs you can find in the {3} in {2}.",
+    "fa": "{0}تحصیلات: {1}. این‌ها کارهایی است که در {3} در {2} پیدا می‌کنید."
+  },
+  {
+    "k": "5l6xlfxvgr",
+    "en": "city",
+    "fa": "شهر"
+  },
+  {
+    "k": "63164a0dna",
+    "en": "countryside",
+    "fa": "روستا"
+  },
+  {
+    "k": "cgm621dpqi",
+    "en": "A job found with an employment support service",
+    "fa": "کاری که با خدمات حمایت اشتغال پیدا شد"
+  },
+  {
+    "k": "27lzng1dbxc",
+    "en": "With a job coach from a disability employment service, you looked for work together.",
+    "fa": "با مربی شغلی از خدمات اشتغال معلولان، با هم کار پیدا کردید."
+  },
+  {
+    "k": "17z0m9grsv1",
+    "en": "Once you start, the coach will be at your side at work for the first few weeks.",
+    "fa": "وقتی شروع کنید، مربی چند هفته اول کنار شما در محل کار خواهد بود."
+  },
+  {
+    "k": "19h3cv9o9e1",
+    "en": "In a US randomised trial, 87% of autistic young people who had workplace internships with on-site support in their last school year were in work a year later, against 12% of those who had only their school classes (Wehman et al. 2017)",
+    "fa": "در یک آزمایش تصادفی آمریکا، ۸۷٪ جوانان اوتیستیک که در سال آخر مدرسه کارآموزی با پشتیبانی در محل کار داشتند یک سال بعد شاغل بودند، در برابر ۱۲٪ کسانی که فقط کلاس مدرسه داشتند (Wehman et al. 2017)"
+  },
+  {
+    "k": "190z42e7f9k",
+    "en": "Choose your first job",
+    "fa": "اولین کار خود را انتخاب کنید"
+  },
+  {
+    "k": "1ijfa3cu9q1",
+    "en": "You found work",
+    "fa": "کار پیدا کردید"
+  }
+]

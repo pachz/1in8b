@@ -1,0 +1,402 @@
+[
+  {
+    "k": "1kmdxzax2jl",
+    "en": "Urban population"
+  },
+  {
+    "k": "cjscc7e7pj",
+    "en": "Working in agriculture"
+  },
+  {
+    "k": "4cb8qzrqmq",
+    "en": "Tertiary enrollment (gross)"
+  },
+  {
+    "k": "1jbte8boct7",
+    "en": "Internet use"
+  },
+  {
+    "k": "1b7wj8rv3m1",
+    "en": "Fertility rate"
+  },
+  {
+    "k": "2as6w9gpkup",
+    "en": "Maternal mortality (per 100,000 births)"
+  },
+  {
+    "k": "2c6hki5toup",
+    "en": "HIV prevalence (ages 15–49)"
+  },
+  {
+    "k": "z40zyaiky6",
+    "en": "Homicide rate (per 100,000)"
+  },
+  {
+    "k": "1bp6zvv6b8e",
+    "en": "Road deaths (per 100,000)"
+  },
+  {
+    "k": "1fedeubnob8",
+    "en": "Tobacco use, men / women"
+  },
+  {
+    "k": "1h7zkj4pvja",
+    "en": "Out-of-pocket health spending"
+  },
+  {
+    "k": "5emipi759x",
+    "en": "Married before 18 (women)"
+  },
+  {
+    "k": "7rv3vu59vj",
+    "en": "Life satisfaction (0–10)"
+  },
+  {
+    "k": "1zoo092gvjs",
+    "en": "No data"
+  },
+  {
+    "k": "21wv4iau8p8",
+    "en": "{0} · {1} (projection)"
+  },
+  {
+    "k": "18rkiv8wpmb",
+    "en": "View {0}"
+  },
+  {
+    "k": "7cycxh4kvj",
+    "en": "† at {0}"
+  },
+  {
+    "k": "1y3wpk7hlw6",
+    "en": "† at {0} · {1}"
+  },
+  {
+    "k": "17tfofow47d",
+    "en": "Me, {0}"
+  },
+  {
+    "k": "4zzjv1gmjy",
+    "en": "Wife"
+  },
+  {
+    "k": "27qgxmkj1by",
+    "en": "Husband"
+  },
+  {
+    "k": "126n2g419fv",
+    "en": "Stepfather, {0}"
+  },
+  {
+    "k": "902n799nao",
+    "en": "Siblings, {0}"
+  },
+  {
+    "k": "2eotwtjlop1",
+    "en": "Pet: {0}"
+  },
+  {
+    "k": "1dtlluwigp9",
+    "en": "Pet: {0}, age {1}"
+  },
+  {
+    "k": "138ah5v5pxp",
+    "en": "Pet: {0}, under a year old"
+  },
+  {
+    "k": "1h63q212mah",
+    "en": "Hide names"
+  },
+  {
+    "k": "22t3fe6foi4",
+    "en": "Names and ages"
+  },
+  {
+    "k": "tb4pf74y32",
+    "en": "Heavy moments such as child death, child marriage, conflict and illness happen here as often as the real statistics say."
+  },
+  {
+    "k": "xjl33u1f77",
+    "en": "Show frightening scenes again"
+  },
+  {
+    "k": "1a9ua66w2rm",
+    "en": "Leave out frightening scenes"
+  },
+  {
+    "k": "f5yq48o0iw",
+    "en": "Ages 12+"
+  },
+  {
+    "k": "gkdh8adkt6",
+    "en": "Ages 15+"
+  },
+  {
+    "k": "w65p8sk6qm",
+    "en": "Contains: violence, love and marriage"
+  },
+  {
+    "k": "281d3fevenz",
+    "en": "Contains: violence, crime, alcohol and tobacco, love and marriage"
+  },
+  {
+    "k": "1h62afyrfq4",
+    "en": "Keep an eye on the time, and don't get too absorbed."
+  },
+  {
+    "k": "17r4q7s5zqh",
+    "en": "Don't copy what happens in the simulation."
+  },
+  {
+    "k": "y9jmfdl5o",
+    "en": "Every life and its ending are free."
+  },
+  {
+    "k": "18fjflnty16",
+    "en": "The keepsake pass ({0}) is paid for separately."
+  },
+  {
+    "k": "1rsudxwvaeb",
+    "en": "Lives in this browser now leave out frightening scenes such as suicide, sexual violence, drugs and violence, and the cards for choosing drink, gambling or crime. Illness, accidents and war still come as the real statistics say."
+  },
+  {
+    "k": "2ebvf9g96eb",
+    "en": "Frightening scenes come again as the real statistics say."
+  },
+  {
+    "k": "1rm5xkotfj5",
+    "en": "<div class=\"dec{0}\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"decT\"><div class=\"hd\"><span>{1}</span><span>Age {2} · {3}</span></div><div class=\"bd\"><h2 id=\"decT\">{4}</h2>{5}{6}{7}{8}<div class=\"ch\">{9}</div></div></div>"
+  },
+  {
+    "k": "x6gtci8myz",
+    "en": "A pause"
+  },
+  {
+    "k": "29m28kmyscg",
+    "en": "A small choice"
+  },
+  {
+    "k": "q2es7mk1rj",
+    "en": "Decided with family"
+  },
+  {
+    "k": "1ap2b7zwp2x",
+    "en": "A big decision"
+  },
+  {
+    "k": "lm842xpvpt",
+    "en": "{0}, age {1}"
+  },
+  {
+    "k": "27q26dy32ep",
+    "en": "Name it"
+  },
+  {
+    "k": "apjj055vsh",
+    "en": "<button type=\"button\" class=\"decmin\" id=\"decMin\" title=\"Look at the page behind it, then open it again to choose\">Set aside ▾</button>"
+  },
+  {
+    "k": "1idhe1i6z64",
+    "en": "<div class=\"autobar\" aria-hidden=\"true\"><i id=\"autoProg\"></i></div><div class=\"autonote\"><span>{0}</span><button class=\"ghost sm\" id=\"autoStop\">Turn off auto</button></div>"
+  },
+  {
+    "k": "24lfm6mov93",
+    "en": "Life goes on in a moment. Tap the box to write, and it waits until you are done"
+  },
+  {
+    "k": "d0tdkfi4yv",
+    "en": "Going with '{0}' in a moment · tap the card to stop"
+  },
+  {
+    "k": "11kik409whx",
+    "en": "<button class=\"ghost sm autoon\" id=\"autoOn\">Leave decisions to auto from now on</button>"
+  },
+  {
+    "k": "5h0tp30e8w",
+    "en": "<button class=\"ghost sm autoon\" id=\"refOff\">Don't show these pauses again</button>"
+  },
+  {
+    "k": "21ph3hc95rm",
+    "en": "At 5, 15, 30, 50 and 70 the life will pause so you can write down a thought."
+  },
+  {
+    "k": "ckrrme1om2",
+    "en": "Pauses are off. What they would have shown goes into the life record as one line. Tap '✎ Pauses' to turn them back on."
+  },
+  {
+    "k": "1ow7112zhq",
+    "en": "Decisions are now on auto. Each decision will show for a moment, then move on."
+  },
+  {
+    "k": "1qx1db3ve0w",
+    "en": "The focus of each year and spending habits like dinners and gifts and money for your parents are on auto too."
+  },
+  {
+    "k": "26rywn7gyj3",
+    "en": "Its choices lean toward the grain you set."
+  },
+  {
+    "k": "jqiv15qbvq",
+    "en": "You are making your own decisions again."
+  },
+  {
+    "k": "ijs2ecp4ze",
+    "en": "The spending habits Auto mode had switched on are off again too."
+  },
+  {
+    "k": "12gx2f9acxw",
+    "en": "Set the grain"
+  },
+  {
+    "k": "8o6bb1afrl",
+    "en": "Choose which grain auto mode leans toward"
+  },
+  {
+    "k": "qvwiymg257",
+    "en": "Which grain would you like to live?"
+  },
+  {
+    "k": "1jnczm3m1qu",
+    "en": "When auto mode chooses, it leans toward this grain. Where the life was born, into what circumstances, and the people around it decide too, so a life won't follow it all the way."
+  },
+  {
+    "k": "1frfnk2pwc9",
+    "en": "What you choose is a way of living. The grain of this life is measured again after it ends, from the time it actually spent."
+  },
+  {
+    "k": "i3zrzqr293",
+    "en": "Set this grain"
+  },
+  {
+    "k": "10giyge4muu",
+    "en": "Turn on auto mode with this grain"
+  },
+  {
+    "k": "1zu5x0trqdj",
+    "en": "Back to ordinary"
+  },
+  {
+    "k": "28h2z8b8cs4",
+    "en": "Ordinary for now: auto mode chooses as people in that country usually do."
+  },
+  {
+    "k": "1jekf2zsddd",
+    "en": "Nearest grain"
+  },
+  {
+    "k": "1nbtwv0vcjp",
+    "en": "Half and half on more than one pair, so it isn't gathered into one name."
+  },
+  {
+    "k": "1zvwoikc7sm",
+    "en": "Auto mode is on with this grain. Its choices lean toward it."
+  },
+  {
+    "k": "bel9m73xr2",
+    "en": "The grain is back to ordinary."
+  },
+  {
+    "k": "w82z91uh93",
+    "en": "It’s saved only on this device."
+  },
+  {
+    "k": "1ef9ewb9ypt",
+    "en": "You can change it under “Where you were actually born” on the first screen, or turn it off with “I'd rather not say”."
+  },
+  {
+    "k": "2b00wz5vkny",
+    "en": "This person was born in <b>{0}</b>, where we guessed you were born."
+  },
+  {
+    "k": "1mbuvwkfdfm",
+    "en": "Even in the same country, lives can take very different paths."
+  },
+  {
+    "k": "1uxg1tfdidj",
+    "en": "In <b>{0}</b>, where we guessed you were born, {1} of the children born the same year live past {2}."
+  },
+  {
+    "k": "1fy09wxnezb",
+    "en": "Life expectancy in the two places is {0} and {1} years."
+  },
+  {
+    "k": "226fp3gvgph",
+    "en": "<div class=\"homecmp\">This person was born in <b>{0}</b>, just like you. Even in the same country, lives can take very different paths.</div>"
+  },
+  {
+    "k": "bhr1wbqwp6",
+    "en": "<div class=\"homecmp\">In <b>{0}</b>, where you yourself were born, {1} of the children born the same year live past {2}. In {3}, it is {4}. Life expectancy in the two countries is {5} and {6} years.</div>"
+  },
+  {
+    "k": "1ubp7a3nr5q",
+    "en": "<div class=\"panel\"><h3><span>Five people born in the same second</span><span class=\"lbl\">shortest life first</span></h3><ul class=\"lives5\">{0}</ul><p class=\"lives5note\">The five people born in the same second lived to {1}. None of them chose where they would be born.</p></div>"
+  },
+  {
+    "k": "zt7vpm2boc",
+    "en": " · this was you"
+  },
+  {
+    "k": "2ask0dlgdlv",
+    "en": "Where this work goes on"
+  },
+  {
+    "k": "1oq7zkil55y",
+    "en": "What this life went through, and the people working on it today"
+  },
+  {
+    "k": "23c530o3zje",
+    "en": "Each link opens the organisation's own page about its work. They have no connection with 1 in 8 Billion."
+  },
+  {
+    "k": "7uwrndllmf",
+    "en": "<div class=\"panel\"><h3><span>Thoughts you left in this life</span><span class=\"lbl\">{0}</span></h3><ul class=\"journal\">{1}</ul></div>"
+  },
+  {
+    "k": "22m9z95ugsh",
+    "en": "<li><small>Age {0} · {1}</small><q>{2}</q></li>"
+  },
+  {
+    "k": "d5qr4exegr",
+    "en": "If things feel very hard right now, you don't have to carry it alone: {@y}. Someone will listen."
+  },
+  {
+    "k": "20f2nqdzud1",
+    "en": "If things feel very hard right now, please reach out to a crisis line: {@c}. Someone will listen, any time of day."
+  },
+  {
+    "k": "1a09utfe0z4",
+    "en": "Saved. It is on the card too."
+  },
+  {
+    "k": "rn67kucgfs",
+    "en": "Your words were removed."
+  },
+  {
+    "k": "1xvz5qnmxof",
+    "en": "In Classroom, a life once born is lived to its end. When this life ends, you can be born again."
+  },
+  {
+    "k": "1hw4rmqfo4e",
+    "en": "<p>The life of <b>{0}</b>, born in {1} and now {2} years old, is still going on. If you are born again, that life will disappear without a record. A real life can't be started over, but here you get to choose.</p><div class=\"ctarow\"><button class=\"cta\" id=\"guardBack\">Go back to that life</button><button class=\"ghost\" id=\"guardNew\">Be born again anyway</button></div>"
+  },
+  {
+    "k": "wqsj1hpwhx",
+    "en": "Any year ({0}–{1})"
+  },
+  {
+    "k": "9ummvdf42r",
+    "en": "<option value=\"\">I'd rather not say</option>"
+  },
+  {
+    "k": "1m04fxlg8lz",
+    "en": "under age 1"
+  },
+  {
+    "k": "22w6tkus28s",
+    "en": "at ages 1–4"
+  },
+  {
+    "k": "5kfx6s97qs",
+    "en": "at ages 5–14"
+  }
+]

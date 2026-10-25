@@ -1,0 +1,502 @@
+[
+  {
+    "k": "rcxfivhzpj",
+    "en": "The home-screen app keeps its lives apart from Safari. Bring the lives you lived in Safari over with “Move my lives”.",
+    "fa": "برنامهٔ صفحهٔ اصلی زندگی‌ها را از Safari جدا نگه می‌دارد. زندگی‌های Safari را با «انتقال زندگی‌هایم» بیاورید."
+  },
+  {
+    "k": "m0timeg5ek",
+    "en": "We could not find that code. It may be more than 3 days old or already used. Make a new one in the browser the lives are in.",
+    "fa": "آن کد را پیدا نکردیم. شاید بیش از ۳ روز گذشته یا استفاده شده. در مرورگی که زندگی‌ها آنجاست یکی تازه بسازید."
+  },
+  {
+    "k": "wz88jteh4k",
+    "en": "Many people are moving their lives right now, so no code could be made. Please try again in a little while.",
+    "fa": "الان خیلی‌ها زندگی‌شان را منتقل می‌کنند و کدی ساخته نشد. کمی بعد دوباره امتحان کنید."
+  },
+  {
+    "k": "i4ereqlovn",
+    "en": "These records are too big to move.",
+    "fa": "این پرونده‌ها برای انتقال خیلی بزرگ‌اند."
+  },
+  {
+    "k": "213guv13ij5",
+    "en": "This browser cannot unpack the records. Please open the link in an up-to-date Safari or Chrome. The code still works.",
+    "fa": "این مرورگر پرونده‌ها را باز نمی‌کند. لینک را در Safari یا Chrome به‌روز باز کنید. کد هنوز کار می‌کند."
+  },
+  {
+    "k": "1p5pro1les8",
+    "en": "We could not read the records that came over.",
+    "fa": "پرونده‌های منتقل‌شده را نخواندیم."
+  },
+  {
+    "k": "1bpt4ff21vv",
+    "en": "A code is 9 lowercase letters and numbers. Please check it again.",
+    "fa": "کد ۹ حرف و عدد کوچک است. دوباره بررسی کنید."
+  },
+  {
+    "k": "10lr8kse4g7",
+    "en": "This code was made in this browser. Open it in the other browser or on the phone that should receive the lives.",
+    "fa": "این کد در همین مرورگر ساخته شده. در مرورگر یا گوشی‌ای که باید بگیرد باز کنید."
+  },
+  {
+    "k": "12ma9hd6p8d",
+    "en": "The connection is unsteady. Please try again in a moment.",
+    "fa": "اتصال ناپایدار است. لحظه‌ای دیگر دوباره امتحان کنید."
+  },
+  {
+    "k": "6y342kd8lw",
+    "en": "past lives: {0}",
+    "fa": "زندگی‌های گذشته: {0}"
+  },
+  {
+    "k": "17ujaok3r4b",
+    "en": "a life in progress ({2}, {1}, {0})",
+    "fa": "زندگی در جریان ({2}، {1}، {0})"
+  },
+  {
+    "k": "wzu3ml94dk",
+    "en": "Move my lives",
+    "fa": "انتقال زندگی‌هایم"
+  },
+  {
+    "k": "v9aozszq45",
+    "en": "1 in 8 Billion has no login: your lives are kept in this browser only, so another app or a new phone starts empty. One code moves them over as they are.",
+    "fa": "«۱ در ۸ میلیارد» ورود ندارد: زندگی‌ها فقط در این مرورگر است؛ برنامه یا گوشی تازه خالی است. یک کد همه را همان‌طور که هستند منتقل می‌کند."
+  },
+  {
+    "k": "jzjzebh5rg",
+    "en": "Send the lives in this browser",
+    "fa": "زندگی‌های این مرورگر را بفرست"
+  },
+  {
+    "k": "28csml7npas",
+    "en": "Make a moving code",
+    "fa": "ساختن کد انتقال"
+  },
+  {
+    "k": "gvio1pqxb5",
+    "en": "There are no lives in this browser to move yet.",
+    "fa": "هنوز زندگی‌ای در این مرورگر برای انتقال نیست."
+  },
+  {
+    "k": "xbgtu5utbj",
+    "en": "Bring lives from elsewhere",
+    "fa": "آوردن زندگی از جای دیگر"
+  },
+  {
+    "k": "1lc0hsiss6t",
+    "en": "Type the code made in another browser or on another phone. Those lives are added to the ones in this browser.",
+    "fa": "کدی را که در مرورگر یا گوشی دیگر ساخته شده بنویسید. آن زندگی‌ها به زندگی‌های این مرورگر اضافه می‌شوند."
+  },
+  {
+    "k": "y4gmzs506k",
+    "en": "Moving code",
+    "fa": "کد انتقال"
+  },
+  {
+    "k": "1j2ff0dc7y8",
+    "en": "Bring them",
+    "fa": "بیاور"
+  },
+  {
+    "k": "1ojwf9ays2b",
+    "en": "Open this link where the lives should go, or type the code in 'Move my lives' at the bottom of the first screen there. It works once, for 3 days, so do not send it to anyone else. The lives also stay in this browser.",
+    "fa": "این لینک را جایی که زندگی‌ها باید بروند باز کنید، یا کد را در «انتقال زندگی‌هایم» پایین صفحهٔ اول آنجا بنویسید. یک‌بار، ۳ روز کار می‌کند؛ برای دیگران نفرستید. زندگی‌ها در این مرورگر هم می‌مانند."
+  },
+  {
+    "k": "16g89hy0ryk",
+    "en": "For a new phone, paste the link into a note or a message to yourself, then open it on the new phone.",
+    "fa": "برای گوشی تازه، لینک را در یادداشت یا پیام برای خودتان بگذارید و روی گوشی تازه باز کنید."
+  },
+  {
+    "k": "1gkfna9df4i",
+    "en": "Make a new code",
+    "fa": "کد تازه بساز"
+  },
+  {
+    "k": "23kr0rk0xp5",
+    "en": "Bringing the lives over…",
+    "fa": "در حال آوردن زندگی‌ها…"
+  },
+  {
+    "k": "28du2ig3bvc",
+    "en": "These lives were lived on the English page, so they are on the English first screen.",
+    "fa": "این زندگی‌ها در صفحهٔ انگلیسی گذرانده شده‌اند؛ در صفحهٔ اول انگلیسی‌اند."
+  },
+  {
+    "k": "za6o333ih",
+    "en": "These lives were lived on the Japanese page, so they are on the Japanese first screen.",
+    "fa": "این زندگی‌ها در صفحهٔ ژاپنی گذرانده شده‌اند؛ در صفحهٔ اول ژاپنی‌اند."
+  },
+  {
+    "k": "1pvc3q8h2rf",
+    "en": "These were lived on the Chinese page, so they are on the Chinese page's first screen.",
+    "fa": "در صفحهٔ چینی گذرانده شده‌اند؛ در صفحهٔ اول همان صفحهٔ چینی."
+  },
+  {
+    "k": "u83282jgk3",
+    "en": "These were lived on the Vietnamese page, so they are on the Vietnamese page's first screen.",
+    "fa": "در صفحهٔ ویتنامی گذرانده شده‌اند؛ در صفحهٔ اول ویتنامی."
+  },
+  {
+    "k": "88mbpq7kc4",
+    "en": "These were lived on the French page, so they are on the French page's first screen.",
+    "fa": "در صفحهٔ فرانسوی گذرانده شده‌اند؛ در صفحهٔ اول فرانسوی."
+  },
+  {
+    "k": "1rn8pe6iqzi",
+    "en": "These were lived on the Thai page, so they are on the Thai page's first screen.",
+    "fa": "در صفحهٔ تایلندی گذرانده شده‌اند؛ در صفحهٔ اول تایلندی."
+  },
+  {
+    "k": "1ivs0z05bdk",
+    "en": "These were lived on the Spanish page, so they are on the Spanish page's first screen.",
+    "fa": "در صفحهٔ اسپانیایی گذرانده شده‌اند؛ در صفحهٔ اول اسپانیایی."
+  },
+  {
+    "k": "2cv0qnr4utz",
+    "en": "These were lived on the German page, so they are on the German page's first screen.",
+    "fa": "در صفحهٔ آلمانی گذرانده شده‌اند؛ در صفحهٔ اول آلمانی."
+  },
+  {
+    "k": "aqy6sfexqz",
+    "en": "These were lived on the Portuguese page, so they are on the Portuguese page's first screen.",
+    "fa": "در صفحهٔ پرتغالی گذرانده شده‌اند؛ در صفحهٔ اول پرتغالی."
+  },
+  {
+    "k": "1pq0gj7a0lp",
+    "en": "These were lived on the Russian page, so they are on the Russian page's first screen.",
+    "fa": "در صفحهٔ روسی گذرانده شده‌اند؛ در صفحهٔ اول روسی."
+  },
+  {
+    "k": "2gaz7tchsi",
+    "en": "These were lived on the Turkish page, so they are on the Turkish page's first screen.",
+    "fa": "در صفحهٔ ترکی گذرانده شده‌اند؛ در صفحهٔ اول ترکی."
+  },
+  {
+    "k": "10wtten3j5a",
+    "en": "These were lived on the Indonesian page, so they are on the Indonesian page's first screen.",
+    "fa": "در صفحهٔ اندونزیایی گذرانده شده‌اند؛ در صفحهٔ اول اندونزیایی."
+  },
+  {
+    "k": "ng61lo9qh2",
+    "en": "These were lived on the Italian page, so they are on the Italian page's first screen.",
+    "fa": "در صفحهٔ ایتالیایی گذرانده شده‌اند؛ در صفحهٔ اول ایتالیایی."
+  },
+  {
+    "k": "1f7n5gt1h7c",
+    "en": "These were lived on the Arabic page, so they are on the Arabic page's first screen.",
+    "fa": "در صفحهٔ عربی گذرانده شده‌اند؛ در صفحهٔ اول عربی."
+  },
+  {
+    "k": "23yw1co025r",
+    "en": "These lives were lived on the Korean page, so they are on the Korean first screen.",
+    "fa": "این زندگی‌ها در صفحهٔ کره‌ای گذرانده شده‌اند؛ در صفحهٔ اول کره‌ای."
+  },
+  {
+    "k": "jy245v67zp",
+    "en": "Go to the English page",
+    "fa": "رفتن به صفحهٔ انگلیسی"
+  },
+  {
+    "k": "drzzmy3v6i",
+    "en": "Go to the Japanese page",
+    "fa": "رفتن به صفحهٔ ژاپنی"
+  },
+  {
+    "k": "f1ncd0rpi5",
+    "en": "Go to the Chinese page",
+    "fa": "رفتن به صفحهٔ چینی"
+  },
+  {
+    "k": "1t7lqgniza5",
+    "en": "Go to the Vietnamese page",
+    "fa": "رفتن به صفحهٔ ویتنامی"
+  },
+  {
+    "k": "j18p46s2gd",
+    "en": "Go to the French page",
+    "fa": "رفتن به صفحهٔ فرانسوی"
+  },
+  {
+    "k": "pqjwwvowu6",
+    "en": "Go to the Thai page",
+    "fa": "رفتن به صفحهٔ تایلندی"
+  },
+  {
+    "k": "whle4gkiy1",
+    "en": "Go to the Spanish page",
+    "fa": "رفتن به صفحهٔ اسپانیایی"
+  },
+  {
+    "k": "xa5iryusgz",
+    "en": "Go to the German page",
+    "fa": "رفتن به صفحهٔ آلمانی"
+  },
+  {
+    "k": "1x4px5i41ua",
+    "en": "Go to the Portuguese page",
+    "fa": "رفتن به صفحهٔ پرتغالی"
+  },
+  {
+    "k": "oeqamlszcd",
+    "en": "Go to the Russian page",
+    "fa": "رفتن به صفحهٔ روسی"
+  },
+  {
+    "k": "1ar344tfd9q",
+    "en": "Go to the Turkish page",
+    "fa": "رفتن به صفحهٔ ترکی"
+  },
+  {
+    "k": "ubmemqsp8q",
+    "en": "Go to the Indonesian page",
+    "fa": "رفتن به صفحهٔ اندونزیایی"
+  },
+  {
+    "k": "1w2mnnbyd6z",
+    "en": "Go to the Italian page",
+    "fa": "رفتن به صفحهٔ ایتالیایی"
+  },
+  {
+    "k": "y6c35jwg02",
+    "en": "Go to the Arabic page",
+    "fa": "رفتن به صفحهٔ عربی"
+  },
+  {
+    "k": "1j1chjjyu8r",
+    "en": "Go to the Korean page",
+    "fa": "رفتن به صفحهٔ کره‌ای"
+  },
+  {
+    "k": "2ezilh2y2do",
+    "en": "Past lives moved here: {0}.",
+    "fa": "زندگی‌های گذشته اینجا آمدند: {0}."
+  },
+  {
+    "k": "2d1ds3ue7wb",
+    "en": "There were no past lives that this browser did not already have.",
+    "fa": "زندگی گذشته‌ای نبود که این مرورگر از قبل نداشته باشد."
+  },
+  {
+    "k": "ekzk5fe0se",
+    "en": "A browser without a pass keeps only the latest {0} lives in Past lives, so {1} older ones were not moved.",
+    "fa": "مرورگر بدون گذرنامه فقط {0} زندگی آخر را در «زندگی‌های گذشته» نگه می‌دارد؛ {1} قدیمی‌تر منتقل نشد."
+  },
+  {
+    "k": "17ydey4qt3u",
+    "en": "This browser is short of space, so a few older lives are only in the list and cannot be opened again.",
+    "fa": "فضای این مرورگر کم است؛ چند زندگی قدیمی فقط در فهرست‌اند و دوباره باز نمی‌شوند."
+  },
+  {
+    "k": "vqk04przam",
+    "en": "The life in progress came too. You can go on living it.",
+    "fa": "زندگی در جریان هم آمد. می‌توانید ادامه دهید."
+  },
+  {
+    "k": "23ccwbc1zpo",
+    "en": "This browser is short of space, so the life in progress could not come.",
+    "fa": "فضای این مرورگر کم است؛ زندگی در جریان نیامد."
+  },
+  {
+    "k": "1t1fhabq6t3",
+    "en": "This browser has a life in progress too. Which one should go on? The other one will be cleared.",
+    "fa": "این مرورگر هم زندگی در جریان دارد. کدام ادامه یابد؟ دیگری پاک می‌شود."
+  },
+  {
+    "k": "1b3poqbn78h",
+    "en": "The one that came · {0}",
+    "fa": "آنکه آمد · {0}"
+  },
+  {
+    "k": "1dv4vf576ig",
+    "en": "The one in this browser · {0}",
+    "fa": "آنکه در این مرورگر است · {0}"
+  },
+  {
+    "k": "cz6lfai5cy",
+    "en": "Your keepsake pass opens in this browser too when you type the email you paid with.",
+    "fa": "گذرنامهٔ یادگاری با ایمیلی که با آن پرداخت کردید اینجا هم باز می‌شود."
+  },
+  {
+    "k": "2en9lplypiv",
+    "en": "Once the pass opens here, every life you moved can be opened again.",
+    "fa": "وقتی گذرنامه اینجا باز شد، هر زندگی‌ای که منتقل کردید دوباره باز می‌شود."
+  },
+  {
+    "k": "20pasaes2yo",
+    "en": "The life that came goes on. Tap 'Continue'.",
+    "fa": "زندگی‌ای که آمد ادامه می‌یابد. «ادامه» را بزنید."
+  },
+  {
+    "k": "22cdrwb1xas",
+    "en": "The life in this browser goes on.",
+    "fa": "زندگی این مرورگر ادامه می‌یابد."
+  },
+  {
+    "k": "fxhvwzpqwn",
+    "en": "Our server has no room to keep them right now.",
+    "fa": "سرور ما الان جا برای نگه‌داری ندارد."
+  },
+  {
+    "k": "zlw7turmqi",
+    "en": "We will try again shortly.",
+    "fa": "به‌زودی دوباره امتحان می‌کنیم."
+  },
+  {
+    "k": "1i4tn3lardt",
+    "en": "Three browsers already keep their lives on our server with this pass.",
+    "fa": "سه مرورگر از قبل با این گذرنامه زندگی‌شان را روی سرور ما نگه می‌دارند."
+  },
+  {
+    "k": "2d3juj5edl8",
+    "en": "Please bring back the lives kept on our server first.",
+    "fa": "اول زندگی‌های روی سرور را برگردانید."
+  },
+  {
+    "k": "7hkqcicf79",
+    "en": "Your lives are too large to keep on our server.",
+    "fa": "زندگی‌های شما برای نگه‌داری روی سرور خیلی بزرگ‌اند."
+  },
+  {
+    "k": "1kwvn639ozx",
+    "en": "Keep my past lives on the server too",
+    "fa": "زندگی‌های گذشته‌ام را روی سرور هم نگه دار"
+  },
+  {
+    "k": "btqoupq0qs",
+    "en": "While you have the pass, this browser's past lives, the lives you can see again and a life in progress are kept on our server too.",
+    "fa": "تا گذرنامه دارید، زندگی‌های گذشته، قابل بازدید و زندگی در جریان این مرورگر روی سرور هم نگه داشته می‌شوند."
+  },
+  {
+    "k": "enbyhmcgs4",
+    "en": "If your browser data is cleared, open the pass again and bring them back.",
+    "fa": "اگر دادهٔ مرورگر پاک شد، دوباره گذرنامه را باز کنید و برگردانید."
+  },
+  {
+    "k": "1im2krzpzx9",
+    "en": "Turn it off, or have the pass refunded, and what is kept on the server is deleted at once.",
+    "fa": "خاموش کنید یا گذرنامه را پس بگیرید؛ آنچه روی سرور است فوراً حذف می‌شود."
+  },
+  {
+    "k": "dfmo5yyvb7",
+    "en": "This browser's lives are kept · {0}",
+    "fa": "زندگی‌های این مرورگر نگه داشته می‌شوند · {0}"
+  },
+  {
+    "k": "196apl702te",
+    "en": "Lives are waiting on our server · {0} past lives · {1}",
+    "fa": "زندگی‌ها روی سرور منتظرند · {0} زندگی گذشته · {1}"
+  },
+  {
+    "k": "dapvql6lwr",
+    "en": "Nothing in this browser changes; only the lives it does not have are added.",
+    "fa": "چیزی در این مرورگر عوض نمی‌شود؛ فقط زندگی‌هایی که ندارد اضافه می‌شوند."
+  },
+  {
+    "k": "23s463wyq89",
+    "en": "Bring back the lives kept on the server",
+    "fa": "برگرداندن زندگی‌های روی سرور"
+  },
+  {
+    "k": "1bp26lotg0o",
+    "en": "Turning it off deletes everything kept on the server at once.",
+    "fa": "خاموش کردن همهٔ نگه‌داری روی سرور را فوراً حذف می‌کند."
+  },
+  {
+    "k": "1zyd6pppgru",
+    "en": "The lives in this browser stay as they are.",
+    "fa": "زندگی‌های این مرورگر همان‌طور می‌مانند."
+  },
+  {
+    "k": "5zmq67ypd3",
+    "en": "Tap again to turn it off.",
+    "fa": "دوباره بزنید تا خاموش شود."
+  },
+  {
+    "k": "wujcmb7e5i",
+    "en": "Turned on.",
+    "fa": "روشن شد."
+  },
+  {
+    "k": "swr8s8285w",
+    "en": "This browser's lives will be kept on our server too.",
+    "fa": "زندگی‌های این مرورگر روی سرور ما هم نگه داشته می‌شوند."
+  },
+  {
+    "k": "asbwlnixre",
+    "en": "Turned off.",
+    "fa": "خاموش شد."
+  },
+  {
+    "k": "m1p0xz28rf",
+    "en": "Everything kept on the server has been deleted.",
+    "fa": "همهٔ نگه‌داری روی سرور حذف شد."
+  },
+  {
+    "k": "2awoedaq8p2",
+    "en": "Bringing back the lives kept on the server…",
+    "fa": "در حال برگرداندن زندگی‌های روی سرور…"
+  },
+  {
+    "k": "1eh398ucxya",
+    "en": "Past lives brought back from the server: {0}.",
+    "fa": "زندگی‌های گذشته از سرور برگشت: {0}."
+  },
+  {
+    "k": "qr52erkqff",
+    "en": "The life in progress came back too.",
+    "fa": "زندگی در جریان هم برگشت."
+  },
+  {
+    "k": "14u1safg58u",
+    "en": "You can go on living it.",
+    "fa": "می‌توانید ادامه دهید."
+  },
+  {
+    "k": "jbww2r4co9",
+    "en": "The life in progress in this browser was left as it is.",
+    "fa": "زندگی در جریان این مرورگر همان‌طور ماند."
+  },
+  {
+    "k": "1ajjs8yz2vr",
+    "en": "Some of them could not be brought back.",
+    "fa": "برخی برنگشتند."
+  },
+  {
+    "k": "1uw4wfsmmo0",
+    "en": "Please try again shortly.",
+    "fa": "به‌زودی دوباره امتحان کنید."
+  },
+  {
+    "k": "1425tdvbf0h",
+    "en": "Lives kept on the server",
+    "fa": "زندگی‌های روی سرور"
+  },
+  {
+    "k": "1tns2ddsu0t",
+    "en": "Something went wrong, so the life is paused. Reload the page to continue from age {0}. Sorry for the trouble.",
+    "fa": "مشکلی پیش آمد و زندگی مکث شد. صفحه را بارگذاری مجدد کنید تا از سن {0} ادامه یابد. پوزش."
+  },
+  {
+    "k": "b3jf1iao07",
+    "en": "A child died this year. 'Next decision' has stopped so you can see it.",
+    "fa": "امسال یک کودک درگذشت. «تصمیم بعدی» متوقف شد تا ببینید."
+  },
+  {
+    "k": "1d5zktt17qk",
+    "en": "Your spouse died this year.",
+    "fa": "امسال همسرتان درگذشت."
+  },
+  {
+    "k": "vm0bsxtehc",
+    "en": "Both your parents died this year.",
+    "fa": "امسال هر دو والدینتان درگذشتند."
+  },
+  {
+    "k": "2emfbvzl5k8",
+    "en": "Your mother died this year.",
+    "fa": "امسال مادرتان درگذشت."
+  }
+]

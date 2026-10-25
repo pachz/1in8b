@@ -123,16 +123,62 @@ js = js.replace(
   'LANG==="fa"?monthFa(S.bm):L_WEST?monthEn(S.bm):',
 );
 
-// 5) Inject faFill before arFill (simple placeholder + light cleanup)
+// 5) Inject fa digit helpers + faFill before arFill
+// faDigs must NOT rewrite digits inside HTML/SVG tags (viewBox, x, y, …)
+// or HTML entities (&#39; → otherwise becomes &#۳۹; and shows literally).
+const FA_DIGS =
+  'const faDigs0=e=>String(e).split(/(&(?:#(?:x[0-9a-fA-F]+|\\d+)|[a-zA-Z]+);)/).map((p,i)=>i%2?p:p.replace(/(\\d)\\.(\\d)/g,"$1٫$2").replace(/[0-9]/g,d=>"۰۱۲۳۴۵۶۷۸۹"[d]).replace(/%/g,"٪")).join("");' +
+  'const faDigs=e=>{e=String(e);return e.indexOf("<")<0&&e.indexOf("&")<0?faDigs0(e):e.replace(/(<[^>]*>)|(&(?:#(?:x[0-9a-fA-F]+|\\d+)|[a-zA-Z]+);)|([^<&]+)/g,(m,tag,ent,txt)=>tag||ent||faDigs0(txt||""))};';
+// Isolate Latin runs so English leftovers / names keep LTR punctuation in RTL UI.
+// CRITICAL: split HTML tags FIRST. Never split on existing LRI before tag
+// protection — an LRI inside placeholder="…Rocky…" would bisect <input> and
+// the browser then paints the broken tag as literal text.
+// Latin runs: allow mid-word apostrophes (children's) but NOT wrapping quotes
+// around names — otherwise ‘{0}’ becomes ‘⁦Rocky’⁩ and the closer looks missing.
+const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;if(/[A-Za-z]/.test(e)){const w=s=>{if(!s||!/[A-Za-z]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/[A-Za-z]+(?:[\u0027\u2019][A-Za-z]+)*(?:[0-9\u00c0-\u024f\-]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*(?:\s+[A-Za-z]+(?:[\u0027\u2019][A-Za-z]+)*(?:[0-9\u00c0-\u024f\-]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*)*/g,m=>"\u2066"+m+"\u2069")}).join("")};e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""))}return typeof arBidi=="function"?arBidi(e):e}`;
 if (!js.includes("function faFill")) {
-  const faFill = `function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return t}function faBidi(e){return e} `;
+  const faFill =
+    FA_DIGS +
+    FA_BIDI +
+    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(t))} ';
   js = js.replace("function arFill(", faFill + "function arFill(");
+} else if (!js.includes("faDigs=")) {
+  js = js.replace("function faFill", FA_DIGS + FA_BIDI + "function faFill");
+  js = js.replace(
+    "function faFill(e,a){if(!e)return e;e.indexOf(\"\\u2060\")>=0&&(e=e.replace(/\\u2060/g,\"\"));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return t}",
+    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(t))}',
+  );
+}
+
+// 5b) Homepage chart: Persian "million people" + digits (west:1 otherwise keeps Latin $)
+if (!js.includes('LANG==="fa")return e>=1e9?faDigs')) {
+  js = js.replace(
+    "function koBig(e){if(L_WEST)return",
+    'function koBig(e){if(LANG==="fa")return e>=1e9?faDigs((e/1e9).toFixed(2))+" میلیارد نفر":faDigs((e/1e6).toFixed(1))+" میلیون نفر";if(L_WEST)return',
+  );
+}
+if (!js.includes('LANG==="fa"?faDigs(a)')) {
+  js = js.replace(
+    'LANG==="it"?itVal(a):a}',
+    'LANG==="it"?itVal(a):LANG==="fa"?faDigs(a):a}',
+  );
+}
+if (!js.includes('LANG==="fa"?"۱ در "')) {
+  js = js.replace(
+    'oddsStr=e=>{const a=1/e;return L_WEST?"1 in "+enNum(a)',
+    'oddsStr=e=>{const a=1/e;return LANG==="fa"?"۱ در "+faDigs(enNum(a)):L_WEST?"1 in "+enNum(a)',
+  );
 }
 
 // 6) RTL helpers that special-case ar — also apply to fa where safe
 js = js.replace(
   /LANG==="ar"\?arBidi/g,
   'LANG==="ar"||LANG==="fa"?arBidi',
+);
+// Logged/capped lines: Latin isolation (faBidi) instead of numbers-only arBidi
+js = js.replace(
+  'LANG==="ar"||LANG==="fa"?arBidi(arLate(e))',
+  'LANG==="ar"?arBidi(arLate(e)):LANG==="fa"?faBidi(arLate(e))',
 );
 js = js.replace(
   /LANG==="ar"\?arAxis/g,

@@ -7,7 +7,7 @@ from pathlib import Path
 base={}
 for p in sorted(Path('data/i18n-chunks').glob('*.json')):
   base.update(json.loads(p.read_text()))
-for p in sorted(Path('data/i18n-fa-out').glob('*.json')):
+for p in sorted(Path('data/i18n-fa-out').glob('[0-9][0-9].json')):
   part=json.loads(p.read_text())
   for k,v in part.items():
     if re.search(r'[\u0600-\u06FF]', str(v)):

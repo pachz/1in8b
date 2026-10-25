@@ -1,0 +1,402 @@
+[
+  {
+    "k": "13ku7dw4udz",
+    "en": "After me, lives in a group home, as we settled beforehand."
+  },
+  {
+    "k": "9ktgb3kpqv",
+    "en": "After me, lives with relatives, as we settled beforehand."
+  },
+  {
+    "k": "4pnf15qujq",
+    "en": "We were close."
+  },
+  {
+    "k": "2ct44s9eam2",
+    "en": "We got along well enough."
+  },
+  {
+    "k": "wblns5hgwf",
+    "en": "We were distant."
+  },
+  {
+    "k": "1ul557f6xzv",
+    "en": "Former spouse's child"
+  },
+  {
+    "k": "1tv5r2azj7l",
+    "en": "Spouse's child"
+  },
+  {
+    "k": "2g3egy4cydx",
+    "en": "Adopted daughter"
+  },
+  {
+    "k": "x4ag9038y6",
+    "en": "Adopted son"
+  },
+  {
+    "k": "1xnac6nh6e0",
+    "en": "Daughter{0}"
+  },
+  {
+    "k": "1khwxf3sr8q",
+    "en": "Son{0}"
+  },
+  {
+    "k": "e92yxfpay1",
+    "en": "Child placed for adoption"
+  },
+  {
+    "k": "z79jt46d9l",
+    "en": "We met again once they were grown."
+  },
+  {
+    "k": "ne5862lhaw",
+    "en": "You never heard of them again after the adoption."
+  },
+  {
+    "k": "8squm2cs3p",
+    "en": "The children's lives"
+  },
+  {
+    "k": "1gjg8mssfam",
+    "en": "As they were the year I died"
+  },
+  {
+    "k": "wpjineax48",
+    "en": "died at {0} · {1}"
+  },
+  {
+    "k": "1ui247v6289",
+    "en": "died at {0}"
+  },
+  {
+    "k": "12b2f5t54ks",
+    "en": "retired {0}"
+  },
+  {
+    "k": "169coz1epzh",
+    "en": "<span class=\"gone\">Not living with you</span>"
+  },
+  {
+    "k": "28cvbkh8o9x",
+    "en": "<span class=\"gone\">Died at {0}</span>"
+  },
+  {
+    "k": "1h7q0g1mms6",
+    "en": "Mother{0}"
+  },
+  {
+    "k": "1ybrbdimkmg",
+    "en": "Father{0}"
+  },
+  {
+    "k": "12er8y7vqvr",
+    "en": "Birth mother"
+  },
+  {
+    "k": "1kla8whrezl",
+    "en": "Stepfather{0}"
+  },
+  {
+    "k": "1stj3ylem09",
+    "en": "{0} passed away"
+  },
+  {
+    "k": "1ga4dzuwzhs",
+    "en": "{0} · {1} passed away"
+  },
+  {
+    "k": "9104dtb47o",
+    "en": "all passed away"
+  },
+  {
+    "k": "agcbthwyns",
+    "en": "all have left home"
+  },
+  {
+    "k": "jsf7v8nbt2",
+    "en": "{0} have left home"
+  },
+  {
+    "k": "1yonojgztwz",
+    "en": "{0} in prison"
+  },
+  {
+    "k": "h3smsjashd",
+    "en": "Raised by"
+  },
+  {
+    "k": "22t83xn7nne",
+    "en": "with your cousins"
+  },
+  {
+    "k": "pcdhiq6wl4",
+    "en": "{0} · {1} · age {2}"
+  },
+  {
+    "k": "hj0wifpn3q",
+    "en": "{0} · age {1}"
+  },
+  {
+    "k": "1xddmmavrgw",
+    "en": "Separated spouse"
+  },
+  {
+    "k": "2dhscwzpc70",
+    "en": "Former partner"
+  },
+  {
+    "k": "z1zcrdntz6",
+    "en": "Late spouse"
+  },
+  {
+    "k": "mno5nk4no5",
+    "en": "Late partner"
+  },
+  {
+    "k": "1w7232sjurb",
+    "en": "{0} years together"
+  },
+  {
+    "k": "10ra68u1w90",
+    "en": "Second wife"
+  },
+  {
+    "k": "2bzrqizyqou",
+    "en": "Husband's other wife"
+  },
+  {
+    "k": "v78wb1a0vh",
+    "en": " · children: {0}"
+  },
+  {
+    "k": "mfw5xued2y",
+    "en": " · lives apart"
+  },
+  {
+    "k": "oi9mryx4m9",
+    "en": "A match in talks"
+  },
+  {
+    "k": "16qiv5mv4qx",
+    "en": "Dating"
+  },
+  {
+    "k": "1u1voaikj5t",
+    "en": "father {0}"
+  },
+  {
+    "k": "1faiwe885xk",
+    "en": "mother {0}"
+  },
+  {
+    "k": "2f416ugdlmi",
+    "en": " · adopted"
+  },
+  {
+    "k": "1zeyaprcey6",
+    "en": " · your former spouse's child"
+  },
+  {
+    "k": "1q4v63gz7qs",
+    "en": " · your spouse's child"
+  },
+  {
+    "k": "2a9mqv8d73c",
+    "en": " · private school"
+  },
+  {
+    "k": "e8kilsgq08",
+    "en": "no longer in touch"
+  },
+  {
+    "k": "c2s7pdbe8v",
+    "en": "Friends"
+  },
+  {
+    "k": "25hbtxqi9io",
+    "en": "<span class=\"gone\">All your old friends have passed away</span>"
+  },
+  {
+    "k": "bxhbhy3irt",
+    "en": "One old friend back home"
+  },
+  {
+    "k": "i44zvqbo6o",
+    "en": "{0} old friends back home"
+  },
+  {
+    "k": "2elmj6scrms",
+    "en": "One old friend left"
+  },
+  {
+    "k": "1gt4gbt8sld",
+    "en": "{0} old friends left"
+  },
+  {
+    "k": "1zlhy5yy7jf",
+    "en": "{0} · ages {1}"
+  },
+  {
+    "k": "23p3fz2ltjo",
+    "en": "{0} · ages {1}–{2}"
+  },
+  {
+    "k": "12nskc3oqca",
+    "en": "{0} who died young"
+  },
+  {
+    "k": "1gbf2c26010",
+    "en": "Habits"
+  },
+  {
+    "k": "lzv9diig28",
+    "en": "Smoking"
+  },
+  {
+    "k": "25o36tb6zc1",
+    "en": " (untreated)"
+  },
+  {
+    "k": "3jpi8hxeor",
+    "en": "Conditions"
+  },
+  {
+    "k": "18g64hutz8l",
+    "en": "<span style=\"color:var(--ink3);font-size:13.5px\">Still a baby, being raised by your parents. Early moments add up and temperament settles by about five; from six you can choose the focus of each year. Feel free to skip this stretch at 8×.</span>"
+  },
+  {
+    "k": "1wqjef5sia",
+    "en": "Spend & invest"
+  },
+  {
+    "k": "ydwq2p49qe",
+    "en": "Tap a chip below to choose what this year goes into. If you leave it, it is chosen for you."
+  },
+  {
+    "k": "g7jpancsew",
+    "en": "Keep knowledge · Happiness↓"
+  },
+  {
+    "k": "i19gff1fzx",
+    "en": "Keep knowledge · Job offers↑"
+  },
+  {
+    "k": "19m4oh3q3ey",
+    "en": "Keep knowledge and memory"
+  },
+  {
+    "k": "13baf9iluuh",
+    "en": "Keep knowledge"
+  },
+  {
+    "k": "lw1giifxhw",
+    "en": "Knowledge↑ Happiness slightly↓"
+  },
+  {
+    "k": "1k5n1cckqi4",
+    "en": "While decisions are on auto, the focus of each year is chosen for you too. Tap a chip and from then on you choose it yourself."
+  },
+  {
+    "k": "bojs6iddk4",
+    "en": "<span class=\"a\">Age {0}</span><span class=\"x\">{1}{2}{3}{4}</span>"
+  },
+  {
+    "k": "kvnlaszanc",
+    "en": "★ A moment to remember"
+  },
+  {
+    "k": "2e47qi8era2",
+    "en": "☆ A moment to remember"
+  },
+  {
+    "k": "1olrr2vd2be",
+    "en": "Moments to remember"
+  },
+  {
+    "k": "mzk0glqcun",
+    "en": "<p class=\"sts-lead\">You can star up to {0} moments. Let one go and the star goes to the moment you just chose.</p>"
+  },
+  {
+    "k": "1kxnu3vgwwk",
+    "en": "Remove star"
+  },
+  {
+    "k": "1cy9y42v7o7",
+    "en": "The star has moved."
+  },
+  {
+    "k": "28iptcs3xqu",
+    "en": "Show earlier lines"
+  },
+  {
+    "k": "opadaqpzqp",
+    "en": "Show only the latest"
+  },
+  {
+    "k": "dl2o0w8w93",
+    "en": "From the day you were born"
+  },
+  {
+    "k": "21x8yg6zci7",
+    "en": "S"
+  },
+  {
+    "k": "4f1uvtmjrq",
+    "en": "W"
+  },
+  {
+    "k": "1vlxakqf1jy",
+    "en": "M"
+  },
+  {
+    "k": "mw540h2j95",
+    "en": "<span>1 square = 1 year · more vivid color = happier year</span><span>Outlined square = life expectancy for a {1} born in {0}: {2} years</span>"
+  },
+  {
+    "k": "1s0rolwddl",
+    "en": "<span>(as of {0})</span>"
+  },
+  {
+    "k": "sxz51lrl6v",
+    "en": "<text x=\"{0}\" y=\"{1}\" text-anchor=\"end\" font-size=\"10\" fill=\"var(--ink3)\">Age</text>"
+  },
+  {
+    "k": "2j5za0d2kq",
+    "en": "<text x=\"{0}\" y=\"{1}\" font-size=\"11\" fill=\"var(--ink)\" font-weight=\"600\">{2} alive</text>"
+  },
+  {
+    "k": "5xcb2ei2lz",
+    "en": "<span><i style=\"background:var(--stamp)\"></i>{0} · {1}</span>{2}<span><i style=\"background:var(--ink3)\"></i>World average</span>"
+  },
+  {
+    "k": "9p6k2l8ct5",
+    "en": "Births per year"
+  },
+  {
+    "k": "12dwussa661",
+    "en": "Population"
+  },
+  {
+    "k": "2g7mgsrn8j1",
+    "en": "Life expectancy, women / men"
+  },
+  {
+    "k": "16h9ihewi3c",
+    "en": "{0} / {1} years"
+  },
+  {
+    "k": "1aylbgd47gc",
+    "en": "Under-5 mortality"
+  },
+  {
+    "k": "1xo426m5w8c",
+    "en": "{0} per 1,000"
+  },
+  {
+    "k": "1ylg7cdoz24",
+    "en": "Income Gini coefficient"
+  }
+]

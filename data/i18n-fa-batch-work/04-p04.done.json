@@ -1,0 +1,502 @@
+[
+  {
+    "k": "kbahq789ad",
+    "en": "You told an old friend how hard things had been. Your friend stayed with you late into the night.",
+    "fa": "به دوست قدیمی گفتید چقدر سخت بوده. دوستتان تا دیروقت با شما ماند."
+  },
+  {
+    "k": "2g9cjmup1n5",
+    "en": "You decided to tell no one and bear it alone.",
+    "fa": "تصمیم گرفتید به کسی نگویید و تنها تحمل کنید."
+  },
+  {
+    "k": "1gyx4gzzri7",
+    "en": "Ask for help?",
+    "fa": "کمک بخواهید؟"
+  },
+  {
+    "k": "10zy8hcus31",
+    "en": "{0} years of bearing it alone. There are good days, but your heart is still heavy.",
+    "fa": "{0} سال تحمل تنها. روزهای خوب هم هست، اما دل هنوز سنگین است."
+  },
+  {
+    "k": "2exfu6g9hl5",
+    "en": "Free",
+    "fa": "رایگان"
+  },
+  {
+    "k": "1das6r4i0ts",
+    "en": "Bear it alone a while longer",
+    "fa": "کمی بیشتر تنها تحمل کنید"
+  },
+  {
+    "k": "p5awnl41ue",
+    "en": "You finally started the counselling you had put off for so long.",
+    "fa": "بالاخره مشاوره‌ای را که مدت‌ها به تأخیر انداخته بودید شروع کردید."
+  },
+  {
+    "k": "pmpi9tynzk",
+    "en": "For the first time, you spoke of what you had carried alone so long. More people than you thought had been through a time like it.",
+    "fa": "برای اولین بار از بار سنگینی که تنها برده بودید گفتید. بیش از آنچه فکر می‌کردید کسانی چنین زمانی داشته‌اند."
+  },
+  {
+    "k": "2drkvkeny7j",
+    "en": "The hurt you caused {0} weighs on you.",
+    "fa": "آسیبی که به {0} زده‌اید سنگین است."
+  },
+  {
+    "k": "227o8w8itfa",
+    "en": "The hurt you caused your spouse weighs on you.",
+    "fa": "آسیبی که به همسرتان زده‌اید سنگین است."
+  },
+  {
+    "k": "l8e371ok6j",
+    "en": "The hurt you caused your children weighs on you.",
+    "fa": "آسیبی که به فرزندانتان زده‌اید سنگین است."
+  },
+  {
+    "k": "1ey8w876bc3",
+    "en": "The hurt you caused your brothers and sisters weighs on you.",
+    "fa": "آسیبی که به برادران و خواهران زده‌اید سنگین است."
+  },
+  {
+    "k": "17flulnji3y",
+    "en": "The people who were harmed by what you did weigh on you.",
+    "fa": "کسانی که از کار شما آسیب دیدند سنگین‌اند."
+  },
+  {
+    "k": "r6k74mc1ht",
+    "en": "Ask {0} for forgiveness",
+    "fa": "از {0} آمرزش بخواهید"
+  },
+  {
+    "k": "292dzqrunfs",
+    "en": "Go to {0} and ask for forgiveness",
+    "fa": "نزد {0} بروید و آمرزش بخواهید"
+  },
+  {
+    "k": "17d3ltubo46",
+    "en": "Tell your spouse everything and ask for forgiveness",
+    "fa": "همه‌چیز را به همسرتان بگویید و آمرزش بخواهید"
+  },
+  {
+    "k": "4dtd4et1kg",
+    "en": "Tell your children what happened and say sorry",
+    "fa": "به فرزندانتان بگویید چه شد و عذرخواهی کنید"
+  },
+  {
+    "k": "2acna5ud9y1",
+    "en": "Go to your brothers and sisters and ask for forgiveness",
+    "fa": "نزد برادران و خواهران بروید و آمرزش بخواهید"
+  },
+  {
+    "k": "1u95bocyhwf",
+    "en": "A way back",
+    "fa": "راه بازگشت"
+  },
+  {
+    "k": "27r0s4dps4m",
+    "en": "You have not been out of prison long.",
+    "fa": "مدت زیادی از زندان بیرون نیامده‌اید."
+  },
+  {
+    "k": "2ckiv51soqh",
+    "en": "It has been {0} years since you left prison.",
+    "fa": "{0} سال از خروج از زندان گذشته است."
+  },
+  {
+    "k": "zeo79k3s5h",
+    "en": "What is done cannot be undone, but there are things you can do from now on.",
+    "fa": "آنچه رفته برنمی‌گردد، اما از این پس کارهایی هست که می‌توانید بکنید."
+  },
+  {
+    "k": "16z18h4isnb",
+    "en": "Restorative justice conferences, where offenders sit down with those they harmed, brought a modest but steady drop in reoffending, and the crimes they prevented were worth 3.7 to 8.1 times what they cost (Strang et al. 2013, Campbell systematic review)",
+    "fa": "کنفرانس‌های عدالت ترمیمی، که مجرمان با آسیب‌دیدگان می‌نشینند، کاهش ملایم اما پایدار تکرار جرم آورد و جرم‌های پیشگیری‌شده ۳.۷ تا ۸.۱ برابر هزینه بودند (Strang et al. 2013، Campbell systematic review)"
+  },
+  {
+    "k": "16ghlr7ztvw",
+    "en": "Forgiveness may not come yet",
+    "fa": "شاید هنوز آمرزش نیاید"
+  },
+  {
+    "k": "2cmsmlo3zn5",
+    "en": "Apologise to those you harmed and make it up to them",
+    "fa": "از آسیب‌دیدگان عذرخواهی کنید و جبران کنید"
+  },
+  {
+    "k": "1ztymojmian",
+    "en": "Help young people heading down the same road",
+    "fa": "به جوانانی که همان راه می‌روند کمک کنید"
+  },
+  {
+    "k": "ghryuxp5hb",
+    "en": "Volunteering as a mentor to young people leaving juvenile detention",
+    "fa": "داوطلبانه راهنمای جوانانی که از بازداشتگاه نوجوانان بیرون می‌آیند"
+  },
+  {
+    "k": "18e2y2zvkfl",
+    "en": "Quietly live an honest life",
+    "fa": "آرام زندگی درستی بکنید"
+  },
+  {
+    "k": "nldl27gqgj",
+    "en": "Trust takes time",
+    "fa": "اعتماد زمان می‌برد"
+  },
+  {
+    "k": "1dgeraqjlcz",
+    "en": "You sat down in front of your mother and bowed your head. She cried for a long while, then took your hand.",
+    "fa": "روبروی مادرتان نشستید و سر را خم کردید. مدتی گریست، بعد دستتان را گرفت."
+  },
+  {
+    "k": "1euaq2q2pkp",
+    "en": "You went to {0} and bowed your head. Your mother cried for a long time, then asked whether you were eating properly.",
+    "fa": "نزد {0} رفتید و سر را خم کردید. مادرتان مدتی گریست، بعد پرسید آیا درست می‌خورید."
+  },
+  {
+    "k": "xemko9hcht",
+    "en": "You begged your father's forgiveness. He was silent for a long time, then patted your shoulder and said that was enough now.",
+    "fa": "از پدرتان آمرزش خواستید. مدتی خاموش بود، بعد شانه‌تان را زد و گفت دیگر بس است."
+  },
+  {
+    "k": "143i52epj5r",
+    "en": "You went to your father and begged his forgiveness. He was silent for a long time, then patted your shoulder and said that was enough now.",
+    "fa": "نزد پدرتان رفتید و آمرزش خواستید. مدتی خاموش بود، بعد شانه‌تان را زد و گفت دیگر بس است."
+  },
+  {
+    "k": "tlj2e452xb",
+    "en": "You told your spouse everything and asked for forgiveness. The answer was: let's start again from the beginning.",
+    "fa": "همه‌چیز را به همسرتان گفتید و آمرزش خواستید. پاسخ این بود: از نو شروع کنیم."
+  },
+  {
+    "k": "gsflp94j93",
+    "en": "For the first time, you told your children about it and said sorry. One of them quietly took your hand.",
+    "fa": "برای اولین بار به فرزندانتان گفتید و عذرخواهی کردید. یکی از آن‌ها آرام دستتان را گرفت."
+  },
+  {
+    "k": "e5h83eek7y",
+    "en": "You went to your brothers and sisters and asked for forgiveness. That holiday, you all sat together for the first time in years.",
+    "fa": "نزد برادران و خواهران رفتید و آمرزش خواستید. آن عید، برای اولین بار سال‌ها با هم نشستید."
+  },
+  {
+    "k": "179sl7or8hy",
+    "en": "Though you lived under the same roof, your mother still would not meet your eyes. Even so, you decided to greet her first every morning.",
+    "fa": "زیر یک سقف بودید، اما مادر هنوز به چشمتان نگاه نمی‌کرد. با این حال تصمیم گرفتید هر صبح اول سلام کنید."
+  },
+  {
+    "k": "wze5ix5zlv",
+    "en": "Your mother said she could not see you yet. Still, you decided to go to her door every holiday.",
+    "fa": "مادر گفت هنوز نمی‌تواند شما را ببیند. با این حال تصمیم گرفتید هر عید به درش بروید."
+  },
+  {
+    "k": "1gt78qkih9y",
+    "en": "Though you lived under the same roof, your father still would not speak with you. Even so, you decided to greet him first every morning.",
+    "fa": "زیر یک سقف بودید، اما پدر هنوز با شما حرف نمی‌زد. با این حال تصمیم گرفتید هر صبح اول سلام کنید."
+  },
+  {
+    "k": "1tuoizoroon",
+    "en": "Your father would not open the door. Still, you decided to go every holiday.",
+    "fa": "پدر در را باز نکرد. با این حال تصمیم گرفتید هر عید بروید."
+  },
+  {
+    "k": "1zbqpqi0w29",
+    "en": "Your spouse could not open up to you yet. You said you would wait.",
+    "fa": "همسرتان هنوز نمی‌تواند به شما باز شود. گفتید صبر می‌کنید."
+  },
+  {
+    "k": "1ea6klkfr1s",
+    "en": "The children were still awkward with you. You decided to come closer slowly.",
+    "fa": "فرزندان هنوز با شما راحت نیستند. تصمیم گرفتید آرام نزدیک شوید."
+  },
+  {
+    "k": "1nlk6s417yg",
+    "en": "Your brothers and sisters were not ready to welcome you. You decided to wait.",
+    "fa": "برادران و خواهران آمادهٔ پذیرش نیستند. تصمیم گرفتید صبر کنید."
+  },
+  {
+    "k": "wjbb66s9s",
+    "en": "You went to those harmed by what you did, apologised, and began paying them back with what you had saved. (−{0})",
+    "fa": "نزد کسانی که آسیب دیدند رفتید، عذرخواهی کردید و با پس‌انداز شروع به جبران کردید. (−{0})"
+  },
+  {
+    "k": "1xcuf3xqjhq",
+    "en": "You began mentoring young people just out of juvenile detention. One who heard your story came back the next week.",
+    "fa": "شروع به راهنمایی جوانانی تازه از بازداشتگاه نوجوانان کردید. یکی که داستان شما را شنید هفتهٔ بعد برگشت."
+  },
+  {
+    "k": "wyjn5s2li2",
+    "en": "You made no excuses to anyone and simply worked, day after day. Trust, you thought, is built with time, not words.",
+    "fa": "به کسی بهانه ندادید و فقط روز به روز کار کردید. فکر می‌کردید اعتماد با زمان ساخته می‌شود، نه با کلام."
+  },
+  {
+    "k": "k8mpnczdn3",
+    "en": "Dip into public funds?",
+    "fa": "دست به وجوه عمومی بزنید؟"
+  },
+  {
+    "k": "1g1gczkm387",
+    "en": "Dip into the company's money?",
+    "fa": "دست به پول شرکت بزنید؟"
+  },
+  {
+    "k": "27s7ss4ny7h",
+    "en": "Debt collectors call several times a day. You happen to be in charge of {0}, and if you borrowed some and put it back, it seems no one would know.",
+    "fa": "وصول‌کنندگان بدهی چند بار در روز تماس می‌گیرند. اتفاقاً مسئول {0} هستید و اگر کمی قرض بگیرید و برگردانید، به نظر می‌رسد کسی نمی‌فهمد."
+  },
+  {
+    "k": "t60jgprcls",
+    "en": "public funds",
+    "fa": "وجوه عمومی"
+  },
+  {
+    "k": "1impf0u19s0",
+    "en": "the company's money",
+    "fa": "پول شرکت"
+  },
+  {
+    "k": "2fq7mykvsx6",
+    "en": "43% of embezzlement and fraud at work comes to light through a tip, usually about a year after it starts (ACFE 2024)",
+    "fa": "۴۳٪ اختلاس و کلاهبرداری در محل کار از طریق گزارش فاش می‌شود، معمولاً حدود یک سال پس از شروع (ACFE 2024)"
+  },
+  {
+    "k": "7txlp1w24",
+    "en": "Don't touch it",
+    "fa": "دست نزنید"
+  },
+  {
+    "k": "dtpu2x7ys3",
+    "en": "Borrow it, just for a while",
+    "fa": "فقط مدتی قرض بگیرید"
+  },
+  {
+    "k": "15m6zls52sp",
+    "en": "Covers the debt · if found: fired and in court",
+    "fa": "بدهی را می‌پوشاند · اگر فاش شود: اخراج و دادگاه"
+  },
+  {
+    "k": "1j7g07bf9ih",
+    "en": "A risky offer",
+    "fa": "پیشنهاد پرریسک"
+  },
+  {
+    "k": "ggpsa9t2aj",
+    "en": "{0} and {1}. Someone you know offers you risky work: \"Help me out just once, and there's big money in it for you.\"",
+    "fa": "{0} و {1}. کسی که می‌شناسید کار پرریسکی پیشنهاد می‌دهد: «فقط یک بار کمک کن، پول زیادی می‌گیری.»"
+  },
+  {
+    "k": "2bf004n1l1r",
+    "en": "There's no work,",
+    "fa": "کاری نیست،"
+  },
+  {
+    "k": "1e67vy10p57",
+    "en": "Money is tight,",
+    "fa": "پول تنگ است،"
+  },
+  {
+    "k": "1djx4gk4735",
+    "en": "your debts keep piling up",
+    "fa": "بدهی‌ها بالا می‌روند"
+  },
+  {
+    "k": "12mz5s8d4fq",
+    "en": "life shows no sign of getting better",
+    "fa": "زندگی نشانی بهتر شدن نمی‌دهد"
+  },
+  {
+    "k": "1p7aaxpvu5s",
+    "en": "More than 10 million people are held in prisons around the world (World Prison Brief)",
+    "fa": "بیش از ۱۰ میلیون نفر در زندان‌های جهان هستند (World Prison Brief)"
+  },
+  {
+    "k": "2269b9jmovz",
+    "en": "Things stay as they are",
+    "fa": "همه‌چیز همان‌طور بماند"
+  },
+  {
+    "k": "zsis1ix5rl",
+    "en": "Accept the offer",
+    "fa": "پیشنهاد را بپذیرید"
+  },
+  {
+    "k": "85ao3tb2ap",
+    "en": "Big money promised · prison if you're caught",
+    "fa": "پول زیاد وعده داده · زندان اگر گیر بیفتید"
+  },
+  {
+    "k": "25rdy9vefh8",
+    "en": "You left it alone. The calls kept coming, but you could sleep at night.",
+    "fa": "دست نزدید. تماس‌ها ادامه داشت، اما شب‌ها راحت می‌خوابید."
+  },
+  {
+    "k": "1xk1g10qo16",
+    "en": "You said no. Things stayed as they were, but your mind was at peace.",
+    "fa": "نه گفتید. اوضاع همان ماند، اما ذهنتان آرام بود."
+  },
+  {
+    "k": "123wt5xion4",
+    "en": "You dipped into {0}. The urgent debt was covered, but from that day your hands shook whenever an audit was announced.",
+    "fa": "دست به {0} زدید. بدهی فوری پوشانده شد، اما از آن رو هر وقت حسابرسی اعلام می‌شد دستتان می‌لرزید."
+  },
+  {
+    "k": "1xxmg19x53u",
+    "en": "You were caught and put on trial. You were sentenced to {0} years in prison.",
+    "fa": "گیر افتادید و محاکمه شدید. به {0} سال زندان محکوم شدید."
+  },
+  {
+    "k": "1bvlji4wo1n",
+    "en": "Your spouse {0} asked what you were doing these days, and you could not answer.",
+    "fa": "همسرتان {0} پرسید این روزها چه می‌کنید و نتوانستید جواب دهید."
+  },
+  {
+    "k": "1n30m4vaxnv",
+    "en": "{0} asked what you were doing these days, and you could not answer.",
+    "fa": "{0} پرسید این روزها چه می‌کنید و نتوانستید جواب دهید."
+  },
+  {
+    "k": "2997wvd7lun",
+    "en": "The big money never came. All you got was a few weeks' pay, and from that day on, a knock at the door often woke you in the night.",
+    "fa": "پول زیاد هرگز نیامد. فقط حقوق چند هفته گرفتید و از آن رو صدای درک اغلب شب‌ها بیدارتان می‌کرد."
+  },
+  {
+    "k": "cm2i36yuro",
+    "en": "In a study of a Chicago drug gang's books, the rank and file earned around the minimum wage (Levitt & Venkatesh 2000)",
+    "fa": "در مطالعهٔ دفتر یک باند مواد مخدر شیکاگو، ردهٔ پایین حدود حداقل دستمزد می‌گرفت (Levitt & Venkatesh 2000)"
+  },
+  {
+    "k": "yh8m3squj6",
+    "en": "The evening out with colleagues is over.",
+    "fa": "شب بیرون با همکاران تمام شد."
+  },
+  {
+    "k": "1fkfdfceftd",
+    "en": "At the holiday you drank with relatives until late.",
+    "fa": "در جشن با خویشاوندان تا دیر نوشیدید."
+  },
+  {
+    "k": "1806dqbn7be",
+    "en": "The night out with friends is over.",
+    "fa": "شب بیرون با دوستان تمام شد."
+  },
+  {
+    "k": "1vc89idb7dl",
+    "en": "A night of drinking",
+    "fa": "شبی از نوشیدن"
+  },
+  {
+    "k": "1e3kkdi5gp2",
+    "en": "You've had a few drinks, and your motorbike is parked right outside. Home is 20 minutes away.",
+    "fa": "چند جام خورده‌اید و موتور بیرون پارک است. خانه ۲۰ دقیقه فاصله دارد."
+  },
+  {
+    "k": "buzoegz1yc",
+    "en": "You've had a few drinks, and the car is in the car park. Home is a 20-minute drive.",
+    "fa": "چند جام خورده‌اید و ماشین در پارکینگ است. خانه ۲۰ دقیقه رانندگی دارد."
+  },
+  {
+    "k": "18a3u61n3mi",
+    "en": "Last time you got home with no trouble.",
+    "fa": "بار پیش بدون مشکل به خانه رسیدید."
+  },
+  {
+    "k": "2fgv89pl3cc",
+    "en": "Drink-driving arrests in Korea fell from 243,000 in 2015 to 118,000 in 2024, but about 44% of those caught are caught again (Samsung Traffic Safety Research Institute 2026)",
+    "fa": "بازداشت رانندگی در حالت مست در کره از ۲۴۳٬۰۰۰ در ۲۰۱۵ به ۱۱۸٬۰۰۰ در ۲۰۲۴ کاهش یافت، اما حدود ۴۴٪ گیرافتادگان دوباره گیر می‌افتند (Samsung Traffic Safety Research Institute 2026)"
+  },
+  {
+    "k": "xu3l855i4t",
+    "en": "At a blood alcohol level of 0.05-0.08%, the risk of dying in a crash is at least six times higher (WHO, Global Road Safety Partnership)",
+    "fa": "با سطح الکل خون ۰.۰۵–۰.۰۸٪، خطر مرگ در تصادف حداقل شش برابر است (WHO، Global Road Safety Partnership)"
+  },
+  {
+    "k": "19l5q63cvci",
+    "en": "Call a designated driver",
+    "fa": "رانندهٔ designated تماس بگیرید"
+  },
+  {
+    "k": "ywsfsbnais",
+    "en": "Call a taxi",
+    "fa": "تاکسی بگیرید"
+  },
+  {
+    "k": "17cel81wsk4",
+    "en": "Leave the motorbike, fetch it tomorrow",
+    "fa": "موتور را بگذارید، فردا بیایید"
+  },
+  {
+    "k": "1m5mdcukssk",
+    "en": "Leave the car, fetch it tomorrow",
+    "fa": "ماشین را بگذارید، فردا بیایید"
+  },
+  {
+    "k": "1obbiak4u80",
+    "en": "A bit of a hassle",
+    "fa": "کمی دردسر"
+  },
+  {
+    "k": "l4yyxl9wxj",
+    "en": "Just drive home",
+    "fa": "فقط خودتان برانید"
+  },
+  {
+    "k": "1tf4dcsylar",
+    "en": "“It'll be fine” · checks and crashes",
+    "fa": "«درست می‌شود» · بازرسی و تصادف"
+  },
+  {
+    "k": "drkeowinl8",
+    "en": "You waited for the designated driver in the cold air. When the keys were handed back at your door, you felt relieved.",
+    "fa": "در هوای سرد منتظر رانندهٔ designated ماندید. وقتی کلید در در خانه پس داده شد، آسوده شدید."
+  },
+  {
+    "k": "yr0aunarjl",
+    "en": "You took a taxi home and fetched the car the next day.",
+    "fa": "با تاکسی به خانه رفتید و فردا ماشین را بردید."
+  },
+  {
+    "k": "10klrpfk5q9",
+    "en": "You left the motorbike and walked home, then went back for it the next morning.",
+    "fa": "موتور را گذاشتید و پیاده به خانه رفتید، صبح بعد برگشتید."
+  },
+  {
+    "k": "12unugmza4y",
+    "en": "You left the car and took the bus home, then went back for it the next morning.",
+    "fa": "ماشین را گذاشتید و با اتوبوس به خانه رفتید، صبح بعد برگشتید."
+  },
+  {
+    "k": "12xr0ggodc0",
+    "en": "On the way home you collided with an oncoming car. Its driver died. You could not lift your head before their family.",
+    "fa": "در راه خانه با ماشین مقابل تصادف کردید. رانندهٔ آن مرد. جلوی خانوادهٔش سر بلند نکردید."
+  },
+  {
+    "k": "1vfcrod8l7x",
+    "en": "You missed a light and hit someone crossing the road. They were in hospital for months. You paid the bills and a settlement and bowed your head outside their room. (−{0})",
+    "fa": "چراغ را از دست دادید و به کسی که از پیاده‌رو می‌گذشت برخوردید. ماه‌ها بیمارستان بود. هزینه و سازش پرداختید و بیرون اتاق سر خم کردید. (−{0})"
+  },
+  {
+    "k": "15gvmuwmd8u",
+    "en": "The motorbike skidded on a bend. You badly hurt your leg and spent weeks in hospital.",
+    "fa": "موتور در پیچ لیز خورد. پایتان آسیب دید و هفته‌ها بیمارستان بودید."
+  },
+  {
+    "k": "d0io9cx2kb",
+    "en": "You drove into a roadside tree. You were the only one hurt, but you spent weeks in hospital.",
+    "fa": "به درخت کنار جاده برخوردید. فقط خودتان آسیب دیدید، اما هفته‌ها بیمارستان بودید."
+  },
+  {
+    "k": "1qkf4k612og",
+    "en": "You were stopped at a police check on your own street.",
+    "fa": "در بازرسی پلیس در همان خیابان خودتان گیر افتادید."
+  },
+  {
+    "k": "v7srt8dtta",
+    "en": "You made it home without incident. The next morning you could barely remember the drive.",
+    "fa": "بدون حادثه به خانه رسیدید. صبح بعد به سختی رانندگی را به یاد آوردید."
+  },
+  {
+    "k": "2ff6uypradw",
+    "en": "{0} came back",
+    "fa": "{0} برگشت"
+  }
+]

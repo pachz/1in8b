@@ -1,0 +1,502 @@
+[
+  {
+    "k": "1307f6kdy7z",
+    "en": "Out of prison, {0} stood at your door. After a long hesitation, they bowed their head. “I'm sorry. I want to start again.”",
+    "fa": "از زندان بیرون آمده، {0} در در شما ایستاد. پس از مکث طولانی سر را خم کرد. «ببخشید. می‌خواهم از نو شروع کنم.»"
+  },
+  {
+    "k": "n2amfkruce",
+    "en": "Out of prison, your {0} came to see you. At the door, after a long hesitation, they bowed their head. “I'm sorry. I want to start again.”",
+    "fa": "از زندان بیرون آمده، {0} شما برای دیدار آمد. در در، پس از مکث طولانی سر را خم کرد. «ببخشید. می‌خواهم از نو شروع کنم.»"
+  },
+  {
+    "k": "1yvayizfd34",
+    "en": "Prisoners who had visitors were 13% less likely to reoffend after release (Minnesota Department of Corrections 2011)",
+    "fa": "زندانیانی که ملاقات‌کننده داشتند ۱۳٪ کمتر پس از آزادی دوباره جرم کردند (Minnesota Department of Corrections 2011)"
+  },
+  {
+    "k": "mf0ay8oblv",
+    "en": "Hold them",
+    "fa": "در آغوش بگیرید"
+  },
+  {
+    "k": "whta7iyayu",
+    "en": "Family again",
+    "fa": "دوباره خانواده"
+  },
+  {
+    "k": "166gkprbj3p",
+    "en": "Say you still need time",
+    "fa": "بگویید هنوز وقت می‌خواهید"
+  },
+  {
+    "k": "ak74wb1jg5",
+    "en": "Until you are ready",
+    "fa": "تا آماده شوید"
+  },
+  {
+    "k": "1q7v2s6d8ln",
+    "en": "Without a word, you held {0}. That evening you sat at one table together for the first time in years.",
+    "fa": "بی‌سخن {0} را در آغوش گرفتید. آن شب برای اولین بار سال‌ها پشت یک میز نشستید."
+  },
+  {
+    "k": "28mxp9uisce",
+    "en": "You held your {0}. That holiday, the brothers and sisters were all together again for the first time in years.",
+    "fa": "{0} را در آغوش گرفتید. آن عید، برادران و خواهران برای اولین بار سال‌ها با هم بودند."
+  },
+  {
+    "k": "nfsggvc99y",
+    "en": "You said it was still too hard. {0} nodded and turned away.",
+    "fa": "گفتید هنوز سخت است. {0} سر تکان داد و رفت."
+  },
+  {
+    "k": "zt6nqq1git",
+    "en": "Want a smoke?",
+    "fa": "سیگار می‌کشی؟"
+  },
+  {
+    "k": "irt11967us",
+    "en": "Your friends offer you a cigarette. Smoking together feels like being part of the group, and a little grown-up.",
+    "fa": "دوستان سیگار پیشنهاد می‌دهند. با هم کشیدن حس تعلق به گروه و کمی بزرگ‌تر بودن می‌دهد."
+  },
+  {
+    "k": "vd96nqnvqn",
+    "en": "Tobacco use in {0} ({1}): {2}% (WHO 2020, age-standardized)",
+    "fa": "مصرف دخانیات در {0} ({1}): {2}٪ (WHO 2020، age-standardized)"
+  },
+  {
+    "k": "fvsy16adtr",
+    "en": "Try one",
+    "fa": "یکی امتحان کن"
+  },
+  {
+    "k": "lfohft1087",
+    "en": "Fit in with friends · can become a habit",
+    "fa": "با دوستان جور شو · می‌تواند عادت شود"
+  },
+  {
+    "k": "29xbeg9r2c3",
+    "en": "You started smoking with your friends. A cigarette seemed to settle your nerves.",
+    "fa": "با دوستان شروع به سیگار کشیدن کردید. یک نخری به نظر می‌رسید اعصاب را آرام می‌کند."
+  },
+  {
+    "k": "vszv31vyo3",
+    "en": "{0} soon smelled the smoke on your clothes, and you got a real scolding.",
+    "fa": "{0} به‌زودی بوی دود روی لباستان را فهمید و سخت توبیخ کرد."
+  },
+  {
+    "k": "1k7nejynat6",
+    "en": "The calm smokers feel is mostly craving briefly relieved. People who quit are less anxious and depressed and in a better mood within months (Taylor et al., BMJ 2014)",
+    "fa": "آرامشی که سیگاری‌ها حس می‌کنند بیشتر تسکین موقت میل است. کسانی که ترک می‌کنند ظرف چند ماه کمتر مضطرب و افسرده‌اند (Taylor et al., BMJ 2014)"
+  },
+  {
+    "k": "18acyg06lqt",
+    "en": "You smoked a few times, then stopped.",
+    "fa": "چند بار کشیدید، بعد ایستادید."
+  },
+  {
+    "k": "28te7zvqz8p",
+    "en": "Quit smoking?",
+    "fa": "ترک سیگار؟"
+  },
+  {
+    "k": "u95dge6w9k",
+    "en": "You've been coughing more and more. Is it time to quit?",
+    "fa": "سرفه‌تان بیشتر شده. وقت ترک است؟"
+  },
+  {
+    "k": "1jb6wzbljwp",
+    "en": "On average, smokers lose more than 10 years of life (CDC).",
+    "fa": "به‌طور میانگین سیگاری‌ها بیش از ۱۰ سال عمر از دست می‌دهند (CDC)."
+  },
+  {
+    "k": "v4bkkbhk5d",
+    "en": "Of US smokers who tried to quit in a year, about 13% had stayed off cigarettes for over six months (CDC 2015)",
+    "fa": "از سیگاری‌های آمریکا که در یک سال ترک را امتحان کردند، حدود ۱۳٪ بیش از شش ماه بدون سیگار ماندند (CDC 2015)"
+  },
+  {
+    "k": "12av60ww8ga",
+    "en": "Try to quit",
+    "fa": "ترک را امتحان کن"
+  },
+  {
+    "k": "8pifo5kpfv",
+    "en": "If it works, your health recovers",
+    "fa": "اگر موفق شود، سلامتی برمی‌گردد"
+  },
+  {
+    "k": "1qcnlwfqlbt",
+    "en": "Keep smoking",
+    "fa": "ادامه دهید"
+  },
+  {
+    "k": "1mh55tj1ipq",
+    "en": "You quit smoking!",
+    "fa": "سیگار را ترک کردید!"
+  },
+  {
+    "k": "aui04pj6tm",
+    "en": "You tried to quit, but couldn't.",
+    "fa": "ترک را امتحان کردید، اما نشد."
+  },
+  {
+    "k": "1emwg0wf7fv",
+    "en": "Leave for the city?",
+    "fa": "به شهر بروید؟"
+  },
+  {
+    "k": "24x2o5rrarj",
+    "en": "There is more work in the cities of {0}. But you don't know anyone there.",
+    "fa": "در شهرهای {0} کار بیشتر است. اما آنجا کسی را نمی‌شناسید."
+  },
+  {
+    "k": "1oxuy49w9at",
+    "en": "About {2}% of people in {1} lived in cities in {0} (UN World Urbanization Prospects)",
+    "fa": "حدود {2}٪ مردم {1} در {0} در شهر زندگی می‌کردند (UN World Urbanization Prospects)"
+  },
+  {
+    "k": "8bncp2j3fz",
+    "en": "Share of people living in cities in {0}: {1}% (UN-Habitat 2023)",
+    "fa": "سهم جمعیت شهری در {0}: {1}٪ (UN-Habitat 2023)"
+  },
+  {
+    "k": "1n5xqdyutdb",
+    "en": "Income↑ Relationships↓",
+    "fa": "درآمد↑ روابط↓"
+  },
+  {
+    "k": "qku7t6gpfi",
+    "en": "Stay in your hometown",
+    "fa": "در زادگاه بمانید"
+  },
+  {
+    "k": "11zx4ma1cjn",
+    "en": "You moved to {0}.",
+    "fa": "به {0} نقل مکان کردید."
+  },
+  {
+    "k": "fmbuhgm980",
+    "en": "Where your child lives · through family sponsorship",
+    "fa": "جایی که فرزندتان زندگی می‌کند · از طریق حمایت خانوادگی"
+  },
+  {
+    "k": "1oeff798dq5",
+    "en": "Where you once lived · you have the right to stay",
+    "fa": "جایی که قبلاً زندگی می‌کردید · حق اقامت دارید"
+  },
+  {
+    "k": "8xrn4ynu6z",
+    "en": "Warm and cheaper to live in · free to move there",
+    "fa": "گرم و زندگی ارزان‌تر · آزاد برای رفتن"
+  },
+  {
+    "k": "31sqzfbs46",
+    "en": "Warm and cheaper to live in · a retirement visa",
+    "fa": "گرم و زندگی ارزان‌تر · ویزای بازنشستگی"
+  },
+  {
+    "k": "1lzqugs2pyb",
+    "en": "Go back to where you lived for so long?",
+    "fa": "به جایی که مدت‌ها زندگی کردید برگردید؟"
+  },
+  {
+    "k": "1jd0ujxdqg2",
+    "en": "Where to live in retirement?",
+    "fa": "در بازنشستگی کجا زندگی کنید؟"
+  },
+  {
+    "k": "2emam0tq5km",
+    "en": "You moved to {0} after retiring, but there is also a way back to the country where you lived for so long, or to where your children live. Your pension comes wherever you live.",
+    "fa": "پس از بازنشستگی به {0} رفتید، اما راه بازگشت به کشوری که مدت‌ها آنجا بودید یا جایی که فرزندانتان‌اند هم هست. مستمری هر جا باشید می‌آید."
+  },
+  {
+    "k": "qjkvmbvhqh",
+    "en": "Now that you have stopped working, spending your old age in another country is possible too. Your pension comes wherever you live.",
+    "fa": "حالا که کار را بستید، پیروزی در کشور دیگر هم ممکن است. مستمری هر جا باشید می‌آید."
+  },
+  {
+    "k": "f1c7l2rmko",
+    "en": "Your spouse would come too.",
+    "fa": "همسرتان هم می‌آید."
+  },
+  {
+    "k": "simbq1lm36",
+    "en": "But it means leaving the neighbourhood you have long lived in, your friends and a familiar language.",
+    "fa": "اما یعنی ترک محله‌ای که سال‌ها در آن بودید، دوستان و زبانی آشنا."
+  },
+  {
+    "k": "mwccglqi5m",
+    "en": "Britain pays more than a million state pensions abroad, most of them to retirees in Australia, Spain, Canada, the US and Ireland (UK Department for Work and Pensions)",
+    "fa": "بریتانیا بیش از یک میلیون مستمری دولتی را در خارج می‌پردازد، بیشتر به بازنشستگان در استرالیا، اسپانیا، Canada، آمریکا و ایرلند (UK Department for Work and Pensions)"
+  },
+  {
+    "k": "104i346q8lm",
+    "en": "Stay where you live now",
+    "fa": "همان‌جا که اکنون هستید بمانید"
+  },
+  {
+    "k": "2c6f0p3hqrr",
+    "en": "Near the people you know",
+    "fa": "نزد کسانی که می‌شناسید"
+  },
+  {
+    "k": "1kx6grhh3x8",
+    "en": "Rather than going back, you chose to spend the rest of your old age here.",
+    "fa": "به‌جای بازگشت، تصمیم گرفتید بقیهٔ پیری را اینجا بگذرانید."
+  },
+  {
+    "k": "2dunld3yan2",
+    "en": "Rather than going far, you chose to spend your old age in the neighbourhood you know.",
+    "fa": "به‌جای رفتن دور، پیری را در محلهٔ آشنا گذرانید."
+  },
+  {
+    "k": "ytp2totym8",
+    "en": "You left {0} and moved to {1}, where your child lives. Now you live close to them. (−{2})",
+    "fa": "{0} را ترک کردید و به {1} رفتید، جایی که فرزندتان است. اکنون نزدیکشان زندگی می‌کنید. (−{2})"
+  },
+  {
+    "k": "2f6jyamxav8",
+    "en": "You left {0} and went back to {1}, where you once lived. The familiar streets were a welcome sight. (−{2})",
+    "fa": "{0} را ترک کردید و به {1} برگشتید، جایی که قبلاً زندگی می‌کردید. خیابان‌های آشنا خوشایند بود. (−{2})"
+  },
+  {
+    "k": "2f7vzx4crax",
+    "en": "You left {0} to spend your old age in {1}. The warm weather and low prices were welcome. (−{2})",
+    "fa": "{0} را ترک کردید تا پیری را در {1} بگذرانید. هوای گرم و قیمت پایین خوشایند بود. (−{2})"
+  },
+  {
+    "k": "11w40912gvl",
+    "en": "You left {0} to spend your old age in {1}. The warm weather and low prices were welcome, but with little of the language even shopping was hard for a while. (−{2})",
+    "fa": "{0} را ترک کردید تا پیری را در {1} بگذرانید. هوا و قیمت خوشایند بود، اما با کم‌بود زبان حتی خرید مدتی سخت بود. (−{2})"
+  },
+  {
+    "k": "tq0pyya1d4",
+    "en": "As a citizen of {0}, you can go back to live and work there without a visa.",
+    "fa": "به‌عنوان شهروند {0} می‌توانید بدون ویزا برای زندگی و کار برگردید."
+  },
+  {
+    "k": "23mi8xh0v2h",
+    "en": "{0} lets you go and work there without a visa.",
+    "fa": "{0} اجازه می‌دهد بدون ویزا بروید و کار کنید."
+  },
+  {
+    "k": "z490fyfhyb",
+    "en": "It is your spouse's country, so you can go on a spouse visa.",
+    "fa": "کشور همسرتان است، پس می‌توانید با ویزای همسر بروید."
+  },
+  {
+    "k": "ru2bu6io93",
+    "en": "As an ethnic Korean from China, you can go and work in Korea on a Visit and Employment (H-2) or Overseas Korean (F-4) visa.",
+    "fa": "به‌عنوان کره‌ای قومی چین می‌توانید با ویزای Visit and Employment (H-2) یا Overseas Korean (F-4) در کره کار کنید."
+  },
+  {
+    "k": "nrn4ol76sv",
+    "en": "You can go and work in Korea on an invitation from relatives there or as an industrial trainee.",
+    "fa": "می‌توانید با دعوت خویشاوندان در کره یا به‌عنوان کارآموز صنعتی در کره کار کنید."
+  },
+  {
+    "k": "1xvyml3l2uv",
+    "en": "You can apply for a skilled worker visa.",
+    "fa": "می‌توانید ویزای کارگر ماهر بگیرید."
+  },
+  {
+    "k": "21yvq87eq55",
+    "en": "You could go on a working holiday visa or with an employer's sponsorship.",
+    "fa": "می‌توانید با ویزای working holiday یا حمایت کارفرما بروید."
+  },
+  {
+    "k": "1akb9r8gea8",
+    "en": "You can go as a migrant worker through a recruitment agency.",
+    "fa": "می‌توانید به‌عنوان کارگر مهاجر از طریق آژانس استخدام بروید."
+  },
+  {
+    "k": "dv9t1s45z2",
+    "en": "A regular visa is out of reach; the only way is an irregular route through a broker.",
+    "fa": "ویزای عادی در دسترس نیست؛ تنها راه مسیر نامنظم از طریق دلال است."
+  },
+  {
+    "k": "f2jkt2741v",
+    "en": "Income↑ Loneliness↑",
+    "fa": "درآمد↑ تنهایی↑"
+  },
+  {
+    "k": "jd2v2jpla4",
+    "en": "Income↑ · with your family",
+    "fa": "درآمد↑ · با خانواده"
+  },
+  {
+    "k": "aipx03wp8o",
+    "en": "Income↑ Loneliness↑ · family stays home",
+    "fa": "درآمد↑ تنهایی↑ · خانواده در خانه می‌ماند"
+  },
+  {
+    "k": "2bnshyjpgeq",
+    "en": "Leave for {0}",
+    "fa": "رفتن به {0}"
+  },
+  {
+    "k": "w2mto7e5cx",
+    "en": "Risky route, income↑ · family stays home",
+    "fa": "مسیر پرریسک، درآمد↑ · خانواده در خانه"
+  },
+  {
+    "k": "1suwlv2ptog",
+    "en": "Risky route, income↑",
+    "fa": "مسیر پرریسک، درآمد↑"
+  },
+  {
+    "k": "52d2i7v41t",
+    "en": "Leave your current work",
+    "fa": "کار فعلی را رها کنید"
+  },
+  {
+    "k": "t6iyquy5c8",
+    "en": "let the home",
+    "fa": "خانه را"
+  },
+  {
+    "k": "1qug6wlj53h",
+    "en": "Sell the home and leave for {0}",
+    "fa": "خانه را بفروشید و به {0} بروید"
+  },
+  {
+    "k": "2n3owe9n2k",
+    "en": "take the money with you",
+    "fa": "پول را با خود ببرید"
+  },
+  {
+    "k": "rm4t23ovvf",
+    "en": "Go to {1} with {0}",
+    "fa": "با {0} به {1} بروید"
+  },
+  {
+    "k": "160gyihc4k8",
+    "en": "About {0} · {1} must want to come",
+    "fa": "حدود {0} · {1} باید بخواهد بیاید"
+  },
+  {
+    "k": "4m5ucpkmlg",
+    "en": "Go to {0} and bring {1} over once settled",
+    "fa": "به {0} بروید و پس از مستقر شدن {1} را بیاورید"
+  },
+  {
+    "k": "1ctil709sz7",
+    "en": "The invitation may take years · {0} must want to come",
+    "fa": "دعوت ممکن است سال‌ها طول بکشد · {0} باید بخواهد بیاید"
+  },
+  {
+    "k": "1mueuo90oau",
+    "en": "Move to your spouse's country?",
+    "fa": "به کشور همسرتان نقل مکان کنید؟"
+  },
+  {
+    "k": "1y865anz5kc",
+    "en": "A chance to move on to another country",
+    "fa": "فرصتی برای رفتن به کشور دیگر"
+  },
+  {
+    "k": "wswiiu3pc",
+    "en": "A chance to go abroad",
+    "fa": "فرصتی برای رفتن به خارج"
+  },
+  {
+    "k": "12weissxx0x",
+    "en": "Hospitals in {0} are hiring a {1} like you. You may have to pass that country's licensing exam again. It costs about {2} (in US terms).",
+    "fa": "بیمارستان‌های {0} {1} مثل شما استخدام می‌کنند. شاید دوباره باید آزمون مجوز آن کشور را بدهید. هزینه حدود {2} (به US)."
+  },
+  {
+    "k": "1vw2ktbvjd2",
+    "en": "After looking, you found ways to work in two places. {0}: {1} {2}: {3}",
+    "fa": "پس از جستجو راه کار در دو جا پیدا کردید. {0}: {1} {2}: {3}"
+  },
+  {
+    "k": "1x3grki1e1l",
+    "en": "There is a way to live in {0} with your spouse. {1} It would cost about {2} (in US terms).",
+    "fa": "راهی برای زندگی در {0} با همسرتان هست. {1} هزینه حدود {2} (به US)."
+  },
+  {
+    "k": "gkejskugco",
+    "en": "A way to work in {0} has opened up. {1} It would cost about {2} (in US terms).",
+    "fa": "راه کار در {0} باز شده. {1} هزینه حدود {2} (به US)."
+  },
+  {
+    "k": "1en60oacdks",
+    "en": "Family migration is the largest route of permanent migration to OECD countries (OECD International Migration Outlook)",
+    "fa": "مهاجرت خانوادگی بزرگ‌ترین مسیر مهاجرت دائم به کشورهای OECD است (OECD International Migration Outlook)"
+  },
+  {
+    "k": "29szm2cbbpg",
+    "en": "GDP per person (PPP) in {0} is about {2} times that of {1} · About 281 million international migrants worldwide (IOM 2024)",
+    "fa": "GDP سرانه (PPP) در {0} حدود {2} برابر {1} است · حدود ۲۸۱ میلیون مهاجر بین‌المللی در جهان (IOM 2024)"
+  },
+  {
+    "k": "1qacot4vbzl",
+    "en": "Stay",
+    "fa": "بمانید"
+  },
+  {
+    "k": "2dnuj7nyk3b",
+    "en": "an accident on the migration route",
+    "fa": "حادثه در مسیر مهاجرت"
+  },
+  {
+    "k": "1ko2i0cs64o",
+    "en": "Your visa was refused because of your criminal record. Only the application fees were lost. (−{0})",
+    "fa": "ویزای شما به‌خاطر سابقهٔ کیفری رد شد. فقط هزینهٔ درخواست از دست رفت. (−{0})"
+  },
+  {
+    "k": "bbuizfc6kd",
+    "en": "You borrowed to pay the recruitment fee and the flight. The first few years of wages will go to paying it back.",
+    "fa": "برای حق کارگزاری و پرواز قرض گرفتید. حقوق چند سال اول برای بازپرداخت می‌رود."
+  },
+  {
+    "k": "zi2aawn6uv",
+    "en": "You arrived in {0}, your spouse's country. A new life begins.",
+    "fa": "به {0}، کشور همسرتان، رسیدید. زندگی تازه آغاز می‌شود."
+  },
+  {
+    "k": "1kxcvzkk090",
+    "en": "You arrived in {0}. A new life begins.",
+    "fa": "به {0} رسیدید. زندگی تازه آغاز می‌شود."
+  },
+  {
+    "k": "2062awj6zvi",
+    "en": "You have no permit to stay.",
+    "fa": "اجازهٔ اقامت ندارید."
+  },
+  {
+    "k": "1ivd9a9wvnc",
+    "en": "First you need to find work.",
+    "fa": "اول باید کار پیدا کنید."
+  },
+  {
+    "k": "15qe8e3glow",
+    "en": "You were caught at the border and sent back.",
+    "fa": "در مرز گیر افتادید و برگردانده شدید."
+  },
+  {
+    "k": "cctxb3knvd",
+    "en": "Your visa was refused. Only the application fees were lost. (−{0})",
+    "fa": "ویزا رد شد. فقط هزینهٔ درخواست از دست رفت. (−{0})"
+  },
+  {
+    "k": "8nsm7tzd4",
+    "en": "A term abroad?",
+    "fa": "یک ترم خارج؟"
+  },
+  {
+    "k": "wgwjpndqhf",
+    "en": "Your university’s Erasmus exchange can send you to a university in {0} for a term. There is a grant, but living costs run a little higher. About {1} (in US terms).",
+    "fa": "تبادل Erasmus دانشگاه شما می‌تواند شما را یک ترم به دانشگاهی در {0} بفرستد. کمک هزینه هست، اما هزینهٔ زندگی کمی بیشتر است. حدود {1} (به US)."
+  },
+  {
+    "k": "1jmeg09yr2",
+    "en": "Today about 470,000 European university students a year study in another country on Erasmus. Those who went work abroad later more often (European Commission)",
+    "fa": "امروز حدود ۴۷۰٬۰۰۰ دانشجوی اروپایی در سال با Erasmus در کشور دیگر درس می‌خوانند. کسانی که رفتند بعداً بیشتر در خارج کار می‌کنند (European Commission)"
+  },
+  {
+    "k": "127fzr0fdk3",
+    "en": "Go",
+    "fa": "بروید"
+  }
+]

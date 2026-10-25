@@ -1,0 +1,502 @@
+[
+  {
+    "k": "mkyws0fqq4",
+    "en": "Maranhão",
+    "fa": "مارانیاو"
+  },
+  {
+    "k": "224vca31cj2",
+    "en": "Pernambuco",
+    "fa": "پرنامبوکو"
+  },
+  {
+    "k": "f80qjfmrel",
+    "en": "Ceará",
+    "fa": "سئارا"
+  },
+  {
+    "k": "1objahid7an",
+    "en": "Piauí",
+    "fa": "پیاوی"
+  },
+  {
+    "k": "1w9pbzy1yrr",
+    "en": "Flamengo",
+    "fa": "فلامنگو"
+  },
+  {
+    "k": "22rmyjs97x3",
+    "en": "Corinthians",
+    "fa": "کورینتیانس"
+  },
+  {
+    "k": "1u85hix85qb",
+    "en": "Palmeiras",
+    "fa": "پالمیراس"
+  },
+  {
+    "k": "7n1sz2k4fa",
+    "en": "São Paulo FC",
+    "fa": "باشگاه سائو پائولو"
+  },
+  {
+    "k": "1f8iei6ey76",
+    "en": "Grêmio",
+    "fa": "گریمیو"
+  },
+  {
+    "k": "181rkfy93v1",
+    "en": "Vasco da Gama",
+    "fa": "واسکو دا گاما"
+  },
+  {
+    "k": "ieh2327fgh",
+    "en": "Seven in ten Brazilians (71.5%) have no private health plan and are treated by the SUS, the public health system (IBGE, 2019 National Health Survey)",
+    "fa": "هفت از هر ده برزیلی (۷۱٫۵٪) بیمه درمانی خصوصی ندارند و توسط SUS، نظام سلامت عمومی، درمان می‌شوند (IBGE، نظرسنجی ملی سلامت ۲۰۱۹)"
+  },
+  {
+    "k": "18tnck5khp8",
+    "en": "You grew up in a favela on a hillside. From the window you watched the kites of the children up on every rooftop fill the sky.",
+    "fa": "در یک favela روی شیب تپه بزرگ شدید. از پنجره بادبادک‌های بچه‌ها روی هر پشت‌بام را دیدید که آسمان را پر کرده بود."
+  },
+  {
+    "k": "9wngiuqj7e",
+    "en": "You grew up in a favela on a hillside. You ran up and down the stairs of the narrow alleys and flew kites with your friends from the rooftops.",
+    "fa": "در یک favela روی شیب تپه بزرگ شدید. در پله‌های باریک کوچه‌ها بالا و پایین می‌رفتید و با دوستان از پشت‌بام‌ها بادبادک می‌فرستادید."
+  },
+  {
+    "k": "t16gomrwf6",
+    "en": "In 2022, 8.1% of Brazil's population, about 16.4 million people, lived in favelas and urban communities (IBGE, 2022 Census)",
+    "fa": "در ۲۰۲۲، ۸٫۱٪ جمعیت برزیل، حدود ۱۶٫۴ میلیون نفر، در favelaها و محله‌های شهری زندگی می‌کردند (IBGE، سرشماری ۲۰۲۲)"
+  },
+  {
+    "k": "f8okiehm5t",
+    "en": "At the June festival (festa junina) you wore a checked outfit and clapped along to your friends' quadrilha dance. You ate as much corn cake as you liked.",
+    "fa": "در جشن ژوئن (festa junina) لباس چهارخانه پوشیدید و با رقص quadrilha دوستان دست زدید. هر قدر کیک ذرت دوست داشتید خوردید."
+  },
+  {
+    "k": "qgn18v8lea",
+    "en": "At the June festival (festa junina) you wore a checked outfit and danced the quadrilha in pairs with your school friends. You ate as much corn cake as you liked.",
+    "fa": "در جشن ژوئن (festa junina) لباس چهارخانه پوشیدید و quadrilha را جفت‌جفت با دوستان مدرسه رقصیدید. هر قدر کیک ذرت دوست داشتید خوردید."
+  },
+  {
+    "k": "qsdn8gw1xs",
+    "en": "In the street, with two flip-flops for goalposts, you played football with your friends until the sun went down.",
+    "fa": "در خیابان، با دو تا دمپایی به‌جای دروازه، با دوستان فوتبال بازی کردید تا خورشید غروب کرد."
+  },
+  {
+    "k": "20v7t683g7k",
+    "en": "You listened to the {0} match on the radio with your family. When the commentator stretched out his 'Goal!', you all shouted together.",
+    "fa": "بازی {0} را با خانواده از رادیو شنیدید. وقتی گزارشگر «گوووول!» را کش داد، همه با هم فریاد زدید."
+  },
+  {
+    "k": "2az3ub8qh5f",
+    "en": "You listened to your home team's match on the radio with your family. When the commentator stretched out his 'Goal!', you all shouted together.",
+    "fa": "بازی تیم محلی‌تان را با خانواده از رادیو شنیدید. وقتی گزارشگر «گوووول!» را کش داد، همه با هم فریاد زدید."
+  },
+  {
+    "k": "1o6naks4mfp",
+    "en": "For the first time you wore the shirt of {0}, your family's club, and went to the stadium. When a goal went in, you hugged the grown-ups you didn't know in the next seats.",
+    "fa": "برای اولین بار پیراهن {0}، باشگاه خانواده‌تان، را پوشیدید و به استادیوم رفتید. وقتی گل زدند، بزرگسالانی را که نمی‌شناختید در صندلی کناری در آغوش گرفتید."
+  },
+  {
+    "k": "simjoyf2rr",
+    "en": "For the first time you wore your home team's shirt, like the rest of your family, and went to the stadium. When a goal went in, you hugged the grown-ups you didn't know in the next seats.",
+    "fa": "برای اولین بار مثل بقیه خانواده پیراهن تیم محلی‌تان را پوشیدید و به استادیوم رفتید. وقتی گل زدند، بزرگسالانی را که نمی‌شناختید در آغوش گرفتید."
+  },
+  {
+    "k": "l3nz8hoy8y",
+    "en": "In a 2024 survey, 19% of Brazilians said they supported Flamengo and 14% Corinthians; 23% supported no team (Datafolha)",
+    "fa": "در نظرسنجی ۲۰۲۴، ۱۹٪ برزیلی‌ها از Flamengo و ۱۴٪ از Corinthians حمایت می‌کردند؛ ۲۳٪ از هیچ تیمی حمایت نمی‌کردند (Datafolha)"
+  },
+  {
+    "k": "4ye1tmqrtu",
+    "en": "Every month your household received Bolsa Família, a family allowance. In return you could not miss school and had to get your vaccinations on time.",
+    "fa": "هر ماه خانوار شما Bolsa Família، یارانه خانواده، را می‌گرفت. در عوض نباید مدرسه را از دست می‌دادید و باید واکسن‌ها را به‌موقع می‌زدید."
+  },
+  {
+    "k": "1ncnj57aoxk",
+    "en": "In February 2025, Bolsa Família was paid to 20.56 million households, about 54 million people (Ministry of Social Development)",
+    "fa": "در فوریه ۲۰۲۵، Bolsa Família به ۲۰٫۵۶ میلیون خانوار، حدود ۵۴ میلیون نفر، پرداخت شد (وزارت توسعه اجتماعی)"
+  },
+  {
+    "k": "1pjj7uhphdq",
+    "en": "On New Year's Eve you dressed in white and went down to the beach. Under the midnight fireworks you listened to the waves and made a wish.",
+    "fa": "شب سال نو سفید پوشیدید و به ساحل رفتید. زیر آتش‌بازی نیمه‌شب به موج‌ها گوش دادید و آرزو کردید."
+  },
+  {
+    "k": "uod5yljzo4",
+    "en": "On New Year's Eve you dressed in white and went down to the beach. At midnight you jumped over seven waves and made a wish.",
+    "fa": "شب سال نو سفید پوشیدید و به ساحل رفتید. نیمه‌شب از هفت موج رد شدید و آرزو کردید."
+  },
+  {
+    "k": "sxgqh06alj",
+    "en": "On New Year's Eve you dressed in white and saw in the new year with your family, watching the midnight fireworks.",
+    "fa": "شب سال نو سفید پوشیدید و با خانواده سال نو را با تماشای آتش‌بازی نیمه‌شب درآوردید."
+  },
+  {
+    "k": "1r6dwyn72n0",
+    "en": "On your way to sit the ENEM (the university entrance exam), you only just ran in before the gates closed. After two days of exams, you had no strength left.",
+    "fa": "در راه شرکت در ENEM (آزمون ورود به دانشگاه)، لحظه‌ای قبل از بسته شدن درها دویدید داخل. پس از دو روز امتحان، دیگر نیرایی نداشتید."
+  },
+  {
+    "k": "etrpnuqky6",
+    "en": "You sat the ENEM, the university entrance exam. After two days of exams, you had no strength left.",
+    "fa": "در ENEM، آزمون ورود به دانشگاه، شرکت کردید. پس از دو روز امتحان، دیگر نیرایی نداشتید."
+  },
+  {
+    "k": "1xj06970ho",
+    "en": "About 4.3 million people registered for the 2024 ENEM. Since 2012, half the places at federal universities have gone to students from public high schools (INEP; the Quota Law)",
+    "fa": "حدود ۴٫۳ میلیون نفر برای ENEM ۲۰۲۴ ثبت‌نام کردند. از ۲۰۱۲ نیمی از جاهای دانشگاه‌های فدرال به دانش‌آموزان دبیرستان دولتی رسیده (INEP؛ قانون سهمیه)"
+  },
+  {
+    "k": "l61nvns5h4",
+    "en": "For the first time a company stamped your work card. That December, your first 13th-month salary came in.",
+    "fa": "برای اولین بار شرکتی کارت کار شما را مهر زد. آن دسامبر، اولین حقوق ماه سیزدهم رسید."
+  },
+  {
+    "k": "12k1q46f0q6",
+    "en": "In 2024, 39% of working people in Brazil worked informally, without a work card (IBGE)",
+    "fa": "در ۲۰۲۴، ۳۹٪ شاغلان برزیل به‌صورت غیررسمی و بدون کارت کار کار می‌کردند (IBGE)"
+  },
+  {
+    "k": "2fjoke07c8z",
+    "en": "You folded the ballot paper and put it in the ballot box.",
+    "fa": "برگه رأی را تا کردید و در صندوق انداختید."
+  },
+  {
+    "k": "bhqjkra3p6",
+    "en": "Following the braille keys of the electronic voting machine and the guidance in your earphones, you typed in the numbers, and a long beep said your vote was done.",
+    "fa": "با دنبال کردن کلیدهای بریل دستگاه رأی الکترونیک و راهنمای هدفون، اعداد را وارد کردید و یک بوق بلند گفت رأی شما ثبت شد."
+  },
+  {
+    "k": "whyvenkxq7",
+    "en": "You typed the numbers into the electronic voting machine, and a long beep said your vote was done.",
+    "fa": "اعداد را در دستگاه رأی الکترونیک وارد کردید و یک بوق بلند گفت رأی شما ثبت شد."
+  },
+  {
+    "k": "26nlfk43rzd",
+    "en": "At {0} you got your voter's card and voted for the first time.",
+    "fa": "در {0} کارت رأی‌دهنده گرفتید و برای اولین بار رأی دادید."
+  },
+  {
+    "k": "nnntfv085y",
+    "en": "You voted for the first time.",
+    "fa": "برای اولین بار رأی دادید."
+  },
+  {
+    "k": "2bze89qi4a9",
+    "en": "In Brazil voting is compulsory from 18 to 70, and 16- and 17-year-olds may vote if they wish. In the first round of 2022, 79% of 156 million voters voted (Superior Electoral Court)",
+    "fa": "در برزیل رأی‌دادن از ۱۸ تا ۷۰ سال اجباری است و ۱۶ و ۱۷ساله‌ها در صورت تمایل می‌توانند رأی دهند. در دور اول ۲۰۲۲، ۷۹٪ از ۱۵۶ میلیون رأی‌دهنده رأی دادند (دادگاه برتر انتخابات)"
+  },
+  {
+    "k": "1t1pdhswgel",
+    "en": "At the market you paid for fruit with Pix on your phone. You rarely took cash out of your wallet any more.",
+    "fa": "در بازار میوه را با Pix از موبایل پرداخت کردید. دیگر به ندرت پول نقد از کیف بیرون می‌آوردید."
+  },
+  {
+    "k": "12d0hrvt17c",
+    "en": "Pix is the instant payment system Brazil's central bank launched in November 2020 (Central Bank of Brazil)",
+    "fa": "Pix سامانه پرداخت آنی است که بانک مرکزی برزیل در نوامبر ۲۰۲۰ راه انداخت (بانک مرکزی برزیل)"
+  },
+  {
+    "k": "1v7wjkn84b1",
+    "en": "You left your home, {0}, and after three days on a bus arrived in {1}. People from home who had come before you told you where to find work.",
+    "fa": "خانه‌تان در {0} را ترک کردید و پس از سه روز اتوبوس به {1} رسیدید. هم‌دیاری‌هایی که زودتر آمده بودند گفتند کجا کار پیدا کنید."
+  },
+  {
+    "k": "25830x0peyy",
+    "en": "One baby in ten is born early: about 13.4 million in 2020 (WHO 2023)",
+    "fa": "یک نوزاد از هر ده زود به دنیا می‌آید: حدود ۱۳٫۴ میلیون در ۲۰۲۰ (WHO 2023)"
+  },
+  {
+    "k": "1u3geuw0ej2",
+    "en": "You were born early and spent a few weeks in the newborn intensive care unit. Your small body pulled through.",
+    "fa": "زود به دنیا آمدید و چند هفته در بخش مراقبت ویژه نوزادان ماندید. بدن کوچکتان از سخت‌ترین روزها گذر کرد."
+  },
+  {
+    "k": "1p9z15fp9eu",
+    "en": "You were born early and small. Held close against your mother's skin to stay warm, you came through the first days.",
+    "fa": "زود و کوچک به دنیا آمدید. چسبیده به پوست مادر برای گرم ماندن، روزهای اول را پشت سر گذاشتید."
+  },
+  {
+    "k": "p2zp4fbr6x",
+    "en": "Treatment over, you went back to school.",
+    "fa": "درمان تمام شد و به مدرسه برگشتید."
+  },
+  {
+    "k": "17ut5dayzao",
+    "en": "Treatment is over. Now you live with regular check-ups.",
+    "fa": "درمان تمام شد. اکنون با معاینه‌های منظم زندگی می‌کنید."
+  },
+  {
+    "k": "j1y2vpkvf8",
+    "en": "Five years on, the {1} diagnosed when you were {0} has not come back.",
+    "fa": "پنج سال گذشته و {1} که وقتی {0} ساله بودید تشخیص داده شد، برنگشته است."
+  },
+  {
+    "k": "xsxhmpzz73",
+    "en": "Five years since the cancer was found, and it has not come back.",
+    "fa": "پنج سال از یافتن سرطان گذشته و برنگشته است."
+  },
+  {
+    "k": "1z3o9p28nks",
+    "en": "Your spouse {1}, in {0}, was diagnosed with {2}. Treatment began there, and you sent money for it. (−{3})",
+    "fa": "همسر {1} شما در {0} مبتلا به {2} تشخیص داده شد. درمان آنجا آغاز شد و شما پول فرستادید. (−{3})"
+  },
+  {
+    "k": "ahhpalzg74",
+    "en": "Your spouse {0} was diagnosed with {1}. Treatment began, and you went back and forth to the hospital together. (−{2})",
+    "fa": "همسر {0} شما مبتلا به {1} تشخیص داده شد. درمان آغاز شد و با هم به بیمارستان رفت‌وآمد کردید. (−{2})"
+  },
+  {
+    "k": "46y6oo5fx2",
+    "en": "Your child {0}'s memory began to slip, more and more often.",
+    "fa": "حافظه فرزند {0} بیشتر و بیشتر لغز می‌کرد."
+  },
+  {
+    "k": "1kaeu4s58cd",
+    "en": "Word came that your child {0}, who lives far away, was diagnosed with {1} and had begun treatment.",
+    "fa": "خبر رسید فرزند {0} که دور زندگی می‌کند مبتلا به {1} تشخیص داده شده و درمان را شروع کرده است."
+  },
+  {
+    "k": "1ztg3hvc1qe",
+    "en": "Your child {0} was diagnosed with {1} and began treatment.",
+    "fa": "فرزند {0} مبتلا به {1} تشخیص داده شد و درمان را آغاز کرد."
+  },
+  {
+    "k": "152mu1msw3i",
+    "en": "Locked away, you could not go to your spouse's funeral.",
+    "fa": "در بازداشت بودید و نتوانستید به تشییع همسرتان بروید."
+  },
+  {
+    "k": "7b2hsjq7i3",
+    "en": "You were in prison and could not attend your spouse's funeral.",
+    "fa": "در زندان بودید و نتوانستید در تشییع همسرتان شرکت کنید."
+  },
+  {
+    "k": "1c1zqomhogg",
+    "en": "You held your spouse's funeral. (−{0})",
+    "fa": "تشییع همسرتان را برگزار کردید. (−{0})"
+  },
+  {
+    "k": "26tyl800w8g",
+    "en": "You hurried to {0} and held your spouse's funeral. (−{1})",
+    "fa": "عجله کردید به {0} و تشییع همسرتان را برگزار کردید. (−{1})"
+  },
+  {
+    "k": "5axkkqa01j",
+    "en": "Without a permit to stay, you could not go to your spouse's funeral in {0}. You sent money for it. (−{1})",
+    "fa": "بدون مجوز اقامت نتوانستید به تشییع همسرتان در {0} بروید. پول برای آن فرستادید. (−{1})"
+  },
+  {
+    "k": "1ssswvogd79",
+    "en": "Travel to a spouse living apart",
+    "fa": "سفر به همسر دور از خانه"
+  },
+  {
+    "k": "m19qeikn2g",
+    "en": "Your spouse {0} wound up their work and came over to {1}. You live under one roof again.",
+    "fa": "همسر {0} کارش را تمام کرد و به {1} آمد. دوباره زیر یک سقف زندگی می‌کنید."
+  },
+  {
+    "k": "18pql9njrxv",
+    "en": "While you lived apart, your hearts drifted apart too.",
+    "fa": "وقتی دور از هم بودید، دل‌ها هم از هم دور شد."
+  },
+  {
+    "k": "1dfjm1eehzd",
+    "en": "Your spouse {0} stopped working and retired.",
+    "fa": "همسر {0} کار را متوقف کرد و بازنشسته شد."
+  },
+  {
+    "k": "1xjxdvejubh",
+    "en": "Your spouse {0} has no pension and decided to keep working.",
+    "fa": "همسر {0} مستمری ندارد و تصمیم گرفت به کار ادامه دهد."
+  },
+  {
+    "k": "19lrmy9rszh",
+    "en": "With the youngest a little older now, your spouse {0} went back to work.",
+    "fa": "حالا که کوچک‌ترین کمی بزرگ‌تر شده، همسر {0} دوباره سر کار رفت."
+  },
+  {
+    "k": "2g2bbhk8tso",
+    "en": "Your spouse {0} went back to work.",
+    "fa": "همسر {0} دوباره سر کار رفت."
+  },
+  {
+    "k": "ggrq7uuluf",
+    "en": "Your spouse {0} found work again.",
+    "fa": "همسر {0} دوباره کار پیدا کرد."
+  },
+  {
+    "k": "1bdauz51ukt",
+    "en": " For a while, the household gets by on unemployment benefits.",
+    "fa": "مدتی خانوار با کمک‌هزینه بیکاری گذران می‌کند."
+  },
+  {
+    "k": "o5p2opq9ka",
+    "en": " The household's income dried up.",
+    "fa": "درآمد خانوار قطع شد."
+  },
+  {
+    "k": "iah4ewea2z",
+    "en": "Your spouse {0} lost their job too.{1}",
+    "fa": "همسر {0} هم شغلش را از دست داد.{1}"
+  },
+  {
+    "k": "249ivpp8op3",
+    "en": "Your spouse {0} lost their job.{1}",
+    "fa": "همسر {0} شغلش را از دست داد.{1}"
+  },
+  {
+    "k": "t94781a0r0",
+    "en": "Unemployment benefits usually replace about half of previous earnings for a while (OECD)",
+    "fa": "کمک‌هزینه بیکاری معمولاً مدتی حدود نیمی از درآمد قبلی را جایگزین می‌کند (OECD)"
+  },
+  {
+    "k": "27pr99vxrfa",
+    "en": "Your spouse {0} did well at work and began earning more.",
+    "fa": "همسر {0} در کار موفق شد و درآمدش بیشتر شد."
+  },
+  {
+    "k": "20qiq0nmy2n",
+    "en": "With the child a little older now, your spouse {0} went back to working full time.",
+    "fa": "حالا که بچه کمی بزرگ‌تر شده، همسر {0} دوباره تمام‌وقت سر کار رفت."
+  },
+  {
+    "k": "20v5dr1dbgx",
+    "en": "There was violence at home again. You could not tell anyone.",
+    "fa": "دوباره خشونت در خانه بود. نمی‌توانستید به کسی بگویید."
+  },
+  {
+    "k": "1oy6dfkhya8",
+    "en": "Partner violence happens to men too: in the US about 1 in 7 men have suffered severe physical violence from a partner at some point in their lives. It is not your fault (CDC NISVS 2010)",
+    "fa": "خشونت شریک به مردان هم رخ می‌دهد: در آمریکا حدود ۱ از هر ۷ مرد در زندگی‌شان حداقل یک‌بار خشونت جسمی شدید از شریک دیده‌اند. تقصیر شما نیست (CDC NISVS 2010)"
+  },
+  {
+    "k": "21zhtg4xbc1",
+    "en": "More than 1 in 4 women worldwide are hurt by a partner at least once in their lives. It is not their fault (WHO 2021)",
+    "fa": "بیش از ۱ از هر ۴ زن در جهان حداقل یک‌بار در زندگی از شریک آسیب می‌بینند. تقصیر آن‌ها نیست (WHO 2021)"
+  },
+  {
+    "k": "8oz5wzckt0",
+    "en": "Help: {@dm}",
+    "fa": "راهنما: {@dm}"
+  },
+  {
+    "k": "1snwn73qbwb",
+    "en": "Help: {@dm}",
+    "fa": "راهنما: {@dm}"
+  },
+  {
+    "k": "21znfp00ckp",
+    "en": "Help: {@d}",
+    "fa": "راهنما: {@d}"
+  },
+  {
+    "k": "zgqiemrdsn",
+    "en": "Help: {@d}",
+    "fa": "راهنما: {@d}"
+  },
+  {
+    "k": "12zx9p614he",
+    "en": "You and {0} separated. With no divorce here, you are still married in law.",
+    "fa": "شما و {0} از هم جدا شدید. چون اینجا طلاق رسمی نیست، در قانون هنوز همسرید."
+  },
+  {
+    "k": "lpob1o03a5",
+    "en": "You and {0} divorced.",
+    "fa": "شما و {0} طلاق گرفتید."
+  },
+  {
+    "k": "2dfa8lhsd19",
+    "en": "You and {0} broke up.",
+    "fa": "شما و {0} جدا شدید."
+  },
+  {
+    "k": "1ecuyx3pes",
+    "en": "You split what you had built up together. What each of you brought in stays your own. (−{0})",
+    "fa": "آنچه با هم ساخته بودید تقسیم شد. آنچه هر کدام آورده بودید مال خودش می‌ماند. (−{0})"
+  },
+  {
+    "k": "lbhk9c5znd",
+    "en": "You split what you had built up together. What each of you had before you moved in together stays your own. (−{0})",
+    "fa": "آنچه با هم ساخته بودید تقسیم شد. آنچه هر کدام قبل از زندگی مشترک داشتید مال خودش می‌ماند. (−{0})"
+  },
+  {
+    "k": "n92qv0tdld",
+    "en": "{0} took back the debts they had brought into the marriage and their share of the debts you took on together. (+{1})",
+    "fa": "{0} بدهی‌هایی را که به ازدواج آورده بود و سهم خودش از بدهی‌های مشترک را پس گرفت. (+{1})"
+  },
+  {
+    "k": "1z2m0q1s5xk",
+    "en": "{0} took back the debts they had brought into the marriage. (+{1})",
+    "fa": "{0} بدهی‌هایی را که به ازدواج آورده بود پس گرفت. (+{1})"
+  },
+  {
+    "k": "ri1zehubu",
+    "en": "You split the debts you had taken on together too. {0} took their share. (+{1})",
+    "fa": "بدهی‌های مشترک را هم تقسیم کردید. {0} سهم خودش را برداشت. (+{1})"
+  },
+  {
+    "k": "1xyazi5lirw",
+    "en": "You kept the home and borrowed to pay the rest of their share.",
+    "fa": "خانه را نگه داشتید و برای پرداخت بقیه سهم او وام گرفتید."
+  },
+  {
+    "k": "1wtbqq0076c",
+    "en": "The court reduced the share of the one who had been violent.",
+    "fa": "دادگاه سهم کسی را که خشونت کرده بود کم کرد."
+  },
+  {
+    "k": "1fm5trht8qb",
+    "en": "The property was divided by law, by what each had put in, apart from the violence.",
+    "fa": "املاک طبق قانون و بر اساس آنچه هر کس گذاشته بود تقسیم شد، به‌جز خشونت."
+  },
+  {
+    "k": "1s7vvrz4e6l",
+    "en": "The marriage ended over your own affair, so you paid damages. (−{0})",
+    "fa": "ازدواج به‌خاطر رابطه شما با دیگری تمام شد، پس خسارت پرداخت کردید. (−{0})"
+  },
+  {
+    "k": "zc12oyxgba",
+    "en": "You were awarded damages for your spouse's violence. (+{0})",
+    "fa": "به‌خاطر خشونت همسرتان خسارت گرفتید. (+{0})"
+  },
+  {
+    "k": "28k3vllwpre",
+    "en": "You were awarded damages for your spouse's affair. (+{0})",
+    "fa": "به‌خاطر رابطه همسرتان با دیگری خسارت گرفتید. (+{0})"
+  },
+  {
+    "k": "a0jim62ncs",
+    "en": "When a parent dies, a child usually goes to their other living birth parent. A stepparent who wants to go on raising the child needs the other parent's agreement, a court order or to be named guardian (England's Children Act 1989, Korea's Civil Act art. 909-2, Mason 1998)",
+    "fa": "وقتی یک والد می‌میرد، کودک معمولاً نزد والد زنده دیگر می‌رود. ناپدری که بخواهد بچه را بزرگ کند به توافق والد دیگر، حکم دادگاه یا نام‌گذاری به‌عنوان قیم نیاز دارد (Children Act 1989 انگلستان، قانون مدنی کره ماده ۹۰۹-۲، Mason 1998)"
+  },
+  {
+    "k": "11yi6imkt28",
+    "en": "{0} went to live with their birth father.",
+    "fa": "{0} نزد پدر زاده‌اش رفت."
+  },
+  {
+    "k": "266gws3dlg7",
+    "en": "{0} went to live with their birth mother.",
+    "fa": "{0} نزد مادر زاده‌اش رفت."
+  },
+  {
+    "k": "1a6mggl5646",
+    "en": "You see each other at weekends and in the school holidays.",
+    "fa": "آخر هفته‌ها و تعطیلات مدرسه یکدیگر را می‌بینید."
+  },
+  {
+    "k": "1e90aznrm5x",
+    "en": "After talking it over with their birth father, {0} stayed with you and kept going to the same school.",
+    "fa": "پس از گفت‌وگو با پدر زاده‌اش، {0} نزد شما ماند و به همان مدرسه رفت."
+  },
+  {
+    "k": "20dbkhpyiet",
+    "en": "After talking it over with their birth mother, {0} stayed with you and kept going to the same school.",
+    "fa": "پس از گفت‌وگو با مادر زاده‌اش، {0} نزد شما ماند و به همان مدرسه رفت."
+  }
+]

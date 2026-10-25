@@ -1,0 +1,602 @@
+[
+  {
+    "k": "1r6xj7sldqx",
+    "en": "{0} · {1}"
+  },
+  {
+    "k": "24gmm6gb76j",
+    "en": "In the Gulf War about 695,000 US troops were deployed to the Gulf, and 383 of them died there (US Congressional Research Service)"
+  },
+  {
+    "k": "c1kx3if5bn",
+    "en": "You were deployed to the Gulf War."
+  },
+  {
+    "k": "15oynea06nz",
+    "en": "the Gulf War"
+  },
+  {
+    "k": "x8fbv53bzq",
+    "en": "You were deployed to the Gulf War and spent a few months in the desert."
+  },
+  {
+    "k": "2gnnp1lt5hv",
+    "en": "You came home safely."
+  },
+  {
+    "k": "v4w2dr2b9u",
+    "en": "About 140,000 British troops served in the Iraq War, and 179 of them died (UK Ministry of Defence)"
+  },
+  {
+    "k": "1aolgt3305h",
+    "en": "About 150,000 British troops served in the war in Afghanistan, and 457 of them died (UK Ministry of Defence, Cobseo)"
+  },
+  {
+    "k": "11200gjz0ss",
+    "en": "You were deployed to Iraq and spent six months there."
+  },
+  {
+    "k": "qeupxplgbx",
+    "en": "You were deployed to Afghanistan and spent six months there."
+  },
+  {
+    "k": "yxg7wkurfj",
+    "en": "You volunteered for the Zaytun unit in Erbil, Iraq, and served there for six months."
+  },
+  {
+    "k": "1bc46ba6zxc",
+    "en": "From September 2004 to December 2008 South Korea's Zaytun unit was based in Erbil, Iraq, helping with reconstruction; at first it numbered about 3,600 (Wikipedia)"
+  },
+  {
+    "k": "11fgiqhi8gz",
+    "en": "You were sent to Afghanistan."
+  },
+  {
+    "k": "23fujtqe8ea",
+    "en": "the Soviet–Afghan War"
+  },
+  {
+    "k": "15dy7qnsplh",
+    "en": "You were sent to Afghanistan and served out the rest of your service there. You came home safely."
+  },
+  {
+    "k": "usbv854ecu",
+    "en": "You were sent to Vietnam."
+  },
+  {
+    "k": "d5lps8gktu",
+    "en": "the Vietnam War"
+  },
+  {
+    "k": "y9bm2frwg9",
+    "en": "You were sent to Vietnam and spent a year there. You came home safely."
+  },
+  {
+    "k": "1m91p5j1moi",
+    "en": "In Japan about 448,000 people handed in their driving licences in 2022, about six in ten of them aged 75 or older (National Police Agency)"
+  },
+  {
+    "k": "2bgb45bt8bg",
+    "en": "In 2023 about 113,000 of South Korea's 4.75 million drivers aged 65 or older (2.4%) handed in their licences (Korean National Police Agency)"
+  },
+  {
+    "k": "27oen1ol5ta",
+    "en": "{1} from {0}, born in the same second as you, passed away at {2}. ({3})"
+  },
+  {
+    "k": "12rpkfwx0w6",
+    "en": "You left life as a refugee behind and settled down."
+  },
+  {
+    "k": "1sjoeghy298",
+    "en": "You went back home and began to rebuild your life."
+  },
+  {
+    "k": "oh7sb2z9rc",
+    "en": "You went back to university after your leave."
+  },
+  {
+    "k": "9p3ksrf1qz",
+    "en": "On nights when the air-raid sirens sounded, you went down to the basement or a shelter with your family and waited for morning."
+  },
+  {
+    "k": "133t2402cbk",
+    "en": "In Ukraine, children in cities near the front line spent 3,000 to 5,000 hours, four to seven months, in underground shelters over two years of full-scale war (UNICEF 2024)"
+  },
+  {
+    "k": "l8qlze1hn",
+    "en": "Business value"
+  },
+  {
+    "k": "wamy27s4rn",
+    "en": "Reindeer feed"
+  },
+  {
+    "k": "r2p6au7bxs",
+    "en": "Beadwork"
+  },
+  {
+    "k": "c9o2ttu1ec",
+    "en": "Home repairs"
+  },
+  {
+    "k": "2fhziruwip9",
+    "en": "Rent increase"
+  },
+  {
+    "k": "109yjjgsa21",
+    "en": "Replacing appliances"
+  },
+  {
+    "k": "2864jui439p",
+    "en": "Car / motorbike repairs"
+  },
+  {
+    "k": "8gjq6g2jc2",
+    "en": "Weddings & funerals"
+  },
+  {
+    "k": "chbn42j7xi",
+    "en": "Parents' medical bills"
+  },
+  {
+    "k": "177sozmu1nd",
+    "en": "Theft"
+  },
+  {
+    "k": "47soazpf1j",
+    "en": "Bonus"
+  },
+  {
+    "k": "4rzgpzc5t9",
+    "en": "Harvest"
+  },
+  {
+    "k": "z08su37oe4",
+    "en": "Job changes"
+  },
+  {
+    "k": "yb99hlhppx",
+    "en": "Help from neighbors"
+  },
+  {
+    "k": "bbxy3szhav",
+    "en": "Scam losses"
+  },
+  {
+    "k": "1n2lu10y6os",
+    "en": "Helping your children"
+  },
+  {
+    "k": "z08cl4iy6e",
+    "en": "Redevelopment"
+  },
+  {
+    "k": "4db0z89ssp",
+    "en": "Money lent to a friend"
+  },
+  {
+    "k": "1hu8wk59v11",
+    "en": "Early gift from your parents"
+  },
+  {
+    "k": "29532junmyv",
+    "en": "Drink-driving"
+  },
+  {
+    "k": "yhaidmu1oy",
+    "en": "Searching for birth parents"
+  },
+  {
+    "k": "15uql3bylo1",
+    "en": "Distant-water fishing"
+  },
+  {
+    "k": "1qiw9uc5duu",
+    "en": "Money given instead of a surety"
+  },
+  {
+    "k": "eglbgs774g",
+    "en": "Money sent to your father"
+  },
+  {
+    "k": "1zrhc0xhuqm",
+    "en": "Posting abroad"
+  },
+  {
+    "k": "11ghzx5h8kz",
+    "en": "Grandchildren"
+  },
+  {
+    "k": "1itzz7c11fm",
+    "en": "Fertility treatment and adoption costs"
+  },
+  {
+    "k": "12if5qnka9w",
+    "en": "Divorce costs and property split"
+  },
+  {
+    "k": "27whf0xrsai",
+    "en": "Making amends"
+  },
+  {
+    "k": "2famemn4f8a",
+    "en": "Parents' appliance"
+  },
+  {
+    "k": "1nvkgpi82xp",
+    "en": "Company shares and sale"
+  },
+  {
+    "k": "1l8ty49b5kc",
+    "en": "Lottery tickets"
+  },
+  {
+    "k": "1r87pts7h5e",
+    "en": "Help from family"
+  },
+  {
+    "k": "265eib04rj3",
+    "en": "Running the shop"
+  },
+  {
+    "k": "4nduf41qkb",
+    "en": "Bringing a child home"
+  },
+  {
+    "k": "1gnx74mw7e4",
+    "en": "Second wedding"
+  },
+  {
+    "k": "2c48evcioo6",
+    "en": "Money given to family"
+  },
+  {
+    "k": "2aoky48ddmp",
+    "en": "Purchases"
+  },
+  {
+    "k": "1hhby1tm2q9",
+    "en": "Learning"
+  },
+  {
+    "k": "vrhtdtzep",
+    "en": "Medical bills"
+  },
+  {
+    "k": "1gn03qml735",
+    "en": "Childcare"
+  },
+  {
+    "k": "iretgvz81m",
+    "en": "Weekend outing"
+  },
+  {
+    "k": "upl4d74xnm",
+    "en": "Holiday"
+  },
+  {
+    "k": "2dw0ziejhjo",
+    "en": "Visiting your parents"
+  },
+  {
+    "k": "1uvvooxz2n9",
+    "en": "Counselling"
+  },
+  {
+    "k": "1ubxxs1anu7",
+    "en": "Assistive devices"
+  },
+  {
+    "k": "16mvw8z3at3",
+    "en": "Child's medical bills"
+  },
+  {
+    "k": "9yw3aqjywn",
+    "en": "Children's tuition"
+  },
+  {
+    "k": "1lnjg2qpoj2",
+    "en": "Help with children's weddings"
+  },
+  {
+    "k": "208ci7omka4",
+    "en": "Exchange term"
+  },
+  {
+    "k": "1dvhpsxz909",
+    "en": "Dealing with debt"
+  },
+  {
+    "k": "9t8h5zcbuo",
+    "en": "Disaster damage"
+  },
+  {
+    "k": "1055pxd05vh",
+    "en": "Business"
+  },
+  {
+    "k": "qbk1r9ibtd",
+    "en": "Pet"
+  },
+  {
+    "k": "1enbtc8cxrt",
+    "en": "Vet bills"
+  },
+  {
+    "k": "2bc8kb96v6u",
+    "en": "Moving abroad"
+  },
+  {
+    "k": "xeo68ko623",
+    "en": "Money sent home"
+  },
+  {
+    "k": "5knt23b09d",
+    "en": "Pilgrimage"
+  },
+  {
+    "k": "o75fj12ina",
+    "en": "Moving costs"
+  },
+  {
+    "k": "uzsncu1sit",
+    "en": "Wedding costs"
+  },
+  {
+    "k": "2g37pk1xxqy",
+    "en": "Studying abroad"
+  },
+  {
+    "k": "1cyzbcgf01d",
+    "en": "Growing the business"
+  },
+  {
+    "k": "2fpc1wx6vxp",
+    "en": "Starting a business"
+  },
+  {
+    "k": "13a74pkxymi",
+    "en": "Care for parents"
+  },
+  {
+    "k": "254jligcfxq",
+    "en": "Risky money"
+  },
+  {
+    "k": "16psg7wy821",
+    "en": "Divorce and counseling"
+  },
+  {
+    "k": "y5y9hef99",
+    "en": "Spouse's shop"
+  },
+  {
+    "k": "19gwln7loy9",
+    "en": "Stocks (spouse's idea)"
+  },
+  {
+    "k": "j5b56faqwr",
+    "en": "Divorce settlement"
+  },
+  {
+    "k": "1treunldks4",
+    "en": "Spent on the children"
+  },
+  {
+    "k": "vwci42vdfd",
+    "en": "A child's move abroad"
+  },
+  {
+    "k": "1um5lbciy42",
+    "en": "What you left behind"
+  },
+  {
+    "k": "1d3zmg57ukp",
+    "en": "Settlement grant and broker fee"
+  },
+  {
+    "k": "1b4t63nwt3f",
+    "en": "Permanent residence fees"
+  },
+  {
+    "k": "2fx09n9zggo",
+    "en": "Citizenship fees"
+  },
+  {
+    "k": "basxh8vy0w",
+    "en": "Adoption costs"
+  },
+  {
+    "k": "2apiyzywu4z",
+    "en": "Your net worth fell by {0} this year. {1}"
+  },
+  {
+    "k": "biknvrs47",
+    "en": "Change in home value"
+  },
+  {
+    "k": "ra6rv1qfb",
+    "en": "A debt of {0} is back, after you had paid it all off. {1}"
+  },
+  {
+    "k": "vrljumvnqr",
+    "en": "Your savings ran out, leaving you {0} in debt."
+  },
+  {
+    "k": "1icyz6ve6yv",
+    "en": "There wasn't enough to cover the year, leaving you {0} in debt."
+  },
+  {
+    "k": "147gu3dxqm0",
+    "en": "Korea National Open University"
+  },
+  {
+    "k": "1b8vc0sk9w9",
+    "en": "the Open University of Japan"
+  },
+  {
+    "k": "i4d2qftooo",
+    "en": "the Open University of China"
+  },
+  {
+    "k": "1btxm4jdem2",
+    "en": "the Open University"
+  },
+  {
+    "k": "dsxuodssdv",
+    "en": "the National Open University of Nigeria"
+  },
+  {
+    "k": "19768xwoe1h",
+    "en": "Indira Gandhi National Open University"
+  },
+  {
+    "k": "2a3toih1861",
+    "en": "Allama Iqbal Open University"
+  },
+  {
+    "k": "w4tgjklc0d",
+    "en": "Bangladesh Open University"
+  },
+  {
+    "k": "zwlkae1xoh",
+    "en": "the University of South Africa"
+  },
+  {
+    "k": "f5jvcnbs41",
+    "en": "Anadolu University's open education"
+  },
+  {
+    "k": "26wu1v0fuc3",
+    "en": "the National Distance Education University of Spain"
+  },
+  {
+    "k": "mu8pt7d89k",
+    "en": "Universitas Terbuka"
+  },
+  {
+    "k": "1hxoll41hhc",
+    "en": "Sukhothai Thammathirat Open University"
+  },
+  {
+    "k": "1qmll5b7l0a",
+    "en": "a distance university"
+  },
+  {
+    "k": "1llqlyhkgmj",
+    "en": " (bachelor's: {0})"
+  },
+  {
+    "k": "lyk3uu2435",
+    "en": "You re-enrolled at {0} to study {1}. The credits from your earlier {2} years there carry over."
+  },
+  {
+    "k": "1m7khx57t3w",
+    "en": "You enrolled at {0} to study {1}. University studies, started late."
+  },
+  {
+    "k": "zuw113kly5",
+    "en": "Enrolled at {0} to study {1}. Lectures fitted in around work."
+  },
+  {
+    "k": "1vj248xkxy8",
+    "en": "Of students who began a STEM master's programme in the US, 17% had left within a year and 23% within two (Council of Graduate Schools 2013)"
+  },
+  {
+    "k": "za1gwid492",
+    "en": "primary school{0}"
+  },
+  {
+    "k": "ery6oa0c94",
+    "en": "middle school{0}"
+  },
+  {
+    "k": "206ppd0r0uu",
+    "en": "high school{0}"
+  },
+  {
+    "k": "12svdau6xei",
+    "en": "You passed the {0} equivalency exam! The diploma put off for so long is finally in your hands."
+  },
+  {
+    "k": "2c8urnrqq6q",
+    "en": "You passed the {0} equivalency exam! Jobs that ask for it are open to you now."
+  },
+  {
+    "k": "9veb5993zk",
+    "en": "If you want to, you can go on to university studies at {0}."
+  },
+  {
+    "k": "2bxjalvifpi",
+    "en": "If you want to, you can go on to university studies while you work."
+  },
+  {
+    "k": "1nkm9f3l7ah",
+    "en": "You did not pass the {0} equivalency exam. You can sit it again next year."
+  },
+  {
+    "k": "1at5v4ifict",
+    "en": "You left the graduate school you had started late in life after {0} years. What you learned stays with you."
+  },
+  {
+    "k": "1jbdbnjeyfu",
+    "en": "You left the graduate school you attended while working after {0} years. Work and study together were too much."
+  },
+  {
+    "k": "1jaqfj8o4u3",
+    "en": "You finished the graduate school you went to late in life and earned a master's degree."
+  },
+  {
+    "k": "cdt46coztn",
+    "en": "You finished the graduate school you attended while working and earned a master's degree."
+  },
+  {
+    "k": "owovemwiaf",
+    "en": "You finished the PhD you did alongside your work and received your doctorate."
+  },
+  {
+    "k": "24dzhxeafig",
+    "en": "You left the PhD you were doing while working after {0} years. Work and research together were too much."
+  },
+  {
+    "k": "1ej99vewh0j",
+    "en": "You graduated from {0}: a bachelor's degree at {1}."
+  },
+  {
+    "k": "21ec3ffaddy",
+    "en": "You put down your studies at {0} after {1} years. What you learned stays with you."
+  },
+  {
+    "k": "1hsurqkdzk",
+    "en": "You graduated from the night college you attended while working. You earned a bachelor's degree."
+  },
+  {
+    "k": "b0npdsb0y7",
+    "en": "Running a household while going to school was hard. In the end you left school."
+  },
+  {
+    "k": "b7en4n833l",
+    "en": "You left the PhD after {0} years. Research was longer and lonelier than you had thought."
+  },
+  {
+    "k": "6gy92oy32c",
+    "en": "You left graduate school after {0} years. You decided to look for work with your bachelor's degree."
+  },
+  {
+    "k": "ukf9sjho8h",
+    "en": "The fees became too much, so you moved to a public school."
+  },
+  {
+    "k": "tfhtn5knly",
+    "en": "Share of people in {0} who complete primary school: about {1} ({2})"
+  },
+  {
+    "k": "1cnljfrf90m",
+    "en": "In {0}, about {1} of children finish middle school ({2})"
+  },
+  {
+    "k": "5qp6x0ye2w",
+    "en": "You stopped the high school studies you had been doing at home."
+  }
+]

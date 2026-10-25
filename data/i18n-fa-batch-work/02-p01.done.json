@@ -1,0 +1,502 @@
+[
+  {
+    "k": "2a92qllmwsj",
+    "en": "Your mother and stepfather had a baby girl, your half-sister.",
+    "fa": "مادر و ناپدری‌تان دختر کوچکی به دنیا آوردند؛ نیمه‌خواهر شما."
+  },
+  {
+    "k": "1e0jrd3z3ai",
+    "en": "Twins were born: two younger siblings at once.",
+    "fa": "دوقلو به دنیا آمدند: دو خواهر و برادر کوچک‌تر یک‌باره."
+  },
+  {
+    "k": "1qr4qyku4au",
+    "en": "Twins were born: two younger brothers at once.",
+    "fa": "دوقلو به دنیا آمدند: دو برادر کوچک‌تر یک‌باره."
+  },
+  {
+    "k": "y1jjkm5ulk",
+    "en": "Twins were born: two younger sisters at once.",
+    "fa": "دوقلو به دنیا آمدند: دو خواهر کوچک‌تر یک‌باره."
+  },
+  {
+    "k": "apgue6a6z0",
+    "en": "A {0} was born.",
+    "fa": "یک {0} به دنیا آمد."
+  },
+  {
+    "k": "ukm2x7hwzg",
+    "en": "younger brother",
+    "fa": "برادر کوچک‌تر"
+  },
+  {
+    "k": "ia3n9v6p1t",
+    "en": "younger sister",
+    "fa": "خواهر کوچک‌تر"
+  },
+  {
+    "k": "l6gvfn7yni",
+    "en": "Your parents could not afford the fee, so they put off registering the baby's birth.",
+    "fa": "والدین هزینه ثبت تولد را نمی‌توانستند بپردازند و ثبت تولد نوزاد را به تأخیر انداختند."
+  },
+  {
+    "k": "nzh6fyijan",
+    "en": "China's 2010 census counted about 13 million people without a hukou (household registration), over 60% of them born outside the birth plan. From 2016 they too could register (China Daily 2015; General Office of the State Council 2015)",
+    "fa": "سرشماری ۲۰۱۰ چین حدود ۱۳ میلیون نفر بدون hukou (ثبت خانوار) را شمرد؛ بیش از ۶۰٪ آن‌ها خارج از برنامه تولد به دنیا آمده بودند. از ۲۰۱۶ آن‌ها هم می‌توانند ثبت شوند (China Daily 2015؛ دبیرخانه شورای دولت 2015)"
+  },
+  {
+    "k": "1dxal4wg5v4",
+    "en": "The baby was born over the allowed number, so your parents paid a social maintenance fee worth several years' income.",
+    "fa": "نوزاد بیش از سهمیه مجاز به دنیا آمد و والدین هزینه نگهداری اجتماعی به اندازه چند سال درآمد پرداخت کردند."
+  },
+  {
+    "k": "1f0cjn8k8n7",
+    "en": "China's one-child policy (1980-2015) allowed one child in cities and, in the countryside, two if the first was a girl; going over meant a 'social maintenance fee' of several years' income, and state employees could lose their jobs (Hesketh et al. 2005)",
+    "fa": "سیاست تک‌فرزندی چین (۱۹۸۰–۲۰۱۵) در شهرها یک فرزند و در روستا، اگر اول دختر بود دو فرزند مجاز بود؛ بیش از آن یعنی «هزینه نگهداری اجتماعی» به اندازه چند سال درآمد و کارمندان دولتی می‌توانستند شغلشان را از دست بدهند (Hesketh et al. 2005)"
+  },
+  {
+    "k": "1v0d4axkx2v",
+    "en": "Your mother went out to work to keep the family going.",
+    "fa": "مادرتان برای گذران زندگی خانواده سر کار رفت."
+  },
+  {
+    "k": "1afmfgcnzen",
+    "en": "pension {0} a month",
+    "fa": "بازنشستگی {0} در ماه"
+  },
+  {
+    "k": "27vausl4av0",
+    "en": "in treatment",
+    "fa": "در حال درمان"
+  },
+  {
+    "k": "1lci9n392bu",
+    "en": "home with the children for now",
+    "fa": "فعلاً در خانه با بچه‌ها"
+  },
+  {
+    "k": "15zdbkyiugn",
+    "en": "looking for work",
+    "fa": "در جستجوی کار"
+  },
+  {
+    "k": "a9jb742t67",
+    "en": "housework and the odd side job",
+    "fa": "کار خانه و کارهای جزئی"
+  },
+  {
+    "k": "18ac04yujnc",
+    "en": "part-time",
+    "fa": "پاره‌وقت"
+  },
+  {
+    "k": "1odo9cdpn2w",
+    "en": "no pension, still working",
+    "fa": "بدون بازنشستگی، هنوز کار می‌کند"
+  },
+  {
+    "k": "r0ulnzpl0e",
+    "en": "{0} a month",
+    "fa": "{0} در ماه"
+  },
+  {
+    "k": "zk13lmmjtw",
+    "en": "As the illness deepened, your spouse {0} decided when the end would come, with a doctor's help, under the law in {1}.",
+    "fa": "با عمیق‌تر شدن بیماری، همسر {0} با کمک پزشک و طبق قانون در {1} زمان پایان را تعیین کرد."
+  },
+  {
+    "k": "1de347ghxch",
+    "en": "As the illness deepened, {0} decided when the end would come, with a doctor's help, under the law in {1}.",
+    "fa": "با عمیق‌تر شدن بیماری، {0} با کمک پزشک و طبق قانون در {1} زمان پایان را تعیین کرد."
+  },
+  {
+    "k": "2byypw88272",
+    "en": "Not everyone in the family felt the same, but that day everyone was there.",
+    "fa": "همه در خانواده یکسان احساس نمی‌کردند، اما آن روز همه آنجا بودند."
+  },
+  {
+    "k": "1teid5zin8o",
+    "en": "The family talked about the decision for a long time.",
+    "fa": "خانواده مدت‌ها درباره این تصمیم گفت‌وگو کرد."
+  },
+  {
+    "k": "dxghhkubn6",
+    "en": "On the last day, everyone was holding hands.",
+    "fa": "در روز آخر، همه دست در دست هم بودند."
+  },
+  {
+    "k": "25clkq6aj1b",
+    "en": "Whether it was the right decision still stays with you as a question.",
+    "fa": "اینکه تصمیم درست بود یا نه، هنوز به‌صورت پرسشی با شما مانده است."
+  },
+  {
+    "k": "1wdzbttpcsy",
+    "en": "In {0}, assisted dying under the law began to be allowed state by state from {1}; in {2} it was about {3}% of deaths ({4})",
+    "fa": "در {0}، مرگ یارانه‌ای با قانون از {1} ایالت به ایالت مجاز شد؛ در {2} حدود {3}٪ مرگ‌ها بود ({4})"
+  },
+  {
+    "k": "1g7of1qhnk2",
+    "en": "In {0}, assisted dying under the law has been allowed since {1}; in {2} it was about {3}% of deaths ({4})",
+    "fa": "در {0}، مرگ یارانه‌ای با قانون از {1} مجاز است؛ در {2} حدود {3}٪ مرگ‌ها بود ({4})"
+  },
+  {
+    "k": "2fuebc4u6w2",
+    "en": "Tests found cancer, already well advanced. You began treatment.",
+    "fa": "آزمایش‌ها سرطان را نشان داد، از قبل پیشرفته. درمان را شروع کردید."
+  },
+  {
+    "k": "12sygw9jlwi",
+    "en": "Short of breath, you went to the hospital and were told your lungs had weakened badly. You began treatment.",
+    "fa": "با تنگی نفس به بیمارستان رفتید و گفتند ریه‌هایتان شدیداً ضعیف شده. درمان را شروع کردید."
+  },
+  {
+    "k": "2ezu8v6e3x",
+    "en": "Your kidneys had failed badly, and you started dialysis.",
+    "fa": "کلیه‌هایتان بد تحلیل رفته بود و دیالیز را شروع کردید."
+  },
+  {
+    "k": "5a8drmq30t",
+    "en": "You were told your liver had badly hardened. You began treatment.",
+    "fa": "گفتند کبدتان سخت سخت شده. درمان را شروع کردید."
+  },
+  {
+    "k": "1zadnr4erej",
+    "en": "57 million people live with dementia. After a diagnosis people live about 5 years at the median, less at older ages (WHO; Brück et al. 2025, BMJ)",
+    "fa": "۵۷ میلیون نفر با زوال عقل زندگی می‌کنند. پس از تشخیص میانگین حدود ۵ سال زندگی می‌کنند، در سنین بالاتر کمتر (WHO؛ Brück et al. 2025، BMJ)"
+  },
+  {
+    "k": "2g8sleez7u",
+    "en": "75% of people with dementia are never diagnosed, and as many as 90% in low- and middle-income countries (Alzheimer's Disease International, World Alzheimer Report 2021)",
+    "fa": "۷۵٪ مبتلایان به زوال عقل هرگز تشخیص نمی‌گیرند و در کشورهای کم‌ و متوسط‌درآمد تا ۹۰٪ (Alzheimer's Disease International، گزارش جهانی آلزheimer 2021)"
+  },
+  {
+    "k": "1s5npnxy71h",
+    "en": "Words and memories kept slipping away, and at the hospital you were diagnosed with dementia. You and your family began to prepare for what lay ahead.",
+    "fa": "کلمات و خاطرات مدام از دست می‌رفت و در بیمارستان زوال عقل تشخیص داده شد. شما و خانواده برای آنچه پیش روست آماده شدید."
+  },
+  {
+    "k": "x9jjxb4dad",
+    "en": "Your memory kept slipping, and some days you lost your way on streets you had always walked. Your family began to stay close by.",
+    "fa": "حافظه‌تان مدام لغز می‌کرد و بعضی روزها در خیابان‌های آشنا گم می‌شدید. خانواده نزدیک‌تر ماند."
+  },
+  {
+    "k": "29dsyrk93cu",
+    "en": "About 30% of people whose cancer is found after it has spread are alive five years later (US National Cancer Institute, SEER)",
+    "fa": "حدود ۳۰٪ کسانی که سرطانشان پس از گسترش پیدا می‌شود، پنج سال بعد زنده‌اند (مؤسسه ملی سرطان آمریکا، SEER)"
+  },
+  {
+    "k": "2cw8jbmmcve",
+    "en": "You stopped working and retired to look after your health.",
+    "fa": "کار را متوقف کردید و برای مراقبت از سلامتی بازنشسته شدید."
+  },
+  {
+    "k": "16p416bjep6",
+    "en": "You left your work to focus on treatment.",
+    "fa": "کار را رها کردید تا روی درمان تمرکز کنید."
+  },
+  {
+    "k": "ke8zehf15b",
+    "en": "your spouse",
+    "fa": "همسرتان"
+  },
+  {
+    "k": "1uxb0eoq560",
+    "en": "your staff",
+    "fa": "کارکنان‌تان"
+  },
+  {
+    "k": "7vsurvofke",
+    "en": "your employee",
+    "fa": "کارمند‌تان"
+  },
+  {
+    "k": "1j23y2sigy8",
+    "en": "Earnings lost during treatment",
+    "fa": "درآمد از دست‌رفته در دوره درمان"
+  },
+  {
+    "k": "1ei0uiju8do",
+    "en": "While you were in treatment, {1} kept {0} going.",
+    "fa": "وقتی در درمان بودید، {1} {0} را سرپا نگه داشت."
+  },
+  {
+    "k": "v5oxvloa1m",
+    "en": "company",
+    "fa": "شرکت"
+  },
+  {
+    "k": "1fm7colqbsz",
+    "en": "the business",
+    "fa": "کسب‌وکار"
+  },
+  {
+    "k": "2f2x3jmhnfz",
+    "en": "the shop",
+    "fa": "مغازه"
+  },
+  {
+    "k": "1r8lwljmytn",
+    "en": "Your earnings fell sharply that year.",
+    "fa": "در آن سال درآمدتان به‌شدت افت کرد."
+  },
+  {
+    "k": "26kc2krhb8u",
+    "en": "You spent your last days with your family. Even on days when your memory was clouded, they held your hand.",
+    "fa": "روزهای پایانی را با خانواده گذراندید. حتی روزهایی که حافظه‌تان ابری بود، دستتان را می‌گرفتند."
+  },
+  {
+    "k": "fedyj5mbh0",
+    "en": "You spent the last months with your family. There was time to say what you wanted to say.",
+    "fa": "ماه‌های پایانی را با خانواده گذراندید. وقت بود بگویید آنچه می‌خواستید بگویید."
+  },
+  {
+    "k": "pwrx3lmh0b",
+    "en": "A kidney transplant freed you from dialysis. You went back to everyday life.",
+    "fa": "پیوند کلیه شما را از دیالیز رها کرد. به زندگی روزمره برگشتید."
+  },
+  {
+    "k": "bypajx7gqm",
+    "en": "The treatment worked and the illness eased. You went back to everyday life.",
+    "fa": "درمان اثر کرد و بیماری فروکش کرد. به زندگی روزمره برگشتید."
+  },
+  {
+    "k": "phwscqol8",
+    "en": "The people close to you took turns staying by your side. On good days you looked through old photos together. (−{0})",
+    "fa": "نزدیکان نوبتی کنار شما می‌ماندند. روزهای خوب با هم عکس‌های قدیمی را ورق می‌زدید. (−{0})"
+  },
+  {
+    "k": "n5jjoosdhj",
+    "en": "You kept up treatment, back and forth to the hospital. The people close to you took turns staying by your side. (−{0})",
+    "fa": "درمان را ادامه دادید و بارها به بیمارستان رفت‌وآمد کردید. نزدیکان نوبتی کنار شما می‌ماندند. (−{0})"
+  },
+  {
+    "k": "kuoj5p0n5q",
+    "en": "Endoscopic screening lowered the risk of dying of stomach cancer by 47% (Korea's national cancer screening, Jun et al. 2017). Mammography lowers breast cancer deaths by about 40% among women who are screened (IARC 2016)",
+    "fa": "غربالگری آندوسکوپیک خطر مرگ بر اثر سرطان معده را ۴۷٪ کم کرد (غربالگری ملی سرطان کره، Jun et al. 2017). ماموگرافی مرگ بر اثر سرطان پستان را در زنان غربال‌شده حدود ۴۰٪ کم می‌کند (IARC 2016)"
+  },
+  {
+    "k": "1ozyl13kugy",
+    "en": "Many of the cancers that take the most lives, such as lung, liver and pancreatic cancer, are hard to find early with an ordinary check-up. In Korea one cancer in five is found only after it has spread far (National Cancer Center 2024)",
+    "fa": "بسیاری از سرطان‌های پرمرگ، مثل ریه، کبد و لوزالمعده، با معاینه معمولی سخت زود پیدا می‌شوند. در کره یک سرطان از هر پنج تنها پس از گسترش زیاد پیدا می‌شود (مرکز ملی سرطان 2024)"
+  },
+  {
+    "k": "1uvn271rsro",
+    "en": "The cancer came back, already well advanced. You began treatment again.",
+    "fa": "سرطان برگشت، از قبل پیشرفته. دوباره درمان را شروع کردید."
+  },
+  {
+    "k": "8hplshq19h",
+    "en": "It was a cancer that regular check-ups have a hard time finding. By the time a hospital visit for feeling unwell found it, it was already well advanced. You began treatment.",
+    "fa": "سرطانی بود که معاینه‌های منظم سخت پیدایش می‌کنند. وقتی با رفتن به بیمارستان به‌خاطر ناراحتی پیدا شد، از قبل پیشرفته بود. درمان را شروع کردید."
+  },
+  {
+    "k": "rqn2jpkb3b",
+    "en": "You had kept up your check-ups, but this cancer grew fast between two of them. When it was found, it had already spread. You began treatment.",
+    "fa": "معاینه‌ها را ادامه داده بودید، اما این سرطان بین دو معاینه سریع رشد کرد. وقتی پیدا شد، به نقاط دیگر بدن پخش شده بود. درمان را شروع کردید."
+  },
+  {
+    "k": "1phrm4hm4v4",
+    "en": "A regular check-up found a cancer, but it had already spread. You began treatment.",
+    "fa": "معاینه منظم سرطانی را نشان داد، اما از قبل به نقاط دیگر بدن پخش شده بود. درمان را شروع کردید."
+  },
+  {
+    "k": "1bakfrpsb3y",
+    "en": "leukemia",
+    "fa": "لوسمی"
+  },
+  {
+    "k": "1j8ykj2y32n",
+    "en": "lymphoma",
+    "fa": "لنفوم"
+  },
+  {
+    "k": "paekde530u",
+    "en": "brain tumor",
+    "fa": "تومور مغزی"
+  },
+  {
+    "k": "28j2qy1guiw",
+    "en": "kidney cancer",
+    "fa": "سرطان کلیه"
+  },
+  {
+    "k": "eyirp09p3w",
+    "en": "bone cancer",
+    "fa": "سرطان استخوان"
+  },
+  {
+    "k": "1buzgfd7432",
+    "en": "thyroid cancer",
+    "fa": "سرطان تیروئید"
+  },
+  {
+    "k": "1651ln2m13m",
+    "en": "colorectal cancer",
+    "fa": "سرطان روده بزرگ و مقعد"
+  },
+  {
+    "k": "sbjppb8sti",
+    "en": "bladder cancer",
+    "fa": "سرطان مثانه"
+  },
+  {
+    "k": "o5lrgpi7pw",
+    "en": "stomach cancer",
+    "fa": "سرطان معده"
+  },
+  {
+    "k": "pyarnsgyru",
+    "en": "breast cancer",
+    "fa": "سرطان پستان"
+  },
+  {
+    "k": "fcbpjyxnj1",
+    "en": "cervical cancer",
+    "fa": "سرطان دهانه رحم"
+  },
+  {
+    "k": "nqkfzixqf2",
+    "en": "uterine cancer",
+    "fa": "سرطان رحم"
+  },
+  {
+    "k": "1n0rv3q9sc9",
+    "en": "prostate cancer",
+    "fa": "سرطان پروستات"
+  },
+  {
+    "k": "1vwuyp19hfk",
+    "en": "testicular cancer",
+    "fa": "سرطان بیضه"
+  },
+  {
+    "k": "jr5o95cfzt",
+    "en": "melanoma (skin cancer)",
+    "fa": "ملانوم (سرطان پوست)"
+  },
+  {
+    "k": "7r64pa5tno",
+    "en": "In Korea, 72.9% of people diagnosed with cancer are alive five years later, relative to others their age (National Cancer Registry, 2022)",
+    "fa": "در کره، ۷۲٫۹٪ افراد تشخیص‌گرفته سرطان پنج سال بعد زنده‌اند، نسبت به هم‌سن‌وسالان (ثبت ملی سرطان، 2022)"
+  },
+  {
+    "k": "14m9l9ws8bk",
+    "en": "In the US, about 69% of people diagnosed with cancer are alive five years later, relative to others their age (US National Cancer Institute, SEER)",
+    "fa": "در آمریکا، حدود ۶۹٪ افراد تشخیص‌گرفته سرطان پنج سال بعد زنده‌اند، نسبت به هم‌سن‌وسالان (مؤسسه ملی سرطان آمریکا، SEER)"
+  },
+  {
+    "k": "1wp9rrtnnt7",
+    "en": "Many cancers can be cured if found early and treated well (WHO)",
+    "fa": "بسیاری از سرطان‌ها اگر زود پیدا و درست درمان شوند قابل درمان‌اند (WHO)"
+  },
+  {
+    "k": "2gazi41ia92",
+    "en": "About one in four people over 25 has a stroke at some point in life (GBD 2016, NEJM 2018)",
+    "fa": "حدود یک نفر از هر چهار نفر بالای ۲۵ سال در زندگی سکته مغزی می‌کند (GBD 2016، NEJM 2018)"
+  },
+  {
+    "k": "5jv3yuad07",
+    "en": "You were diagnosed with {0}. A long treatment began, and your family took turns staying with you at the hospital.",
+    "fa": "تشخیص {0} داده شد. درمان طولانی آغاز شد و خانواده نوبتی در بیمارستان کنار شما ماند."
+  },
+  {
+    "k": "20xjj0udcne",
+    "en": "More than 80% of children with cancer are cured in high-income countries, but fewer than 30% in many poorer ones (WHO)",
+    "fa": "بیش از ۸۰٪ کودکان مبتلا به سرطان در کشورهای پردرآمد درمان می‌شوند، اما در بسیاری از کشورهای فقیر‌تر کمتر از ۳۰٪ (WHO)"
+  },
+  {
+    "k": "wxdyqrqji",
+    "en": "Tests found another cancer: {0}. You began treatment again.",
+    "fa": "آزمایش‌ها سرطان دیگری نشان داد: {0}. دوباره درمان را شروع کردید."
+  },
+  {
+    "k": "1xlf3nzxx3j",
+    "en": "A regular check-up found {0} early. You began surgery and treatment.",
+    "fa": "معاینه منظم {0} را زود پیدا کرد. جراحی و درمان را آغاز کردید."
+  },
+  {
+    "k": "2dft277m9jp",
+    "en": "Tests found {0}. You began surgery and treatment.",
+    "fa": "آزمایش‌ها {0} را نشان داد. جراحی و درمان را آغاز کردید."
+  },
+  {
+    "k": "6rqylg8leu",
+    "en": "After a stroke, you could no longer use one arm and leg as before. You kept up rehabilitation.",
+    "fa": "پس از سکته، دیگر مثل قبل از یک بازو و پا استفاده نمی‌کردید. توانبخشی را ادامه دادید."
+  },
+  {
+    "k": "1ds26bg6ijs",
+    "en": "You had a stroke but reached the hospital in time. In rehabilitation you learned to walk and speak again.",
+    "fa": "سکته کردید اما به‌موقع به بیمارستان رسیدید. در توانبخشی دوباره راه رفتن و صحبت کردن را یاد گرفتید."
+  },
+  {
+    "k": "1ojolnwkjfc",
+    "en": "About 150 million children under five around the world have never had their birth registered (UNICEF 2024)",
+    "fa": "حدود ۱۵۰ میلیون کودک زیر پنج سال در جهان هرگز تولدشان ثبت نشده (یونیسف 2024)"
+  },
+  {
+    "k": "253zeglxbuc",
+    "en": "About 765 million adults worldwide cannot read and write, two thirds of them women (UNESCO 2024)",
+    "fa": "حدود ۷۶۵ میلیون بزرگسال در جهان نمی‌توانند بخوانند و بنویسند؛ دو سوم آن‌ها زن‌اند (یونسکو 2024)"
+  },
+  {
+    "k": "26hwd5hxukr",
+    "en": "The share of people who have ever been homeless: 7.7% in the UK, 6.2% in the US, 4% in Italy, 3.4% in Belgium, 2.4% in Germany (Toro et al. 2007)",
+    "fa": "سهم کسانی که حداقل یک‌بار بی‌خانمان بوده‌اند: ۷٫۷٪ در بریتانیا، ۶٫۲٪ در آمریکا، ۴٪ در ایتالیا، ۳٫۴٪ در بلژیک، ۲٫۴٪ در آلمان (Toro et al. 2007)"
+  },
+  {
+    "k": "edi9p848cd",
+    "en": "With no record of your birth, the papers had to be sorted out before you could start school.",
+    "fa": "بدون سند تولد، قبل از شروع مدرسه باید مدارک درست می‌شد."
+  },
+  {
+    "k": "553ojwg6a1",
+    "en": "Your family went back and forth to the offices and registered your birth late.",
+    "fa": "خانواده بارها به ادارات رفت و با تأخیر تولد شما را ثبت کرد."
+  },
+  {
+    "k": "btrrs9rmvw",
+    "en": "The school let you in without the papers for now, but your birth was still not registered.",
+    "fa": "مدرسه فعلاً بدون مدارک راه داد، اما تولد شما هنوز ثبت نشده بود."
+  },
+  {
+    "k": "1hvh10ukckg",
+    "en": "Going on to the next school needed a birth certificate, so your family registered your birth late.",
+    "fa": "رفتن به مدرسه بعدی گواهی تولد می‌خواست، پس خانواده با تأخیر تولد شما را ثبت کرد."
+  },
+  {
+    "k": "1fzz55ju1mv",
+    "en": "A birth registration drive came to your area, and your birth was registered at last.",
+    "fa": "کارزار ثبت تولد به منطقه شما آمد و بالاخره تولدتان ثبت شد."
+  },
+  {
+    "k": "29o0m5u3nf7",
+    "en": "With no birth record, you could not get an identity card. Opening a bank account or getting formal work was hard.",
+    "fa": "بدون سند تولد نمی‌توانستید کارت شناسایی بگیرید. افتتاح حساب بانکی یا کار رسمی سخت بود."
+  },
+  {
+    "k": "28fd5bn8t2a",
+    "en": "Late birth registration",
+    "fa": "ثبت دیرهنگام تولد"
+  },
+  {
+    "k": "1cm77nvp5bq",
+    "en": "After many trips to the court and the offices, your birth was registered late and you got an identity card. (−{0})",
+    "fa": "پس از سفرهای زیاد به دادگاه و ادارات، تولد با تأخیر ثبت شد و کارت شناسایی گرفتید. (−{0})"
+  },
+  {
+    "k": "ql1s4x4w2n",
+    "en": "You did not get long enough at school to learn to read and write. When something had to be read, family read it for you.",
+    "fa": "وقت کافی در مدرسه نبود که بخوانید و بنویسید یاد بگیرید. وقتی چیزی باید خوانده می‌شد، خانواده برایتان می‌خواند."
+  },
+  {
+    "k": "12gjxwbm6y8",
+    "en": "You went to primary school but never really learned to read. When something had to be read, family read it for you.",
+    "fa": "مدرسه ابتدایی رفتید اما واقعاً خواندن را یاد نگرفتید. وقتی چیزی باید خوانده می‌شد، خانواده برایتان می‌خواند."
+  },
+  {
+    "k": "en6hs7jd6n",
+    "en": "You signed an official form with your thumbprint instead of your name.",
+    "fa": "به‌جای نام، فرم رسمی را با اثر انگشت امضا کردید."
+  }
+]
