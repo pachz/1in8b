@@ -295,6 +295,23 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
         html,
         count=1,
     )
+
+    # Small countries: "about 4,213 a year, or one every 7,491 minutes."
+    def lead_minutes(m: re.Match) -> str:
+        pct, odds, n_year, n_min = m.group(1), m.group(2), m.group(3), m.group(4)
+        return (
+            f"همین حالا حدود {pct}٪ از نوزادان زمین در {fa_name} متولد می‌شوند: "
+            f"۱ در {fa_digits(odds)}، حدود {fa_digits(n_year)} در سال، "
+            f"یا یکی در هر {fa_digits(n_min)} دقیقه."
+        )
+
+    html = re.sub(
+        r"Right now, about ([0-9.]+)% of the babies born on Earth are born in [^:]+: "
+        r"1 in ([0-9,]+), about ([0-9,]+) a year, or one every ([0-9,]+) minutes?\.",
+        lead_minutes,
+        html,
+        count=1,
+    )
     # Fallback for other phrasings
     html = re.sub(
         r"Right now, about ([0-9.]+)% of the babies born on Earth are born in [^:]+: 1 in ([0-9,]+), about ([^.]+)\.",
@@ -304,9 +321,18 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
             .replace(" million a year", " میلیون در سال")
             .replace(" billion a year", " میلیارد در سال")
             .replace(" a minute", " در دقیقه")
+            .replace(" a year, or one every ", " در سال، یا یکی در هر ")
+            .replace(" minutes", " دقیقه")
+            .replace(" minute", " دقیقه")
         ),
         html,
         count=1,
+    )
+    # Leftover EN fragments already partially localized
+    html = re.sub(
+        r"حدود ([0-9,.]+) a year, or one every ([0-9,]+) minutes?\.",
+        lambda m: f"حدود {fa_digits(m.group(1))} در سال، یا یکی در هر {fa_digits(m.group(2))} دقیقه.",
+        html,
     )
 
     html = re.sub(
@@ -329,7 +355,8 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
         count=1,
     )
 
-    # Titles / remaining country phrases
+    # Titles / remaining country phrases (EN often uses "the United States", "the Maldives", …)
+    html = html.replace(f"If you were born in the {en_name}", f"اگر در {fa_name} متولد می‌شدید")
     html = html.replace(f"If you were born in {en_name}", f"اگر در {fa_name} متولد می‌شدید")
     html = html.replace(f"Life in {en_name}, in numbers", f"زندگی در {fa_name}، در قالب عدد")
     html = html.replace(f"born in {en_name}", f"متولد {fa_name}")
@@ -384,6 +411,13 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
             html = html.replace(en, fa)
     for i, chunk in enumerate(protected):
         html = html.replace(f"\x00P{i}\x00", chunk)
+
+    # Catch leftover "If you were born in the X" after name swaps (the + Persian name)
+    html = re.sub(
+        r"If you were born in(?: the)? ([^·<\"\n]+?)(?=\s*[·<\"|]|$)",
+        lambda m: f"اگر در {m.group(1).strip()} متولد می‌شدید",
+        html,
+    )
 
     # Odds leftover: "1 in N"
     html = re.sub(r"\b1 in ([0-9,]+)\b", lambda m: f"۱ در {fa_digits(m.group(1))}", html)
