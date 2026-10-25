@@ -95,7 +95,7 @@ const server = http.createServer(async (req, res) => {
         req.method === "GET" || req.method === "HEAD"
           ? ""
           : await readNodeBody(req);
-      const result = dispatchApi({
+      const result = await dispatchApi({
         method: req.method,
         pathname: url.pathname,
         searchParams: url.searchParams,

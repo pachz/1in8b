@@ -3,7 +3,7 @@
   "framework": null,
   "buildCommand": null,
   "outputDirectory": "public",
-  "installCommand": "echo 'skip install (no production deps)'",
+  "installCommand": "npm install --omit=dev --ignore-scripts",
   "functions": {
     "api/[...path].mjs": {
       "includeFiles": "{data/api-seed.json,package.json}",

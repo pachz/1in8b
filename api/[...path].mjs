@@ -25,7 +25,7 @@ function rawBody(req) {
 export default async function handler(req, res) {
   try {
     const { pathname, searchParams } = pathFromReq(req);
-    const result = dispatchApi({
+    const result = await dispatchApi({
       method: req.method,
       pathname,
       searchParams,
