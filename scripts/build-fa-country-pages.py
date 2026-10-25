@@ -279,23 +279,36 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
         )
     html = html.replace('content="en_US"', 'content="fa_IR"')
 
-    # Country name — longest first later via sorted list; do title patterns first
-    html = html.replace(f"If you were born in {en_name}", f"اگر در {fa_name} متولد می‌شدید")
-    html = html.replace(f"Life in {en_name}, in numbers", f"زندگی در {fa_name}، در قالب عدد")
-    html = html.replace(f"born in {en_name}", f"متولد {fa_name}")
-    html = html.replace(f"a baby born in {en_name}", f"نوزادی متولد {fa_name}")
-    html = html.replace(f"of the babies born on Earth are born in {en_name}", f"از نوزادان زمین در {fa_name} متولد می‌شوند")
+    # Lead templates BEFORE any partial country-name swaps (those would break the regex)
+    def lead1(m: re.Match) -> str:
+        pct, odds, n_year, unit_year, n_min = m.group(1), m.group(2), m.group(3), m.group(4), m.group(5)
+        unit = {"million": "میلیون", "billion": "میلیارد"}.get(unit_year, unit_year)
+        return (
+            f"همین حالا حدود {pct}٪ از نوزادان زمین در {fa_name} متولد می‌شوند: "
+            f"۱ در {fa_digits(odds)}، حدود {n_year} {unit} در سال، یا حدود {n_min} در دقیقه."
+        )
 
-    # Lead templates
     html = re.sub(
-        r"Right now, about ([0-9.]+)% of the babies born on Earth are born in ([^:]+): 1 in ([0-9,]+), about ([^,]+), or about ([^.]+)\.",
+        r"Right now, about ([0-9.]+)% of the babies born on Earth are born in [^:]+: "
+        r"1 in ([0-9,]+), about ([0-9.]+) (million|billion) a year, or about ([0-9.]+) a minute\.",
+        lead1,
+        html,
+        count=1,
+    )
+    # Fallback for other phrasings
+    html = re.sub(
+        r"Right now, about ([0-9.]+)% of the babies born on Earth are born in [^:]+: 1 in ([0-9,]+), about ([^.]+)\.",
         lambda m: (
             f"همین حالا حدود {m.group(1)}٪ از نوزادان زمین در {fa_name} متولد می‌شوند: "
-            f"۱ در {fa_digits(m.group(3))}، حدود {m.group(4)}، یا حدود {m.group(5)}."
+            f"۱ در {fa_digits(m.group(2))}، حدود {m.group(3)}."
+            .replace(" million a year", " میلیون در سال")
+            .replace(" billion a year", " میلیارد در سال")
+            .replace(" a minute", " در دقیقه")
         ),
         html,
         count=1,
     )
+
     html = re.sub(
         r"The chance that a baby born in .+? dies before turning five is ([0-9.]+)%, about ([0-9.]+) times that of ([^(]+)\(([0-9.]+)%\)\. Life expectancy is ([0-9.]+) years for women and ([0-9.]+) years for men\.",
         lambda m: (
@@ -306,7 +319,6 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
         html,
         count=1,
     )
-    # Alternate lead without "times that of"
     html = re.sub(
         r"The chance that a baby born in .+? dies before turning five is ([0-9.]+)%[^.]*\. Life expectancy is ([0-9.]+) years for women and ([0-9.]+) years for men\.",
         lambda m: (
@@ -315,6 +327,16 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
         ),
         html,
         count=1,
+    )
+
+    # Titles / remaining country phrases
+    html = html.replace(f"If you were born in {en_name}", f"اگر در {fa_name} متولد می‌شدید")
+    html = html.replace(f"Life in {en_name}, in numbers", f"زندگی در {fa_name}، در قالب عدد")
+    html = html.replace(f"born in {en_name}", f"متولد {fa_name}")
+    html = html.replace(f"a baby born in {en_name}", f"نوزادی متولد {fa_name}")
+    html = html.replace(
+        f"of the babies born on Earth are born in {en_name}",
+        f"از نوزادان زمین در {fa_name} متولد می‌شوند",
     )
 
     # Rank lines: "71st lowest of 172 countries" / "61st highest of 172 countries"
@@ -343,10 +365,25 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
     for en, fa in LABELS:
         html = html.replace(en, fa)
 
-    # Replace remaining English country names (longest first)
+    # Replace remaining English country names (longest first),
+    # but don't touch language-switcher labels like "Bahasa Indonesia".
+    protected: list[str] = []
+
+    def protect(m: re.Match) -> str:
+        protected.append(m.group(0))
+        return f"\x00P{len(protected) - 1}\x00"
+
+    html = re.sub(
+        r"<a[^>]*hreflang=\"[^\"]+\"[^>]*>.*?</a>",
+        protect,
+        html,
+        flags=re.S,
+    )
     for en, fa in sorted(NAME_TO_FA.items(), key=lambda x: -len(x[0])):
         if en and en in html:
             html = html.replace(en, fa)
+    for i, chunk in enumerate(protected):
+        html = html.replace(f"\x00P{i}\x00", chunk)
 
     # Odds leftover: "1 in N"
     html = re.sub(r"\b1 in ([0-9,]+)\b", lambda m: f"۱ در {fa_digits(m.group(1))}", html)
@@ -379,6 +416,41 @@ def transform_to_fa(html: str, slug: str, en_name: str, fa_name: str) -> str:
     html = html.replace("life expectancy", "امید به زندگی")
     html = html.replace("under-5 deaths", "مرگ زیر ۵ سال")
 
+    # Rebuild meta description from Farsi h1 + lead (avoid mixed EN leftovers)
+    h1 = re.search(r"<h1>(.*?)</h1>", html)
+    lead = re.search(r'<p class="lead">(.*?)</p>', html)
+    if h1 and lead:
+        desc = re.sub(r"\s+", " ", f"{h1.group(1)}. {lead.group(1)}").strip()
+        if len(desc) > 220:
+            desc = desc[:217] + "…"
+        safe = desc.replace('"', "&quot;")
+        html = re.sub(
+            r'(<meta name="description" content=")[^"]*(">)',
+            rf"\1{safe}\2",
+            html,
+            count=1,
+        )
+        html = re.sub(
+            r'(<meta property="og:description" content=")[^"]*(">)',
+            rf"\1{safe}\2",
+            html,
+            count=1,
+        )
+        t_le = re.search(r"امید به زندگی ([0-9.]+)", html)
+        t_u5 = re.search(r"([0-9.]+%)", html[html.find("<title>") : html.find("</title>") + 1] if "<title>" in html else "")
+        new_title = (
+            f"{h1.group(1)} · امید به زندگی {t_le.group(1) if t_le else ''}، "
+            f"مرگ زیر ۵ سال {t_u5.group(1) if t_u5 else ''} | ۱ در ۸ میلیارد"
+        )
+        new_title = re.sub(r"\s+", " ", new_title).strip()
+        html = re.sub(r"<title>.*?</title>", f"<title>{new_title}</title>", html, count=1)
+        html = re.sub(
+            r'(<meta property="og:title" content=")[^"]*(">)',
+            rf'\1{new_title.replace(chr(34), "&quot;")}\2',
+            html,
+            count=1,
+        )
+
     return html
 
 
@@ -387,7 +459,8 @@ NAME_TO_FA: dict[str, str] = {}
 
 
 def country_swap(name: str) -> str:
-    name = name.strip().rstrip(",")
+    name = name.strip().rstrip(",").strip()
+    name = re.sub(r"^(the|The)\s+", "", name)
     return NAME_TO_FA.get(name, name)
 
 
