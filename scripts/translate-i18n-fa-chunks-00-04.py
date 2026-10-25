@@ -124,4 +124,8 @@ def translate_chunk(path: Path) -> None:
 
 if __name__ == "__main__":
     for i in range(5):
-        translate_chunk(batch.IN_DIR / f"{i:02d}.json")
+        try:
+            translate_chunk(batch.IN_DIR / f"{i:02d}.json")
+        except Exception as exc:
+            print(f"FATAL {i:02d}.json: {exc}", flush=True)
+            raise

@@ -47,6 +47,7 @@ HTML_REPLACEMENTS = [
     ("Live a whole life in today's world. Today's statistics hold to the end.",
      "یک زندگی کامل را در دنیای امروز زندگی کنید. آمار امروز تا پایان برقرار می‌ماند."),
     ("How your country is drawn", "چگونه کشورتان انتخاب می‌شود"),
+    ("Choosing your birthplace", "انتخاب زادگاه شما"),
     ("Babies born now", "نوزادانِ همین حالا"),
     ("The 8 billion alive now", "۸ میلیاردِ زندۀ امروز"),
     ("Length of one life", "طول یک زندگی"),
