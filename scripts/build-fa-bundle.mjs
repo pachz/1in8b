@@ -133,9 +133,13 @@ const FA_DIGS =
 // CRITICAL: split HTML tags FIRST. Never split on existing LRI before tag
 // protection — an LRI inside placeholder="…Rocky…" would bisect <input> and
 // the browser then paints the broken tag as literal text.
-// Latin runs: allow mid-word apostrophes (children's) but NOT wrapping quotes
-// around names — otherwise ‘{0}’ becomes ‘⁦Rocky’⁩ and the closer looks missing.
-const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;if(/[A-Za-z]/.test(e)){const w=s=>{if(!s||!/[A-Za-z]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/[A-Za-z]+(?:[\u0027\u2019][A-Za-z]+)*(?:[0-9\u00c0-\u024f\-]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*(?:\s+[A-Za-z]+(?:[\u0027\u2019][A-Za-z]+)*(?:[0-9\u00c0-\u024f\-]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*)*/g,m=>"\u2066"+m+"\u2069")}).join("")};e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""))}return typeof arBidi=="function"?arBidi(e):e}`;
+// Latin runs: mid-word apostrophe/hyphen (children's, Jean-Pierre) but NOT
+// wrapping quotes — otherwise ‘{0}’ becomes ‘⁦Rocky’⁩ and the closer looks missing.
+// Include Latin-1/Extended-A in the letter class (é, ñ, …). Accents used to be
+// only a trailing group after [A-Za-z]+, which split Béatrice → Bé|atrice and
+// flipped the two LRI isolates in RTL to atriceBé.
+const FA_LAT = String.raw`[A-Za-z\u00c0-\u024f]+(?:[\u0027\u2019\-][A-Za-z\u00c0-\u024f]+)*(?:[0-9]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*`;
+const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;if(/[A-Za-z\u00c0-\u024f]/.test(e)){const w=s=>{if(!s||!/[A-Za-z\u00c0-\u024f]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z\u00c0-\u024f]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/${FA_LAT}(?:\s+${FA_LAT})*/g,m=>"\u2066"+m+"\u2069")}).join("")};e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""))}return typeof arBidi=="function"?arBidi(e):e}`;
 if (!js.includes("function faFill")) {
   const faFill =
     FA_DIGS +
