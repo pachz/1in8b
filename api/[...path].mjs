@@ -42,8 +42,8 @@ export default async function handler(req, res) {
 export const config = {
   api: {
     bodyParser: {
-      // lives / move blobs can approach ~1.4MB compressed
-      sizeLimit: "2mb",
+      // lives / move / memorial frame payloads
+      sizeLimit: "3mb",
     },
   },
 };
