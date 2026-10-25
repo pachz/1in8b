@@ -1,0 +1,36 @@
+{
+ "id": "/ar/",
+ "name": "1 من 8 مليارات",
+ "short_name": "1 من 8 مليارات",
+ "description": "الموقع الرسمي لمحاكاة «1 من 8 مليارات» (1in8b). لعبة محاكاة الحياة مجانية: ولادة عشوائية بين أطفال اليوم، وحياة واحدة تُعاش حتى نهايتها داخل الإحصاءات الحقيقية في 172 بلدًا (الأمم المتحدة، ومنظمة الصحة العالمية، والبنك الدولي). من دون تسجيل.",
+ "lang": "ar",
+ "dir": "rtl",
+ "start_url": "/ar/?ref=home",
+ "scope": "/ar/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "/zh/",
+ "name": "80億分之1",
+ "short_name": "80億分之1",
+ "description": "80億分之1（1in8b）官方網站。隨機出生為今天誕生的嬰兒之一，在172個國家與地區的真實統計（聯合國、WHO、世界銀行）中，把一次的人生活到最後的免費人生模擬遊戲。不需註冊。你會在哪裡出生？",
+ "lang": "zh-Hant",
+ "dir": "ltr",
+ "start_url": "/zh/?ref=home",
+ "scope": "/zh/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

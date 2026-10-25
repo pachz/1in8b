@@ -1,0 +1,36 @@
+{
+ "id": "/th/",
+ "name": "1 ใน 8 พันล้าน",
+ "short_name": "1 ใน 8 พันล้าน",
+ "description": "เว็บไซต์ทางการของ 1 ใน 8 พันล้าน (1in8b) เกมจำลองชีวิตฟรี เกิดแบบสุ่มเป็นหนึ่งในทารกที่เกิดวันนี้ แล้วใช้ชีวิตที่มีเพียงครั้งเดียวไปจนสุดทางท่ามกลางสถิติจริงของ 172 ประเทศ (สหประชาชาติ WHO ธนาคารโลก) ไม่ต้องสมัคร หนึ่งนาทีเท่ากับหนึ่งปี คุณจะเกิดที่ไหน?",
+ "lang": "th",
+ "dir": "ltr",
+ "start_url": "/th/?ref=home",
+ "scope": "/th/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

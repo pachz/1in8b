@@ -1,0 +1,14 @@
+{
+  "name": "1in8b",
+  "version": "0.8.39",
+  "private": true,
+  "description": "Local mirror of 1 in 8 Billion (1in8b.life)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

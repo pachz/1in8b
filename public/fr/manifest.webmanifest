@@ -1,0 +1,36 @@
+{
+ "id": "/fr/",
+ "name": "1 sur 8 milliards",
+ "short_name": "1 sur 8 milliards",
+ "description": "Le site officiel de 1 sur 8 milliards (1in8b). Un jeu de simulation de vie gratuit : naissez au hasard parmi les bébés d’aujourd’hui et vivez une vie entière, jusqu’au bout, dans les statistiques réelles de 172 pays (ONU, OMS, Banque mondiale). Sans inscription, une minute par année. Où naîtrez-vous ?",
+ "lang": "fr",
+ "dir": "ltr",
+ "start_url": "/fr/?ref=home",
+ "scope": "/fr/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

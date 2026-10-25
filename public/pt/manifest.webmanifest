@@ -1,0 +1,36 @@
+{
+ "id": "/pt/",
+ "name": "1 em 8 bilhões",
+ "short_name": "1 em 8 bilhões",
+ "description": "O site oficial de 1 em 8 bilhões (1in8b). Um jogo de simulação de vida grátis: nasça ao acaso como um dos bebês de hoje e viva uma vida inteira, até o fim, dentro das estatísticas reais de 172 países (ONU, OMS, Banco Mundial). Sem cadastro.",
+ "lang": "pt",
+ "dir": "ltr",
+ "start_url": "/pt/?ref=home",
+ "scope": "/pt/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

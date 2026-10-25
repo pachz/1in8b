@@ -1,0 +1,36 @@
+{
+ "id": "/vi/",
+ "name": "1 trong 8 tỷ",
+ "short_name": "1 trong 8 tỷ",
+ "description": "Trang chính thức của 1 trong 8 tỷ (1in8b). Trò chơi mô phỏng cuộc đời miễn phí: chào đời ngẫu nhiên là một trong những em bé sinh ra hôm nay và sống trọn một cuộc đời chỉ có một lần giữa thống kê thực của 172 quốc gia (Liên Hợp Quốc, WHO, Ngân hàng Thế giới). Không cần đăng ký, 1 phút là 1 năm. Bạn sẽ chào đời ở đâu?",
+ "lang": "vi",
+ "dir": "ltr",
+ "start_url": "/vi/?ref=home",
+ "scope": "/vi/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

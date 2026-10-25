@@ -1,0 +1,36 @@
+{
+ "id": "/",
+ "name": "80억 분의 1",
+ "short_name": "80억 분의 1",
+ "description": "80억 분의 1(1in8b) 공식 사이트. 지금 태어나는 아기 중 한 명으로 무작위로 태어나, 172개국 실제 통계(UN·WHO·세계은행) 속에서 한 번뿐인 삶을 끝까지 살아보는 무료 인생 시뮬레이션 게임. 가입 없이 바로, 1분에 1년씩. 당신은 어디서 태어날까요?",
+ "lang": "ko",
+ "dir": "ltr",
+ "start_url": "/ko/?ref=home",
+ "scope": "/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

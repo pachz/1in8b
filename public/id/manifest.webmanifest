@@ -1,0 +1,36 @@
+{
+ "id": "/id/",
+ "name": "1 dari 8 Miliar",
+ "short_name": "1 dari 8 Miliar",
+ "description": "Situs resmi 1 dari 8 Miliar (1in8b). Game simulasi kehidupan gratis: lahir secara acak sebagai salah satu bayi yang lahir hari ini dan jalani satu kehidupan sampai akhir di tengah statistik nyata dari 172 negara (PBB, WHO, Bank Dunia). Tanpa daftar.",
+ "lang": "id",
+ "dir": "ltr",
+ "start_url": "/id/?ref=home",
+ "scope": "/id/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "id": "/en/",
+ "name": "1 in 8 Billion",
+ "short_name": "1in8b",
+ "description": "The official 1 in 8 Billion (1in8b), a free life simulation game: be born at random as one of today's babies and live one life in real data from 172 countries. No sign-up. Where will you be born?",
+ "lang": "en",
+ "dir": "ltr",
+ "start_url": "/en/?ref=home",
+ "scope": "/en/",
+ "display": "standalone",
+ "background_color": "#EBF0ED",
+ "theme_color": "#8C1D3C",
+ "categories": [
+  "education"
+ ],
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
