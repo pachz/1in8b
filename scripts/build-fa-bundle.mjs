@@ -126,8 +126,11 @@ js = js.replace(
 // 5) Inject fa digit helpers + faFill before arFill
 // faDigs must NOT rewrite digits inside HTML/SVG tags (viewBox, x, y, …)
 // or HTML entities (&#39; → otherwise becomes &#۳۹; and shows literally).
+// Also leave digits in http(s)/mailto URLs Western — share links like
+// https://1in8b.ir/fa/s/d-1990-66… break if ages/years become ۰-۹.
 const FA_DIGS =
-  'const faDigs0=e=>String(e).split(/(&(?:#(?:x[0-9a-fA-F]+|\\d+)|[a-zA-Z]+);)/).map((p,i)=>i%2?p:p.replace(/(\\d)\\.(\\d)/g,"$1٫$2").replace(/[0-9]/g,d=>"۰۱۲۳۴۵۶۷۸۹"[d]).replace(/%/g,"٪")).join("");' +
+  'const faDigsTxt=e=>String(e).split(/(https?:\\/\\/[^\\s<>"\']+|mailto:[^\\s<>"\']+)/gi).map((p,i)=>i%2?p:p.replace(/(\\d)\\.(\\d)/g,"$1٫$2").replace(/[0-9]/g,d=>"۰۱۲۳۴۵۶۷۸۹"[d]).replace(/%/g,"٪")).join("");' +
+  'const faDigs0=e=>String(e).split(/(&(?:#(?:x[0-9a-fA-F]+|\\d+)|[a-zA-Z]+);)/).map((p,i)=>i%2?p:faDigsTxt(p)).join("");' +
   'const faDigs=e=>{e=String(e);return e.indexOf("<")<0&&e.indexOf("&")<0?faDigs0(e):e.replace(/(<[^>]*>)|(&(?:#(?:x[0-9a-fA-F]+|\\d+)|[a-zA-Z]+);)|([^<&]+)/g,(m,tag,ent,txt)=>tag||ent||faDigs0(txt||""))};';
 // Isolate Latin runs so English leftovers / names keep LTR punctuation in RTL UI.
 // CRITICAL: split HTML tags FIRST. Never split on existing LRI before tag
