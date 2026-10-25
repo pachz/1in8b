@@ -1,0 +1,67 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": "public",
+  "installCommand": "echo 'skip install (no production deps)'",
+  "functions": {
+    "api/[...path].mjs": {
+      "includeFiles": "{data/api-seed.json,package.json}",
+      "maxDuration": 10
+    },
+    "api/umami.js": {
+      "maxDuration": 5
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/m/:path*",
+      "destination": "/:lang/index.html"
+    },
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/pass/:path*",
+      "destination": "/:lang/index.html"
+    },
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/keep/:path*",
+      "destination": "/:lang/index.html"
+    },
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/s/:path*",
+      "destination": "/:lang/index.html"
+    },
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/h/:path*",
+      "destination": "/:lang/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/a/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/fonts/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/labw.(.*).js",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}
