@@ -75,13 +75,30 @@ function resolveStatic(urlPath) {
   if (clean.includes("\0") || clean.includes("..")) return null;
   if (clean.endsWith("/")) clean += "index.html";
 
-  const candidate = path.join(PUBLIC, clean);
-  if (!candidate.startsWith(PUBLIC)) return null;
-  if (fs.existsSync(candidate) && fs.statSync(candidate).isFile()) {
-    return candidate;
+  const tryFile = (rel) => {
+    const candidate = path.join(PUBLIC, rel);
+    if (!candidate.startsWith(PUBLIC)) return null;
+    if (fs.existsSync(candidate) && fs.statSync(candidate).isFile()) {
+      return candidate;
+    }
+    return null;
+  };
+
+  let hit = tryFile(clean);
+  if (hit) return hit;
+
+  // /en/c/ind → en/c/ind/index.html or en/c/ind.html (country detail pages)
+  if (!clean.endsWith(".html") && !clean.endsWith(".json") && !clean.endsWith(".js")) {
+    hit = tryFile(clean + "/index.html") || tryFile(clean + ".html");
+    if (hit) return hit;
   }
 
   // Language SPA routes: /en/m/:id, /en/about already on disk, etc.
+  // Do not SPA-fallback country list/detail HTML paths when missing — 404 instead of home.
+  if (/^\/[a-z]{2}(?:-hans)?\/c(?:\/|$)/i.test(clean)) {
+    return null;
+  }
+
   const m = clean.match(/^\/([a-z]{2}(?:-hans)?)\/(?:m\/|pass\/|keep\/)?/i);
   if (m) {
     const shell = spaShell(m[1]);

@@ -40,12 +40,39 @@ HTML_REPLACEMENTS = [
      "مردم زندگی‌هایی را که اینجا زیسته‌اند و آنچه حس کرده‌اند به اشتراک می‌گذارند. بدون نام، بدون راه تماس. فقط خود زندگی‌ها می‌مانند."),
     ("The world you are born into", "دنیایی که در آن متولد می‌شوید"),
     ("The past", "گذشته"),
-    ("Today", "امروز"),
+    # Do not replace bare "Today" here — it mangles "Today's" in longer copy.
+    # Button label is applied later as a whole-word/context-safe pass.
     ("The future", "آینده"),
     ("Any world", "هر دوره"),
     ("Year of birth", "سال تولد"),
     ("Live a whole life in today's world. Today's statistics hold to the end.",
      "یک زندگی کامل را در دنیای امروز زندگی کنید. آمار امروز تا پایان برقرار می‌ماند."),
+    ("The first picks a country by its number of births each year, the second by its population. Either way, life starts at age 0.",
+     "اولی کشور را بر اساس شمار تولدهای سالانه انتخاب می‌کند، دومی بر اساس جمعیت. در هر دو حالت، زندگی از سن ۰ آغاز می‌شود."),
+    ("The time it takes to live to that country’s life expectancy. At 1 hour, a year passes in about 40–60 seconds. You can pause or speed up while you live.",
+     "زمانی که برای رسیدن به امید به زندگی آن کشور لازم است. در حالت ۱ ساعت، هر سال حدود ۴۰ تا ۶۰ ثانیه می‌گذرد. هنگام زندگی می‌توانید مکث کنید یا سرعت را بالا ببرید."),
+    ("If you choose one, the life you live here is compared with the country you were really born in. It’s saved only on this device.",
+     "اگر یکی را انتخاب کنید، زندگی‌ای که اینجا می‌زیید با کشوری که واقعاً در آن متولد شده‌اید مقایسه می‌شود. فقط روی همین دستگاه ذخیره می‌شود."),
+    ("Hard things such as death, violence and suicide happen here at their real rates. No scene is shown, and where to find help comes with them.",
+     "چیزهای سخت مثل مرگ، خشونت و خودکشی اینجا با نرخ واقعی‌شان رخ می‌دهند. صحنه‌ای نشان داده نمی‌شود و همراهشان جای کمک آمده است."),
+    ("For your 10 most recent lives, press 'See again' to reopen the death record and the share card.",
+     "برای ۱۰ زندگی اخیرتان، «دوباره ببین» را بزنید تا پروندهٔ مرگ و کارت اشتراک دوباره باز شود."),
+    ("A deleted life cannot be brought back. A life placed in a memorial stays in the memorial.",
+     "زندگی حذف‌شده بازنمی‌گردد. زندگی‌ای که در یادبود گذاشته شده در یادبود می‌ماند."),
+    ("In the same second you are born, other babies are born all over the world. Four of them live out their lives by the same statistics, shown alongside yours. No one chose where to be born.",
+     "در همان ثانیه‌ای که شما متولد می‌شوید، نوزادان دیگری در سراسر جهان به دنیا می‌آیند. چهار نفر از آن‌ها با همان آمار زندگی‌شان را پیش می‌برند و کنار زندگی شما نشان داده می‌شوند. هیچ‌کس محل تولدش را انتخاب نکرده است."),
+    ("At 5, 15, 30, 50 and 70, time stops and asks you one question. Think about this person’s life and your own together, and leave a line if you like. At the end, you can say a few words to this person.",
+     "در ۵، ۱۵، ۳۰، ۵۰ و ۷۰ سالگی زمان می‌ایستد و یک پرسش می‌پرسد. دربارهٔ زندگی این شخص و زندگی خودتان با هم فکر کنید و اگر خواستید خطی بنویسید. در پایان می‌توانید چند کلمه به این شخص بگویید."),
+    ("For 172 countries: births, life expectancy by sex, infant and under-5 mortality, GDP per person (PPP), income inequality, years of schooling, university enrollment, employment in agriculture, fertility rate, maternal mortality, HIV, homicide rate, smoking rate, out-of-pocket health costs, child marriage rate and life satisfaction. The age at death comes from each country’s life tables by sex, and causes of death follow the patterns of the WHO Global Health Estimates by region and age.",
+     "برای ۱۷۲ کشور: تولدها، امید به زندگی بر اساس جنس، مرگ‌ومیر نوزادان و زیر ۵ سال، تولید ناخالص داخلی سرانه (PPP)، نابرابری درآمد، سال‌های تحصیل، ثبت‌نام دانشگاه، اشتغال در کشاورزی، نرخ باروری، مرگ مادران، HIV، نرخ قتل، نرخ مصرف دخانیات، هزینه‌های درمانی از جیب، نرخ ازدواج کودکان و رضایت از زندگی. سن مرگ از جدول‌های عمر هر کشور بر اساس جنس می‌آید و علل مرگ از الگوهای برآورد سلامت جهانی سازمان بهداشت جهانی بر اساس منطقه و سن پیروی می‌کند."),
+    ("If making decisions feels like too much, start a life and turn on 'Auto mode' in the bar at the top (the ⋯ menu on phones) to simply watch. You pick a focus for each year and make choices when decisions come up about school, work, love, moving abroad or medical care. Choices change a life, but it is hard to fully escape the statistics of the place you were born. Today’s world is calculated with today’s statistics, a past world with that year’s, and the coming world with UN and other projections. Income comes from the country’s income distribution (based on the Gini index), and amounts are shown in purchasing-power (PPP) dollars and in US terms, as they would feel at US prices. Suicide also happens from the teenage years on, as often as the real statistics say, without showing how or why.",
+     "اگر تصمیم‌گرفتن زیاد به نظرتان سخت است، یک زندگی را شروع کنید و در نوار بالا «حالت خودکار» را روشن کنید (در موبایل از منوی ⋯) تا فقط تماشا کنید. برای هر سال یک تمرکز برمی‌گزینید و وقتی پای مدرسه، کار، عشق، مهاجرت یا درمان در میان است تصمیم می‌گیرید. انتخاب‌ها زندگی را عوض می‌کنند، اما گریختن کامل از آمار جایی که متولد شده‌اید دشوار است. دنیای امروز با آمار امروز محاسبه می‌شود، دنیای گذشته با آمار همان سال، و دنیای آینده با پیش‌بینی‌های سازمان ملل و دیگران. درآمد از توزیع درآمد کشور (بر پایهٔ شاخص جینی) می‌آید و مبالغ به دلار قدرت خرید (PPP) و به مقیاس آمریکا نشان داده می‌شوند، انگار در قیمت‌های آمریکا حس می‌شوند. خودکشی نیز از نوجوانی به بعد، به اندازهٔ آمار واقعی، رخ می‌دهد؛ بدون نشان‌دادن چگونگی یا چرایی."),
+    ("Death, illness, war, poverty, drinking and gambling, drug dependence, violence at home, sexual violence and suicide happen here as often as the real statistics say, never shown in detail and always with where to find help, and a past world tells of real history such as wars and mass killings. It is made for ages 15 and up.",
+     "مرگ، بیماری، جنگ، فقر، نوشیدن و قمار، وابستگی به مواد، خشونت خانگی، خشونت جنسی و خودکشی اینجا به اندازهٔ آمار واقعی رخ می‌دهند، هرگز با جزئیات نشان داده نمی‌شوند و همیشه همراه با جای کمک هستند؛ و دنیای گذشته از تاریخ واقعی مثل جنگ‌ها و کشتارهای جمعی می‌گوید. برای سنین ۱۵ سال به بالا ساخته شده است."),
+    ("A life simulation the operator makes with AI (Claude); the numbers are public statistics from the UN, the World Bank and others.",
+     "شبیه‌سازی زندگی‌ای که سازنده با هوش مصنوعی (Claude) می‌سازد؛ اعداد آمار عمومی سازمان ملل، بانک جهانی و دیگران است."),
+    ('Teaching a class? Use <a href="?edu=1">Open in classroom mode</a>: heavier themes are held back, and posting and payments are off.',
+     'در کلاس درس می‌دهید؟ از <a href="?edu=1">باز کردن در حالت کلاس</a> استفاده کنید: مضامین سنگین کمتر می‌شوند و انتشار و پرداخت‌ها خاموش‌اند.'),
     ("How your country is drawn", "چگونه کشورتان انتخاب می‌شود"),
     ("Choosing your birthplace", "انتخاب زادگاه شما"),
     ("Babies born now", "نوزادانِ همین حالا"),
@@ -62,6 +89,15 @@ HTML_REPLACEMENTS = [
     ("Be born", "متولد شو"),
     ("Leave out frightening scenes", "صحنه‌های ترسناک را حذف کن"),
     ("Memorials", "یادبودها"),
+    ("My memorials", "یادبودهای من"),
+    ("Show more past lives", "نمایش زندگی‌های پیشین بیشتر"),
+    ("Tidy up the records", "مرتب‌سازی پرونده‌ها"),
+    ("Delete all", "حذف همه"),
+    ("People in this simulation", "افراد این شبیه‌سازی"),
+    ("Where they live now", "کجا الان زندگی می‌کنند"),
+    ("A pause", "یک مکث"),
+    ("What comes from real data", "آنچه از دادهٔ واقعی می‌آید"),
+    (">Today<", ">امروز<"),
     ("Lives that someone lived to the end and wanted to keep. Anyone can stop by, light a candle and leave a word.",
      "زندگی‌هایی که کسی تا پایان زیست و خواست نگه دارد. هرکسی می‌تواند سر بزند، شمعی روشن کند و کلمه‌ای بگذارد."),
     ("Visit the memorials", "بازدید از یادبودها"),
@@ -81,6 +117,57 @@ HTML_REPLACEMENTS = [
     ("Language", "زبان"),
     ("Right now, about four babies are born every second. You become one of them and live that one life all the way to its end. Where you are born, and to whom, you don’t get to choose. Just as you didn’t.",
      "همین حالا، حدود چهار نوزاد در هر ثانیه متولد می‌شوند. شما یکی از آن‌ها می‌شوید و همان یک زندگی را تا پایانش می‌زیید. کجا و در چه خانواده‌ای به دنیا بیایید، انتخاب شما نیست. همان‌طور که نبود."),
+    # Play screen chrome (static HTML; not covered by I18N alone)
+    ("Newest first · <span class=\"sth\">tap a line for ☆</span>", "جدیدترین اول · <span class=\"sth\">برای ☆ روی یک خط بزن</span>"),
+    ("Share of those born the same year still alive", "سهم کسانی که همان سال متولد شدند و هنوز زنده‌اند"),
+    ("Change it anytime", "هر وقت خواستی عوض کن"),
+    ("This year’s focus", "تمرکز امسال"),
+    ("This year's focus", "تمرکز امسال"),
+    ("Born in the same second", "متولد همان ثانیه"),
+    ("At this same age", "در همین سن"),
+    ("Family and life", "خانواده و زندگی"),
+    ("Life record", "کارنامهٔ زندگی"),
+    ("Life map", "نقشهٔ زندگی"),
+    ("Survival curve", "منحنی بقا"),
+    ("1 square = 1 year", "هر مربع = ۱ سال"),
+    ("Spend &amp; invest", "خرج و سرمایه‌گذاری"),
+    ("Spend & invest", "خرج و سرمایه‌گذاری"),
+    ("What do these mean?", "این‌ها یعنی چه؟"),
+    ("Light or dark", "روشن یا تاریک"),
+    ("Show earlier lines", "نمایش خطوط قبلی"),
+    ("A decision is waiting", "یک تصمیم در انتظار است"),
+    ("Open it again", "دوباره بازش کن"),
+    ("Back to top", "بازگشت به بالا"),
+    ("Waiting decision", "تصمیم در انتظار"),
+    ("This life right now", "این زندگی همین حالا"),
+    ("Measures and this year's focus", "شاخص‌ها و تمرکز امسال"),
+    ("Measures and this year’s focus", "شاخص‌ها و تمرکز امسال"),
+    ("Music volume", "بلندی موسیقی"),
+    ("Calm background music", "موسیقی پس‌زمینهٔ آرام"),
+    ("Let decisions be made for you and just watch", "بگذار تصمیم‌ها برایت گرفته شوند و فقط تماشا کن"),
+    ("Pause at 5, 15, 30, 50 and 70 to write down a thought", "در ۵، ۱۵، ۳۰، ۵۰ و ۷۰ مکث کن تا فکری بنویسی"),
+    ("Keeps frightening scenes such as suicide, sexual violence, drugs and violence from happening", "جلوی رخ‌دادن صحنه‌های ترسناک مثل خودکشی، خشونت جنسی، مواد و خشونت را می‌گیرد"),
+    ("Affects the risk of dying and whether you can keep working. Exercise, checkups and looking after yourself raise it; age lowers it.", "بر خطر مرگ و امکان ادامهٔ کار اثر دارد. ورزش، معاینه و مراقبت از خود آن را بالا می‌برد؛ سن پایینش می‌آورد."),
+    ("How satisfied you are with life. Income, family and friends, health and debt all affect it.", "میزان رضایت از زندگی. درآمد، خانواده و دوستان، سلامت و بدهی همه بر آن اثر دارند."),
+    ("Affects entrance exams, job offers and your starting pay. Your family's means and your country's schools matter more, and above about 70 more of it makes little difference.", "بر آزمون‌های ورودی، پیشنهاد کار و حقوق اولیه اثر دارد. وضع خانواده و مدارس کشور مهم‌ترند و بالای حدود ۷۰ تأثیر کمی دارد."),
+    ("Your bonds with family and friends. They affect marriage and its crises, talks with your children, the chance of being bullied at school, and loneliness in old age.", "پیوند با خانواده و دوستان. بر ازدواج و بحران‌هایش، گفتگو با فرزندان، احتمال اذیت در مدرسه و تنهایی در پیری اثر دارد."),
+    ("Higher numbers raise the odds; they never decide the outcome. As in real life, luck and circumstances play their part too.", "اعداد بالاتر شانس را بالا می‌برند؛ هرگز نتیجه را قطعی نمی‌کنند. مثل زندگی واقعی، شانس و شرایط هم نقش دارند."),
+    ("Auto mode", "حالت خودکار"),
+    ("Next decision", "تصمیم بعدی"),
+    ("♪ Music", "♪ موسیقی"),
+    ("✎ Pauses", "✎ مکث‌ها"),
+    ("<b>Health</b>", "<b>سلامت</b>"),
+    ("<b>Happiness</b>", "<b>شادی</b>"),
+    ("<b>Knowledge</b>", "<b>دانش</b>"),
+    ("<b>Relationships</b>", "<b>روابط</b>"),
+    (">Status<", ">وضعیت<"),
+    (">Focus<", ">تمرکز<"),
+    (">Spend<", ">خرج<"),
+    (">Exit<", ">خروج<"),
+    (">Next<", ">بعدی<"),
+    (">More<", ">بیشتر<"),
+    ("aria-label=\"Next decision\"", "aria-label=\"تصمیم بعدی\""),
+    ("aria-label=\"More\"", "aria-label=\"بیشتر\""),
 ]
 
 
@@ -90,13 +177,45 @@ html[lang="fa"] {
   --f-body: "Vazirmatn", "IBM Plex Sans Arabic", system-ui, Tahoma, sans-serif;
   --f-mono: "IBM Plex Mono", "Vazirmatn", ui-monospace, Menlo, monospace;
 }
-html[lang="fa"] body { line-height: 1.85; }
+html[lang="fa"] body { line-height: 1.85; font-family: var(--f-body) !important; word-break: normal !important; letter-spacing: 0 !important; }
 html[lang="fa"] body * { word-break: normal !important; letter-spacing: 0 !important; font-style: normal !important; }
 html[lang="fa"] .hero h1 { font-size: clamp(48px, 8vw, 120px); line-height: 1.2; font-weight: 700; }
 html[lang="fa"] .stat { grid-template-columns: 7em minmax(0, 1fr) 2.4em; }
 html[lang="fa"] .orow { grid-template-columns: 10em 1fr 3.6em; }
 html[lang="fa"] .feed .f::before { content: "داده "; }
 html[lang="fa"] .speed .ffsh { display: none; }
+/* Static pages hardcode Hahmlet / IBM Plex Sans KR — force Vazirmatn */
+html[lang="fa"] body,
+html[lang="fa"] button,
+html[lang="fa"] input,
+html[lang="fa"] select,
+html[lang="fa"] textarea {
+  font-family: "Vazirmatn", "IBM Plex Sans Arabic", Tahoma, system-ui, sans-serif !important;
+}
+html[lang="fa"] h1,
+html[lang="fa"] h2,
+html[lang="fa"] .brand,
+html[lang="fa"] .st b,
+html[lang="fa"] .go,
+html[lang="fa"] .btn,
+html[lang="fa"] th,
+html[lang="fa"] td,
+html[lang="fa"] .lead,
+html[lang="fa"] .kicker,
+html[lang="fa"] .cta,
+html[lang="fa"] footer {
+  font-family: "Vazirmatn", "IBM Plex Sans Arabic", Tahoma, system-ui, sans-serif !important;
+  letter-spacing: 0 !important;
+}
+html[lang="fa"] h1,
+html[lang="fa"] h2,
+html[lang="fa"] .brand,
+html[lang="fa"] .st b { font-weight: 700; line-height: 1.45; }
+html[lang="fa"] th,
+html[lang="fa"] td { text-align: left; }
+html[lang="fa"] th:first-child,
+html[lang="fa"] td:first-child { text-align: right; }
+html[lang="fa"] .cta { border-left: 1px solid var(--rule); border-right: 3px solid var(--accent); }
 """
 
 
