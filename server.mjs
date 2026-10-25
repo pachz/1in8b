@@ -235,5 +235,5 @@ const server = http.createServer(async (req, res) => {
 });
 
 server.listen(PORT, () => {
-  console.log(`1 in 8 Billion → http://localhost:${PORT}/en/`);
+  console.log(`1 in 8 Billion → http://localhost:${PORT}/fa/`);
 });
