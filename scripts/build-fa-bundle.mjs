@@ -142,7 +142,9 @@ const FA_DIGS =
 // only a trailing group after [A-Za-z]+, which split Béatrice → Bé|atrice and
 // flipped the two LRI isolates in RTL to atriceBé.
 const FA_LAT = String.raw`[A-Za-z\u00c0-\u024f]+(?:[\u0027\u2019\-][A-Za-z\u00c0-\u024f]+)*(?:[0-9]+)*(?:&(?:#(?:x[0-9a-fA-F]+|\d+)|[a-zA-Z]+);)*`;
-const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;if(/[A-Za-z\u00c0-\u024f]/.test(e)){const w=s=>{if(!s||!/[A-Za-z\u00c0-\u024f]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z\u00c0-\u024f]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/${FA_LAT}(?:\s+${FA_LAT})*/g,m=>"\u2066"+m+"\u2069")}).join("")};e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""))}return typeof arBidi=="function"?arBidi(e):e}`;
+// Never put LRI/PDI inside URLs — they percent-encode as %E2%81%A6/%E2%81%A9 and
+// break share links (arBidi also wraps "-75" as a signed number inside paths).
+const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;const U=/(https?:\/\/[^\s<>"']+|mailto:[^\s<>"']+)/gi,strip=u=>u.replace(/[\u2066-\u2069\u200e\u200f\u202a-\u202e]/g,""),parts=s=>s.split(U),lat=s=>{if(!s||!/[A-Za-z\u00c0-\u024f]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z\u00c0-\u024f]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/${FA_LAT}(?:\s+${FA_LAT})*/g,m=>"\u2066"+m+"\u2069")}).join("")},w=s=>parts(s).map((p,i)=>i%2?strip(p):lat(p)).join("");if(/[A-Za-z\u00c0-\u024f]/.test(e))e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""));if(typeof arBidi=="function")e=parts(e).map((p,i)=>i%2?strip(p):arBidi(p)).join("");return e}`;
 if (!js.includes("function faFill")) {
   const faFill =
     FA_DIGS +
