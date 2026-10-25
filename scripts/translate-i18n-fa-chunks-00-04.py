@@ -51,13 +51,26 @@ def translate_batch_smart(texts: list[str]) -> list[str]:
     return translate_batch_smart(texts[:mid]) + translate_batch_smart(texts[mid:])
 
 
+def write_out(out_path: Path, data: dict) -> None:
+    tmp = out_path.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(data, ensure_ascii=False))
+    tmp.replace(out_path)
+
+
 def translate_chunk(path: Path) -> None:
     out_path = batch.OUT_DIR / path.name
     done: dict = {}
     if out_path.exists():
         done = json.loads(out_path.read_text())
     src = json.loads(path.read_text())
-    pending_keys = [k for k in src if k not in done]
+    for k, v in src.items():
+        if k not in done:
+            done[k] = v
+    pending_keys = [
+        k
+        for k in src
+        if done[k] == src[k] and batch.needs_translation(src[k])
+    ]
     print(f"{path.name}: {len(done)} done, {len(pending_keys)} pending", flush=True)
 
     batch_keys: list[str] = []
@@ -72,7 +85,7 @@ def translate_chunk(path: Path) -> None:
         fa_vals = translate_batch_smart(batch_vals)
         for k, en, fa in zip(batch_keys, en_vals, fa_vals):
             done[k] = batch.post_process(fa, en)
-        out_path.write_text(json.dumps(done, ensure_ascii=False))
+        write_out(out_path, done)
         print(f"  {path.name} +{len(batch_keys)} (total {len(done)})", flush=True)
         batch_keys = []
         batch_vals = []
@@ -88,7 +101,7 @@ def translate_chunk(path: Path) -> None:
             flush_batch()
             fa = batch.translate_one(v)
             done[k] = batch.post_process(fa, v)
-            out_path.write_text(json.dumps(done, ensure_ascii=False))
+            write_out(out_path, done)
             time.sleep(0.25)
             continue
         add_len = len(v) + len(batch.SEP)
@@ -105,7 +118,7 @@ def translate_chunk(path: Path) -> None:
     for k, v in src.items():
         if k not in done:
             done[k] = v
-    out_path.write_text(json.dumps(done, ensure_ascii=False))
+    write_out(out_path, done)
     print(f"{path.name}: complete {len(done)}", flush=True)
 
 

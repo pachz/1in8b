@@ -25,6 +25,7 @@ MAX_SINGLE = 2000
 PH = re.compile(
     r"(\{\d+\}|\{\@\w+\}|\{\{[^}]+\}\}|\\n|\\t|%\d+\$[sd]|\{[a-zA-Z_]+\})"
 )
+AR = re.compile(r"[\u0600-\u06FF]")
 
 EXACT_OVERRIDES = {
     "Be born": "متولد شو",
@@ -100,8 +101,10 @@ def translate_batch(texts: list[str]) -> list[str]:
             return [restore(parts[i], all_slots[i]) for i in range(len(texts))]
         except Exception as e:
             if attempt == 2:
-                print(f"  batch fail ({len(texts)}): {e}", flush=True)
-                return [translate_one(t) for t in texts]
+                if len(texts) > 1:
+                    mid = len(texts) // 2
+                    return translate_batch(texts[:mid]) + translate_batch(texts[mid:])
+                return [translate_one(texts[0])]
             time.sleep(1.5 * (attempt + 1))
 
 
@@ -129,7 +132,14 @@ def translate_chunk(path: Path):
     if out_path.exists():
         done = json.loads(out_path.read_text())
     src = json.loads(path.read_text())
-    pending_keys = [k for k in src if k not in done]
+
+    def is_fa(k: str) -> bool:
+        v = done.get(k, "")
+        if not needs_translation(src[k]):
+            return True
+        return bool(AR.search(str(v)))
+
+    pending_keys = [k for k in src if not is_fa(k)]
     print(f"{path.name}: {len(done)} done, {len(pending_keys)} pending", flush=True)
 
     batch_keys: list[str] = []
@@ -182,15 +192,43 @@ def translate_chunk(path: Path):
     print(f"{path.name}: complete {len(done)}", flush=True)
 
 
+def merge():
+    base = {}
+    for p in sorted(IN_DIR.glob("*.json")):
+        base.update(json.loads(p.read_text()))
+    for p in sorted(OUT_DIR.glob("*.json")):
+        part = json.loads(p.read_text())
+        for k, v in part.items():
+            if AR.search(str(v)) or not needs_translation(v):
+                base[k] = v
+    ov_path = ROOT / "data" / "fa-overrides.json"
+    if ov_path.exists():
+        ov = json.loads(ov_path.read_text())
+        by_val = {}
+        for k, v in base.items():
+            by_val.setdefault(v, []).append(k)
+        for a, b in ov.items():
+            if a in base:
+                base[a] = b
+            for k in by_val.get(a, []):
+                base[k] = b
+    key_ov = ROOT / "data" / "fa-key-overrides.json"
+    if key_ov.exists():
+        for k, v in json.loads(key_ov.read_text()).items():
+            base[k] = v
+    out = ROOT / "data" / "i18n_fa.json"
+    out.write_text(json.dumps(base, ensure_ascii=False))
+    pers = sum(1 for v in base.values() if AR.search(str(v)))
+    print(
+        "merged %d keys, %d persian (%.1f%%)" % (len(base), pers, 100 * pers / len(base)),
+        flush=True,
+    )
+
+
 def main():
     for p in sorted(IN_DIR.glob("*.json")):
         translate_chunk(p)
-    merged = {}
-    for p in sorted(OUT_DIR.glob("*.json")):
-        merged.update(json.loads(p.read_text()))
-    out = ROOT / "data" / "i18n_fa.json"
-    out.write_text(json.dumps(merged, ensure_ascii=False))
-    print("merged", len(merged), flush=True)
+    merge()
 
 
 if __name__ == "__main__":

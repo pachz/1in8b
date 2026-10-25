@@ -19,6 +19,12 @@ for k,v in list(base.items()):
 for a,b in ov.items():
   if a in base: base[a]=b
   for k in by_val.get(a, []): base[k]=b
+# Direct I18N key → FA (birth card, story, religions, …)
+key_ov_path=Path('data/fa-key-overrides.json')
+if key_ov_path.exists():
+  for k,v in json.loads(key_ov_path.read_text()).items():
+    base[k]=v
+  print('applied', len(json.loads(key_ov_path.read_text())), 'key overrides')
 Path('data/i18n_fa.json').write_text(json.dumps(base, ensure_ascii=False))
 pers=sum(1 for v in base.values() if re.search(r'[\u0600-\u06FF]', str(v)))
 print(f'persian {pers}/{len(base)} ({100*pers/len(base):.1f}%)')

@@ -99,12 +99,29 @@ if (!js.includes('fa:{loc:')) {
 }
 
 // 4) L0: treat fa like ar for fill (gender/bidi helpers), fall through placeholders
-if (!js.includes('LANG==="fa"')) {
+if (!js.includes('LANG==="fa")return curFix(faFill')) {
   js = js.replace(
     'if(LANG==="ar")return curFix(arFill(t,a));',
     'if(LANG==="ar")return curFix(arFill(t,a));if(LANG==="fa")return curFix(faFill(t,a));',
   );
 }
+
+// 4b) Persian month names in birthStory (and anywhere the ar month chain is used)
+if (!js.includes("monthFa=")) {
+  js = js.replace(
+    "monthEn=",
+    'monthFa=e=>["ژانویه","فوریه","مارس","آوریل","مه","ژوئن","ژوئیه","اوت","سپتامبر","اکتبر","نوامبر","دسامبر"][(+e||1)-1]||String(e),monthEn=',
+  );
+}
+js = js.replace(
+  'LANG==="ar"?monthAr(S.bm):S.bm}',
+  'LANG==="ar"?monthAr(S.bm):LANG==="fa"?monthFa(S.bm):S.bm}',
+);
+// Prefer FA months over English even though west:1
+js = js.replace(
+  "L_WEST?monthEn(S.bm):",
+  'LANG==="fa"?monthFa(S.bm):L_WEST?monthEn(S.bm):',
+);
 
 // 5) Inject faFill before arFill (simple placeholder + light cleanup)
 if (!js.includes("function faFill")) {
@@ -138,13 +155,34 @@ if (js.includes("faCurFix") && !js.includes("faCurFix=")) {
   );
 }
 
-// 8) LAB_W — reuse English lab worker for now
+// 8) Card canvas fonts — Vazirmatn for Persian (UI already loads it; Korean Hahmlet has no FA glyphs)
+if (!js.includes('LANG==="fa"?{d:"Vazirmatn')) {
+  js = js.replace(
+    'CF=LANG==="ar"?',
+    'CF=LANG==="fa"?{d:"Vazirmatn, \'IBM Plex Sans Arabic\', Tahoma, sans-serif",b:"Vazirmatn, \'IBM Plex Sans Arabic\', system-ui, Tahoma, sans-serif",m:"\'IBM Plex Mono\', Vazirmatn, ui-monospace, monospace"}:LANG==="ar"?',
+  );
+}
+if (!js.includes('LANG==="fa"?["700 72px Vazirmatn"')) {
+  js = js.replace(
+    'L_RTL?["700 60px \'IBM Plex Sans Arabic\'","600 30px \'IBM Plex Sans Arabic\'","400 30px \'IBM Plex Sans Arabic\'"]',
+    'LANG==="fa"?["700 72px Vazirmatn","600 32px Vazirmatn","400 30px Vazirmatn","500 30px Vazirmatn"]:L_RTL?["700 60px \'IBM Plex Sans Arabic\'","600 30px \'IBM Plex Sans Arabic\'","400 30px \'IBM Plex Sans Arabic\'"]',
+  );
+}
+// Bust birth/death card cache when site URL / branding changes
+if (!js.includes('CONFIG.siteUrl||"")+"|"+S.name.full')) {
+  js = js.replace(
+    'const a=e+"|"+S.name.full+"|"+S.born+"|"+(S.deathAt?S.deathAt.age:"")+"|"+(S.farewell||',
+    'const a=e+"|"+(CONFIG.siteUrl||"")+"|"+S.name.full+"|"+S.born+"|"+(S.deathAt?S.deathAt.age:"")+"|"+(S.farewell||',
+  );
+}
+
+// 9) LAB_W — reuse English lab worker for now
 js = js.replace(
   /LAB_W="\/labw\.en\.[^"]+\.js"/,
   'LAB_W="/labw.en.f9c2d141a4.js"',
 );
 
-// 9) Persian country names via COUNTRY_T + apply for fa
+// 10) Persian country names via COUNTRY_T + apply for fa
 const countryFaPath = path.join(ROOT, "data/country-fa.json");
 if (fs.existsSync(countryFaPath)) {
   const countryFa = JSON.parse(fs.readFileSync(countryFaPath, "utf8"));

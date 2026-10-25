@@ -193,8 +193,8 @@ def transform_to_fa(html: str) -> str:
 
     # Canonical / hreflang
     html = re.sub(
-        r'href="https://1in8b\.life/en/"',
-        'href="https://1in8b.life/fa/"',
+        r'href="https://1in8b\.(?:life|ir)/en/"',
+        'href="https://1in8b.ir/fa/"',
         html,
     )
     html = html.replace('hreflang="en" href="/en/"', 'hreflang="fa" href="/fa/"')
