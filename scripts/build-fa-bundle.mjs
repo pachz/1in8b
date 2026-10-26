@@ -340,6 +340,13 @@ js = js.replace(
   'LANG==="ar"||LANG==="fa"?a+"، "+e:',
 );
 
+// listAnd: FA was falling through to Korean space-join → "والدین شما برادران…"
+// Persian wants spaced " و " (Arabic's no-space-after-و glues: "و۲").
+js = js.replace(
+  'LANG==="ar"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+(/^[\\u0600-\\u06ff\\d]/.test(String(e[e.length-1]))?" و":" و ")+e[e.length-1]:LANG==="th"',
+  'LANG==="fa"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+" و "+e[e.length-1]:LANG==="ar"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+(/^[\\u0600-\\u06ff\\d]/.test(String(e[e.length-1]))?" و":" و ")+e[e.length-1]:LANG==="th"',
+);
+
 // Default Latin pet names → Persian script
 js = js.replace(
   '_:["Max","Luna","Bella","Coco","Milo","Charlie"]',
