@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sign in · 1 in 8 Billion</title>
+<meta name="description" content="Sign in to 1 in 8 Billion with email or phone OTP.">
+<link rel="canonical" href="https://1in8b.ir/en/login/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#8C1D3C">
+<link rel="stylesheet" href="/fonts/vazirmatn.css">
+<link rel="stylesheet" href="/login.css">
+</head>
+<body>
+  <main class="wrap">
+    <h1 class="brand">1 in 8 Billion</h1>
+    <p class="lede">Sign in with email or phone. We’ll send a one-time code, then unlock Keep on this device.</p>
+
+    <div class="seg" role="tablist" aria-label="Sign-in method">
+      <button type="button" data-channel="phone" aria-pressed="true">Phone</button>
+      <button type="button" data-channel="email" aria-pressed="false">Email</button>
+    </div>
+
+    <section id="startPanel" class="panel on">
+      <form id="startForm">
+        <div class="field">
+          <label id="identLabel" for="ident">Phone number</label>
+          <input id="ident" name="ident" autocomplete="tel" inputmode="tel" required>
+        </div>
+        <div class="row">
+          <button class="primary" type="submit">Send code</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="codePanel" class="panel">
+      <form id="codeForm">
+        <div class="field">
+          <label for="code">5-digit code</label>
+          <input id="code" name="code" inputmode="numeric" autocomplete="one-time-code" maxlength="5" required>
+        </div>
+        <div class="row">
+          <button class="primary" type="submit">Verify &amp; sign in</button>
+          <button class="ghost" type="button" id="backBtn">Back</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="donePanel" class="panel">
+      <p>You’re signed in. Your Keep token is saved in this browser.</p>
+      <div class="row">
+        <button class="primary" type="button" id="homeBtn">Continue to the game</button>
+      </div>
+    </section>
+
+    <p class="msg" id="msg" role="status"></p>
+    <p class="foot"><a href="/en/">Back to home</a> · <a href="/fa/login/">فارسی</a></p>
+  </main>
+
+  <script>
+    window.__LOGIN_COPY__ = {
+      homeHref: "/en/",
+      defaultChannel: "email",
+      phoneLabel: "Phone number",
+      emailLabel: "Email",
+      phonePlaceholder: "+98… or 09…",
+      emailPlaceholder: "you@example.com",
+      sending: "Sending code…",
+      verifying: "Verifying…",
+      codeSent: "Code sent. Enter it below.",
+      done: "Signed in.",
+      error: "Something went wrong.",
+      why: {
+        email: "Enter a valid email.",
+        phone: "Enter a valid phone number.",
+        channel: "Invalid sign-in method.",
+        rate: "Please wait a moment before requesting another code.",
+        send: "Could not send the code. Try again later.",
+        code: "That code is incorrect.",
+        expired: "Code expired. Request a new one.",
+        attempts: "Too many attempts. Request a new code.",
+        gone: "This challenge is no longer valid.",
+        devices: "Too many active devices on this Keep pass.",
+        cfg: "Sign-in is not configured yet.",
+        off: "Code delivery is unavailable.",
+        busy: "Server is temporarily unavailable.",
+        net: "Network error."
+      }
+    };
+  </script>
+  <script src="/login.js"></script>
+</body>
+</html>

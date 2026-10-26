@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>ورود · ۱ در ۸ میلیارد</title>
+<meta name="description" content="ورود با ایمیل یا شماره موبایل و کد یک‌بارمصرف به ۱ در ۸ میلیارد.">
+<link rel="canonical" href="https://1in8b.ir/fa/login/">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta name="theme-color" content="#8C1D3C">
+<link rel="stylesheet" href="/fonts/vazirmatn.css">
+<link rel="stylesheet" href="/login.css">
+</head>
+<body>
+  <main class="wrap">
+    <h1 class="brand">۱ در ۸ میلیارد</h1>
+    <p class="lede">با ایمیل یا شماره موبایل وارد شوید. کد تأیید برایتان فرستاده می‌شود و دسترسی «نگه‌داشتن» روی این دستگاه فعال می‌گردد.</p>
+
+    <div class="seg" role="tablist" aria-label="روش ورود">
+      <button type="button" data-channel="phone" aria-pressed="true">موبایل</button>
+      <button type="button" data-channel="email" aria-pressed="false">ایمیل</button>
+    </div>
+
+    <section id="startPanel" class="panel on">
+      <form id="startForm">
+        <div class="field">
+          <label id="identLabel" for="ident">شماره موبایل</label>
+          <input id="ident" name="ident" autocomplete="tel" inputmode="tel" required>
+        </div>
+        <div class="row">
+          <button class="primary" type="submit">ارسال کد</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="codePanel" class="panel">
+      <form id="codeForm">
+        <div class="field">
+          <label for="code">کد ۵ رقمی</label>
+          <input id="code" name="code" inputmode="numeric" autocomplete="one-time-code" maxlength="5" required>
+        </div>
+        <div class="row">
+          <button class="primary" type="submit">تأیید و ورود</button>
+          <button class="ghost" type="button" id="backBtn">بازگشت</button>
+        </div>
+      </form>
+    </section>
+
+    <section id="donePanel" class="panel">
+      <p>وارد شدید. توکن نگه‌داشتن روی این مرورگر ذخیره شد.</p>
+      <div class="row">
+        <button class="primary" type="button" id="homeBtn">ادامه به بازی</button>
+      </div>
+    </section>
+
+    <p class="msg" id="msg" role="status"></p>
+    <p class="foot"><a href="/fa/">بازگشت به صفحهٔ اصلی</a> · <a href="/en/login/">English</a></p>
+  </main>
+
+  <script>
+    window.__LOGIN_COPY__ = {
+      homeHref: "/fa/",
+      defaultChannel: "phone",
+      phoneLabel: "شماره موبایل",
+      emailLabel: "ایمیل",
+      phonePlaceholder: "0912… یا +98…",
+      emailPlaceholder: "you@example.com",
+      sending: "در حال ارسال کد…",
+      verifying: "در حال بررسی…",
+      codeSent: "کد ارسال شد. آن را وارد کنید.",
+      done: "ورود موفق بود.",
+      error: "مشکلی پیش آمد.",
+      why: {
+        email: "ایمیل معتبر نیست.",
+        phone: "شماره موبایل معتبر نیست.",
+        channel: "روش ورود نامعتبر است.",
+        rate: "کمی صبر کنید و دوباره بفرستید.",
+        send: "ارسال کد ممکن نشد. بعداً دوباره امتحان کنید.",
+        code: "کد نادرست است.",
+        expired: "کد منقضی شده. دوباره ارسال کنید.",
+        attempts: "تعداد تلاش‌ها تمام شد. دوباره ارسال کنید.",
+        gone: "این درخواست دیگر معتبر نیست.",
+        devices: "تعداد دستگاه‌های فعال پر است.",
+        cfg: "ورود هنوز پیکربندی نشده.",
+        off: "ارسال کد در دسترس نیست.",
+        busy: "سرور موقتاً در دسترس نیست.",
+        net: "ارتباط برقرار نشد."
+      }
+    };
+  </script>
+  <script src="/login.js"></script>
+</body>
+</html>

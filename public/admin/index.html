@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Admin · 1in8b</title>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<style>
+  :root {
+    --bg: #0f1418;
+    --panel: #171e24;
+    --ink: #e6eef0;
+    --muted: #8a9aa0;
+    --line: #2a353c;
+    --accent: #3db8c4;
+    --bad: #e07070;
+    --ok: #6cbc8a;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    --sans: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink); font: 14px/1.45 var(--sans); }
+  a { color: var(--accent); }
+  .wrap { max-width: 1200px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 22px; margin: 0 0 6px; font-weight: 650; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+  label { display: block; color: var(--muted); font-size: 12px; margin-bottom: 6px; }
+  input[type="password"], input[type="text"], select {
+    width: min(360px, 100%);
+    background: #0c1115;
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font: inherit;
+  }
+  button {
+    border: 0;
+    border-radius: 8px;
+    padding: 10px 14px;
+    font: inherit;
+    font-weight: 600;
+    cursor: pointer;
+    background: var(--accent);
+    color: #062126;
+  }
+  button.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+  button:disabled { opacity: .5; cursor: not-allowed; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 12px; }
+  .msg { margin-top: 12px; min-height: 1.2em; color: var(--muted); }
+  .msg.bad { color: var(--bad); }
+  .msg.ok { color: var(--ok); }
+  .hidden { display: none !important; }
+  .tables { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; margin-top: 12px; }
+  .tables button {
+    text-align: left;
+    background: #0c1115;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .tables button.active { border-color: var(--accent); }
+  .tables .n { color: var(--muted); font-family: var(--mono); font-size: 12px; }
+  .toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 16px 0 10px; }
+  .toolbar .meta { color: var(--muted); font-family: var(--mono); font-size: 12px; }
+  .scroll { overflow: auto; border: 1px solid var(--line); border-radius: 8px; max-height: 70vh; }
+  table { border-collapse: collapse; width: 100%; font-size: 12px; }
+  th, td { border-bottom: 1px solid var(--line); padding: 6px 8px; text-align: left; vertical-align: top; white-space: nowrap; max-width: 320px; overflow: hidden; text-overflow: ellipsis; }
+  th { position: sticky; top: 0; background: #12181d; color: var(--muted); font-weight: 600; z-index: 1; }
+  td.trunc { color: var(--accent); cursor: help; white-space: normal; }
+  pre.preview {
+    margin: 0;
+    white-space: pre-wrap;
+    word-break: break-word;
+    font-family: var(--mono);
+    font-size: 11px;
+    max-height: 160px;
+    overflow: auto;
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>1in8b admin</h1>
+    <p class="sub">Turso table browser. Protected by <code>ADMIN_PASSWORD</code>.</p>
+
+    <section id="loginView" class="card">
+      <form id="loginForm">
+        <label for="password">Password</label>
+        <input id="password" type="password" autocomplete="current-password" required>
+        <div class="row">
+          <button type="submit">Sign in</button>
+        </div>
+      </form>
+      <p class="msg" id="loginMsg" role="status"></p>
+    </section>
+
+    <section id="appView" class="hidden">
+      <div class="row" style="margin-bottom:16px">
+        <button type="button" class="ghost" id="refreshBtn">Refresh overview</button>
+        <button type="button" class="ghost" id="logoutBtn">Log out</button>
+      </div>
+
+      <div class="card">
+        <strong>Tables</strong>
+        <div class="tables" id="tableList"></div>
+        <p class="msg" id="overviewMsg" role="status"></p>
+      </div>
+
+      <div class="toolbar">
+        <strong id="tableTitle">Select a table</strong>
+        <span class="meta" id="tableMeta"></span>
+        <button type="button" class="ghost" id="prevBtn" disabled>Prev</button>
+        <button type="button" class="ghost" id="nextBtn" disabled>Next</button>
+      </div>
+      <div class="scroll" id="gridWrap">
+        <table>
+          <thead id="thead"></thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+      <p class="msg" id="tableMsg" role="status"></p>
+    </section>
+  </div>
+
+<script>
+(() => {
+  const TOKEN_KEY = "one8b.admin.token";
+  const LIMIT = 100;
+  let token = "";
+  let currentTable = "";
+  let offset = 0;
+  let total = 0;
+
+  const $ = (id) => document.getElementById(id);
+  const loginView = $("loginView");
+  const appView = $("appView");
+
+  function setMsg(el, text, kind) {
+    el.textContent = text || "";
+    el.classList.toggle("bad", kind === "bad");
+    el.classList.toggle("ok", kind === "ok");
+  }
+
+  function loadToken() {
+    try { return localStorage.getItem(TOKEN_KEY) || ""; } catch { return ""; }
+  }
+  function saveToken(t) {
+    token = t || "";
+    try {
+      if (t) localStorage.setItem(TOKEN_KEY, t);
+      else localStorage.removeItem(TOKEN_KEY);
+    } catch { /* ignore */ }
+  }
+
+  async function post(path, body) {
+    const res = await fetch(path, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body),
+    });
+    return res.json();
+  }
+
+  function showApp(on) {
+    loginView.classList.toggle("hidden", on);
+    appView.classList.toggle("hidden", !on);
+  }
+
+  function cellHtml(v) {
+    if (v == null) return "<span style='color:var(--muted)'>null</span>";
+    if (typeof v === "object" && v._trunc) {
+      const title = `Full length: ${v.len}`;
+      return `<td class="trunc" title="${title}"><pre class="preview">${escapeHtml(v.preview)}…\n[${v.len} chars]</pre></td>`;
+    }
+    const s = typeof v === "object" ? JSON.stringify(v) : String(v);
+    return `<td title="${escapeAttr(s)}">${escapeHtml(s)}</td>`;
+  }
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+  }
+  function escapeAttr(s) {
+    return escapeHtml(s).replace(/"/g, "&quot;");
+  }
+
+  async function loadOverview() {
+    setMsg($("overviewMsg"), "Loading…");
+    const data = await post("/api/admin/overview", { token });
+    if (!data.ok) {
+      if (data.why === "auth" || data.why === "off") {
+        saveToken("");
+        showApp(false);
+        setMsg($("loginMsg"), data.why === "off" ? "Admin is disabled (set ADMIN_PASSWORD)." : "Session expired.", "bad");
+        return;
+      }
+      setMsg($("overviewMsg"), data.why || "Failed", "bad");
+      return;
+    }
+    const list = $("tableList");
+    list.innerHTML = "";
+    for (const t of data.tables || []) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.dataset.table = t.name;
+      if (t.name === currentTable) btn.classList.add("active");
+      btn.innerHTML = `<span>${escapeHtml(t.name)}</span><span class="n">${t.count == null ? "—" : t.count}</span>`;
+      btn.addEventListener("click", () => openTable(t.name, 0));
+      list.appendChild(btn);
+    }
+    setMsg($("overviewMsg"), `${(data.tables || []).length} tables`, "ok");
+  }
+
+  async function openTable(name, nextOffset) {
+    currentTable = name;
+    offset = nextOffset;
+    $("tableTitle").textContent = name;
+    setMsg($("tableMsg"), "Loading…");
+    document.querySelectorAll(".tables button").forEach((b) => {
+      b.classList.toggle("active", b.dataset.table === name);
+    });
+    const data = await post("/api/admin/table", {
+      token,
+      table: name,
+      limit: LIMIT,
+      offset,
+    });
+    if (!data.ok) {
+      setMsg($("tableMsg"), data.why || "Failed", "bad");
+      return;
+    }
+    total = data.total || 0;
+    $("tableMeta").textContent = `${offset + 1}–${Math.min(offset + (data.rows || []).length, total)} / ${total}`;
+    $("prevBtn").disabled = offset <= 0;
+    $("nextBtn").disabled = offset + LIMIT >= total;
+
+    const thead = $("thead");
+    const tbody = $("tbody");
+    thead.innerHTML = "<tr>" + (data.columns || []).map((c) => `<th>${escapeHtml(c)}</th>`).join("") + "</tr>";
+    tbody.innerHTML = (data.rows || [])
+      .map((row) => "<tr>" + (data.columns || []).map((c) => cellHtml(row[c])).join("") + "</tr>")
+      .join("");
+    setMsg($("tableMsg"), `${(data.rows || []).length} rows`, "ok");
+  }
+
+  $("loginForm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    setMsg($("loginMsg"), "Signing in…");
+    try {
+      const data = await post("/api/admin/login", { password: $("password").value });
+      if (!data.ok) {
+        setMsg($("loginMsg"), ({
+          auth: "Wrong password.",
+          off: "Admin disabled — set ADMIN_PASSWORD.",
+          busy: "Database unavailable.",
+        })[data.why] || data.why || "Failed", "bad");
+        return;
+      }
+      saveToken(data.token);
+      $("password").value = "";
+      showApp(true);
+      await loadOverview();
+    } catch {
+      setMsg($("loginMsg"), "Network error.", "bad");
+    }
+  });
+
+  $("refreshBtn").addEventListener("click", () => loadOverview());
+  $("logoutBtn").addEventListener("click", () => {
+    saveToken("");
+    currentTable = "";
+    showApp(false);
+    setMsg($("loginMsg"), "Logged out.", "ok");
+  });
+  $("prevBtn").addEventListener("click", () => {
+    if (currentTable) openTable(currentTable, Math.max(0, offset - LIMIT));
+  });
+  $("nextBtn").addEventListener("click", () => {
+    if (currentTable) openTable(currentTable, offset + LIMIT);
+  });
+
+  token = loadToken();
+  if (token) {
+    showApp(true);
+    loadOverview().catch(() => {
+      saveToken("");
+      showApp(false);
+    });
+  }
+})();
+</script>
+</body>
+</html>
