@@ -145,17 +145,29 @@ const FA_LAT = String.raw`[A-Za-z\u00c0-\u024f]+(?:[\u0027\u2019\-][A-Za-z\u00c0
 // Never put LRI/PDI inside URLs — they percent-encode as %E2%81%A6/%E2%81%A9 and
 // break share links (arBidi also wraps "-75" as a signed number inside paths).
 const FA_BIDI = String.raw`function faBidi(e){if(!e||typeof e!="string")return e;const U=/(https?:\/\/[^\s<>"']+|mailto:[^\s<>"']+)/gi,strip=u=>u.replace(/[\u2066-\u2069\u200e\u200f\u202a-\u202e]/g,""),parts=s=>s.split(U),lat=s=>{if(!s||!/[A-Za-z\u00c0-\u024f]/.test(s))return s;return s.split(/(\u2066[^\u2069]*\u2069)/).map((p,i)=>{if(i%2||!/[A-Za-z\u00c0-\u024f]/.test(p))return p;if(!AR_ANY.test(p))return"\u2066"+p+"\u2069";return p.replace(/${FA_LAT}(?:\s+${FA_LAT})*/g,m=>"\u2066"+m+"\u2069")}).join("")},w=s=>parts(s).map((p,i)=>i%2?strip(p):lat(p)).join("");if(/[A-Za-z\u00c0-\u024f]/.test(e))e=e.indexOf("<")<0?w(e):e.replace(/(<[^>]*>)|([^<]+)/g,(m,tag,txt)=>tag||w(txt||""));if(typeof arBidi=="function")e=parts(e).map((p,i)=>i%2?strip(p):arBidi(p)).join("");return e}`;
+// After a number, Persian uses the singular countable noun (۸ نوه، نه ۸ نوه‌ها).
+const FA_FIX =
+  'const FA_ONE={"نوه‌ها":"نوه","نتیجه‌ها":"نتیجه","نبیره‌ها":"نبیره","نبیره‌نبیره‌ها":"نبیره‌نبیره","فرزندان":"فرزند","کودکان":"کودک","بچه‌ها":"بچه","نوزادان":"نوزاد","عکس‌ها":"عکس","سال‌ها":"سال","کشورها":"کشور","جان‌ها":"جان","دانشجویان":"دانشجو","شهرها":"شهر","خانه‌ها":"خانه","شغل‌ها":"شغل","دوستان":"دوست","برادرها":"برادر","خواهرها":"خواهر","پسران":"پسر","دختران":"دختر","هفته‌ها":"هفته","ماه‌ها":"ماه","روزها":"روز","ساعت‌ها":"ساعت","دقیقه‌ها":"دقیقه","ثانیه‌ها":"ثانیه","بارها":"بار","دفعات":"دفعه","نفرها":"نفر","نفرات":"نفر","زندگی‌ها":"زندگی","تصمیم‌ها":"تصمیم","کتاب‌ها":"کتاب","پیام‌ها":"پیام","نامه‌ها":"نامه","شمع‌ها":"شمع","اتاق‌ها":"اتاق","یادبودها":"یادبود","درخت‌ها":"درخت","درختان":"درخت","سگ‌ها":"سگ","گربه‌ها":"گربه","حیوانات":"حیوان","امتیازها":"امتیاز","نقطه‌ها":"نقطه","نقاط":"نقطه"};' +
+  'const FA_ONE_RE=new RegExp("(^|[^\\\\d۰-۹])([\\\\d۰-۹]+(?:[.,٫٬][\\\\d۰-۹]+)?)(\\\\s*)("+Object.keys(FA_ONE).sort((a,b)=>b.length-a.length).join("|")+")(?=$|[^\\\\u0600-\\\\u06FF‌])","g");' +
+  'function faFix(e){return!/[۰-۹0-9]/.test(e)?e:e.replace(FA_ONE_RE,(m,pre,num,sp,noun)=>pre+num+sp+(FA_ONE[noun]||noun))}';
 if (!js.includes("function faFill")) {
   const faFill =
     FA_DIGS +
     FA_BIDI +
-    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(t))} ';
+    FA_FIX +
+    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(faFix(t)))} ';
   js = js.replace("function arFill(", faFill + "function arFill(");
 } else if (!js.includes("faDigs=")) {
-  js = js.replace("function faFill", FA_DIGS + FA_BIDI + "function faFill");
+  js = js.replace("function faFill", FA_DIGS + FA_BIDI + FA_FIX + "function faFill");
   js = js.replace(
     "function faFill(e,a){if(!e)return e;e.indexOf(\"\\u2060\")>=0&&(e=e.replace(/\\u2060/g,\"\"));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return t}",
-    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(t))}',
+    'function faFill(e,a){if(!e)return e;e.indexOf("\\u2060")>=0&&(e=e.replace(/\\u2060/g,""));const t=a.length?e.replace(/\\{(\\d+)\\}/g,(n,r)=>String(a[+r])):e;return faBidi(faDigs(faFix(t)))}',
+  );
+} else if (!js.includes("function faFix")) {
+  js = js.replace("function faFill", FA_FIX + "function faFill");
+  js = js.replace(
+    "return faBidi(faDigs(t))",
+    "return faBidi(faDigs(faFix(t)))",
   );
 }
 
