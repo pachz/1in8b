@@ -1953,11 +1953,10 @@ html.endin body > :not(.ending) { visibility: hidden; }
 .gr-near { margin: 2px 0 10px; font-size: 12.5px; color: var(--ink3); line-height: 1.5; }
 .gr-say { margin: -4px 0 10px; font-size: 13.5px; line-height: 1.55; word-break: keep-all; }
 .gr-rows { list-style: none; margin: 0; padding: 0; display: grid; gap: 9px; }
-.gr-rows li { display: grid; grid-template-columns: minmax(0, 6.5em) minmax(56px, 1fr) minmax(0, 6.5em); align-items: center; gap: 2px 8px; font-size: 13px; }
+.gr-rows li { direction: ltr; display: grid; grid-template-columns: minmax(0, 6.5em) minmax(56px, 1fr) minmax(0, 6.5em); align-items: center; gap: 2px 8px; font-size: 13px; }
 .gr-rows li small { grid-column: 1 / -1; margin: 0; text-align: center; font-size: 11.5px; color: var(--ink3); }
 .gr-w { overflow-wrap: anywhere; line-height: 1.3; }
 .gr-rows li .gr-w:first-child { text-align: right; }
-:where(html[dir="rtl"]) .gr-rows li .gr-w:first-child { text-align: left; }
 .gr-t { position: relative; height: 6px; margin: 0 6px; border-radius: 3px; background: var(--rule); }
 .gr-t::after { content: ''; position: absolute; left: 50%; top: -3px; bottom: -3px; width: 1px; background: var(--ink3); opacity: .45; }
 .gr-t i { position: absolute; top: 50%; width: 12px; height: 12px; margin: -6px 0 0 -6px; border-radius: 50%; background: var(--stamp); box-shadow: 0 0 0 2px var(--card); }
