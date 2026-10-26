@@ -5,12 +5,9 @@
   "outputDirectory": "public",
   "installCommand": "npm install --omit=dev --ignore-scripts",
   "functions": {
-    "api/[...path].mjs": {
-      "includeFiles": "{data/api-seed.json,package.json}",
-      "maxDuration": 10
-    },
-    "api/umami.js": {
-      "maxDuration": 5
+    "api/**/*.js": {
+      "includeFiles": "{data/api-seed.json,package.json,lib/**}",
+      "maxDuration": 15
     }
   },
   "rewrites": [
