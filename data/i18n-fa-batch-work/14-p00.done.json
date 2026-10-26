@@ -1,102 +1,502 @@
 [
-  {"k": "13ku7dw4udz", "en": "After me, lives in a group home, as we settled beforehand.", "fa": "پس از من، همان‌طور که از پیش توافق کرده بودیم، در یک خانهٔ گروهی زندگی می‌کند."},
-  {"k": "9ktgb3kpqv", "en": "After me, lives with relatives, as we settled beforehand.", "fa": "پس از من، همان‌طور که از پیش توافق کرده بودیم، نزد خویشاوندان زندگی می‌کند."},
-  {"k": "4pnf15qujq", "en": "We were close.", "fa": "به هم نزدیک بودیم."},
-  {"k": "2ct44s9eam2", "en": "We got along well enough.", "fa": "به اندازهٔ کافی با هم کنار آمدیم."},
-  {"k": "wblns5hgwf", "en": "We were distant.", "fa": "از هم دور بودیم."},
-  {"k": "1ul557f6xzv", "en": "Former spouse's child", "fa": "فرزند همسر سابق"},
-  {"k": "1tv5r2azj7l", "en": "Spouse's child", "fa": "فرزند همسر"},
-  {"k": "2g3egy4cydx", "en": "Adopted daughter", "fa": "دختر فرزندخوانده"},
-  {"k": "x4ag9038y6", "en": "Adopted son", "fa": "پسر فرزندخوانده"},
-  {"k": "1xnac6nh6e0", "en": "Daughter{0}", "fa": "دختر{0}"},
-  {"k": "1khwxf3sr8q", "en": "Son{0}", "fa": "پسر{0}"},
-  {"k": "e92yxfpay1", "en": "Child placed for adoption", "fa": "کودکی که برای فرزندخواندگی سپرده شد"},
-  {"k": "z79jt46d9l", "en": "We met again once they were grown.", "fa": "وقتی بزرگ شد دوباره یکدیگر را دیدیم."},
-  {"k": "ne5862lhaw", "en": "You never heard of them again after the adoption.", "fa": "پس از فرزندخواندگی دیگر هیچ خبری از آنها نشنیدید."},
-  {"k": "8squm2cs3p", "en": "The children's lives", "fa": "زندگی فرزندان"},
-  {"k": "1gjg8mssfam", "en": "As they were the year I died", "fa": "همان‌طور که در سالی که من مردم بودند"},
-  {"k": "wpjineax48", "en": "died at {0} · {1}", "fa": "در {0} درگذشت · {1}"},
-  {"k": "1ui247v6289", "en": "died at {0}", "fa": "در {0} درگذشت"},
-  {"k": "12b2f5t54ks", "en": "retired {0}", "fa": "بازنشسته {0}"},
-  {"k": "169coz1epzh", "en": "<span class=\"gone\">Not living with you</span>", "fa": "<span class=\"gone\">با شما زندگی نمی‌کند</span>"},
-  {"k": "28cvbkh8o9x", "en": "<span class=\"gone\">Died at {0}</span>", "fa": "<span class=\"gone\">در {0} درگذشت</span>"},
-  {"k": "1h7q0g1mms6", "en": "Mother{0}", "fa": "مادر{0}"},
-  {"k": "1ybrbdimkmg", "en": "Father{0}", "fa": "پدر{0}"},
-  {"k": "12er8y7vqvr", "en": "Birth mother", "fa": "مادر زایید"},
-  {"k": "1kla8whrezl", "en": "Stepfather{0}", "fa": "ناپدری{0}"},
-  {"k": "1stj3ylem09", "en": "{0} passed away", "fa": "{0} درگذشت"},
-  {"k": "1ga4dzuwzhs", "en": "{0} · {1} passed away", "fa": "{0} · {1} درگذشتند"},
-  {"k": "9104dtb47o", "en": "all passed away", "fa": "همه درگذشتند"},
-  {"k": "agcbthwyns", "en": "all have left home", "fa": "همه خانه را ترک کرده‌اند"},
-  {"k": "jsf7v8nbt2", "en": "{0} have left home", "fa": "{0} خانه را ترک کرده‌اند"},
-  {"k": "1yonojgztwz", "en": "{0} in prison", "fa": "{0} در زندان"},
-  {"k": "h3smsjashd", "en": "Raised by", "fa": "بزرگ‌شده به دست"},
-  {"k": "22t83xn7nne", "en": "with your cousins", "fa": "نزد پسرعموها و دخترعموهایتان"},
-  {"k": "pcdhiq6wl4", "en": "{0} · {1} · age {2}", "fa": "{0} · {1} · سن {2}"},
-  {"k": "hj0wifpn3q", "en": "{0} · age {1}", "fa": "{0} · سن {1}"},
-  {"k": "1xddmmavrgw", "en": "Separated spouse", "fa": "همسر جدا شده"},
-  {"k": "2dhscwzpc70", "en": "Former partner", "fa": "شریک سابق"},
-  {"k": "z1zcrdntz6", "en": "Late spouse", "fa": "همسر درگذشته"},
-  {"k": "mno5nk4no5", "en": "Late partner", "fa": "شریک درگذشته"},
-  {"k": "1w7232sjurb", "en": "{0} years together", "fa": "{0} سال با هم"},
-  {"k": "10ra68u1w90", "en": "Second wife", "fa": "همسر دوم"},
-  {"k": "2bzrqizyqou", "en": "Husband's other wife", "fa": "همسر دیگر شوهر"},
-  {"k": "v78wb1a0vh", "en": " · children: {0}", "fa": " · فرزندان: {0}"},
-  {"k": "mfw5xued2y", "en": " · lives apart", "fa": " · جدا زندگی می‌کند"},
-  {"k": "oi9mryx4m9", "en": "A match in talks", "fa": "گزینه‌ای در گفت‌وگو"},
-  {"k": "16qiv5mv4qx", "en": "Dating", "fa": "آشنایی"},
-  {"k": "1u1voaikj5t", "en": "father {0}", "fa": "پدر {0}"},
-  {"k": "1faiwe885xk", "en": "mother {0}", "fa": "مادر {0}"},
-  {"k": "2f416ugdlmi", "en": " · adopted", "fa": " · فرزندخوانده"},
-  {"k": "1zeyaprcey6", "en": " · your former spouse's child", "fa": " · فرزند همسر سابق شما"},
-  {"k": "1q4v63gz7qs", "en": " · your spouse's child", "fa": " · فرزند همسر شما"},
-  {"k": "2a9mqv8d73c", "en": " · private school", "fa": " · مدرسهٔ خصوصی"},
-  {"k": "e8kilsgq08", "en": "no longer in touch", "fa": "دیگر در تماس نیستید"},
-  {"k": "c2s7pdbe8v", "en": "Friends", "fa": "دوستان"},
-  {"k": "25hbtxqi9io", "en": "<span class=\"gone\">All your old friends have passed away</span>", "fa": "<span class=\"gone\">همهٔ دوستان قدیمی‌تان درگذشته‌اند</span>"},
-  {"k": "bxhbhy3irt", "en": "One old friend back home", "fa": "یک دوست قدیمی در زادگاه"},
-  {"k": "i44zvqbo6o", "en": "{0} old friends back home", "fa": "{0} دوست قدیمی در زادگاه"},
-  {"k": "2elmj6scrms", "en": "One old friend left", "fa": "یک دوست قدیمی باقی مانده"},
-  {"k": "1gt4gbt8sld", "en": "{0} old friends left", "fa": "{0} دوست قدیمی باقی مانده"},
-  {"k": "1zlhy5yy7jf", "en": "{0} · ages {1}", "fa": "{0} · سن {1}"},
-  {"k": "23p3fz2ltjo", "en": "{0} · ages {1}–{2}", "fa": "{0} · سن {1}–{2}"},
-  {"k": "12nskc3oqca", "en": "{0} who died young", "fa": "{0} که جوان مردند"},
-  {"k": "1gbf2c26010", "en": "Habits", "fa": "عادت‌ها"},
-  {"k": "lzv9diig28", "en": "Smoking", "fa": "سیگار"},
-  {"k": "25o36tb6zc1", "en": " (untreated)", "fa": " (درمان‌نشده)"},
-  {"k": "3jpi8hxeor", "en": "Conditions", "fa": "بیماری‌ها"},
-  {"k": "18g64hutz8l", "en": "<span style=\"color:var(--ink3);font-size:13.5px\">Still a baby, being raised by your parents. Early moments add up and temperament settles by about five; from six you can choose the focus of each year. Feel free to skip this stretch at 8×.</span>", "fa": "<span style=\"color:var(--ink3);font-size:13.5px\">هنوز نوزاد است و والدین شما او را بزرگ می‌کنند. لحظات اول جمع می‌شوند و تا حدود پنج سالگی مزاج شکل می‌گیرد؛ از شش سالگی می‌توانید تمرکز هر سال را انتخاب کنید. در سرعت ۸× می‌توانید این بخش را رد کنید.</span>"},
-  {"k": "1wqjef5sia", "en": "Spend & invest", "fa": "خرج و سرمایه‌گذاری"},
-  {"k": "ydwq2p49qe", "en": "Tap a chip below to choose what this year goes into. If you leave it, it is chosen for you.", "fa": "یکی از گزینه‌های زیر را بزنید تا مشخص کنید این سال به چه می‌رود. اگر کاری نکنید، به‌جای شما انتخاب می‌شود."},
-  {"k": "g7jpancsew", "en": "Keep knowledge · Happiness↓", "fa": "حفظ دانش · شادی↓"},
-  {"k": "i19gff1fzx", "en": "Keep knowledge · Job offers↑", "fa": "حفظ دانش · پیشنهاد کار↑"},
-  {"k": "19m4oh3q3ey", "en": "Keep knowledge and memory", "fa": "حفظ دانش و حافظه"},
-  {"k": "13baf9iluuh", "en": "Keep knowledge", "fa": "حفظ دانش"},
-  {"k": "lw1giifxhw", "en": "Knowledge↑ Happiness slightly↓", "fa": "دانش↑ شادی کمی↓"},
-  {"k": "1k5n1cckqi4", "en": "While decisions are on auto, the focus of each year is chosen for you too. Tap a chip and from then on you choose it yourself.", "fa": "وقتی تصمیم‌ها روی خودکار است، تمرکز هر سال هم برایتان انتخاب می‌شود. یک گزینه بزنید؛ از آن پس خودتان انتخاب می‌کنید."},
-  {"k": "bojs6iddk4", "en": "<span class=\"a\">Age {0}</span><span class=\"x\">{1}{2}{3}{4}</span>", "fa": "<span class=\"a\">سن {0}</span><span class=\"x\">{1}{2}{3}{4}</span>"},
-  {"k": "kvnlaszanc", "en": "★ A moment to remember", "fa": "★ لحظه‌ای برای یادماندن"},
-  {"k": "2e47qi8era2", "en": "☆ A moment to remember", "fa": "☆ لحظه‌ای برای یادماندن"},
-  {"k": "1olrr2vd2be", "en": "Moments to remember", "fa": "لحظات برای یادماندن"},
-  {"k": "mzk0glqcun", "en": "<p class=\"sts-lead\">You can star up to {0} moments. Let one go and the star goes to the moment you just chose.</p>", "fa": "<p class=\"sts-lead\">می‌توانید تا {0} لحظه را ستاره‌دار کنید. یکی را رها کنید و ستاره به لحظه‌ای می‌رود که تازه انتخاب کردید.</p>"},
-  {"k": "1kxnu3vgwwk", "en": "Remove star", "fa": "برداشتن ستاره"},
-  {"k": "1cy9y42v7o7", "en": "The star has moved.", "fa": "ستاره جابه‌جا شد."},
-  {"k": "28iptcs3xqu", "en": "Show earlier lines", "fa": "نمایش خطوط قبلی"},
-  {"k": "opadaqpzqp", "en": "Show only the latest", "fa": "فقط آخرین‌ها"},
-  {"k": "dl2o0w8w93", "en": "From the day you were born", "fa": "از روزی که به دنیا آمدید"},
-  {"k": "21x8yg6zci7", "en": "S", "fa": "S"},
-  {"k": "4f1uvtmjrq", "en": "W", "fa": "W"},
-  {"k": "1vlxakqf1jy", "en": "M", "fa": "M"},
-  {"k": "mw540h2j95", "en": "<span>1 square = 1 year · more vivid color = happier year</span><span>Outlined square = life expectancy for a {1} born in {0}: {2} years</span>", "fa": "<span>۱ مربع = ۱ سال · رنگ پررنگ‌تر = سال شادتر</span><span>مربع دورخط‌دار = امید زندگی برای {1} متولد {0}: {2} سال</span>"},
-  {"k": "1s0rolwddl", "en": "<span>(as of {0})</span>", "fa": "<span>(تا {0})</span>"},
-  {"k": "sxz51lrl6v", "en": "<text x=\"{0}\" y=\"{1}\" text-anchor=\"end\" font-size=\"10\" fill=\"var(--ink3)\">Age</text>", "fa": "<text x=\"{0}\" y=\"{1}\" text-anchor=\"end\" font-size=\"10\" fill=\"var(--ink3)\">سن</text>"},
-  {"k": "2j5za0d2kq", "en": "<text x=\"{0}\" y=\"{1}\" font-size=\"11\" fill=\"var(--ink)\" font-weight=\"600\">{2} alive</text>", "fa": "<text x=\"{0}\" y=\"{1}\" font-size=\"11\" fill=\"var(--ink)\" font-weight=\"600\">{2} زنده</text>"},
-  {"k": "5xcb2ei2lz", "en": "<span><i style=\"background:var(--stamp)\"></i>{0} · {1}</span>{2}<span><i style=\"background:var(--ink3)\"></i>World average</span>", "fa": "<span><i style=\"background:var(--stamp)\"></i>{0} · {1}</span>{2}<span><i style=\"background:var(--ink3)\"></i>میانگین جهان</span>"},
-  {"k": "9p6k2l8ct5", "en": "Births per year", "fa": "تولد در سال"},
-  {"k": "12dwussa661", "en": "Population", "fa": "جمعیت"},
-  {"k": "2g7mgsrn8j1", "en": "Life expectancy, women / men", "fa": "امید زندگی، زنان / مردان"},
-  {"k": "16h9ihewi3c", "en": "{0} / {1} years", "fa": "{0} / {1} سال"},
-  {"k": "1aylbgd47gc", "en": "Under-5 mortality", "fa": "مرگ‌ومیر زیر پنج سال"},
-  {"k": "1xo426m5w8c", "en": "{0} per 1,000", "fa": "{0} در هر ۱٬۰۰۰"},
-  {"k": "1ylg7cdoz24", "en": "Income Gini coefficient", "fa": "ضریب جینی درآمد"}
+  {
+    "k": "13ku7dw4udz",
+    "en": "After me, lives in a group home, as we settled beforehand.",
+    "fa": "پس از من، همان‌طور که از پیش توافق کرده بودیم، در یک خانهٔ گروهی زندگی می‌کند."
+  },
+  {
+    "k": "9ktgb3kpqv",
+    "en": "After me, lives with relatives, as we settled beforehand.",
+    "fa": "پس از من، همان‌طور که از پیش توافق کرده بودیم، نزد خویشاوندان زندگی می‌کند."
+  },
+  {
+    "k": "4pnf15qujq",
+    "en": "We were close.",
+    "fa": "به هم نزدیک بودیم."
+  },
+  {
+    "k": "2ct44s9eam2",
+    "en": "We got along well enough.",
+    "fa": "به اندازهٔ کافی با هم کنار آمدیم."
+  },
+  {
+    "k": "wblns5hgwf",
+    "en": "We were distant.",
+    "fa": "از هم دور بودیم."
+  },
+  {
+    "k": "1ul557f6xzv",
+    "en": "Former spouse's child",
+    "fa": "فرزند همسر سابق"
+  },
+  {
+    "k": "1tv5r2azj7l",
+    "en": "Spouse's child",
+    "fa": "فرزند همسر"
+  },
+  {
+    "k": "2g3egy4cydx",
+    "en": "Adopted daughter",
+    "fa": "دختر فرزندخوانده"
+  },
+  {
+    "k": "x4ag9038y6",
+    "en": "Adopted son",
+    "fa": "پسر فرزندخوانده"
+  },
+  {
+    "k": "1xnac6nh6e0",
+    "en": "Daughter{0}",
+    "fa": "دختر{0}"
+  },
+  {
+    "k": "1khwxf3sr8q",
+    "en": "Son{0}",
+    "fa": "پسر{0}"
+  },
+  {
+    "k": "e92yxfpay1",
+    "en": "Child placed for adoption",
+    "fa": "کودکی که برای فرزندخواندگی سپرده شد"
+  },
+  {
+    "k": "z79jt46d9l",
+    "en": "We met again once they were grown.",
+    "fa": "وقتی بزرگ شد دوباره یکدیگر را دیدیم."
+  },
+  {
+    "k": "ne5862lhaw",
+    "en": "You never heard of them again after the adoption.",
+    "fa": "پس از فرزندخواندگی دیگر هیچ خبری از آنها نشنیدید."
+  },
+  {
+    "k": "8squm2cs3p",
+    "en": "The children's lives",
+    "fa": "زندگی فرزندان"
+  },
+  {
+    "k": "1gjg8mssfam",
+    "en": "As they were the year I died",
+    "fa": "همان‌طور که در سالی که من مردم بودند"
+  },
+  {
+    "k": "wpjineax48",
+    "en": "died at {0} · {1}",
+    "fa": "در {0} درگذشت · {1}"
+  },
+  {
+    "k": "1ui247v6289",
+    "en": "died at {0}",
+    "fa": "در {0} درگذشت"
+  },
+  {
+    "k": "12b2f5t54ks",
+    "en": "retired {0}",
+    "fa": "بازنشسته {0}"
+  },
+  {
+    "k": "169coz1epzh",
+    "en": "<span class=\"gone\">Not living with you</span>",
+    "fa": "<span class=\"gone\">با شما زندگی نمی‌کند</span>"
+  },
+  {
+    "k": "28cvbkh8o9x",
+    "en": "<span class=\"gone\">Died at {0}</span>",
+    "fa": "<span class=\"gone\">در {0} درگذشت</span>"
+  },
+  {
+    "k": "1h7q0g1mms6",
+    "en": "Mother{0}",
+    "fa": "مادر{0}"
+  },
+  {
+    "k": "1ybrbdimkmg",
+    "en": "Father{0}",
+    "fa": "پدر{0}"
+  },
+  {
+    "k": "12er8y7vqvr",
+    "en": "Birth mother",
+    "fa": "مادر زایید"
+  },
+  {
+    "k": "1kla8whrezl",
+    "en": "Stepfather{0}",
+    "fa": "ناپدری{0}"
+  },
+  {
+    "k": "1stj3ylem09",
+    "en": "{0} passed away",
+    "fa": "{0} درگذشت"
+  },
+  {
+    "k": "1ga4dzuwzhs",
+    "en": "{0} · {1} passed away",
+    "fa": "{0} · {1} درگذشتند"
+  },
+  {
+    "k": "9104dtb47o",
+    "en": "all passed away",
+    "fa": "همه درگذشتند"
+  },
+  {
+    "k": "agcbthwyns",
+    "en": "all have left home",
+    "fa": "همه خانه را ترک کرده‌اند"
+  },
+  {
+    "k": "jsf7v8nbt2",
+    "en": "{0} have left home",
+    "fa": "{0} خانه را ترک کرده‌اند"
+  },
+  {
+    "k": "1yonojgztwz",
+    "en": "{0} in prison",
+    "fa": "{0} در زندان"
+  },
+  {
+    "k": "h3smsjashd",
+    "en": "Raised by",
+    "fa": "بزرگ‌شده به دست"
+  },
+  {
+    "k": "22t83xn7nne",
+    "en": "with your cousins",
+    "fa": "نزد پسرعموها و دخترعموهایتان"
+  },
+  {
+    "k": "pcdhiq6wl4",
+    "en": "{0} · {1} · age {2}",
+    "fa": "{0} · {1} · سن {2}"
+  },
+  {
+    "k": "hj0wifpn3q",
+    "en": "{0} · age {1}",
+    "fa": "{0} · سن {1}"
+  },
+  {
+    "k": "1xddmmavrgw",
+    "en": "Separated spouse",
+    "fa": "همسر جدا شده"
+  },
+  {
+    "k": "2dhscwzpc70",
+    "en": "Former partner",
+    "fa": "شریک سابق"
+  },
+  {
+    "k": "z1zcrdntz6",
+    "en": "Late spouse",
+    "fa": "همسر درگذشته"
+  },
+  {
+    "k": "mno5nk4no5",
+    "en": "Late partner",
+    "fa": "شریک درگذشته"
+  },
+  {
+    "k": "1w7232sjurb",
+    "en": "{0} years together",
+    "fa": "{0} سال با هم"
+  },
+  {
+    "k": "10ra68u1w90",
+    "en": "Second wife",
+    "fa": "همسر دوم"
+  },
+  {
+    "k": "2bzrqizyqou",
+    "en": "Husband's other wife",
+    "fa": "همسر دیگر شوهر"
+  },
+  {
+    "k": "v78wb1a0vh",
+    "en": " · children: {0}",
+    "fa": " · فرزندان: {0}"
+  },
+  {
+    "k": "mfw5xued2y",
+    "en": " · lives apart",
+    "fa": " · جدا زندگی می‌کند"
+  },
+  {
+    "k": "oi9mryx4m9",
+    "en": "A match in talks",
+    "fa": "گزینه‌ای در گفت‌وگو"
+  },
+  {
+    "k": "16qiv5mv4qx",
+    "en": "Dating",
+    "fa": "آشنایی"
+  },
+  {
+    "k": "1u1voaikj5t",
+    "en": "father {0}",
+    "fa": "پدر {0}"
+  },
+  {
+    "k": "1faiwe885xk",
+    "en": "mother {0}",
+    "fa": "مادر {0}"
+  },
+  {
+    "k": "2f416ugdlmi",
+    "en": " · adopted",
+    "fa": " · فرزندخوانده"
+  },
+  {
+    "k": "1zeyaprcey6",
+    "en": " · your former spouse's child",
+    "fa": " · فرزند همسر سابق شما"
+  },
+  {
+    "k": "1q4v63gz7qs",
+    "en": " · your spouse's child",
+    "fa": " · فرزند همسر شما"
+  },
+  {
+    "k": "2a9mqv8d73c",
+    "en": " · private school",
+    "fa": " · مدرسهٔ خصوصی"
+  },
+  {
+    "k": "e8kilsgq08",
+    "en": "no longer in touch",
+    "fa": "دیگر در تماس نیستید"
+  },
+  {
+    "k": "c2s7pdbe8v",
+    "en": "Friends",
+    "fa": "دوستان"
+  },
+  {
+    "k": "25hbtxqi9io",
+    "en": "<span class=\"gone\">All your old friends have passed away</span>",
+    "fa": "<span class=\"gone\">همهٔ دوستان قدیمی‌تان درگذشته‌اند</span>"
+  },
+  {
+    "k": "bxhbhy3irt",
+    "en": "One old friend back home",
+    "fa": "یک دوست قدیمی در زادگاه"
+  },
+  {
+    "k": "i44zvqbo6o",
+    "en": "{0} old friends back home",
+    "fa": "{0} دوست قدیمی در زادگاه"
+  },
+  {
+    "k": "2elmj6scrms",
+    "en": "One old friend left",
+    "fa": "یک دوست قدیمی باقی مانده"
+  },
+  {
+    "k": "1gt4gbt8sld",
+    "en": "{0} old friends left",
+    "fa": "{0} دوست قدیمی باقی مانده"
+  },
+  {
+    "k": "1zlhy5yy7jf",
+    "en": "{0} · ages {1}",
+    "fa": "{0} · سن {1}"
+  },
+  {
+    "k": "23p3fz2ltjo",
+    "en": "{0} · ages {1}–{2}",
+    "fa": "{0} · سن {1}–{2}"
+  },
+  {
+    "k": "12nskc3oqca",
+    "en": "{0} who died young",
+    "fa": "{0} که جوان مردند"
+  },
+  {
+    "k": "1gbf2c26010",
+    "en": "Habits",
+    "fa": "عادت‌ها"
+  },
+  {
+    "k": "lzv9diig28",
+    "en": "Smoking",
+    "fa": "سیگار"
+  },
+  {
+    "k": "25o36tb6zc1",
+    "en": " (untreated)",
+    "fa": " (درمان‌نشده)"
+  },
+  {
+    "k": "3jpi8hxeor",
+    "en": "Conditions",
+    "fa": "بیماری‌ها"
+  },
+  {
+    "k": "18g64hutz8l",
+    "en": "<span style=\"color:var(--ink3);font-size:13.5px\">Still a baby, being raised by your parents. Early moments add up and temperament settles by about five; from six you can choose the focus of each year. Feel free to skip this stretch at 8×.</span>",
+    "fa": "<span style=\"color:var(--ink3);font-size:13.5px\">هنوز نوزاد است و والدین شما او را بزرگ می‌کنند. لحظات اول جمع می‌شوند و تا حدود پنج سالگی مزاج شکل می‌گیرد؛ از شش سالگی می‌توانید تمرکز هر سال را انتخاب کنید. در سرعت ۸× می‌توانید این بخش را رد کنید.</span>"
+  },
+  {
+    "k": "1wqjef5sia",
+    "en": "Spend & invest",
+    "fa": "خرج و سرمایه‌گذاری"
+  },
+  {
+    "k": "ydwq2p49qe",
+    "en": "Tap a chip below to choose what this year goes into. If you leave it, it is chosen for you.",
+    "fa": "از گزینه‌های زیر، تمرکز امسال را انتخاب کنید. اگر انتخاب نکنید، برایتان انتخاب می‌شود."
+  },
+  {
+    "k": "g7jpancsew",
+    "en": "Keep knowledge · Happiness↓",
+    "fa": "حفظ دانش · شادی↓"
+  },
+  {
+    "k": "i19gff1fzx",
+    "en": "Keep knowledge · Job offers↑",
+    "fa": "حفظ دانش · پیشنهاد کار↑"
+  },
+  {
+    "k": "19m4oh3q3ey",
+    "en": "Keep knowledge and memory",
+    "fa": "حفظ دانش و حافظه"
+  },
+  {
+    "k": "13baf9iluuh",
+    "en": "Keep knowledge",
+    "fa": "حفظ دانش"
+  },
+  {
+    "k": "lw1giifxhw",
+    "en": "Knowledge↑ Happiness slightly↓",
+    "fa": "دانش↑ شادی کمی↓"
+  },
+  {
+    "k": "1k5n1cckqi4",
+    "en": "While decisions are on auto, the focus of each year is chosen for you too. Tap a chip and from then on you choose it yourself.",
+    "fa": "وقتی تصمیم‌ها روی خودکار است، تمرکز هر سال هم برایتان انتخاب می‌شود. یک گزینه بزنید؛ از آن پس خودتان انتخاب می‌کنید."
+  },
+  {
+    "k": "bojs6iddk4",
+    "en": "<span class=\"a\">Age {0}</span><span class=\"x\">{1}{2}{3}{4}</span>",
+    "fa": "<span class=\"a\">سن {0}</span><span class=\"x\">{1}{2}{3}{4}</span>"
+  },
+  {
+    "k": "kvnlaszanc",
+    "en": "★ A moment to remember",
+    "fa": "★ لحظه‌ای برای یادماندن"
+  },
+  {
+    "k": "2e47qi8era2",
+    "en": "☆ A moment to remember",
+    "fa": "☆ لحظه‌ای برای یادماندن"
+  },
+  {
+    "k": "1olrr2vd2be",
+    "en": "Moments to remember",
+    "fa": "لحظات برای یادماندن"
+  },
+  {
+    "k": "mzk0glqcun",
+    "en": "<p class=\"sts-lead\">You can star up to {0} moments. Let one go and the star goes to the moment you just chose.</p>",
+    "fa": "<p class=\"sts-lead\">می‌توانید تا {0} لحظه را ستاره‌دار کنید. یکی را رها کنید و ستاره به لحظه‌ای می‌رود که تازه انتخاب کردید.</p>"
+  },
+  {
+    "k": "1kxnu3vgwwk",
+    "en": "Remove star",
+    "fa": "برداشتن ستاره"
+  },
+  {
+    "k": "1cy9y42v7o7",
+    "en": "The star has moved.",
+    "fa": "ستاره جابه‌جا شد."
+  },
+  {
+    "k": "28iptcs3xqu",
+    "en": "Show earlier lines",
+    "fa": "نمایش خطوط قبلی"
+  },
+  {
+    "k": "opadaqpzqp",
+    "en": "Show only the latest",
+    "fa": "فقط آخرین‌ها"
+  },
+  {
+    "k": "dl2o0w8w93",
+    "en": "From the day you were born",
+    "fa": "از روزی که به دنیا آمدید"
+  },
+  {
+    "k": "21x8yg6zci7",
+    "en": "S",
+    "fa": "S"
+  },
+  {
+    "k": "4f1uvtmjrq",
+    "en": "W",
+    "fa": "W"
+  },
+  {
+    "k": "1vlxakqf1jy",
+    "en": "M",
+    "fa": "M"
+  },
+  {
+    "k": "mw540h2j95",
+    "en": "<span>1 square = 1 year · more vivid color = happier year</span><span>Outlined square = life expectancy for a {1} born in {0}: {2} years</span>",
+    "fa": "<span>۱ مربع = ۱ سال · رنگ پررنگ‌تر = سال شادتر</span><span>مربع دورخط‌دار = امید زندگی برای {1} متولد {0}: {2} سال</span>"
+  },
+  {
+    "k": "1s0rolwddl",
+    "en": "<span>(as of {0})</span>",
+    "fa": "<span>(تا {0})</span>"
+  },
+  {
+    "k": "sxz51lrl6v",
+    "en": "<text x=\"{0}\" y=\"{1}\" text-anchor=\"end\" font-size=\"10\" fill=\"var(--ink3)\">Age</text>",
+    "fa": "<text x=\"{0}\" y=\"{1}\" text-anchor=\"end\" font-size=\"10\" fill=\"var(--ink3)\">سن</text>"
+  },
+  {
+    "k": "2j5za0d2kq",
+    "en": "<text x=\"{0}\" y=\"{1}\" font-size=\"11\" fill=\"var(--ink)\" font-weight=\"600\">{2} alive</text>",
+    "fa": "<text x=\"{0}\" y=\"{1}\" font-size=\"11\" fill=\"var(--ink)\" font-weight=\"600\">{2} زنده</text>"
+  },
+  {
+    "k": "5xcb2ei2lz",
+    "en": "<span><i style=\"background:var(--stamp)\"></i>{0} · {1}</span>{2}<span><i style=\"background:var(--ink3)\"></i>World average</span>",
+    "fa": "<span><i style=\"background:var(--stamp)\"></i>{0} · {1}</span>{2}<span><i style=\"background:var(--ink3)\"></i>میانگین جهان</span>"
+  },
+  {
+    "k": "9p6k2l8ct5",
+    "en": "Births per year",
+    "fa": "تولد در سال"
+  },
+  {
+    "k": "12dwussa661",
+    "en": "Population",
+    "fa": "جمعیت"
+  },
+  {
+    "k": "2g7mgsrn8j1",
+    "en": "Life expectancy, women / men",
+    "fa": "امید زندگی، زنان / مردان"
+  },
+  {
+    "k": "16h9ihewi3c",
+    "en": "{0} / {1} years",
+    "fa": "{0} / {1} سال"
+  },
+  {
+    "k": "1aylbgd47gc",
+    "en": "Under-5 mortality",
+    "fa": "مرگ‌ومیر زیر پنج سال"
+  },
+  {
+    "k": "1xo426m5w8c",
+    "en": "{0} per 1,000",
+    "fa": "{0} در هر ۱٬۰۰۰"
+  },
+  {
+    "k": "1ylg7cdoz24",
+    "en": "Income Gini coefficient",
+    "fa": "ضریب جینی درآمد"
+  }
 ]
