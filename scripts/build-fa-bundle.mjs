@@ -237,51 +237,110 @@ js = js.replace(
   'LAB_W="/labw.en.f9c2d141a4.js"',
 );
 
-// 10) Persian country names via COUNTRY_T + apply for fa
-const countryFaPath = path.join(ROOT, "data/country-fa.json");
-if (fs.existsSync(countryFaPath)) {
-  const countryFa = JSON.parse(fs.readFileSync(countryFaPath, "utf8"));
-  const cStart = js.indexOf("COUNTRY_T=");
-  if (cStart >= 0) {
-    const brace = js.indexOf("{", cStart);
-    let depth = 0,
-      inStr = false,
-      esc = false,
-      quote = null,
-      cEnd = -1;
-    for (let j = brace; j < js.length; j++) {
-      const c = js[j];
-      if (inStr) {
-        if (esc) esc = false;
-        else if (c === "\\") esc = true;
-        else if (c === quote) inStr = false;
-      } else {
-        if (c === '"' || c === "'") {
-          inStr = true;
-          quote = c;
-        } else if (c === "{") depth++;
-        else if (c === "}") {
-          depth--;
-          if (depth === 0) {
-            cEnd = j + 1;
-            break;
-          }
+function replaceObjectLiteral(src, assignName, data) {
+  const cStart = src.indexOf(assignName + "=");
+  if (cStart < 0) return src;
+  const brace = src.indexOf("{", cStart);
+  let depth = 0,
+    inStr = false,
+    esc = false,
+    quote = null,
+    cEnd = -1;
+  for (let j = brace; j < src.length; j++) {
+    const c = src[j];
+    if (inStr) {
+      if (esc) esc = false;
+      else if (c === "\\") esc = true;
+      else if (c === quote) inStr = false;
+    } else {
+      if (c === '"' || c === "'") {
+        inStr = true;
+        quote = c;
+      } else if (c === "{") depth++;
+      else if (c === "}") {
+        depth--;
+        if (depth === 0) {
+          cEnd = j + 1;
+          break;
         }
       }
     }
-    const rebuiltC =
-      "{" +
-      Object.entries(countryFa)
-        .map(([k, v]) => `${k}:${JSON.stringify(v)}`)
-        .join(",") +
-      "}";
-    js = js.slice(0, brace) + rebuiltC + js.slice(cEnd);
   }
+  if (cEnd < 0) return src;
+  return src.slice(0, brace) + JSON.stringify(data) + src.slice(cEnd);
+}
+
+// 10) Persian country / city / people-name overlays via *_T + tApply for fa
+const countryFaPath = path.join(ROOT, "data/country-fa.json");
+const citiesFaPath = path.join(ROOT, "data/cities-fa.json");
+const namesFaPath = path.join(ROOT, "data/names-fa.json");
+
+if (fs.existsSync(countryFaPath)) {
+  const countryFa = JSON.parse(fs.readFileSync(countryFaPath, "utf8"));
+  js = replaceObjectLiteral(js, "COUNTRY_T", countryFa);
+}
+if (fs.existsSync(citiesFaPath)) {
+  const citiesFa = JSON.parse(fs.readFileSync(citiesFaPath, "utf8"));
+  js = replaceObjectLiteral(js, "CITIES_T", citiesFa);
+}
+if (fs.existsSync(namesFaPath)) {
+  const namesFa = JSON.parse(fs.readFileSync(namesFaPath, "utf8"));
+  js = replaceObjectLiteral(js, "NAMES_T", namesFa);
+}
+const casteSurFaPath = path.join(ROOT, "data/caste-sur-fa.json");
+if (fs.existsSync(casteSurFaPath)) {
+  const casteSurFa = JSON.parse(fs.readFileSync(casteSurFaPath, "utf8"));
+  js = replaceObjectLiteral(js, "CASTE_SUR", casteSurFa);
+}
+
+js = js.replace(
+  'LANG==="en"){for(const e of COUNTRIES)COUNTRY_T',
+  'LANG==="en"||LANG==="fa"){for(const e of COUNTRIES)COUNTRY_T',
+);
+
+// Chinese / Korean / Japanese name order should use a space in Farsi too
+js = js.replace(
+  'LANG==="en"||LANG==="vi"||LANG==="fr"||LANG==="th"||LANG===\n"es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="tr"||LANG==="id"||LANG==="it"||LANG==="ar"?l+" "+s',
+  'LANG==="en"||LANG==="vi"||LANG==="fr"||LANG==="th"||LANG===\n"es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="tr"||LANG==="id"||LANG==="it"||LANG==="ar"||LANG==="fa"?l+" "+s',
+);
+if (!js.includes('LANG==="ar"||LANG==="fa"?l+" "+s')) {
   js = js.replace(
-    'LANG==="en"){for(const e of COUNTRIES)COUNTRY_T',
-    'LANG==="en"||LANG==="fa"){for(const e of COUNTRIES)COUNTRY_T',
+    'LANG==="en"||LANG==="vi"||LANG==="fr"||LANG==="th"||LANG==="es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="tr"||LANG==="id"||LANG==="it"||LANG==="ar"?l+" "+s',
+    'LANG==="en"||LANG==="vi"||LANG==="fr"||LANG==="th"||LANG==="es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="tr"||LANG==="id"||LANG==="it"||LANG==="ar"||LANG==="fa"?l+" "+s',
   );
 }
+
+// Track given-name gender for Farsi grammar helpers (reuse frSx map)
+js = js.replace(
+  '(LANG==="fr"||LANG==="es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="it"||LANG==="ar")&&e&&S&&S.flags',
+  '(LANG==="fr"||LANG==="es"||LANG==="de"||LANG==="pt"||LANG==="ru"||LANG==="it"||LANG==="ar"||LANG==="fa")&&e&&S&&S.flags',
+);
+
+// Sikh surnames stay in the same script as the rest of the name pool
+js = js.replace(
+  't.rel==="S"&&(i=l=a==="F"?"Kaur":"Singh")',
+  't.rel==="S"&&(i=l=a==="F"?(LANG==="fa"?"کور":"Kaur"):LANG==="fa"?"سینگ":"Singh")',
+);
+
+// City + country pairing punctuation for Farsi (same as Arabic)
+js = js.replace(
+  'LANG==="ar"?a+"، "+e:',
+  'LANG==="ar"||LANG==="fa"?a+"، "+e:',
+);
+
+// Default Latin pet names → Persian script
+js = js.replace(
+  '_:["Max","Luna","Bella","Coco","Milo","Charlie"]',
+  '_:["مکس","لونا","بلا","کوکو","میلو","چارلی"]',
+);
+js = js.replace(
+  'd:{KOR:[L`해피`],JPN:[L`코타로`],_:["Lucky","Toby","Rocky"]}',
+  'd:{KOR:[L`해피`],JPN:[L`코타로`],_:["لاکی","توبی","راکی"]}',
+);
+js = js.replace(
+  'c:{KOR:[L`나비`],JPN:[],_:["Kitty","Simba","Nala"]}',
+  'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
+);
 
 const hash = crypto.createHash("md5").update(js).digest("hex").slice(0, 10);
 const outName = `fa.${hash}.js`;

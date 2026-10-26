@@ -1,0 +1,173 @@
+IND	Mumbai,Delhi,Kolkata,Bengaluru,Chennai,Hyderabad,Patna,Lucknow
+CHN	Shanghai,Beijing,Chongqing,Guangzhou,Chengdu,Wuhan,Xi'an,Zhengzhou
+NGA	Lagos,Kano,Ibadan,Abuja,Port Harcourt
+PAK	Karachi,Lahore,Faisalabad,Peshawar,Quetta
+COD	Kinshasa,Lubumbashi,Mbuji-Mayi,Goma
+IDN	Jakarta,Surabaya,Bandung,Medan,Makassar
+ETH	Addis Ababa,Dire Dawa,Mekelle,Hawassa
+USA	New York,Los Angeles,Houston,Chicago,Phoenix,Atlanta
+BGD	Dhaka,Chittagong,Khulna,Rajshahi
+BRA	São Paulo,Rio de Janeiro,Salvador,Fortaleza,Manaus
+EGY	Cairo,Alexandria,Giza,Aswan
+TZA	Dar es Salaam,Mwanza,Arusha,Dodoma
+PHL	Manila,Quezon City,Cebu,Davao
+MEX	Mexico City,Guadalajara,Monterrey,Puebla
+UGA	Kampala,Gulu,Mbarara
+SDN	Khartoum,Omdurman,Port Sudan
+KEN	Nairobi,Mombasa,Kisumu
+AFG	Kabul,Kandahar,Herat,Mazar-i-Sharif
+AGO	Luanda,Huambo,Benguela
+NER	Niamey,Zinder,Maradi
+VNM	Ho Chi Minh City,Hanoi,Haiphong,Da Nang,Can Tho
+RUS	Moscow,Saint Petersburg,Novosibirsk,Yekaterinburg,Kazan
+MOZ	Maputo,Beira,Nampula
+IRQ	Baghdad,Basra,Mosul,Erbil
+YEM	Sanaa,Aden,Taiz
+IRN	Tehran,Mashhad,Isfahan,Shiraz,Tabriz
+CMR	Douala,Yaoundé,Garoua
+CIV	Abidjan,Bouaké,Yamoussoukro
+MLI	Bamako,Sikasso,Mopti
+TUR	Istanbul,Ankara,Izmir,Bursa,Gaziantep
+MDG	Antananarivo,Toamasina,Antsirabe
+UZB	Tashkent,Samarkand,Namangan
+GHA	Accra,Kumasi,Tamale
+TCD	N'Djamena,Moundou
+MMR	Yangon,Mandalay,Naypyidaw
+BFA	Ouagadougou,Bobo-Dioulasso
+SOM	Mogadishu,Hargeisa,Kismayo
+DZA	Algiers,Oran,Constantine
+JPN	Tokyo,Osaka,Nagoya,Fukuoka,Sapporo
+GBR	London,Birmingham,Manchester,Glasgow
+DEU	Berlin,Hamburg,Munich,Cologne
+FRA	Paris,Marseille,Lyon,Toulouse
+MAR	Casablanca,Rabat,Fez,Marrakesh
+THA	Bangkok,Chiang Mai,Khon Kaen
+MWI	Lilongwe,Blantyre
+ZMB	Lusaka,Ndola
+SAU	Riyadh,Jeddah,Mecca,Dammam
+NPL	Kathmandu,Pokhara,Biratnagar
+SEN	Dakar,Touba,Thiès
+GIN	Conakry,Nzérékoré
+ZAF	Johannesburg,Cape Town,Durban,Pretoria
+COL	Bogotá,Medellín,Cali,Barranquilla
+KOR	Seoul,Busan,Incheon,Daegu,Daejeon,Gwangju,Suwon
+PRK	Pyongyang,Hamhung,Chongjin
+TWN	Taipei,Kaohsiung,Taichung
+ARG	Buenos Aires,Córdoba,Rosario
+PER	Lima,Arequipa,Trujillo
+VEN	Caracas,Maracaibo,Valencia
+MYS	Kuala Lumpur,Johor Bahru,Penang
+KAZ	Almaty,Astana,Shymkent
+CAN	Toronto,Montreal,Vancouver,Calgary
+AUS	Sydney,Melbourne,Brisbane,Perth
+ITA	Rome,Milan,Naples,Turin
+ESP	Madrid,Barcelona,Valencia,Seville
+UKR	Kyiv,Kharkiv,Odesa,Dnipro
+POL	Warsaw,Kraków,Wrocław
+SYR	Damascus,Aleppo,Homs
+KHM	Phnom Penh,Siem Reap,Battambang
+BEN	Cotonou,Porto-Novo
+BOL	La Paz,Santa Cruz
+BWA	Gaborone
+BGR	Sofia,Plovdiv
+BDI	Bujumbura,Gitega
+CAF	Bangui
+CHL	Santiago,Valparaíso
+COG	Brazzaville,Pointe-Noire
+CRI	San José
+CUB	Havana,Santiago de Cuba
+CZE	Prague,Brno
+DNK	Copenhagen,Aarhus
+DOM	Santo Domingo,Santiago
+ECU	Guayaquil,Quito
+SLV	San Salvador
+GNQ	Malabo,Bata
+ERI	Asmara
+FIN	Helsinki,Tampere
+GAB	Libreville
+GMB	Serekunda,Banjul
+GEO	Tbilisi,Batumi
+GRC	Athens,Thessaloniki
+GTM	Guatemala City
+GNB	Bissau
+HTI	Port-au-Prince,Cap-Haïtien
+HND	Tegucigalpa,San Pedro Sula
+HUN	Budapest,Debrecen
+IRL	Dublin,Cork
+ISR	Jerusalem,Tel Aviv,Haifa
+JAM	Kingston
+JOR	Amman,Irbid,Zarqa
+KWT	Kuwait City
+KGZ	Bishkek,Osh
+LAO	Vientiane,Luang Prabang
+LBN	Beirut,Tripoli
+LSO	Maseru
+LBR	Monrovia
+LBY	Tripoli,Benghazi
+MRT	Nouakchott
+MNG	Ulaanbaatar
+NAM	Windhoek
+NLD	Amsterdam,Rotterdam
+NZL	Auckland,Wellington
+NIC	Managua
+NOR	Oslo,Bergen
+OMN	Muscat
+PSE	Gaza,Hebron,Nablus
+PAN	Panama City
+PNG	Port Moresby,Lae
+PRY	Asunción
+PRT	Lisbon,Porto
+QAT	Doha
+ROU	Bucharest,Cluj-Napoca
+RWA	Kigali
+SRB	Belgrade,Novi Sad
+SLE	Freetown
+SGP	Singapore
+SVK	Bratislava
+SSD	Juba
+LKA	Colombo,Kandy
+SWE	Stockholm,Gothenburg
+CHE	Zurich,Geneva
+TJK	Dushanbe
+TGO	Lomé
+TUN	Tunis,Sfax
+TKM	Ashgabat
+ARE	Dubai,Abu Dhabi
+URY	Montevideo
+ZWE	Harare,Bulawayo
+AZE	Baku
+BLR	Minsk
+BEL	Brussels,Antwerp
+AUT	Vienna,Graz
+HKG	Hong Kong Island,Kowloon,Sha Tin,Tsuen Wan
+HRV	Zagreb,Split,Rijeka,Osijek
+PRI	San Juan,Bayamón,Carolina,Ponce
+BIH	Sarajevo,Banja Luka,Tuzla,Mostar,Zenica
+MDA	Chișinău,Bălți,Cahul,Ungheni
+ARM	Yerevan,Gyumri,Vanadzor
+LTU	Vilnius,Kaunas,Klaipėda,Šiauliai
+ALB	Tirana,Durrës,Vlorë,Elbasan,Shkodër
+SVN	Ljubljana,Maribor,Celje,Koper
+LVA	Riga,Daugavpils,Liepāja,Jelgava
+MKD	Skopje,Bitola,Kumanovo,Tetovo,Ohrid
+XKX	Pristina,Prizren,Peja,Mitrovica
+BHR	Manama,Riffa,Muharraq,Hamad Town
+TTO	Port of Spain,San Fernando,Chaguanas,Arima
+TLS	Dili,Baucau,Maliana
+EST	Tallinn,Tartu,Narva,Pärnu
+CYP	Nicosia,Limassol,Larnaca,Paphos
+MUS	Port Louis,Beau Bassin-Rose Hill,Vacoas-Phoenix,Curepipe
+SWZ	Mbabane,Manzini,Lobamba
+DJI	Djibouti City,Ali Sabieh,Tadjourah
+FJI	Suva,Lautoka,Nadi,Labasa
+COM	Moroni,Mutsamudu,Fomboni
+GUY	Georgetown,Linden,New Amsterdam
+SLB	Honiara,Auki,Gizo
+BTN	Thimphu,Paro,Phuntsholing
+MAC	Macau Peninsula,Taipa,Coloane
+LUX	Luxembourg City,Esch-sur-Alzette,Differdange
+MNE	Podgorica,Nikšić,Bar,Herceg Novi
+SUR	Paramaribo,Lelydorp,Nieuw Nickerie
+MLT	Birkirkara,Mosta,Sliema,Valletta
+MDV	Malé,Addu City,Kulhudhuffushi
+CPV	Praia,Mindelo,Santa Maria
