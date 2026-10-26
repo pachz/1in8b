@@ -45,6 +45,7 @@ export async function runApi(req, res, fallbackPathname) {
       pathname,
       searchParams,
       body: rawBody(req),
+      headers: req.headers,
     });
     res.setHeader("Cache-Control", "no-store");
     res.status(result.status).json(result.body);

@@ -100,6 +100,8 @@ const server = http.createServer(async (req, res) => {
         pathname: url.pathname,
         searchParams: url.searchParams,
         body,
+        headers: req.headers,
+        clientIp: req.socket?.remoteAddress || "",
       });
       return json(res, result.status, result.body);
     }
