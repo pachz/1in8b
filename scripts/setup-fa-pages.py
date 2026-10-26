@@ -195,7 +195,7 @@ html[lang="fa"] body * { word-break: normal !important; letter-spacing: 0 !impor
 html[lang="fa"] .hero h1 { font-size: clamp(48px, 8vw, 120px); line-height: 1.2; font-weight: 700; }
 html[lang="fa"] .stat { grid-template-columns: 7em minmax(0, 1fr) 2.4em; }
 html[lang="fa"] .orow { grid-template-columns: 10em 1fr 3.6em; }
-html[lang="fa"] .feed .f::before { content: "داده "; }
+html[lang="fa"] .feed .f::before { content: "آمار "; }
 /* Life log: keep Latin leftovers / names LTR so periods and apostrophes stay put */
 html[lang="fa"] .feed .x,
 html[lang="fa"] .feed .dq,
