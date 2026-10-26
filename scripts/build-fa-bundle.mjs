@@ -347,6 +347,31 @@ js = js.replace(
   'LANG==="fa"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+" و "+e[e.length-1]:LANG==="ar"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+(/^[\\u0600-\\u06ff\\d]/.test(String(e[e.length-1]))?" و":" و ")+e[e.length-1]:LANG==="th"',
 );
 
+// Iran-only "rich kids" start: USA ∪ EU, q=5 + flags.rich (homepage #richKidsBtn)
+{
+  const call =
+    'newLife(o?"birth":UI.prefs.mode,UI.prefs.pace,null,e?{era:a,by:e}:null)';
+  const callRich =
+    '(()=>{const _rk=!!UI._richKids;UI._richKids=0;const _iso=_rk?richKidsIso():null;newLife(o||_rk?"birth":UI.prefs.mode,UI.prefs.pace,_iso,_rk?null:e?{era:a,by:e}:null);_rk&&richKidsForce()})()';
+  if (!js.includes("function richKidsIso")) {
+    js = js.replace(
+      "function startNewLife(){",
+      "function richKidsIso(){const e={};for(const a of[\"USA\",...COMM_EU]){const t=CBY[a];t&&(e[a]=Math.max(1,t.b||t.pop||1))}return e.USA||Object.keys(e).length?wpick(e):\"USA\"}function richKidsForce(){if(!S)return;S.q=S.q0=5,S.flags.rich=chance(.15)?2:1,S.flags.richQ=S.flags.rich===2?Math.max(2e-5,rnd()*.001):.001+rnd()*.009,S.fc=null,S.flags.royal=null;const e=S.fam;e&&(delete e.dad.job,delete e.mom.job,delete e.pHome,delete e.pPct),typeof parentJobs==\"function\"&&parentJobs()}function richKidsOk(){if(typeof EDU_ON<\"u\"&&EDU_ON)return!1;try{if(Intl.DateTimeFormat().resolvedOptions().timeZone===\"Asia/Tehran\")return!0}catch{}return typeof guessHome==\"function\"&&guessHome()===\"IRN\"}function startNewLife(){",
+    );
+  }
+  if (js.includes(call) && !js.includes("richKidsForce()})()")) {
+    js = js.replace(call, callRich);
+  }
+  js = js.replace(
+    'else if(r.id==="startBtn"||r.id==="startBtn2")showGuard()||startNewLife();',
+    'else if(r.id==="startBtn"||r.id==="startBtn2")UI._richKids=0,showGuard()||startNewLife();else if(r.id==="richKidsBtn")UI._richKids=1,showGuard()||startNewLife();',
+  );
+  if (!js.includes("richKidsBoot")) {
+    js +=
+      "\n;function richKidsBoot(){const e=$(\"#richKidsBtn\");if(!e)return;const a=richKidsOk();e.hidden=!a,e.setAttribute(\"aria-hidden\",a?\"false\":\"true\")}document.readyState===\"loading\"?document.addEventListener(\"DOMContentLoaded\",richKidsBoot):richKidsBoot();\n";
+  }
+}
+
 // Default Latin pet names → Persian script
 js = js.replace(
   '_:["Max","Luna","Bella","Coco","Milo","Charlie"]',

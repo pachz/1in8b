@@ -435,6 +435,16 @@ def transform_to_fa(html: str) -> str:
     )
     # Rebuild top nav last so path rewrites can't turn English → فارسی/"English"
     html = ensure_fa_top_nav(html)
+
+    # Iran-only CTA (shown by richKidsBoot in the FA bundle when TZ is Tehran / home=IRN)
+    if 'id="richKidsBtn"' not in html and 'id="startBtn"' in html:
+        html = html.replace(
+            '<button class="cta" id="startBtn">متولد شو</button>',
+            '<button class="cta" id="startBtn">متولد شو</button>\n'
+            '        <button class="ghost" id="richKidsBtn" type="button" hidden aria-hidden="true" '
+            'title="تصادفی در آمریکا یا اروپا · خانوادهٔ ثروتمند">تجربهٔ بچه پولدارها</button>',
+            1,
+        )
     return html
 
 
