@@ -386,9 +386,45 @@ js = js.replace(
   'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
 );
 
-// FA Keep: free email/phone OTP login (no Stripe / no money copy).
-// Replaces buy links with an auth sheet; keepNoSale panel becomes the same OTP pitch.
+// FA Keep: free email/phone OTP login (no Stripe / price / refund copy).
+// keepBuyA/keepPrice/keepPromise/keepTerms are `const` — rewrite them in-source
+// (runtime reassignment throws and used to abort the whole OTP patch).
 {
+  const buyBtn =
+    '`<button type="button" class="${e}" id="faKeepAuth">ورود با ایمیل یا موبایل</button>`';
+  const buyRe =
+    /keepBuyA=\(e,a\)=>keepNoSale\(\)\?"":`<a class="\$\{e\}" href="\$\{keepUrl\(\)\}"[^`]*\$\{a\}<\/a>`/;
+  if (!buyRe.test(js)) throw new Error("keepBuyA pattern not found for FA rewrite");
+  js = js.replace(buyRe, `keepBuyA=(e,a)=>keepNoSale()?"":${buyBtn}`);
+
+  const priceRe =
+    /keepPrice=\(\)=>typeof ZHS<"u"&&ZHS&&CONFIG\.keep\.priceZhs\|\|\{ko:CONFIG\.keep\.price[\s\S]*?\[LANG\]\|\|CONFIG\.keep\.priceEn/;
+  if (!priceRe.test(js)) throw new Error("keepPrice pattern not found for FA rewrite");
+  js = js.replace(priceRe, 'keepPrice=()=>""');
+
+  const promiseRe =
+    /keepPromise=\(\)=>`<p class="kp-promise">\$\{L`[^`]+`\}<\/p>`/;
+  if (!promiseRe.test(js)) throw new Error("keepPromise pattern not found for FA rewrite");
+  js = js.replace(promiseRe, 'keepPromise=()=>""');
+
+  const termsStart = js.indexOf("keepTerms=()=>`");
+  const termsEnd = js.indexOf("`;async function keepRefundCode()", termsStart);
+  if (termsStart < 0 || termsEnd < 0) {
+    throw new Error("keepTerms span not found for FA rewrite");
+  }
+  js =
+    js.slice(0, termsStart) +
+    'keepTerms=()=>"با ایمیل یا موبایل وارد شوید؛ همهٔ آثار این زندگی برایتان باز می‌شود. رایگان است."' +
+    js.slice(termsEnd + 1); // keep the ";" before async function keepRefundCode
+
+  const noSaleLineRe =
+    /const keepNoSaleLine=\(\)=>KP\.np&&!KP\.kr&&!\(CONFIG\.keep\.noSale\|\|\[\]\)\.includes\(PAGE_LANG\)\?L`[^`]+`:L`[^`]+`/;
+  if (!noSaleLineRe.test(js)) throw new Error("keepNoSaleLine pattern not found for FA rewrite");
+  js = js.replace(
+    noSaleLineRe,
+    'const keepNoSaleLine=()=>"با ایمیل یا موبایل وارد شوید تا این زندگی ذخیره شود."',
+  );
+
   const FA_KEEP_OTP = String.raw`
 ;(function(){
   if(typeof LANG==="undefined"||LANG!=="fa")return;
@@ -414,24 +450,15 @@ js = js.replace(
     try{localStorage.setItem(AUTH_KEY,JSON.stringify({session,at:Date.now()}))}catch{}
   }
   function faWhy(w){return FA_WHY[w]||FA_WHY.busy}
-  keepBuyA=function(e,a){
-    return '<button type="button" class="'+e+'" id="faKeepAuth">ورود با ایمیل یا موبایل</button>';
-  };
-  if(typeof keepPrice==="function") keepPrice=function(){return""};
-  keepPromise=function(){return""};
-  keepTerms=function(){
-    return"رایگان است. با ایمیل یا موبایل وارد شوید؛ این زندگی روی حسابتان ذخیره می‌شود.";
-  };
-  keepNoSaleLine=function(){
-    return"با ایمیل یا شماره موبایل وارد شوید تا این زندگی ذخیره شود. پرداخت لازم نیست.";
-  };
-  keepNoSaleHTML=function(){
-    return'<div class="panel keep pitch" id="keepPanel"><h3><span>این زندگی را نگه دار</span><span class="lbl">رایگان</span></h3>'
-      +(typeof keepMadeHTML==="function"?keepMadeHTML(!0):"")
-      +'<p class="kp-note">با ورود از طریق ایمیل یا موبایل، این زندگی و یادبودش روی حساب شما ذخیره می‌شود. هیچ پرداختی در کار نیست.</p>'
-      +'<div class="kp-buy kp-buy2"><button type="button" class="cta" id="faKeepAuth">ورود با ایمیل یا موبایل</button></div>'
-      +'<p class="kp-msg" id="keepMsg" role="status"></p></div>';
-  };
+  function faScrubKeepPanel(){
+    const panel=$("#keepPanel");
+    if(!panel||keepTok())return;
+    panel.querySelectorAll(".kp-fine, .kp-promise, .kp-have, a[data-keep=buyclick], a[href*='stripe'], a[href*='link.com']").forEach(n=>n.remove());
+    panel.querySelectorAll(".kp-buy, .kp-buy2, .kp-mfa").forEach(buy=>{
+      if(buy.querySelector("#faKeepAuth"))return;
+      buy.innerHTML='<button type="button" class="cta" id="faKeepAuth">ورود با ایمیل یا موبایل</button>';
+    });
+  }
   async function faKeepAuthSheet(){
     if(typeof openSheet!=="function"){
       location.href="/fa/login/";
@@ -439,7 +466,7 @@ js = js.replace(
     }
     let channel="phone", challengeId="", busy=false;
     const html='<div class="ku fa-auth" id="faAuth">'
-      +'<p class="cm-sub">ایمیل یا موبایل را بزنید؛ کد تأیید می‌آید و این زندگی ذخیره می‌شود. رایگان است.</p>'
+      +'<p class="cm-sub">ایمیل یا موبایل را بزنید؛ کد تأیید می‌آید و همهٔ آثار این زندگی برایتان باز می‌شود. رایگان است.</p>'
       +'<div class="seg" role="tablist" style="display:flex;gap:8px;margin:12px 0">'
       +'<button type="button" class="ghost" data-ch="phone" aria-pressed="true">موبایل</button>'
       +'<button type="button" class="ghost" data-ch="email" aria-pressed="false">ایمیل</button></div>'
@@ -448,10 +475,10 @@ js = js.replace(
       +'<button class="cta" type="button" id="faSend">ارسال کد</button></div></div>'
       +'<div id="faAuthCode" hidden>'
       +'<div class="kp-row"><input id="faCode" inputmode="numeric" autocomplete="one-time-code" maxlength="5" placeholder="کد ۵ رقمی">'
-      +'<button class="cta" type="button" id="faVerify">تأیید و ذخیره</button></div>'
+      +'<button class="cta" type="button" id="faVerify">تأیید و باز کردن</button></div>'
       +'<button class="ghost sm" type="button" id="faBack">بازگشت</button></div>'
       +'<p class="kp-msg" id="faAuthMsg" role="status"></p></div>';
-    openSheet("ورود و ذخیره", html);
+    openSheet("ورود", html);
     const root=$("#faAuth");
     if(!root)return;
     const msg=$("#faAuthMsg");
@@ -508,30 +535,25 @@ js = js.replace(
         try{typeof closeSheet==="function"&&closeSheet()}catch{}
         keepMount();
         typeof keepShow==="function"&&keepShow();
-        typeof keepMsg==="function"&&keepMsg("ذخیره شد. در این دستگاه دوباره لازم نیست وارد شوید.");
+        typeof keepMsg==="function"&&keepMsg("وارد شدید. همهٔ آثار این زندگی باز است.");
         typeof memoBoxShow==="function"&&memoBoxShow();
       }catch{setMsg(faWhy("net"),!0)}
       finally{busy=!1}
     });
   }
   document.addEventListener("click",function(e){
-    const t=e.target&&e.target.closest&&e.target.closest("#faKeepAuth");
-    if(!t)return;
-    e.preventDefault();
-    faKeepAuthSheet();
-  });
-  // Strip leftover buy/price chrome from pitch if HTML already rendered with Korean templates
+    const auth=e.target&&e.target.closest&&e.target.closest("#faKeepAuth");
+    if(auth){e.preventDefault();faKeepAuthSheet();return}
+    const buy=e.target&&e.target.closest&&e.target.closest("a[data-keep=buyclick]");
+    if(buy){e.preventDefault();faKeepAuthSheet()}
+  },true);
   const _mount=keepMount;
   keepMount=function(){
     _mount.apply(this,arguments);
-    const panel=$("#keepPanel");
-    if(!panel||keepTok())return;
-    panel.querySelectorAll(".kp-fine, .kp-promise, .kp-have, a[data-keep=buyclick]").forEach(n=>n.remove());
-    if(!panel.querySelector("#faKeepAuth")){
-      const buy=panel.querySelector(".kp-buy, .kp-buy2, .kp-mfa");
-      if(buy) buy.innerHTML='<button type="button" class="cta" id="faKeepAuth">ورود با ایمیل یا موبایل</button>';
-    }
+    faScrubKeepPanel();
   };
+  // Late scrub if panel was painted before this IIFE (rare)
+  try{faScrubKeepPanel()}catch{}
 })();
 `;
   if (!js.includes("faKeepAuthSheet")) {
