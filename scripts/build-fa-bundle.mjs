@@ -386,6 +386,159 @@ js = js.replace(
   'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
 );
 
+// FA Keep: free email/phone OTP login (no Stripe / no money copy).
+// Replaces buy links with an auth sheet; keepNoSale panel becomes the same OTP pitch.
+{
+  const FA_KEEP_OTP = String.raw`
+;(function(){
+  if(typeof LANG==="undefined"||LANG!=="fa")return;
+  const AUTH_KEY="one8b.auth.v1";
+  const FA_WHY={
+    email:"ایمیل معتبر نیست.",
+    phone:"شماره موبایل معتبر نیست.",
+    channel:"روش ورود نامعتبر است.",
+    rate:"کمی صبر کنید و دوباره بفرستید.",
+    send:"ارسال کد ممکن نشد.",
+    code:"کد نادرست است.",
+    expired:"کد منقضی شده. دوباره بفرستید.",
+    attempts:"تلاش‌ها تمام شد. دوباره بفرستید.",
+    gone:"این درخواست دیگر معتبر نیست.",
+    devices:"تعداد دستگاه‌های فعال پر است.",
+    cfg:"ورود هنوز آماده نیست.",
+    off:"ارسال کد در دسترس نیست.",
+    busy:"سرور موقتاً در دسترس نیست.",
+    net:"ارتباط برقرار نشد.",
+    tok:"نشست معتبر نیست."
+  };
+  function faAuthPut(session){
+    try{localStorage.setItem(AUTH_KEY,JSON.stringify({session,at:Date.now()}))}catch{}
+  }
+  function faWhy(w){return FA_WHY[w]||FA_WHY.busy}
+  keepBuyA=function(e,a){
+    return '<button type="button" class="'+e+'" id="faKeepAuth">ورود با ایمیل یا موبایل</button>';
+  };
+  if(typeof keepPrice==="function") keepPrice=function(){return""};
+  keepPromise=function(){return""};
+  keepTerms=function(){
+    return"رایگان است. با ایمیل یا موبایل وارد شوید؛ این زندگی روی حسابتان ذخیره می‌شود.";
+  };
+  keepNoSaleLine=function(){
+    return"با ایمیل یا شماره موبایل وارد شوید تا این زندگی ذخیره شود. پرداخت لازم نیست.";
+  };
+  keepNoSaleHTML=function(){
+    return'<div class="panel keep pitch" id="keepPanel"><h3><span>این زندگی را نگه دار</span><span class="lbl">رایگان</span></h3>'
+      +(typeof keepMadeHTML==="function"?keepMadeHTML(!0):"")
+      +'<p class="kp-note">با ورود از طریق ایمیل یا موبایل، این زندگی و یادبودش روی حساب شما ذخیره می‌شود. هیچ پرداختی در کار نیست.</p>'
+      +'<div class="kp-buy kp-buy2"><button type="button" class="cta" id="faKeepAuth">ورود با ایمیل یا موبایل</button></div>'
+      +'<p class="kp-msg" id="keepMsg" role="status"></p></div>';
+  };
+  async function faKeepAuthSheet(){
+    if(typeof openSheet!=="function"){
+      location.href="/fa/login/";
+      return;
+    }
+    let channel="phone", challengeId="", busy=false;
+    const html='<div class="ku fa-auth" id="faAuth">'
+      +'<p class="cm-sub">ایمیل یا موبایل را بزنید؛ کد تأیید می‌آید و این زندگی ذخیره می‌شود. رایگان است.</p>'
+      +'<div class="seg" role="tablist" style="display:flex;gap:8px;margin:12px 0">'
+      +'<button type="button" class="ghost" data-ch="phone" aria-pressed="true">موبایل</button>'
+      +'<button type="button" class="ghost" data-ch="email" aria-pressed="false">ایمیل</button></div>'
+      +'<div id="faAuthStart">'
+      +'<div class="kp-row"><input id="faIdent" autocomplete="tel" inputmode="tel" placeholder="0912… یا +98…">'
+      +'<button class="cta" type="button" id="faSend">ارسال کد</button></div></div>'
+      +'<div id="faAuthCode" hidden>'
+      +'<div class="kp-row"><input id="faCode" inputmode="numeric" autocomplete="one-time-code" maxlength="5" placeholder="کد ۵ رقمی">'
+      +'<button class="cta" type="button" id="faVerify">تأیید و ذخیره</button></div>'
+      +'<button class="ghost sm" type="button" id="faBack">بازگشت</button></div>'
+      +'<p class="kp-msg" id="faAuthMsg" role="status"></p></div>';
+    openSheet("ورود و ذخیره", html);
+    const root=$("#faAuth");
+    if(!root)return;
+    const msg=$("#faAuthMsg");
+    const setMsg=(t,bad)=>{if(msg){msg.textContent=t||"";msg.classList.toggle("bad",!!bad)}};
+    const setCh=(ch)=>{
+      channel=ch;
+      root.querySelectorAll("[data-ch]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.ch===ch?"true":"false"));
+      const inp=$("#faIdent");
+      if(inp){
+        inp.type=ch==="phone"?"tel":"email";
+        inp.inputMode=ch==="phone"?"tel":"email";
+        inp.autocomplete=ch==="phone"?"tel":"email";
+        inp.placeholder=ch==="phone"?"0912… یا +98…":"you@example.com";
+        inp.value="";
+      }
+      setMsg("");
+    };
+    root.querySelectorAll("[data-ch]").forEach(b=>b.addEventListener("click",()=>setCh(b.dataset.ch)));
+    $("#faBack")&&$("#faBack").addEventListener("click",()=>{
+      challengeId="";
+      $("#faAuthCode").hidden=!0;
+      $("#faAuthStart").hidden=!1;
+      setMsg("");
+    });
+    $("#faSend")&&$("#faSend").addEventListener("click",async()=>{
+      if(busy)return;
+      const raw=($("#faIdent")&&$("#faIdent").value||"").trim();
+      if(!raw){setMsg(faWhy(channel==="phone"?"phone":"email"),!0);return}
+      busy=!0;setMsg("در حال ارسال کد…");
+      try{
+        const body=channel==="phone"?{channel:"phone",phone:raw}:{channel:"email",email:raw};
+        const data=await keepPost("/api/auth/start",body);
+        if(!data.ok){setMsg(faWhy(data.why),!0);return}
+        challengeId=data.challengeId;
+        if(data.devCode&&$("#faCode"))$("#faCode").value=data.devCode;
+        $("#faAuthStart").hidden=!0;
+        $("#faAuthCode").hidden=!1;
+        setMsg("کد ارسال شد.",!1);
+        $("#faCode")&&$("#faCode").focus();
+      }catch{setMsg(faWhy("net"),!0)}
+      finally{busy=!1}
+    });
+    $("#faVerify")&&$("#faVerify").addEventListener("click",async()=>{
+      if(busy)return;
+      const code=(($("#faCode")&&$("#faCode").value)||"").replace(/\\D/g,"");
+      if(code.length!==5){setMsg(faWhy("code"),!0);return}
+      busy=!0;setMsg("در حال بررسی…");
+      try{
+        const data=await keepPost("/api/auth/verify",{challengeId,code,dv:keepDv()});
+        if(!data.ok){setMsg(faWhy(data.why),!0);return}
+        faAuthPut(data.session);
+        keepPut({tok:data.tok,left:data.left,ml:0});
+        KP.refAt=Date.now();
+        try{typeof closeSheet==="function"&&closeSheet()}catch{}
+        keepMount();
+        typeof keepShow==="function"&&keepShow();
+        typeof keepMsg==="function"&&keepMsg("ذخیره شد. در این دستگاه دوباره لازم نیست وارد شوید.");
+        typeof memoBoxShow==="function"&&memoBoxShow();
+      }catch{setMsg(faWhy("net"),!0)}
+      finally{busy=!1}
+    });
+  }
+  document.addEventListener("click",function(e){
+    const t=e.target&&e.target.closest&&e.target.closest("#faKeepAuth");
+    if(!t)return;
+    e.preventDefault();
+    faKeepAuthSheet();
+  });
+  // Strip leftover buy/price chrome from pitch if HTML already rendered with Korean templates
+  const _mount=keepMount;
+  keepMount=function(){
+    _mount.apply(this,arguments);
+    const panel=$("#keepPanel");
+    if(!panel||keepTok())return;
+    panel.querySelectorAll(".kp-fine, .kp-promise, .kp-have, a[data-keep=buyclick]").forEach(n=>n.remove());
+    if(!panel.querySelector("#faKeepAuth")){
+      const buy=panel.querySelector(".kp-buy, .kp-buy2, .kp-mfa");
+      if(buy) buy.innerHTML='<button type="button" class="cta" id="faKeepAuth">ورود با ایمیل یا موبایل</button>';
+    }
+  };
+})();
+`;
+  if (!js.includes("faKeepAuthSheet")) {
+    js += FA_KEEP_OTP;
+  }
+}
+
 const hash = crypto.createHash("md5").update(js).digest("hex").slice(0, 10);
 const outName = `fa.${hash}.js`;
 const outPath = path.join(ROOT, "public/a", outName);
