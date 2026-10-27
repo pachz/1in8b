@@ -347,6 +347,12 @@ js = js.replace(
   'LANG==="fa"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+" و "+e[e.length-1]:LANG==="ar"?e.length<2?e.join(""):e.slice(0,-1).join("، ")+(/^[\\u0600-\\u06ff\\d]/.test(String(e[e.length-1]))?" و":" و ")+e[e.length-1]:LANG==="th"',
 );
 
+// pkAges: person ages as "۷ ساله" (EN/ar leave bare numbers; FA needs ساله)
+js = js.replace(
+  'const pkAges=e=>LANG==="en"||LANG==="vi"||LANG==="th"||LANG==="ar"?listAnd(e.map(String)):LANG==="fr"?listAnd(e.map(String))+" ans"',
+  'const pkAges=e=>LANG==="en"||LANG==="vi"||LANG==="th"||LANG==="ar"?listAnd(e.map(String)):LANG==="fa"?listAnd(e.map(String))+" ساله":LANG==="fr"?listAnd(e.map(String))+" ans"',
+);
+
 // Iran-only "rich kids" start: USA ∪ EU, q=5 + flags.rich (homepage #richKidsBtn)
 {
   const call =
