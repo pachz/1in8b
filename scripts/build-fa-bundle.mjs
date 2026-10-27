@@ -386,6 +386,33 @@ js = js.replace(
   'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
 );
 
+// FA download filenames in shared keepx (LANG maps otherwise fall back to Korean).
+{
+  const keepxName = (js.match(/KEEPX_SRC="(\/keepx\.[^"]+)"/) || [])[1];
+  if (keepxName) {
+    const keepxPath = path.join(ROOT, "public", keepxName.replace(/^\//, ""));
+    if (fs.existsSync(keepxPath)) {
+      let kx = fs.readFileSync(keepxPath, "utf8");
+      const pairs = [
+        ['ar:"-إعلان"}[LANG]||"-예고편"', 'ar:"-إعلان",fa:"-تیزر"}[LANG]||"-예고편"'],
+        ['ar:"-مشهد-بعد-النهاية"}[LANG]||"-쿠키영상"', 'ar:"-مشهد-بعد-النهاية",fa:"-بعد-تیتراژ"}[LANG]||"-쿠키영상"'],
+      ];
+      let n = 0;
+      for (const [a, b] of pairs) {
+        if (kx.includes(b)) continue;
+        if (kx.includes(a)) {
+          kx = kx.replace(a, b);
+          n++;
+        }
+      }
+      if (n) {
+        fs.writeFileSync(keepxPath, kx);
+        console.log("Patched FA filename suffixes in", keepxName, n);
+      }
+    }
+  }
+}
+
 // FA Keep: free email/phone OTP login (no Stripe / price / refund copy).
 // keepBuyA/keepPrice/keepPromise/keepTerms are `const` — rewrite them in-source
 // (runtime reassignment throws and used to abort the whole OTP patch).
