@@ -392,6 +392,63 @@ js = js.replace(
   'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
 );
 
+// Custom / leftover Latin pet names → Persian (toffee, buddy, …)
+{
+  const { translateName } = await import("./fa-translit.mjs");
+  const extras = [
+    "Toffee","Buddy","Ginger","Shadow","Fluffy","Cookie","Peanut","Oreo",
+    "Choco","Mocha","Biscuit","Pepper","Honey","Snowy","Smokey","Tiger",
+    "Leo","Lola","Daisy","Bailey","Molly","Jack","Oscar","Teddy",
+    "Max","Luna","Bella","Coco","Milo","Charlie","Lucky","Toby","Rocky",
+    "Kitty","Simba","Nala",
+  ];
+  const map = {};
+  for (const n of extras) map[n.toLowerCase()] = translateName(n, "en");
+  const mapLit = JSON.stringify(map);
+  const hook = `
+;(function(){
+  if(typeof LANG==="undefined"||LANG!=="fa")return;
+  const FA_PET=${mapLit};
+  const faPet=n=>{
+    n=String(n??"").trim();
+    if(!n||/[\\u0600-\\u06FF]/.test(n))return n;
+    const k=n.toLowerCase();
+    return FA_PET[k]||n;
+  };
+  if(typeof petNameClean==="function"){
+    const _c=petNameClean;
+    petNameClean=e=>faPet(_c(e));
+  }
+  const fixPet=()=>{
+    try{
+      if(!(S&&S.pet&&S.pet.n))return;
+      const n=faPet(S.pet.n);
+      if(n!==S.pet.n)S.pet.n=n;
+      if(S.flags){
+        if(Array.isArray(S.flags.petNames))
+          S.flags.petNames=S.flags.petNames.map(faPet);
+        if(S.flags.petDef)S.flags.petDef=faPet(S.flags.petDef);
+        if(S.flags.petMem&&S.flags.petMem.n)
+          S.flags.petMem.n=faPet(S.flags.petMem.n);
+        if(Array.isArray(S.flags.petL))
+          S.flags.petL=S.flags.petL.map(p=>p&&p.n?Object.assign({},p,{n:faPet(p.n)}):p);
+      }
+    }catch{}
+  };
+  const boot=()=>{fixPet();
+    try{
+      const _y=typeof petYear==="function"?petYear:null;
+      if(_y)petYear=function(){fixPet();return _y.apply(this,arguments)};
+    }catch{}
+  };
+  document.readyState==="loading"
+    ?document.addEventListener("DOMContentLoaded",boot)
+    :boot();
+})();
+`;
+  js += hook;
+}
+
 // FA download filenames in shared keepx (LANG maps otherwise fall back to Korean).
 {
   const keepxName = (js.match(/KEEPX_SRC="(\/keepx\.[^"]+)"/) || [])[1];
