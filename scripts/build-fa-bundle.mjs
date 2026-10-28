@@ -8,13 +8,30 @@ import crypto from "node:crypto";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
-const enPath = path.join(ROOT, "public/a/en.d8f5afae09.js");
+const aDir = path.join(ROOT, "public/a");
+const enPath = (() => {
+  const matches = fs
+    .readdirSync(aDir)
+    .filter((n) => /^en\.[a-f0-9]+\.js$/i.test(n));
+  if (!matches.length) {
+    console.error("Missing public/a/en.*.js");
+    process.exit(1);
+  }
+  // Prefer newest mtime when multiple exist
+  matches.sort(
+    (a, b) =>
+      fs.statSync(path.join(aDir, b)).mtimeMs -
+      fs.statSync(path.join(aDir, a)).mtimeMs,
+  );
+  return path.join(aDir, matches[0]);
+})();
 const i18nPath = path.join(ROOT, "data/i18n_fa.json");
 
 if (!fs.existsSync(i18nPath)) {
   console.error("Missing data/i18n_fa.json — run translation first");
   process.exit(1);
 }
+console.log("EN base:", path.basename(enPath));
 
 let js = fs.readFileSync(enPath, "utf8");
 const i18n = JSON.parse(fs.readFileSync(i18nPath, "utf8"));
