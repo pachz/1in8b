@@ -409,7 +409,9 @@ js = js.replace(
   'c:{KOR:[L`나비`],JPN:[],_:["کیتی","سیمبا","نالا"]}',
 );
 
-// Custom / leftover Latin pet names → Persian (toffee, buddy, …)
+// Custom / leftover Latin pet names → Persian (toffee, buddy, …).
+// petNameClean is a `const` binding in a comma list — rewrite in-source
+// (runtime reassignment throws and used to abort later FA patches).
 {
   const { translateName } = await import("./fa-translit.mjs");
   const extras = [
@@ -422,20 +424,26 @@ js = js.replace(
   const map = {};
   for (const n of extras) map[n.toLowerCase()] = translateName(n, "en");
   const mapLit = JSON.stringify(map);
+  if (!js.includes("FA_PET_NAMES=")) {
+    const cleanRe =
+      /petNameClean=e=>String\(e\?\?""\)\.normalize\("NFC"\)\.replace\(\/\[\\u0000-\\u001f\\u007f-\\u009f\\u200b-\\u200f\\u202a-\\u202e\\u2066-\\u2069<>"'`&\\\\\]\/g,""\)\.replace\(\/\\s\+\/g," "\)\.trim\(\)\.slice\(0,PET_NM_MAX\)/;
+    if (!cleanRe.test(js)) {
+      throw new Error("petNameClean pattern not found for FA rewrite");
+    }
+    js = js.replace(
+      cleanRe,
+      `FA_PET_NAMES=${mapLit},petNameClean=e=>{e=String(e??"").normalize("NFC").replace(/[\\u0000-\\u001f\\u007f-\\u009f\\u200b-\\u200f\\u202a-\\u202e\\u2066-\\u2069<>"'\`&\\\\]/g,"").replace(/\\s+/g," ").trim().slice(0,PET_NM_MAX);if(LANG==="fa"&&e&&!/[\\u0600-\\u06FF]/.test(e)){const k=e.toLowerCase();e=FA_PET_NAMES[k]||e}return e}`,
+    );
+  }
   const hook = `
 ;(function(){
   if(typeof LANG==="undefined"||LANG!=="fa")return;
-  const FA_PET=${mapLit};
   const faPet=n=>{
     n=String(n??"").trim();
     if(!n||/[\\u0600-\\u06FF]/.test(n))return n;
     const k=n.toLowerCase();
-    return FA_PET[k]||n;
+    return (typeof FA_PET_NAMES==="object"&&FA_PET_NAMES[k])||n;
   };
-  if(typeof petNameClean==="function"){
-    const _c=petNameClean;
-    petNameClean=e=>faPet(_c(e));
-  }
   const fixPet=()=>{
     try{
       if(!(S&&S.pet&&S.pet.n))return;
@@ -454,8 +462,11 @@ js = js.replace(
   };
   const boot=()=>{fixPet();
     try{
-      const _y=typeof petYear==="function"?petYear:null;
-      if(_y)petYear=function(){fixPet();return _y.apply(this,arguments)};
+      if(typeof petYear!=="function"||petYear.__faPet)return;
+      const _y=petYear;
+      // function declarations are writable in classic scripts; mark to avoid double-wrap
+      petYear=function(){fixPet();return _y.apply(this,arguments)};
+      petYear.__faPet=1;
     }catch{}
   };
   document.readyState==="loading"
@@ -463,7 +474,7 @@ js = js.replace(
     :boot();
 })();
 `;
-  js += hook;
+  if (!js.includes("petYear.__faPet")) js += hook;
 }
 
 // FA download filenames in shared keepx (LANG maps otherwise fall back to Korean).

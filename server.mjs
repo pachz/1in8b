@@ -60,6 +60,14 @@ function resolveStatic(urlPath) {
   let hit = tryFile(clean);
   if (hit) return hit;
 
+  // Memorial link-preview image: /{lang}/m/{id}.png
+  // Upstream serves a generated card; until we do, fall back to the site OG image
+  // (must run before the SPA shell rewrite, which would return HTML).
+  if (/^\/[a-z]{2}(?:-hans)?\/m\/[^/]+\.png$/i.test(clean)) {
+    hit = tryFile("/og-en.png") || tryFile("/og.png");
+    if (hit) return hit;
+  }
+
   if (
     !clean.endsWith(".html") &&
     !clean.endsWith(".json") &&

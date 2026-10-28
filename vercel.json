@@ -15,6 +15,11 @@
       "source": "/",
       "destination": "/fa/",
       "permanent": true
+    },
+    {
+      "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/m/:id.png",
+      "destination": "/og-en.png",
+      "permanent": false
     }
   ],
   "rewrites": [
