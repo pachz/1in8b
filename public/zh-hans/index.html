@@ -58,7 +58,7 @@
 <meta name="twitter:title" content="80亿分之1 · 你会出生成为谁？">
 <meta name="twitter:description" content="成为此刻正在出生的婴儿之一，在172个国家与地区的真实统计中，活过那个人的一生。你会在哪里出生？">
 <meta name="twitter:image" content="https://1in8b.ir/og-zh.png">
-<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "80亿分之1", "alternateName": ["80亿分之1", "1in8b", "1in8b.ir", "1 in 8 Billion", "80亿分之1 游戏", "80억 분의 1", "80億分の1", "80億分之1", "1 trong 8 tỷ", "1 sur 8 milliards", "1 ใน 8 พันล้าน", "1 entre 8 mil millones", "1 von 8 Milliarden", "1 em 8 bilhões", "1 из 8 миллиардов", "8 Milyarda 1", "1 dari 8 Miliar", "1 su 8 miliardi", "1 من 8 مليارات"], "url": "https://1in8b.ir/zh-hans/", "inLanguage": "zh-Hans", "publisher": {"@type": "Person", "name": "Jin's Earth", "url": "https://1in8b.ir/", "sameAs": ["https://x.com/jins__earth"]}}, {"@context": "https://schema.org", "@type": "WebApplication", "name": "80亿分之1", "url": "https://1in8b.ir/zh-hans/", "description": "80亿分之1（1in8b）官方网站。随机出生为今天诞生的婴儿之一，在172个国家与地区的真实统计（联合国、WHO、世界银行）中，把一次的人生活到最后的免费人生模拟游戏。不需注册。你会在哪里出生？", "applicationCategory": "EducationalApplication", "genre": "人生模拟", "operatingSystem": "网页浏览器", "inLanguage": "zh-Hans", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "Jin's Earth", "url": "https://1in8b.ir/", "sameAs": ["https://x.com/jins__earth"]}, "datePublished": "2026-10-05", "dateModified": "2026-10-25", "softwareVersion": "0.8.74", "subjectOf": {"@type": "AboutPage", "url": "https://1in8b.ir/zh-hans/about/"}, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}]</script>
+<script type="application/ld+json">[{"@context": "https://schema.org", "@type": "WebSite", "name": "80亿分之1", "alternateName": ["80亿分之1", "1in8b", "1in8b.ir", "1 in 8 Billion", "80亿分之1 游戏", "80억 분의 1", "80億分の1", "80億分之1", "1 trong 8 tỷ", "1 sur 8 milliards", "1 ใน 8 พันล้าน", "1 entre 8 mil millones", "1 von 8 Milliarden", "1 em 8 bilhões", "1 из 8 миллиардов", "8 Milyarda 1", "1 dari 8 Miliar", "1 su 8 miliardi", "1 من 8 مليارات"], "url": "https://1in8b.ir/zh-hans/", "inLanguage": "zh-Hans", "publisher": {"@type": "Person", "name": "Jin's Earth", "url": "https://1in8b.ir/", "sameAs": ["https://x.com/jins__earth"]}}, {"@context": "https://schema.org", "@type": "WebApplication", "name": "80亿分之1", "url": "https://1in8b.ir/zh-hans/", "description": "80亿分之1（1in8b）官方网站。随机出生为今天诞生的婴儿之一，在172个国家与地区的真实统计（联合国、WHO、世界银行）中，把一次的人生活到最后的免费人生模拟游戏。不需注册。你会在哪里出生？", "applicationCategory": "EducationalApplication", "genre": "人生模拟", "operatingSystem": "网页浏览器", "inLanguage": "zh-Hans", "isAccessibleForFree": true, "creator": {"@type": "Person", "name": "Jin's Earth", "url": "https://1in8b.ir/", "sameAs": ["https://x.com/jins__earth"]}, "datePublished": "2026-10-05", "dateModified": "2026-10-25", "softwareVersion": "0.8.75", "subjectOf": {"@type": "AboutPage", "url": "https://1in8b.ir/zh-hans/about/"}, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}]</script>
 <style>html,body{margin:0}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}img{max-width:100%}[hidden]{display:none!important}</style>
 <title>80亿分之1（1in8b 官方网站）· 人生模拟游戏 · 随机出生，活出仅此一次的人生</title>
 
@@ -140,14 +140,65 @@ button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent
 .orow .bar i { display: block; height: 100%; background: var(--stamp); }
 .orow .v { text-align: right; font-family: var(--f-mono); font-size: 13px; color: var(--ink2); }
 :where(html[dir="rtl"]) .orow .v { text-align: left; }
-.opts { margin-top: 36px; display: flex; flex-wrap: wrap; gap: 28px 40px; align-items: flex-end; }
-.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 4px; overflow: hidden; background: var(--card); }
-.seg button { flex: 1 1 auto; border: 0; background: none; padding: 9px 14px; font-size: 14px; color: var(--ink2); }
+.opts {
+  margin-top: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  position: relative;
+  padding: 28px 28px 0;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  background:
+    linear-gradient(145deg, color-mix(in srgb, var(--stamp-soft) 72%, transparent) 0%, transparent 58%),
+    var(--card);
+  box-shadow: var(--shadow);
+  overflow: clip;
+}
+.opts-main {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 28px 32px;
+  align-items: start;
+}
+.opts-home {
+  margin-top: 28px;
+  padding-top: 24px;
+  border-top: 1px solid var(--rule2);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.opts-home > .optgroup { max-width: 32em; }
+.opts-home .optgroup .hint { max-width: none; }
+.opts .optgroup .lbl { letter-spacing: .05em; }
+.opts .optgroup .seg { width: 100%; }
+.seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 6px; overflow: hidden; background: color-mix(in srgb, var(--card) 70%, var(--paper)); }
+.seg button { flex: 1 1 auto; border: 0; background: none; padding: 11px 14px; font-size: 14px; color: var(--ink2); transition: background .15s ease, color .15s ease; }
 .seg button + button { border-left: 1px solid var(--rule); }
 :where(html[dir="rtl"]) .seg button + button { border-right: 1px solid var(--rule); border-left: 0; }
+.seg button:hover { color: var(--ink); background: color-mix(in srgb, var(--card2) 80%, transparent); }
 .seg button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
-.optgroup { display: flex; flex-direction: column; gap: 8px; }
-.optgroup .hint { font-size: 12.5px; color: var(--ink3); max-width: 24em; }
+.seg button[aria-pressed="true"]:hover { background: var(--ink); color: var(--paper); }
+.optgroup { display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.optgroup .hint { font-size: 12.5px; color: var(--ink3); max-width: 24em; line-height: 1.55; }
+@keyframes optsIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: none; }
+}
+.opts-main > .optgroup { animation: optsIn .48s ease both; }
+.opts-main > .optgroup:nth-child(1) { animation-delay: .03s; }
+.opts-main > .optgroup:nth-child(2) { animation-delay: .1s; }
+.opts-main > .optgroup:nth-child(3) { animation-delay: .17s; }
+.opts .ctarow #startBtn { transition: transform .15s ease, filter .15s ease; }
+.opts .ctarow #startBtn:hover { filter: brightness(1.06); transform: translateY(-1px); }
+.opts .ctarow #startBtn:active { transform: translateY(0); }
+@media (prefers-reduced-motion: reduce) {
+  .opts-main > .optgroup { animation: none; }
+  .seg button { transition: none; }
+  .opts .ctarow #startBtn { transition: none; }
+  .opts .ctarow #startBtn:hover { transform: none; }
+}
 .erayr { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--ink2); }
 .erayr label { white-space: nowrap; }
 .erayr .sel { padding-block: 7px; min-width: 7.5em; }
@@ -160,7 +211,17 @@ button:focus-visible, [tabindex]:focus-visible { outline: 2px solid var(--accent
 .ghost:hover { border-color: var(--ink3); }
 .ghost.sm { padding: 6px 12px; font-size: 13px; line-height: 1.35; }
 .ctarow { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
-.opts .ctarow { align-items: stretch; }
+.opts .ctarow {
+  align-items: center;
+  gap: 14px;
+  margin-top: 28px;
+  margin-inline: -28px;
+  padding: 18px 28px 22px;
+  border-top: 1px solid var(--rule2);
+  background: color-mix(in srgb, var(--accent-soft) 45%, var(--card));
+}
+.opts .ctarow .ghost { align-self: center; }
+.opts .unl-back { margin-top: 18px; }
 .notes { margin-top: 48px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; border-top: 1px solid var(--rule); padding-top: 24px; }
 @media (max-width: 760px) { .notes { grid-template-columns: 1fr; } }
 .notes h3 { font-size: 14px; margin: 0 0 6px; }
@@ -1018,11 +1079,15 @@ a.ghost[hidden] { display: none; }
 @media (max-width: 700px) {
   #intro { padding-bottom: calc(96px + env(safe-area-inset-bottom, 0px)); }
   .lede { font-size: 17px; }
-  .opts { gap: 24px; }
+  .opts { padding: 20px 16px 0; border-radius: 8px; }
+  .opts-main { grid-template-columns: 1fr; gap: 22px; }
+  .opts-home { margin-top: 22px; padding-top: 20px; }
+  .opts-home > .optgroup { max-width: none; }
   .optgroup { flex: 1 1 100%; min-width: 0; }
   .optgroup .hint { max-width: none; }
-  .seg { display: flex; }
+  .seg { display: flex; width: 100%; }
   .seg button { flex: 1 1 0; padding-inline: 8px; }
+  .opts .ctarow { margin-inline: -16px; padding: 16px 16px 18px; }
   .sel { width: 100%; max-width: none; }
   .introfoot { left: 0; right: 0; bottom: 0; padding: 12px 16px calc(12px + env(safe-area-inset-bottom, 0px)); background: var(--card); border-top: 1px solid var(--rule); box-shadow: 0 -10px 30px -12px rgba(0,0,0,.25); }
   .introfoot.off { transform: translateY(110%); box-shadow: none; }
@@ -1150,12 +1215,15 @@ html[lang="th"] .hero h1 { line-height: 1.12; letter-spacing: 0; }
 .hm-card b { font-size: 13.5px; font-weight: 600; padding: 0 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .hm-card small { font-size: 11.5px; color: var(--ink3); padding: 0 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 @media (max-width: 560px) { .hero-memo { margin-top: 18px; } .hm-row { gap: 8px; } .hm-card b { font-size: 12.5px; padding: 0 7px; } .hm-card small { display: none; } }
-.ctahint { font-size: 13px; color: var(--ink3); }
-@media (min-width: 801px) {
-  .opts .ctarow { flex-basis: 100%; align-items: center; gap: 16px; padding-top: 24px; border-top: 1px solid var(--rule2); }
-  .opts .ctarow #startBtn { font-size: 20px; padding: 16px 52px; }
+.ctahint { font-size: 13px; color: var(--ink3); max-width: 22em; line-height: 1.45; }
+.opts .ctarow #startBtn { font-size: 20px; padding: 16px 48px; }
+@media (max-width: 900px) {
+  .opts-main { grid-template-columns: 1fr; gap: 22px; }
 }
-@media (max-width: 800px) { .ctahint { flex-basis: 100%; } }
+@media (max-width: 800px) {
+  .ctahint { flex-basis: 100%; max-width: none; }
+  .opts .ctarow #startBtn { width: 100%; justify-content: center; }
+}
 html[lang="en"] .stat, html[lang="vi"] .stat, html[lang="fr"] .stat, html[lang="th"] .stat, html[lang="es"] .stat, html[lang="pt"] .stat, html[lang="ru"] .stat, html[lang="tr"] .stat , html[lang="id"] .stat, html[lang="it"] .stat{ grid-template-columns: 6.6em minmax(0, 1fr) 2.2em; }
 html[lang="de"] .stat { grid-template-columns: 7.4em minmax(0, 1fr) 2.2em; }
 .stathelp { margin: 6px 0 2px; font-size: 13px; color: var(--ink2); }
@@ -2438,7 +2506,7 @@ html[lang="ar"] .feed .f::before { content: 'بيانات '; }
     <div class="wrap">
     <div class="hero">
       <div class="herotext">
-        <div class="kicker"><span class="nw"><span id="verTag">v0.8.74 beta</span> ·</span> <span class="nw">免费人生模拟 ·</span> <span class="nw">根据172个国家与地区的真实统计 ·</span> <span class="nw" id="ageTag">15岁以上</span></div>
+        <div class="kicker"><span class="nw"><span id="verTag">v0.8.75 beta</span> ·</span> <span class="nw">免费人生模拟 ·</span> <span class="nw">根据172个国家与地区的真实统计 ·</span> <span class="nw" id="ageTag">15岁以上</span></div>
         <h1>80亿分之<em>1</em></h1>
         <p class="friendline" id="friendLine" hidden></p>
         <p class="memo-news" id="memoNews" role="status" hidden></p>
@@ -2477,38 +2545,42 @@ html[lang="ar"] .feed .f::before { content: 'بيانات '; }
     </div>
 
     <div class="opts">
-      <div class="optgroup">
-        <span class="lbl">出生的世界</span>
-        <div class="seg seg4" role="group" aria-label="出生的世界">
+      <div class="opts-main">
+        <div class="optgroup">
+          <span class="lbl">出生的世界</span>
+          <div class="seg seg4" role="group" aria-label="出生的世界">
           <button data-era="past" aria-pressed="false">过去的世界</button>
           <button data-era="now" aria-pressed="true">现在的世界</button>
           <button data-era="future" aria-pressed="false">未来的世界</button>
           <button data-era="any" aria-pressed="false">哪个世界都好</button>
+          </div>
+          <div class="erayr" id="eraYrRow" hidden><label for="eraYr">出生年份</label><select id="eraYr" class="sel"></select></div>
+          <span class="hint" id="eraHint">在今天的世界里过完一生。现在的统计会一直延续到最后。</span>
         </div>
-        <div class="erayr" id="eraYrRow" hidden><label for="eraYr">出生年份</label><select id="eraYr" class="sel"></select></div>
-        <span class="hint" id="eraHint">在今天的世界里过完一生。现在的统计会一直延续到最后。</span>
-      </div>
-      <div class="optgroup">
-        <span class="lbl">出生地的抽选方式</span>
-        <div class="seg" role="group" aria-label="出生地的抽选方式">
+        <div class="optgroup">
+          <span class="lbl">出生地的抽选方式</span>
+          <div class="seg" role="group" aria-label="出生地的抽选方式">
           <button data-mode="birth" aria-pressed="true">此刻出生的婴儿</button>
           <button data-mode="pop" aria-pressed="false">现在活着的80亿人</button>
+          </div>
+          <span class="hint">依出生抽选时，按各地每年的出生人数；依人口抽选时，按人口比例。无论哪一种，人生都从0岁开始。</span>
         </div>
-        <span class="hint">依出生抽选时，按各地每年的出生人数；依人口抽选时，按人口比例。无论哪一种，人生都从0岁开始。</span>
-      </div>
-      <div class="optgroup">
-        <span class="lbl">一段人生的长度</span>
-        <div class="seg" role="group" aria-label="一段人生的长度">
+        <div class="optgroup">
+          <span class="lbl">一段人生的长度</span>
+          <div class="seg" role="group" aria-label="一段人生的长度">
           <button data-pace="30" aria-pressed="false">约30分钟</button>
           <button data-pace="60" aria-pressed="true">约1小时</button>
           <button data-pace="90" aria-pressed="false">约1小时30分钟</button>
+          </div>
+          <span class="hint">这是活到当地平均寿命所需的时间。以1小时来说，一年大约过40～60秒。过程中可以暂停或加速。</span>
         </div>
-        <span class="hint">这是活到当地平均寿命所需的时间。以1小时来说，一年大约过40～60秒。过程中可以暂停或加速。</span>
       </div>
-      <div class="optgroup">
-        <span class="lbl">你实际出生的国家或地区（选填）</span>
-        <select id="homeSel" class="sel" aria-label="你实际出生的国家或地区"></select>
-        <span class="hint">选了之后，会把这一生和你自己的人生并排比较。只会储存在这个装置上。</span>
+      <div class="opts-home">
+        <div class="optgroup">
+          <span class="lbl">你实际出生的国家或地区（选填）</span>
+          <select id="homeSel" class="sel" aria-label="你实际出生的国家或地区"></select>
+          <span class="hint">选了之后，会把这一生和你自己的人生并排比较。只会储存在这个装置上。</span>
+        </div>
       </div>
       <p class="unl-back" id="unlBack" hidden><button class="ghost sm" id="unlOn" type="button"></button></p>
       <div class="ctarow">
@@ -2715,7 +2787,7 @@ html[lang="ar"] .feed .f::before { content: 'بيانات '; }
 <div id="sheet" class="scrim" hidden></div>
 <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 <script src="/api/umami.js"></script>
-<script>globalThis.APP_VERSION="0.8.74";</script>
+<script>globalThis.APP_VERSION="0.8.75";</script>
 <script src="/a/zh-hans.80ab05e7ab.js"></script>
 
 </body>
