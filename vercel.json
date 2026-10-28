@@ -10,6 +10,13 @@
       "maxDuration": 15
     }
   },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/fa/",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
       "source": "/:lang(en|ko|ja|zh|zh-hans|vi|fr|th|es|de|pt|ru|tr|id|it|ar|fa)/m/:path*",
