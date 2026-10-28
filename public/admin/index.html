@@ -16,19 +16,20 @@
     --accent: #3db8c4;
     --bad: #e07070;
     --ok: #6cbc8a;
+    --warn: #d4a85a;
     --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
     --sans: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink); font: 14px/1.45 var(--sans); }
   a { color: var(--accent); }
-  .wrap { max-width: 1200px; margin: 0 auto; padding: 24px 16px 64px; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px 16px 64px; }
   h1 { font-size: 22px; margin: 0 0 6px; font-weight: 650; }
   .sub { color: var(--muted); margin: 0 0 20px; }
   .card { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
   label { display: block; color: var(--muted); font-size: 12px; margin-bottom: 6px; }
-  input[type="password"], input[type="text"], select {
-    width: min(360px, 100%);
+  input[type="password"], input[type="text"], select, textarea {
+    width: min(420px, 100%);
     background: #0c1115;
     border: 1px solid var(--line);
     color: var(--ink);
@@ -36,10 +37,11 @@
     padding: 10px 12px;
     font: inherit;
   }
+  textarea { width: 100%; min-height: 64px; resize: vertical; font-family: var(--mono); font-size: 12px; }
   button {
     border: 0;
     border-radius: 8px;
-    padding: 10px 14px;
+    padding: 9px 13px;
     font: inherit;
     font-weight: 600;
     cursor: pointer;
@@ -47,12 +49,17 @@
     color: #062126;
   }
   button.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); }
+  button.bad { background: transparent; color: var(--bad); border: 1px solid var(--bad); }
+  button.ok { background: transparent; color: var(--ok); border: 1px solid var(--ok); }
   button:disabled { opacity: .5; cursor: not-allowed; }
   .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; margin-top: 12px; }
   .msg { margin-top: 12px; min-height: 1.2em; color: var(--muted); }
   .msg.bad { color: var(--bad); }
   .msg.ok { color: var(--ok); }
   .hidden { display: none !important; }
+  .tabs { display: flex; gap: 6px; margin-bottom: 16px; flex-wrap: wrap; }
+  .tabs button { background: #0c1115; color: var(--ink); border: 1px solid var(--line); }
+  .tabs button.active { border-color: var(--accent); color: var(--accent); }
   .tables { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; margin-top: 12px; }
   .tables button {
     text-align: left;
@@ -81,12 +88,52 @@
     max-height: 160px;
     overflow: auto;
   }
+  .filters { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin-bottom: 12px; }
+  .filters select { width: auto; min-width: 140px; }
+  .mod-list { display: grid; gap: 12px; }
+  .mod {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 14px;
+  }
+  .mod.hid { border-color: #5a3030; background: #1a1416; }
+  .mod-head { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline; margin-bottom: 8px; }
+  .mod-kind {
+    font-family: var(--mono);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .04em;
+    color: var(--accent);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 2px 8px;
+  }
+  .mod-kind.home { color: var(--warn); }
+  .mod-kind.post { color: var(--ok); }
+  .mod-title { font-weight: 650; font-size: 15px; }
+  .mod-sub { color: var(--muted); font-size: 12px; }
+  .badge {
+    font-size: 11px;
+    font-family: var(--mono);
+    border-radius: 999px;
+    padding: 2px 8px;
+    border: 1px solid var(--line);
+    color: var(--muted);
+  }
+  .badge.hid { color: var(--bad); border-color: var(--bad); }
+  .badge.flag { color: var(--warn); border-color: var(--warn); }
+  .fields { display: grid; gap: 10px; margin: 10px 0; }
+  .field label { margin-bottom: 4px; }
+  .field .hint { color: var(--muted); font-size: 11px; margin-top: 4px; }
+  .mod-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
+  .empty { color: var(--muted); padding: 24px; text-align: center; border: 1px dashed var(--line); border-radius: 10px; }
 </style>
 </head>
 <body>
   <div class="wrap">
     <h1>1in8b admin</h1>
-    <p class="sub">Turso table browser. Protected by <code>ADMIN_PASSWORD</code>.</p>
+    <p class="sub">Moderation + Turso browser. Protected by <code>ADMIN_PASSWORD</code>.</p>
 
     <section id="loginView" class="card">
       <form id="loginForm">
@@ -100,30 +147,55 @@
     </section>
 
     <section id="appView" class="hidden">
-      <div class="row" style="margin-bottom:16px">
-        <button type="button" class="ghost" id="refreshBtn">Refresh overview</button>
+      <div class="row" style="margin-bottom:12px">
         <button type="button" class="ghost" id="logoutBtn">Log out</button>
       </div>
 
-      <div class="card">
-        <strong>Tables</strong>
-        <div class="tables" id="tableList"></div>
-        <p class="msg" id="overviewMsg" role="status"></p>
+      <div class="tabs" role="tablist">
+        <button type="button" class="active" id="tabMod" data-tab="mod">Moderation</button>
+        <button type="button" id="tabTables" data-tab="tables">Tables</button>
       </div>
 
-      <div class="toolbar">
-        <strong id="tableTitle">Select a table</strong>
-        <span class="meta" id="tableMeta"></span>
-        <button type="button" class="ghost" id="prevBtn" disabled>Prev</button>
-        <button type="button" class="ghost" id="nextBtn" disabled>Next</button>
+      <div id="paneMod">
+        <div class="filters">
+          <label for="modFilter" style="margin:0">Show</label>
+          <select id="modFilter">
+            <option value="words">With user words</option>
+            <option value="all">All user items</option>
+            <option value="open">Visible</option>
+            <option value="hidden">Hidden</option>
+            <option value="flagged">Flagged / hidden</option>
+          </select>
+          <button type="button" class="ghost" id="modRefresh">Refresh</button>
+          <span class="meta" id="modMeta" style="color:var(--muted);font-family:var(--mono);font-size:12px"></span>
+        </div>
+        <p class="msg" id="modMsg" role="status"></p>
+        <div class="mod-list" id="modList"></div>
       </div>
-      <div class="scroll" id="gridWrap">
-        <table>
-          <thead id="thead"></thead>
-          <tbody id="tbody"></tbody>
-        </table>
+
+      <div id="paneTables" class="hidden">
+        <div class="row" style="margin-bottom:16px">
+          <button type="button" class="ghost" id="refreshBtn">Refresh overview</button>
+        </div>
+        <div class="card">
+          <strong>Tables</strong>
+          <div class="tables" id="tableList"></div>
+          <p class="msg" id="overviewMsg" role="status"></p>
+        </div>
+        <div class="toolbar">
+          <strong id="tableTitle">Select a table</strong>
+          <span class="meta" id="tableMeta"></span>
+          <button type="button" class="ghost" id="prevBtn" disabled>Prev</button>
+          <button type="button" class="ghost" id="nextBtn" disabled>Next</button>
+        </div>
+        <div class="scroll" id="gridWrap">
+          <table>
+            <thead id="thead"></thead>
+            <tbody id="tbody"></tbody>
+          </table>
+        </div>
+        <p class="msg" id="tableMsg" role="status"></p>
       </div>
-      <p class="msg" id="tableMsg" role="status"></p>
     </section>
   </div>
 
@@ -135,6 +207,7 @@
   let currentTable = "";
   let offset = 0;
   let total = 0;
+  let modItems = [];
 
   const $ = (id) => document.getElementById(id);
   const loginView = $("loginView");
@@ -171,16 +244,6 @@
     appView.classList.toggle("hidden", !on);
   }
 
-  function cellHtml(v) {
-    if (v == null) return "<span style='color:var(--muted)'>null</span>";
-    if (typeof v === "object" && v._trunc) {
-      const title = `Full length: ${v.len}`;
-      return `<td class="trunc" title="${title}"><pre class="preview">${escapeHtml(v.preview)}…\n[${v.len} chars]</pre></td>`;
-    }
-    const s = typeof v === "object" ? JSON.stringify(v) : String(v);
-    return `<td title="${escapeAttr(s)}">${escapeHtml(s)}</td>`;
-  }
-
   function escapeHtml(s) {
     return String(s)
       .replace(/&/g, "&amp;")
@@ -191,16 +254,125 @@
     return escapeHtml(s).replace(/"/g, "&quot;");
   }
 
+  function cellHtml(v) {
+    if (v == null) return "<span style='color:var(--muted)'>null</span>";
+    if (typeof v === "object" && v._trunc) {
+      const title = `Full length: ${v.len}`;
+      return `<td class="trunc" title="${title}"><pre class="preview">${escapeHtml(v.preview)}…\n[${v.len} chars]</pre></td>`;
+    }
+    const s = typeof v === "object" ? JSON.stringify(v) : String(v);
+    return `<td title="${escapeAttr(s)}">${escapeHtml(s)}</td>`;
+  }
+
+  function when(at) {
+    if (!at) return "";
+    try { return new Date(at).toISOString().replace("T", " ").slice(0, 16); }
+    catch { return String(at); }
+  }
+
+  function authLost(data) {
+    if (data.why === "auth" || data.why === "off") {
+      saveToken("");
+      showApp(false);
+      setMsg($("loginMsg"), data.why === "off" ? "Admin is disabled (set ADMIN_PASSWORD)." : "Session expired.", "bad");
+      return true;
+    }
+    return false;
+  }
+
+  function setTab(name) {
+    const mod = name === "mod";
+    $("tabMod").classList.toggle("active", mod);
+    $("tabTables").classList.toggle("active", !mod);
+    $("paneMod").classList.toggle("hidden", !mod);
+    $("paneTables").classList.toggle("hidden", mod);
+    if (!mod && !$("tableList").children.length) loadOverview();
+  }
+
+  function renderMod() {
+    const list = $("modList");
+    if (!modItems.length) {
+      list.innerHTML = `<div class="empty">No user-entered items for this filter.</div>`;
+      return;
+    }
+    list.innerHTML = modItems.map((it, idx) => {
+      const fields = (it.fields || []).map((f) => `
+        <div class="field" data-key="${escapeAttr(f.key)}">
+          <label>${escapeHtml(f.label)} <span class="hint">(${f.key})</span></label>
+          <textarea data-idx="${idx}" data-key="${escapeAttr(f.key)}">${escapeHtml(f.value || "")}</textarea>
+        </div>`).join("");
+      const badges = [
+        it.hidden ? `<span class="badge hid">hidden</span>` : `<span class="badge">visible</span>`,
+        it.reports ? `<span class="badge flag">${it.reports} reports</span>` : "",
+        it.plain ? `<span class="badge">no custom words</span>` : "",
+      ].filter(Boolean).join(" ");
+      const link = it.href
+        ? `<a href="${escapeAttr(it.href)}" target="_blank" rel="noopener">Open</a>`
+        : "";
+      return `<article class="mod ${it.hidden ? "hid" : ""}" data-idx="${idx}">
+        <div class="mod-head">
+          <span class="mod-kind ${escapeAttr(it.kind)}">${escapeHtml(it.kind)}</span>
+          <span class="mod-title">${escapeHtml(it.title || it.id)}</span>
+          <span class="mod-sub">${escapeHtml(it.sub || "")} · ${escapeHtml(when(it.at))} · <code>${escapeHtml(it.id)}</code></span>
+          ${badges}
+          ${link}
+        </div>
+        <div class="fields">${fields || `<p class="mod-sub">No editable user words on this item.</p>`}</div>
+        <div class="mod-actions">
+          ${it.hidden
+            ? `<button type="button" class="ok" data-act="show" data-idx="${idx}">Approve / show</button>`
+            : `<button type="button" class="bad" data-act="hide" data-idx="${idx}">Hide</button>`}
+          ${(it.fields || []).length
+            ? `<button type="button" class="ghost" data-act="edit" data-idx="${idx}">Save edits</button>`
+            : ""}
+        </div>
+      </article>`;
+    }).join("");
+  }
+
+  async function loadModeration() {
+    setMsg($("modMsg"), "Loading…");
+    const filter = $("modFilter").value || "words";
+    const data = await post("/api/admin/moderation", { token, filter });
+    if (!data.ok) {
+      if (authLost(data)) return;
+      setMsg($("modMsg"), data.why || "Failed", "bad");
+      return;
+    }
+    modItems = data.items || [];
+    $("modMeta").textContent = `${modItems.length} item${modItems.length === 1 ? "" : "s"}`;
+    renderMod();
+    setMsg($("modMsg"), "", "ok");
+  }
+
+  async function modAct(idx, action) {
+    const it = modItems[idx];
+    if (!it) return;
+    const body = { token, kind: it.kind, id: it.id, action };
+    if (action === "edit") {
+      const card = document.querySelector(`.mod[data-idx="${idx}"]`);
+      const patch = {};
+      card.querySelectorAll("textarea[data-key]").forEach((ta) => {
+        patch[ta.dataset.key] = ta.value;
+      });
+      body.patch = patch;
+    }
+    setMsg($("modMsg"), action === "edit" ? "Saving…" : "Updating…");
+    const data = await post("/api/admin/modact", body);
+    if (!data.ok) {
+      if (authLost(data)) return;
+      setMsg($("modMsg"), data.why || "Failed", "bad");
+      return;
+    }
+    setMsg($("modMsg"), action === "edit" ? "Saved." : (action === "hide" ? "Hidden." : "Visible again."), "ok");
+    await loadModeration();
+  }
+
   async function loadOverview() {
     setMsg($("overviewMsg"), "Loading…");
     const data = await post("/api/admin/overview", { token });
     if (!data.ok) {
-      if (data.why === "auth" || data.why === "off") {
-        saveToken("");
-        showApp(false);
-        setMsg($("loginMsg"), data.why === "off" ? "Admin is disabled (set ADMIN_PASSWORD)." : "Session expired.", "bad");
-        return;
-      }
+      if (authLost(data)) return;
       setMsg($("overviewMsg"), data.why || "Failed", "bad");
       return;
     }
@@ -266,19 +438,25 @@
       saveToken(data.token);
       $("password").value = "";
       showApp(true);
-      await loadOverview();
+      setTab("mod");
+      await loadModeration();
     } catch {
       setMsg($("loginMsg"), "Network error.", "bad");
     }
   });
 
-  $("refreshBtn").addEventListener("click", () => loadOverview());
   $("logoutBtn").addEventListener("click", () => {
     saveToken("");
     currentTable = "";
+    modItems = [];
     showApp(false);
     setMsg($("loginMsg"), "Logged out.", "ok");
   });
+  $("refreshBtn").addEventListener("click", () => loadOverview());
+  $("modRefresh").addEventListener("click", () => loadModeration());
+  $("modFilter").addEventListener("change", () => loadModeration());
+  $("tabMod").addEventListener("click", () => { setTab("mod"); loadModeration(); });
+  $("tabTables").addEventListener("click", () => setTab("tables"));
   $("prevBtn").addEventListener("click", () => {
     if (currentTable) openTable(currentTable, Math.max(0, offset - LIMIT));
   });
@@ -286,10 +464,20 @@
     if (currentTable) openTable(currentTable, offset + LIMIT);
   });
 
+  $("modList").addEventListener("click", (e) => {
+    const btn = e.target.closest("button[data-act]");
+    if (!btn) return;
+    const idx = Number(btn.dataset.idx);
+    const act = btn.dataset.act;
+    if (!Number.isFinite(idx) || !act) return;
+    modAct(idx, act);
+  });
+
   token = loadToken();
   if (token) {
     showApp(true);
-    loadOverview().catch(() => {
+    setTab("mod");
+    loadModeration().catch(() => {
       saveToken("");
       showApp(false);
     });
