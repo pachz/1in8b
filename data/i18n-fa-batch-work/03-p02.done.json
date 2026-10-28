@@ -192,32 +192,32 @@
   {
     "k": "jji5dv2qt",
     "en": "Two years old, and a visitor",
-    "fa": "دو ساله، و یک مهمان"
+    "fa": "دو سالگی و یک مهمان"
   },
   {
     "k": "2a3q339w3jo",
     "en": "When a visitor the child has never met comes to the house, what does the child do first?",
-    "fa": "وقتی مهمان ناآشنا به خانه می‌آید، بچه اول چه می‌کند؟"
+    "fa": "وقتی مهمانی که نمی‌شناسد به خانه می‌آید، بچه اول چه کار می‌کند؟"
   },
   {
     "k": "189svgcpuey",
     "en": "Study the visitor's bag and shoes for a long time",
-    "fa": "مدت زیادی کیف و کفش مهمان را نگاه می‌کند"
+    "fa": "مدت‌ها کیف و کفش مهمان را ورانداز می‌کند"
   },
   {
     "k": "5uj272i95f",
     "en": "Run around and around in front of the visitor",
-    "fa": "جلوی مهمان دور می‌چرخد"
+    "fa": "جلوی مهمان هی می‌دود و می‌چرخد"
   },
   {
     "k": "2yl3vae3w2",
     "en": "Go up to the visitor and offer what's in your hand",
-    "fa": "به سمت مهمان می‌رود و چیزی که در دست دارد پیشنهاد می‌دهد"
+    "fa": "می‌رود سراغ مهمان و چیزی که در دست دارد تعارف می‌کند"
   },
   {
     "k": "8iv9aer3v9",
     "en": "Insist on opening the visitor's bundle alone and keep at it to the end",
-    "fa": "اصرار می‌کند خودش بسته مهمان را باز کند و تا آخر ادامه می‌دهد"
+    "fa": "اصرار می‌کند خودش بستهٔ مهمان را باز کند و تا تهش ول نمی‌کند"
   },
   {
     "k": "1o3683ketcj",
@@ -312,17 +312,17 @@
   {
     "k": "1xng1325nl2",
     "en": "{0} can walk quite well now.",
-    "fa": "{0} حالا خوب راه می‌رود."
+    "fa": "{0} دیگر خوب راه می‌رود."
   },
   {
     "k": "1v4rpgswo9m",
     "en": "What you pick leans the child's temperament that way; moments like these add up, and it settles by about age five.",
-    "fa": "آنچه انتخاب می‌کنید تمایز کودک را به آن سمت می‌برد؛ چنین لحظه‌هایی جمع می‌شوند و تا حدود پنج سالگی تثبیت می‌شود."
+    "fa": "انتخاب شما خلق‌وخوی کودک را به همان سو می‌کشاند؛ این لحظه‌ها روی هم جمع می‌شوند و تقریباً تا پنج‌سالگی شکل می‌گیرند."
   },
   {
     "k": "pn65xmeeq2",
     "en": "Temperament comes from what we are born with and what happens as we grow. Twin studies put about 40% of the differences in personality down to genes (Vukasović & Bratko 2015)",
-    "fa": "تمایز از آنچه با آن متولد می‌شویم و آنچه در رشد رخ می‌دهد می‌آید. مطالعات دوقلوها حدود ۴۰٪ تفاوت‌های شخصیت را به ژن‌ها نسبت می‌دهند (Vukasović & Bratko 2015)"
+    "fa": "خلق‌وخو از آنچه با آن به دنیا می‌آییم و آنچه در رشد شکل می‌گیرد می‌آید. مطالعات دوقلوها حدود ۴۰٪ تفاوت‌های شخصیت را به ژن‌ها نسبت می‌دهند (Vukasović & Bratko ۲۰۱۵)"
   },
   {
     "k": "218asugi7nx",
@@ -347,22 +347,22 @@
   {
     "k": "yr11gkav6b",
     "en": "Curious about what was in the bag, you stayed by the visitor until they left.",
-    "fa": "کنجکاو بودید داخل کیف چه باشد و تا رفتن مهمان کنارش ماندید."
+    "fa": "کنجکاو بودید داخل کیف چیست؛ تا رفتن مهمان کنارش ماندید."
   },
   {
     "k": "2552hbhwrbj",
     "en": "You ran about in front of the visitor until you fell asleep on their lap.",
-    "fa": "جلوی مهمان دویدید تا روی پایش خوابید."
+    "fa": "جلوی مهمان دویدید تا روی پایش خوابتان برد."
   },
   {
     "k": "ab3uz80ghw",
     "en": "You handed over what you were holding, and the visitor broke into a big smile.",
-    "fa": "آنچه در دست داشتید دادید و مهمان لبخند بزرگی زد."
+    "fa": "چیزی که در دست داشتید دادید و مهمان حسابی لبخند زد."
   },
   {
     "k": "msydahtsr8",
     "en": "After a long struggle, you opened the bundle all by yourself.",
-    "fa": "پس از مبارزه طولانی، بسته را کاملاً خودتان باز کردید."
+    "fa": "بعد از کلنجار طولانی، بسته را خودتان تا آخر باز کردید."
   },
   {
     "k": "194s07wid2e",

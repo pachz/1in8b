@@ -1,102 +1,502 @@
 [
-  {"k": "1kmdxzax2jl", "en": "Urban population", "fa": "جمعیت شهری"},
-  {"k": "cjscc7e7pj", "en": "Working in agriculture", "fa": "اشتغال در کشاورزی"},
-  {"k": "4cb8qzrqmq", "en": "Tertiary enrollment (gross)", "fa": "ثبت‌نام آموزش عالی (ناخالص)"},
-  {"k": "1jbte8boct7", "en": "Internet use", "fa": "استفاده از اینترنت"},
-  {"k": "1b7wj8rv3m1", "en": "Fertility rate", "fa": "نرخ باروری"},
-  {"k": "2as6w9gpkup", "en": "Maternal mortality (per 100,000 births)", "fa": "مرگ‌ومیر مادران (در هر ۱۰۰٬۰۰۰ زایمان)"},
-  {"k": "2c6hki5toup", "en": "HIV prevalence (ages 15–49)", "fa": "شیوع HIV (سن ۱۵–۴۹)"},
-  {"k": "z40zyaiky6", "en": "Homicide rate (per 100,000)", "fa": "نرخ قتل (در هر ۱۰۰٬۰۰۰)"},
-  {"k": "1bp6zvv6b8e", "en": "Road deaths (per 100,000)", "fa": "مرگ در جاده (در هر ۱۰۰٬۰۰۰)"},
-  {"k": "1fedeubnob8", "en": "Tobacco use, men / women", "fa": "مصرف تنباکو، مردان / زنان"},
-  {"k": "1h7zkj4pvja", "en": "Out-of-pocket health spending", "fa": "هزینهٔ سلامت از جیب"},
-  {"k": "5emipi759x", "en": "Married before 18 (women)", "fa": "ازدواج قبل از ۱۸ سالگی (زنان)"},
-  {"k": "7rv3vu59vj", "en": "Life satisfaction (0–10)", "fa": "رضایت از زندگی (۰–۱۰)"},
-  {"k": "1zoo092gvjs", "en": "No data", "fa": "بدون داده"},
-  {"k": "21wv4iau8p8", "en": "{0} · {1} (projection)", "fa": "{0} · {1} (پیش‌بینی)"},
-  {"k": "18rkiv8wpmb", "en": "View {0}", "fa": "مشاهدهٔ {0}"},
-  {"k": "7cycxh4kvj", "en": "† at {0}", "fa": "† در {0}"},
-  {"k": "1y3wpk7hlw6", "en": "† at {0} · {1}", "fa": "† در {0} · {1}"},
-  {"k": "17tfofow47d", "en": "Me, {0}", "fa": "من، {0}"},
-  {"k": "4zzjv1gmjy", "en": "Wife", "fa": "همسر (زن)"},
-  {"k": "27qgxmkj1by", "en": "Husband", "fa": "همسر (مرد)"},
-  {"k": "126n2g419fv", "en": "Stepfather, {0}", "fa": "ناپدری، {0}"},
-  {"k": "902n799nao", "en": "Siblings, {0}", "fa": "خواهر و برادر، {0}"},
-  {"k": "2eotwtjlop1", "en": "Pet: {0}", "fa": "حیوان خانگی: {0}"},
-  {"k": "1dtlluwigp9", "en": "Pet: {0}, age {1}", "fa": "حیوان خانگی: {0}، سن {1}"},
-  {"k": "138ah5v5pxp", "en": "Pet: {0}, under a year old", "fa": "حیوان خانگی: {0}، زیر یک سال"},
-  {"k": "1h63q212mah", "en": "Hide names", "fa": "پنهان کردن نام‌ها"},
-  {"k": "22t3fe6foi4", "en": "Names and ages", "fa": "نام‌ها و سن‌ها"},
-  {"k": "tb4pf74y32", "en": "Heavy moments such as child death, child marriage, conflict and illness happen here as often as the real statistics say.", "fa": "لحظات سنگین مانند مرگ کودک، ازدواج کودکان، درگیری و بیماری اینجا به اندازهٔ آمار واقعی رخ می‌دهند."},
-  {"k": "xjl33u1f77", "en": "Show frightening scenes again", "fa": "نمایش دوبارهٔ صحنه‌های ترسناک"},
-  {"k": "1a9ua66w2rm", "en": "Leave out frightening scenes", "fa": "حذف صحنه‌های ترسناک"},
-  {"k": "f5yq48o0iw", "en": "Ages 12+", "fa": "۱۲ سال به بالا"},
-  {"k": "gkdh8adkt6", "en": "Ages 15+", "fa": "۱۵ سال به بالا"},
-  {"k": "w65p8sk6qm", "en": "Contains: violence, love and marriage", "fa": "شامل: خشونت، عشق و ازدواج"},
-  {"k": "281d3fevenz", "en": "Contains: violence, crime, alcohol and tobacco, love and marriage", "fa": "شامل: خشونت، جرم، الکل و تنباکو، عشق و ازدواج"},
-  {"k": "1h62afyrfq4", "en": "Keep an eye on the time, and don't get too absorbed.", "fa": "به زمان توجه کنید و بیش از حد غرق نشوید."},
-  {"k": "17r4q7s5zqh", "en": "Don't copy what happens in the simulation.", "fa": "آنچه در شبیه‌سازی می‌آید را تکرار نکنید."},
-  {"k": "y9jmfdl5o", "en": "Every life and its ending are free.", "fa": "هر زندگی و پایانش آزاد است."},
-  {"k": "18fjflnty16", "en": "The keepsake pass ({0}) is paid for separately.", "fa": "گذرنامهٔ یادگاری ({0}) جداگانه پرداخت می‌شود."},
-  {"k": "1rsudxwvaeb", "en": "Lives in this browser now leave out frightening scenes such as suicide, sexual violence, drugs and violence, and the cards for choosing drink, gambling or crime. Illness, accidents and war still come as the real statistics say.", "fa": "زندگی‌ها در این مرورگر اکنون صحنه‌های ترسناک مانند خودکشی، خشونت جنسی، مواد و خشونت، و کارت‌های انتخاب نوشیدنی، قمار یا جرم را حذف می‌کنند. بیماری، سانحه و جنگ همچنان به اندازهٔ آمار واقعی می‌آیند."},
-  {"k": "2ebvf9g96eb", "en": "Frightening scenes come again as the real statistics say.", "fa": "صحنه‌های ترسناک دوباره به اندازهٔ آمار واقعی برمی‌گردند."},
-  {"k": "1rm5xkotfj5", "en": "<div class=\"dec{0}\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"decT\"><div class=\"hd\"><span>{1}</span><span>Age {2} · {3}</span></div><div class=\"bd\"><h2 id=\"decT\">{4}</h2>{5}{6}{7}{8}<div class=\"ch\">{9}</div></div></div>", "fa": "<div class=\"dec{0}\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"decT\"><div class=\"hd\"><span>{1}</span><span>سن {2} · {3}</span></div><div class=\"bd\"><h2 id=\"decT\">{4}</h2>{5}{6}{7}{8}<div class=\"ch\">{9}</div></div></div>"},
-  {"k": "x6gtci8myz", "en": "A pause", "fa": "مکث"},
-  {"k": "29m28kmyscg", "en": "A small choice", "fa": "انتخاب کوچک"},
-  {"k": "q2es7mk1rj", "en": "Decided with family", "fa": "با خانواده تصمیم گرفته شد"},
-  {"k": "1ap2b7zwp2x", "en": "A big decision", "fa": "تصمیم بزرگ"},
-  {"k": "lm842xpvpt", "en": "{0}, age {1}", "fa": "{0}، سن {1}"},
-  {"k": "27q26dy32ep", "en": "Name it", "fa": "نام بگذارید"},
-  {"k": "apjj055vsh", "en": "<button type=\"button\" class=\"decmin\" id=\"decMin\" title=\"Look at the page behind it, then open it again to choose\">Set aside ▾</button>", "fa": "<button type=\"button\" class=\"decmin\" id=\"decMin\" title=\"صفحهٔ پشت را ببینید، بعد دوباره باز کنید تا انتخاب کنید\">کنار بگذار ▾</button>"},
-  {"k": "1idhe1i6z64", "en": "<div class=\"autobar\" aria-hidden=\"true\"><i id=\"autoProg\"></i></div><div class=\"autonote\"><span>{0}</span><button class=\"ghost sm\" id=\"autoStop\">Turn off auto</button></div>", "fa": "<div class=\"autobar\" aria-hidden=\"true\"><i id=\"autoProg\"></i></div><div class=\"autonote\"><span>{0}</span><button class=\"ghost sm\" id=\"autoStop\">خاموش کردن خودکار</button></div>"},
-  {"k": "24lfm6mov93", "en": "Life goes on in a moment. Tap the box to write, and it waits until you are done", "fa": "زندگی لحظه‌ای ادامه می‌یابد. جعبه را بزنید تا بنویسید؛ تا تمام کنید منتظر می‌ماند"},
-  {"k": "d0tdkfi4yv", "en": "Going with '{0}' in a moment · tap the card to stop", "fa": "لحظه‌ای دیگر با «{0}» پیش می‌رود · کارت را بزنید تا متوقف شود"},
-  {"k": "11kik409whx", "en": "<button class=\"ghost sm autoon\" id=\"autoOn\">Leave decisions to auto from now on</button>", "fa": "<button class=\"ghost sm autoon\" id=\"autoOn\">از این پس تصمیم‌ها را به خودکار بسپار</button>"},
-  {"k": "5h0tp30e8w", "en": "<button class=\"ghost sm autoon\" id=\"refOff\">Don't show these pauses again</button>", "fa": "<button class=\"ghost sm autoon\" id=\"refOff\">این مکث‌ها را دیگر نشان نده</button>"},
-  {"k": "21ph3hc95rm", "en": "At 5, 15, 30, 50 and 70 the life will pause so you can write down a thought.", "fa": "در ۵، ۱۵، ۳۰، ۵۰ و ۷۰ سالگی زندگی مکث می‌کند تا یک اندیشه بنویسید."},
-  {"k": "ckrrme1om2", "en": "Pauses are off. What they would have shown goes into the life record as one line. Tap '✎ Pauses' to turn them back on.", "fa": "مکث‌ها خاموش است. آنچه نشان می‌دادند در یک خط در پروندهٔ زندگی می‌آید. «✎ مکث‌ها» را بزنید تا دوباره روشن شوند."},
-  {"k": "1ow7112zhq", "en": "Decisions are now on auto. Each decision will show for a moment, then move on.", "fa": "تصمیم‌ها اکنون خودکار است. هر تصمیم لحظه‌ای دیده می‌شود، سپس ادامه می‌یابد."},
-  {"k": "1qx1db3ve0w", "en": "The focus of each year and spending habits like dinners and gifts and money for your parents are on auto too.", "fa": "تمرکز هر سال و عادت‌های خرج مانند شام و هدیه و پول برای والدین هم خودکار است."},
-  {"k": "26rywn7gyj3", "en": "Its choices lean toward the grain you set.", "fa": "انتخاب‌هایش به سمت رگه‌ای که تنظیم کردید متمایل است."},
-  {"k": "jqiv15qbvq", "en": "You are making your own decisions again.", "fa": "دوباره خودتان تصمیم می‌گیرید."},
-  {"k": "ijs2ecp4ze", "en": "The spending habits Auto mode had switched on are off again too.", "fa": "عادت‌های خرجی که حالت خودکار روشن کرده بود هم دوباره خاموش شد."},
-  {"k": "12gx2f9acxw", "en": "Set the grain", "fa": "تنظیم رگه"},
-  {"k": "8o6bb1afrl", "en": "Choose which grain auto mode leans toward", "fa": "انتخاب کنید خودکار به کدام رگه متمایل شود"},
-  {"k": "qvwiymg257", "en": "Which grain would you like to live?", "fa": "دوست دارید با کدام رگه زندگی کنید؟"},
-  {"k": "1jnczm3m1qu", "en": "When auto mode chooses, it leans toward this grain. Where the life was born, into what circumstances, and the people around it decide too, so a life won't follow it all the way.", "fa": "وقتی خودکار انتخاب می‌کند، به این رگه متمایل است. محل تولد، شرایط و مردم اطراف هم اثر می‌گذارند؛ زندگی تا آخر آن را دنبال نمی‌کند."},
-  {"k": "1frfnk2pwc9", "en": "What you choose is a way of living. The grain of this life is measured again after it ends, from the time it actually spent.", "fa": "آنچه انتخاب می‌کنید شیوهٔ زندگی است. رگهٔ این زندگی پس از پایان، از زمانی که واقعاً گذرانده، دوباره سنجیده می‌شود."},
-  {"k": "i3zrzqr293", "en": "Set this grain", "fa": "این رگه را تنظیم کن"},
-  {"k": "10giyge4muu", "en": "Turn on auto mode with this grain", "fa": "خودکار را با این رگه روشن کن"},
-  {"k": "1zu5x0trqdj", "en": "Back to ordinary", "fa": "بازگشت به عادی"},
-  {"k": "28h2z8b8cs4", "en": "Ordinary for now: auto mode chooses as people in that country usually do.", "fa": "فعلاً عادی: خودکار همان‌طور انتخاب می‌کند که مردم آن کشور معمولاً می‌کنند."},
-  {"k": "1jekf2zsddd", "en": "Nearest grain", "fa": "نزدیک‌ترین رگه"},
-  {"k": "1nbtwv0vcjp", "en": "Half and half on more than one pair, so it isn't gathered into one name.", "fa": "نیمه‌نیمه در بیش از یک جفت، پس در یک نام جمع نمی‌شود."},
-  {"k": "1zvwoikc7sm", "en": "Auto mode is on with this grain. Its choices lean toward it.", "fa": "خودکار با این رگه روشن است. انتخاب‌هایش به سمت آن متمایل است."},
-  {"k": "bel9m73xr2", "en": "The grain is back to ordinary.", "fa": "رگه به حالت عادی برگشت."},
-  {"k": "w82z91uh93", "en": "It’s saved only on this device.", "fa": "فقط روی این دستگاه ذخیره می‌شود."},
-  {"k": "1ef9ewb9ypt", "en": "You can change it under “Where you were actually born” on the first screen, or turn it off with “I'd rather not say”.", "fa": "در صفحهٔ اول زیر «جایی که واقعاً به دنیا آمدید» می‌توانید عوض کنید، یا با «ترجیح می‌دهم نگویم» خاموش کنید."},
-  {"k": "2b00wz5vkny", "en": "This person was born in <b>{0}</b>, where we guessed you were born.", "fa": "این شخص در <b>{0}</b> به دنیا آمد؛ همان‌جایی که حدس زدیم شما متولد شده‌اید."},
-  {"k": "1mbuvwkfdfm", "en": "Even in the same country, lives can take very different paths.", "fa": "حتی در یک کشور، زندگی‌ها می‌توانند مسیرهای بسیار متفاوت بگیرند."},
-  {"k": "1uxg1tfdidj", "en": "In <b>{0}</b>, where we guessed you were born, {1} of the children born the same year live past {2}.", "fa": "در <b>{0}</b>، جایی که حدس زدیم شما متولد شده‌اید، {1} از کودکان متولد همان سال از {2} سالگی عبور می‌کنند."},
-  {"k": "1fy09wxnezb", "en": "Life expectancy in the two places is {0} and {1} years.", "fa": "امید زندگی در دو جا {0} و {1} سال است."},
-  {"k": "226fp3gvgph", "en": "<div class=\"homecmp\">This person was born in <b>{0}</b>, just like you. Even in the same country, lives can take very different paths.</div>", "fa": "<div class=\"homecmp\">این شخص در <b>{0}</b> به دنیا آمد، درست مثل شما. حتی در یک کشور، زندگی‌ها می‌توانند مسیرهای بسیار متفاوت بگیرند.</div>"},
-  {"k": "bhr1wbqwp6", "en": "<div class=\"homecmp\">In <b>{0}</b>, where you yourself were born, {1} of the children born the same year live past {2}. In {3}, it is {4}. Life expectancy in the two countries is {5} and {6} years.</div>", "fa": "<div class=\"homecmp\">در <b>{0}</b>، جایی که خودتان به دنیا آمدید، {1} از کودکان متولد همان سال از {2} سالگی عبور می‌کنند. در {3}، {4} است. امید زندگی در دو کشور {5} و {6} سال است.</div>"},
-  {"k": "1ubp7a3nr5q", "en": "<div class=\"panel\"><h3><span>Five people born in the same second</span><span class=\"lbl\">shortest life first</span></h3><ul class=\"lives5\">{0}</ul><p class=\"lives5note\">The five people born in the same second lived to {1}. None of them chose where they would be born.</p></div>", "fa": "<div class=\"panel\"><h3><span>پنج نفر متولد در همان ثانیه</span><span class=\"lbl\">کوتاه‌ترین عمر اول</span></h3><ul class=\"lives5\">{0}</ul><p class=\"lives5note\">پنج نفر متولد در همان ثانیه تا {1} زندگی کردند. هیچ‌کس محل تولدش را انتخاب نکرد.</p></div>"},
-  {"k": "zt7vpm2boc", "en": " · this was you", "fa": " · این شما بودید"},
-  {"k": "2ask0dlgdlv", "en": "Where this work goes on", "fa": "جایی که این کار ادامه می‌یابد"},
-  {"k": "1oq7zkil55y", "en": "What this life went through, and the people working on it today", "fa": "آنچه این زندگی پشت سر گذاشت، و کسانی که امروز روی آن کار می‌کنند"},
-  {"k": "23c530o3zje", "en": "Each link opens the organisation's own page about its work. They have no connection with 1 in 8 Billion.", "fa": "هر پیوند صفحهٔ خود سازمان دربارهٔ کارش را باز می‌کند. ارتباطی با «۱ در ۸ میلیارد» ندارند."},
-  {"k": "7uwrndllmf", "en": "<div class=\"panel\"><h3><span>Thoughts you left in this life</span><span class=\"lbl\">{0}</span></h3><ul class=\"journal\">{1}</ul></div>", "fa": "<div class=\"panel\"><h3><span>اندیشه‌هایی که در این زندگی گذاشتید</span><span class=\"lbl\">{0}</span></h3><ul class=\"journal\">{1}</ul></div>"},
-  {"k": "22m9z95ugsh", "en": "<li><small>Age {0} · {1}</small><q>{2}</q></li>", "fa": "<li><small>سن {0} · {1}</small><q>{2}</q></li>"},
-  {"k": "d5qr4exegr", "en": "If things feel very hard right now, you don't have to carry it alone: {@y}. Someone will listen.", "fa": "اگر الان خیلی سخت است، لازم نیست تنها تحمل کنید: {@y}. کسی گوش می‌دهد."},
-  {"k": "20f2nqdzud1", "en": "If things feel very hard right now, please reach out to a crisis line: {@c}. Someone will listen, any time of day.", "fa": "اگر الان خیلی سخت است، لطفاً با خط بحران تماس بگیرید: {@c}. هر ساعت از شبانه‌روز کسی گوش می‌دهد."},
-  {"k": "1a09utfe0z4", "en": "Saved. It is on the card too.", "fa": "ذخیره شد. روی کارت هم هست."},
-  {"k": "rn67kucgfs", "en": "Your words were removed.", "fa": "نوشتهٔ شما حذف شد."},
-  {"k": "1xvz5qnmxof", "en": "In Classroom, a life once born is lived to its end. When this life ends, you can be born again.", "fa": "در کلاس، زندگی‌ای که یک‌بار آغاز شود تا پایان زندگی می‌شود. وقتی این زندگی تمام شد، می‌توانید دوباره متولد شوید."},
-  {"k": "1hw4rmqfo4e", "en": "<p>The life of <b>{0}</b>, born in {1} and now {2} years old, is still going on. If you are born again, that life will disappear without a record. A real life can't be started over, but here you get to choose.</p><div class=\"ctarow\"><button class=\"cta\" id=\"guardBack\">Go back to that life</button><button class=\"ghost\" id=\"guardNew\">Be born again anyway</button></div>", "fa": "<p>زندگی <b>{0}</b>، متولد {1} و اکنون {2} ساله، هنوز ادامه دارد. اگر دوباره متولد شوید، آن زندگی بدون پرونده ناپدید می‌شود. زندگی واقعی از نو شروع نمی‌شود، اما اینجا انتخاب با شماست.</p><div class=\"ctarow\"><button class=\"cta\" id=\"guardBack\">بازگشت به آن زندگی</button><button class=\"ghost\" id=\"guardNew\">باز هم متولد شو</button></div>"},
-  {"k": "wqsj1hpwhx", "en": "Any year ({0}–{1})", "fa": "هر سال ({0}–{1})"},
-  {"k": "9ummvdf42r", "en": "<option value=\"\">I'd rather not say</option>", "fa": "<option value=\"\">ترجیح می‌دهم نگویم</option>"},
-  {"k": "1m04fxlg8lz", "en": "under age 1", "fa": "زیر یک سال"},
-  {"k": "22w6tkus28s", "en": "at ages 1–4", "fa": "در سن ۱–۴"},
-  {"k": "5kfx6s97qs", "en": "at ages 5–14", "fa": "در سن ۵–۱۴"}
+  {
+    "k": "1kmdxzax2jl",
+    "en": "Urban population",
+    "fa": "جمعیت شهری"
+  },
+  {
+    "k": "cjscc7e7pj",
+    "en": "Working in agriculture",
+    "fa": "اشتغال در کشاورزی"
+  },
+  {
+    "k": "4cb8qzrqmq",
+    "en": "Tertiary enrollment (gross)",
+    "fa": "ثبت‌نام آموزش عالی (ناخالص)"
+  },
+  {
+    "k": "1jbte8boct7",
+    "en": "Internet use",
+    "fa": "استفاده از اینترنت"
+  },
+  {
+    "k": "1b7wj8rv3m1",
+    "en": "Fertility rate",
+    "fa": "نرخ باروری"
+  },
+  {
+    "k": "2as6w9gpkup",
+    "en": "Maternal mortality (per 100,000 births)",
+    "fa": "مرگ‌ومیر مادران (در هر ۱۰۰٬۰۰۰ زایمان)"
+  },
+  {
+    "k": "2c6hki5toup",
+    "en": "HIV prevalence (ages 15–49)",
+    "fa": "شیوع HIV (سن ۱۵–۴۹)"
+  },
+  {
+    "k": "z40zyaiky6",
+    "en": "Homicide rate (per 100,000)",
+    "fa": "نرخ قتل (در هر ۱۰۰٬۰۰۰)"
+  },
+  {
+    "k": "1bp6zvv6b8e",
+    "en": "Road deaths (per 100,000)",
+    "fa": "مرگ در جاده (در هر ۱۰۰٬۰۰۰)"
+  },
+  {
+    "k": "1fedeubnob8",
+    "en": "Tobacco use, men / women",
+    "fa": "مصرف تنباکو، مردان / زنان"
+  },
+  {
+    "k": "1h7zkj4pvja",
+    "en": "Out-of-pocket health spending",
+    "fa": "هزینهٔ سلامت از جیب"
+  },
+  {
+    "k": "5emipi759x",
+    "en": "Married before 18 (women)",
+    "fa": "ازدواج قبل از ۱۸ سالگی (زنان)"
+  },
+  {
+    "k": "7rv3vu59vj",
+    "en": "Life satisfaction (0–10)",
+    "fa": "رضایت از زندگی (۰–۱۰)"
+  },
+  {
+    "k": "1zoo092gvjs",
+    "en": "No data",
+    "fa": "بدون داده"
+  },
+  {
+    "k": "21wv4iau8p8",
+    "en": "{0} · {1} (projection)",
+    "fa": "{0} · {1} (پیش‌بینی)"
+  },
+  {
+    "k": "18rkiv8wpmb",
+    "en": "View {0}",
+    "fa": "مشاهدهٔ {0}"
+  },
+  {
+    "k": "7cycxh4kvj",
+    "en": "† at {0}",
+    "fa": "† در {0}"
+  },
+  {
+    "k": "1y3wpk7hlw6",
+    "en": "† at {0} · {1}",
+    "fa": "† در {0} · {1}"
+  },
+  {
+    "k": "17tfofow47d",
+    "en": "Me, {0}",
+    "fa": "من، {0}"
+  },
+  {
+    "k": "4zzjv1gmjy",
+    "en": "Wife",
+    "fa": "همسر (زن)"
+  },
+  {
+    "k": "27qgxmkj1by",
+    "en": "Husband",
+    "fa": "همسر (مرد)"
+  },
+  {
+    "k": "126n2g419fv",
+    "en": "Stepfather, {0}",
+    "fa": "ناپدری، {0}"
+  },
+  {
+    "k": "902n799nao",
+    "en": "Siblings, {0}",
+    "fa": "خواهر و برادر، {0}"
+  },
+  {
+    "k": "2eotwtjlop1",
+    "en": "Pet: {0}",
+    "fa": "حیوان خانگی: {0}"
+  },
+  {
+    "k": "1dtlluwigp9",
+    "en": "Pet: {0}, age {1}",
+    "fa": "حیوان خانگی: {0}، سن {1}"
+  },
+  {
+    "k": "138ah5v5pxp",
+    "en": "Pet: {0}, under a year old",
+    "fa": "حیوان خانگی: {0}، زیر یک سال"
+  },
+  {
+    "k": "1h63q212mah",
+    "en": "Hide names",
+    "fa": "پنهان کردن نام‌ها"
+  },
+  {
+    "k": "22t3fe6foi4",
+    "en": "Names and ages",
+    "fa": "نام‌ها و سن‌ها"
+  },
+  {
+    "k": "tb4pf74y32",
+    "en": "Heavy moments such as child death, child marriage, conflict and illness happen here as often as the real statistics say.",
+    "fa": "لحظات سنگین مانند مرگ کودک، ازدواج کودکان، درگیری و بیماری اینجا به اندازهٔ آمار واقعی رخ می‌دهند."
+  },
+  {
+    "k": "xjl33u1f77",
+    "en": "Show frightening scenes again",
+    "fa": "نمایش دوبارهٔ صحنه‌های ترسناک"
+  },
+  {
+    "k": "1a9ua66w2rm",
+    "en": "Leave out frightening scenes",
+    "fa": "حذف صحنه‌های ترسناک"
+  },
+  {
+    "k": "f5yq48o0iw",
+    "en": "Ages 12+",
+    "fa": "۱۲ سال به بالا"
+  },
+  {
+    "k": "gkdh8adkt6",
+    "en": "Ages 15+",
+    "fa": "۱۵ سال به بالا"
+  },
+  {
+    "k": "w65p8sk6qm",
+    "en": "Contains: violence, love and marriage",
+    "fa": "شامل: خشونت، عشق و ازدواج"
+  },
+  {
+    "k": "281d3fevenz",
+    "en": "Contains: violence, crime, alcohol and tobacco, love and marriage",
+    "fa": "شامل: خشونت، جرم، الکل و تنباکو، عشق و ازدواج"
+  },
+  {
+    "k": "1h62afyrfq4",
+    "en": "Keep an eye on the time, and don't get too absorbed.",
+    "fa": "به زمان توجه کنید و بیش از حد غرق نشوید."
+  },
+  {
+    "k": "17r4q7s5zqh",
+    "en": "Don't copy what happens in the simulation.",
+    "fa": "آنچه در شبیه‌سازی می‌آید را تکرار نکنید."
+  },
+  {
+    "k": "y9jmfdl5o",
+    "en": "Every life and its ending are free.",
+    "fa": "هر زندگی و پایانش آزاد است."
+  },
+  {
+    "k": "18fjflnty16",
+    "en": "The keepsake pass ({0}) is paid for separately.",
+    "fa": "گذرنامهٔ یادگاری ({0}) جداگانه پرداخت می‌شود."
+  },
+  {
+    "k": "1rsudxwvaeb",
+    "en": "Lives in this browser now leave out frightening scenes such as suicide, sexual violence, drugs and violence, and the cards for choosing drink, gambling or crime. Illness, accidents and war still come as the real statistics say.",
+    "fa": "زندگی‌ها در این مرورگر اکنون صحنه‌های ترسناک مانند خودکشی، خشونت جنسی، مواد و خشونت، و کارت‌های انتخاب نوشیدنی، قمار یا جرم را حذف می‌کنند. بیماری، سانحه و جنگ همچنان به اندازهٔ آمار واقعی می‌آیند."
+  },
+  {
+    "k": "2ebvf9g96eb",
+    "en": "Frightening scenes come again as the real statistics say.",
+    "fa": "صحنه‌های ترسناک دوباره به اندازهٔ آمار واقعی برمی‌گردند."
+  },
+  {
+    "k": "1rm5xkotfj5",
+    "en": "<div class=\"dec{0}\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"decT\"><div class=\"hd\"><span>{1}</span><span>Age {2} · {3}</span></div><div class=\"bd\"><h2 id=\"decT\">{4}</h2>{5}{6}{7}{8}<div class=\"ch\">{9}</div></div></div>",
+    "fa": "<div class=\"dec{0}\" role=\"dialog\" aria-modal=\"true\" aria-labelledby=\"decT\"><div class=\"hd\"><span>{1}</span><span>سن {2} · {3}</span></div><div class=\"bd\"><h2 id=\"decT\">{4}</h2>{5}{6}{7}{8}<div class=\"ch\">{9}</div></div></div>"
+  },
+  {
+    "k": "x6gtci8myz",
+    "en": "A pause",
+    "fa": "مکث"
+  },
+  {
+    "k": "29m28kmyscg",
+    "en": "A small choice",
+    "fa": "انتخاب کوچک"
+  },
+  {
+    "k": "q2es7mk1rj",
+    "en": "Decided with family",
+    "fa": "با خانواده تصمیم گرفته شد"
+  },
+  {
+    "k": "1ap2b7zwp2x",
+    "en": "A big decision",
+    "fa": "تصمیم مهم"
+  },
+  {
+    "k": "lm842xpvpt",
+    "en": "{0}, age {1}",
+    "fa": "{0}، سن {1}"
+  },
+  {
+    "k": "27q26dy32ep",
+    "en": "Name it",
+    "fa": "نام بگذارید"
+  },
+  {
+    "k": "apjj055vsh",
+    "en": "<button type=\"button\" class=\"decmin\" id=\"decMin\" title=\"Look at the page behind it, then open it again to choose\">Set aside ▾</button>",
+    "fa": "<button type=\"button\" class=\"decmin\" id=\"decMin\" title=\"صفحهٔ پشت را ببینید؛ برای انتخاب دوباره بازش کنید\">برای بعد بگذار ▾</button>"
+  },
+  {
+    "k": "1idhe1i6z64",
+    "en": "<div class=\"autobar\" aria-hidden=\"true\"><i id=\"autoProg\"></i></div><div class=\"autonote\"><span>{0}</span><button class=\"ghost sm\" id=\"autoStop\">Turn off auto</button></div>",
+    "fa": "<div class=\"autobar\" aria-hidden=\"true\"><i id=\"autoProg\"></i></div><div class=\"autonote\"><span>{0}</span><button class=\"ghost sm\" id=\"autoStop\">خاموش کردن خودکار</button></div>"
+  },
+  {
+    "k": "24lfm6mov93",
+    "en": "Life goes on in a moment. Tap the box to write, and it waits until you are done",
+    "fa": "زندگی لحظه‌ای ادامه می‌یابد. جعبه را بزنید تا بنویسید؛ تا تمام کنید منتظر می‌ماند"
+  },
+  {
+    "k": "d0tdkfi4yv",
+    "en": "Going with '{0}' in a moment · tap the card to stop",
+    "fa": "لحظه‌ای دیگر با «{0}» پیش می‌رود · کارت را بزنید تا متوقف شود"
+  },
+  {
+    "k": "11kik409whx",
+    "en": "<button class=\"ghost sm autoon\" id=\"autoOn\">Leave decisions to auto from now on</button>",
+    "fa": "<button class=\"ghost sm autoon\" id=\"autoOn\">از حالا تصمیم‌ها را خودکار کن</button>"
+  },
+  {
+    "k": "5h0tp30e8w",
+    "en": "<button class=\"ghost sm autoon\" id=\"refOff\">Don't show these pauses again</button>",
+    "fa": "<button class=\"ghost sm autoon\" id=\"refOff\">این مکث‌ها را دیگر نشان نده</button>"
+  },
+  {
+    "k": "21ph3hc95rm",
+    "en": "At 5, 15, 30, 50 and 70 the life will pause so you can write down a thought.",
+    "fa": "در ۵، ۱۵، ۳۰، ۵۰ و ۷۰ سالگی زندگی مکث می‌کند تا یک اندیشه بنویسید."
+  },
+  {
+    "k": "ckrrme1om2",
+    "en": "Pauses are off. What they would have shown goes into the life record as one line. Tap '✎ Pauses' to turn them back on.",
+    "fa": "مکث‌ها خاموش است. آنچه نشان می‌دادند در یک خط در پروندهٔ زندگی می‌آید. «✎ مکث‌ها» را بزنید تا دوباره روشن شوند."
+  },
+  {
+    "k": "1ow7112zhq",
+    "en": "Decisions are now on auto. Each decision will show for a moment, then move on.",
+    "fa": "تصمیم‌ها اکنون خودکار است. هر تصمیم لحظه‌ای دیده می‌شود، سپس ادامه می‌یابد."
+  },
+  {
+    "k": "1qx1db3ve0w",
+    "en": "The focus of each year and spending habits like dinners and gifts and money for your parents are on auto too.",
+    "fa": "تمرکز هر سال و عادت‌های خرج مانند شام و هدیه و پول برای والدین هم خودکار است."
+  },
+  {
+    "k": "26rywn7gyj3",
+    "en": "Its choices lean toward the grain you set.",
+    "fa": "انتخاب‌هایش به سمت رگه‌ای که تنظیم کردید متمایل است."
+  },
+  {
+    "k": "jqiv15qbvq",
+    "en": "You are making your own decisions again.",
+    "fa": "دوباره خودتان تصمیم می‌گیرید."
+  },
+  {
+    "k": "ijs2ecp4ze",
+    "en": "The spending habits Auto mode had switched on are off again too.",
+    "fa": "عادت‌های خرجی که حالت خودکار روشن کرده بود هم دوباره خاموش شد."
+  },
+  {
+    "k": "12gx2f9acxw",
+    "en": "Set the grain",
+    "fa": "تنظیم رگه"
+  },
+  {
+    "k": "8o6bb1afrl",
+    "en": "Choose which grain auto mode leans toward",
+    "fa": "انتخاب کنید خودکار به کدام رگه متمایل شود"
+  },
+  {
+    "k": "qvwiymg257",
+    "en": "Which grain would you like to live?",
+    "fa": "دوست دارید با کدام رگه زندگی کنید؟"
+  },
+  {
+    "k": "1jnczm3m1qu",
+    "en": "When auto mode chooses, it leans toward this grain. Where the life was born, into what circumstances, and the people around it decide too, so a life won't follow it all the way.",
+    "fa": "وقتی خودکار انتخاب می‌کند، به این رگه متمایل است. محل تولد، شرایط و مردم اطراف هم اثر می‌گذارند؛ زندگی تا آخر آن را دنبال نمی‌کند."
+  },
+  {
+    "k": "1frfnk2pwc9",
+    "en": "What you choose is a way of living. The grain of this life is measured again after it ends, from the time it actually spent.",
+    "fa": "آنچه انتخاب می‌کنید شیوهٔ زندگی است. رگهٔ این زندگی پس از پایان، از زمانی که واقعاً گذرانده، دوباره سنجیده می‌شود."
+  },
+  {
+    "k": "i3zrzqr293",
+    "en": "Set this grain",
+    "fa": "این رگه را تنظیم کن"
+  },
+  {
+    "k": "10giyge4muu",
+    "en": "Turn on auto mode with this grain",
+    "fa": "خودکار را با این رگه روشن کن"
+  },
+  {
+    "k": "1zu5x0trqdj",
+    "en": "Back to ordinary",
+    "fa": "بازگشت به عادی"
+  },
+  {
+    "k": "28h2z8b8cs4",
+    "en": "Ordinary for now: auto mode chooses as people in that country usually do.",
+    "fa": "فعلاً عادی: خودکار همان‌طور انتخاب می‌کند که مردم آن کشور معمولاً می‌کنند."
+  },
+  {
+    "k": "1jekf2zsddd",
+    "en": "Nearest grain",
+    "fa": "نزدیک‌ترین رگه"
+  },
+  {
+    "k": "1nbtwv0vcjp",
+    "en": "Half and half on more than one pair, so it isn't gathered into one name.",
+    "fa": "نیمه‌نیمه در بیش از یک جفت، پس در یک نام جمع نمی‌شود."
+  },
+  {
+    "k": "1zvwoikc7sm",
+    "en": "Auto mode is on with this grain. Its choices lean toward it.",
+    "fa": "خودکار با این رگه روشن است. انتخاب‌هایش به سمت آن متمایل است."
+  },
+  {
+    "k": "bel9m73xr2",
+    "en": "The grain is back to ordinary.",
+    "fa": "رگه به حالت عادی برگشت."
+  },
+  {
+    "k": "w82z91uh93",
+    "en": "It’s saved only on this device.",
+    "fa": "فقط روی این دستگاه ذخیره می‌شود."
+  },
+  {
+    "k": "1ef9ewb9ypt",
+    "en": "You can change it under “Where you were actually born” on the first screen, or turn it off with “I'd rather not say”.",
+    "fa": "در صفحهٔ اول زیر «جایی که واقعاً به دنیا آمدید» می‌توانید عوض کنید، یا با «ترجیح می‌دهم نگویم» خاموش کنید."
+  },
+  {
+    "k": "2b00wz5vkny",
+    "en": "This person was born in <b>{0}</b>, where we guessed you were born.",
+    "fa": "این شخص در <b>{0}</b> به دنیا آمد؛ همان‌جایی که حدس زدیم شما متولد شده‌اید."
+  },
+  {
+    "k": "1mbuvwkfdfm",
+    "en": "Even in the same country, lives can take very different paths.",
+    "fa": "حتی در یک کشور، زندگی‌ها می‌توانند مسیرهای بسیار متفاوت بگیرند."
+  },
+  {
+    "k": "1uxg1tfdidj",
+    "en": "In <b>{0}</b>, where we guessed you were born, {1} of the children born the same year live past {2}.",
+    "fa": "در <b>{0}</b>، جایی که حدس زدیم شما متولد شده‌اید، {1} از کودکان متولد همان سال از {2} سالگی عبور می‌کنند."
+  },
+  {
+    "k": "1fy09wxnezb",
+    "en": "Life expectancy in the two places is {0} and {1} years.",
+    "fa": "امید زندگی در دو جا {0} و {1} سال است."
+  },
+  {
+    "k": "226fp3gvgph",
+    "en": "<div class=\"homecmp\">This person was born in <b>{0}</b>, just like you. Even in the same country, lives can take very different paths.</div>",
+    "fa": "<div class=\"homecmp\">این شخص در <b>{0}</b> به دنیا آمد، درست مثل شما. حتی در یک کشور، زندگی‌ها می‌توانند مسیرهای بسیار متفاوت بگیرند.</div>"
+  },
+  {
+    "k": "bhr1wbqwp6",
+    "en": "<div class=\"homecmp\">In <b>{0}</b>, where you yourself were born, {1} of the children born the same year live past {2}. In {3}, it is {4}. Life expectancy in the two countries is {5} and {6} years.</div>",
+    "fa": "<div class=\"homecmp\">در <b>{0}</b>، جایی که خودتان به دنیا آمدید، {1} از کودکان متولد همان سال از {2} سالگی عبور می‌کنند. در {3}، {4} است. امید زندگی در دو کشور {5} و {6} سال است.</div>"
+  },
+  {
+    "k": "1ubp7a3nr5q",
+    "en": "<div class=\"panel\"><h3><span>Five people born in the same second</span><span class=\"lbl\">shortest life first</span></h3><ul class=\"lives5\">{0}</ul><p class=\"lives5note\">The five people born in the same second lived to {1}. None of them chose where they would be born.</p></div>",
+    "fa": "<div class=\"panel\"><h3><span>پنج نفر متولد در همان ثانیه</span><span class=\"lbl\">کوتاه‌ترین عمر اول</span></h3><ul class=\"lives5\">{0}</ul><p class=\"lives5note\">پنج نفر متولد در همان ثانیه تا {1} زندگی کردند. هیچ‌کس محل تولدش را انتخاب نکرد.</p></div>"
+  },
+  {
+    "k": "zt7vpm2boc",
+    "en": " · this was you",
+    "fa": " · این شما بودید"
+  },
+  {
+    "k": "2ask0dlgdlv",
+    "en": "Where this work goes on",
+    "fa": "جایی که این کار ادامه می‌یابد"
+  },
+  {
+    "k": "1oq7zkil55y",
+    "en": "What this life went through, and the people working on it today",
+    "fa": "آنچه این زندگی پشت سر گذاشت، و کسانی که امروز روی آن کار می‌کنند"
+  },
+  {
+    "k": "23c530o3zje",
+    "en": "Each link opens the organisation's own page about its work. They have no connection with 1 in 8 Billion.",
+    "fa": "هر پیوند صفحهٔ خود سازمان دربارهٔ کارش را باز می‌کند. ارتباطی با «۱ در ۸ میلیارد» ندارند."
+  },
+  {
+    "k": "7uwrndllmf",
+    "en": "<div class=\"panel\"><h3><span>Thoughts you left in this life</span><span class=\"lbl\">{0}</span></h3><ul class=\"journal\">{1}</ul></div>",
+    "fa": "<div class=\"panel\"><h3><span>اندیشه‌هایی که در این زندگی گذاشتید</span><span class=\"lbl\">{0}</span></h3><ul class=\"journal\">{1}</ul></div>"
+  },
+  {
+    "k": "22m9z95ugsh",
+    "en": "<li><small>Age {0} · {1}</small><q>{2}</q></li>",
+    "fa": "<li><small>سن {0} · {1}</small><q>{2}</q></li>"
+  },
+  {
+    "k": "d5qr4exegr",
+    "en": "If things feel very hard right now, you don't have to carry it alone: {@y}. Someone will listen.",
+    "fa": "اگر الان خیلی سخت است، لازم نیست تنها تحمل کنید: {@y}. کسی گوش می‌دهد."
+  },
+  {
+    "k": "20f2nqdzud1",
+    "en": "If things feel very hard right now, please reach out to a crisis line: {@c}. Someone will listen, any time of day.",
+    "fa": "اگر الان خیلی سخت است، لطفاً با خط بحران تماس بگیرید: {@c}. هر ساعت از شبانه‌روز کسی گوش می‌دهد."
+  },
+  {
+    "k": "1a09utfe0z4",
+    "en": "Saved. It is on the card too.",
+    "fa": "ذخیره شد. روی کارت هم هست."
+  },
+  {
+    "k": "rn67kucgfs",
+    "en": "Your words were removed.",
+    "fa": "نوشتهٔ شما حذف شد."
+  },
+  {
+    "k": "1xvz5qnmxof",
+    "en": "In Classroom, a life once born is lived to its end. When this life ends, you can be born again.",
+    "fa": "در کلاس، زندگی‌ای که یک‌بار آغاز شود تا پایان زندگی می‌شود. وقتی این زندگی تمام شد، می‌توانید دوباره متولد شوید."
+  },
+  {
+    "k": "1hw4rmqfo4e",
+    "en": "<p>The life of <b>{0}</b>, born in {1} and now {2} years old, is still going on. If you are born again, that life will disappear without a record. A real life can't be started over, but here you get to choose.</p><div class=\"ctarow\"><button class=\"cta\" id=\"guardBack\">Go back to that life</button><button class=\"ghost\" id=\"guardNew\">Be born again anyway</button></div>",
+    "fa": "<p>زندگی <b>{0}</b>، متولد {1} و اکنون {2} ساله، هنوز ادامه دارد. اگر دوباره متولد شوید، آن زندگی بدون پرونده ناپدید می‌شود. زندگی واقعی از نو شروع نمی‌شود، اما اینجا انتخاب با شماست.</p><div class=\"ctarow\"><button class=\"cta\" id=\"guardBack\">بازگشت به آن زندگی</button><button class=\"ghost\" id=\"guardNew\">باز هم متولد شو</button></div>"
+  },
+  {
+    "k": "wqsj1hpwhx",
+    "en": "Any year ({0}–{1})",
+    "fa": "هر سال ({0}–{1})"
+  },
+  {
+    "k": "9ummvdf42r",
+    "en": "<option value=\"\">I'd rather not say</option>",
+    "fa": "<option value=\"\">ترجیح می‌دهم نگویم</option>"
+  },
+  {
+    "k": "1m04fxlg8lz",
+    "en": "under age 1",
+    "fa": "زیر یک سال"
+  },
+  {
+    "k": "22w6tkus28s",
+    "en": "at ages 1–4",
+    "fa": "در سن ۱–۴"
+  },
+  {
+    "k": "5kfx6s97qs",
+    "en": "at ages 5–14",
+    "fa": "در سن ۵–۱۴"
+  }
 ]
